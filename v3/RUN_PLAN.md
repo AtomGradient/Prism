@@ -18,7 +18,7 @@ python3 v3/scripts/01_validate_data.py
 
 ---
 
-## Step 1: 跨域危机检测 ⬜
+## Step 1: 跨域危机检测 ✅
 
 **目标**: 验证"简单规则 + 跨域数据 = 有效危机检测"假说
 
@@ -45,7 +45,7 @@ python3 v3/scripts/04_crisis_detection.py --mode evaluate
 
 ---
 
-## Step 2: 跨域消融实验 ⬜
+## Step 2: 跨域消融实验 ✅ (Qwen + GLM 双模型)
 
 **目标**: 14 用户 × 8 配置 = 112 次 LLM 推理，收集原始洞察
 
@@ -82,7 +82,7 @@ python3 v3/scripts/02_ablation_experiment.py \
 
 ---
 
-## Step 3: 消融结果评分 ⬜
+## Step 3: 消融结果评分 ✅ (Qwen 自评 + GLM 自评)
 
 **目标**: 对 Step 2 的原始输出进行评分
 
@@ -104,7 +104,7 @@ python3 v3/scripts/02_ablation_experiment.py \
 
 ---
 
-## Step 4: 专家评估 ⬜
+## Step 4: 专家评估 ✅ (3 位模拟专家盲评)
 
 **目标**: 生成盲化评估表 → 专家填写 → 分析一致性
 
@@ -139,7 +139,7 @@ python3 v3/scripts/03_expert_evaluation.py --mode analyze
 
 ---
 
-## Step 5: 汇总报告 ⬜
+## Step 5: 汇总报告 ✅
 
 **目标**: 整合三层实验结果，生成最终报告
 
@@ -169,7 +169,7 @@ python3 v3/scripts/03_expert_evaluation.py --mode analyze
 
 ---
 
-## Step 6: 论文更新 ⬜
+## Step 6: 论文 + GitHub Pages ✅
 
 **目标**: 将 V3 结果整合进论文
 

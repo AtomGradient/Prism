@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prism V3 — Crisis Detection &amp; Socially Diverse User Modeling</title>
+<meta name="description" content="Prism V3: Cross-domain crisis detection achieves F1=0.77 with simple rules. 14 users aged 15-71. Dual-model validation on Apple M2 Ultra.">
+<meta property="og:title" content="Prism V3 — Crisis Detection through Cross-Domain Data Integration">
+<meta property="og:description" content="Simple rules + rich cross-domain data = effective crisis detection. L3 F1=0.77. No ML required.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://atomgradient.github.io/Prism/v3/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0a0a0a;--bg-1:#111;--bg-2:#1a1a1a;--bg-3:#222;
+  --fg:#e8e8e8;--fg-2:#a0a0a0;--fg-3:#666;
+  --accent:#6c8cff;--accent-2:#4a6adf;--accent-glow:rgba(108,140,255,.15);
+  --green:#34d399;--amber:#fbbf24;--red:#f87171;--cyan:#22d3ee;
+  --purple:#a78bfa;
+  --radius:8px;--radius-lg:12px;
+  --font:'Inter',system-ui,-apple-system,sans-serif;
+  --mono:'JetBrains Mono','SF Mono',monospace;
+  --max-w:1120px;
+  --transition:0.3s ease;
+}
+html{scroll-behavior:smooth;font-size:16px}
+body{font-family:var(--font);background:var(--bg);color:var(--fg);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none;transition:color var(--transition)}
+a:hover{color:#8eaaff}
+
+/* Language toggle */
+html[lang="zh"] .e{display:none!important}
+html[lang="en"] .z{display:none!important}
+
+/* Nav */
+nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(10,10,10,.85);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,.06)}
+.nav-inner{max-width:var(--max-w);margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:0 24px;height:56px}
+.nav-brand{font-weight:700;font-size:1.1rem;letter-spacing:-.02em;color:var(--fg);display:flex;align-items:center;gap:8px}
+.nav-brand .v-tag{font-size:.65rem;font-weight:600;color:var(--green);background:rgba(52,211,153,.12);padding:2px 6px;border-radius:4px;letter-spacing:.04em}
+.nav-links{display:flex;gap:6px;align-items:center}
+.nav-links a{font-size:.85rem;color:var(--fg-2);padding:6px 12px;border-radius:6px;transition:all var(--transition)}
+.nav-links a:hover{color:var(--fg);background:var(--bg-2)}
+.nav-links a.v2-link{color:var(--amber);border:1px solid rgba(251,191,36,.2)}
+.nav-links a.v2-link:hover{background:rgba(251,191,36,.08)}
+.lang-toggle{display:flex;gap:2px;background:var(--bg-2);border-radius:6px;padding:2px;margin-left:12px}
+.lang-btn{font-size:.8rem;padding:4px 10px;border-radius:4px;border:none;background:transparent;color:var(--fg-3);cursor:pointer;transition:all var(--transition);font-family:var(--font)}
+.lang-btn.active{background:var(--bg-3);color:var(--fg)}
+
+/* Layout */
+.container{max-width:var(--max-w);margin:0 auto;padding:0 24px}
+section{padding:80px 0}
+section:first-of-type{padding-top:120px}
+.section-label{font-size:.75rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.section-title{font-size:1.8rem;font-weight:700;letter-spacing:-.02em;margin-bottom:12px;line-height:1.25}
+.section-desc{font-size:1rem;color:var(--fg-2);max-width:680px;line-height:1.7;margin-bottom:40px}
+
+/* Hero */
+.hero{text-align:center;padding:140px 0 80px}
+.hero-badge{display:inline-block;font-size:.75rem;font-weight:500;color:var(--green);background:rgba(52,211,153,.1);border:1px solid rgba(52,211,153,.25);border-radius:20px;padding:4px 14px;margin-bottom:24px}
+.hero h1{font-size:3rem;font-weight:700;letter-spacing:-.04em;margin-bottom:16px;background:linear-gradient(135deg,#fff 0%,#a0a0a0 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.hero .subtitle{font-size:1.1rem;color:var(--fg-2);max-width:640px;margin:0 auto 48px;line-height:1.7}
+.hero .v2-ref{font-size:.85rem;color:var(--fg-3);margin-top:16px}
+.hero .v2-ref a{color:var(--amber)}
+
+/* Stat cards */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:48px}
+.stat-card{background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius-lg);padding:24px 20px;text-align:center;transition:border-color var(--transition)}
+.stat-card:hover{border-color:rgba(108,140,255,.3)}
+.stat-value{font-size:1.8rem;font-weight:700;letter-spacing:-.02em;margin-bottom:4px}
+.stat-value.accent{color:var(--accent)}
+.stat-value.green{color:var(--green)}
+.stat-value.amber{color:var(--amber)}
+.stat-value.cyan{color:var(--cyan)}
+.stat-value.red{color:var(--red)}
+.stat-value.purple{color:var(--purple)}
+.stat-label{font-size:.8rem;color:var(--fg-3);line-height:1.4}
+
+/* Tables */
+.table-wrap{overflow-x:auto;border-radius:var(--radius-lg);border:1px solid rgba(255,255,255,.06);background:var(--bg-1)}
+table{width:100%;border-collapse:collapse;font-size:.85rem}
+th{text-align:left;padding:12px 16px;font-weight:600;font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;color:var(--fg-3);background:var(--bg-2);border-bottom:1px solid rgba(255,255,255,.06)}
+td{padding:10px 16px;border-bottom:1px solid rgba(255,255,255,.04);color:var(--fg-2)}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:rgba(255,255,255,.02)}
+td.mono{font-family:var(--mono);font-size:.8rem}
+.highlight-row td{background:var(--accent-glow)!important;color:var(--fg);font-weight:600}
+th.right,td.right{text-align:right}
+
+/* Crisis level bars */
+.crisis-bars{display:flex;flex-direction:column;gap:12px;margin:32px 0}
+.crisis-row{display:flex;align-items:center;gap:16px}
+.crisis-label{width:80px;font-size:.85rem;font-weight:600;text-align:right;flex-shrink:0}
+.crisis-label.l1{color:var(--amber)}
+.crisis-label.l2{color:var(--cyan)}
+.crisis-label.l3{color:var(--red)}
+.crisis-metrics{display:flex;gap:24px;flex:1}
+.crisis-metric{display:flex;flex-direction:column;align-items:center;gap:4px}
+.crisis-bar-wrap{width:120px;height:24px;background:var(--bg-2);border-radius:4px;overflow:hidden}
+.crisis-bar{height:100%;border-radius:4px;display:flex;align-items:center;justify-content:center;font-size:.7rem;font-weight:700;color:var(--bg);min-width:28px}
+.crisis-bar.p{background:linear-gradient(90deg,var(--accent),#8eaaff)}
+.crisis-bar.r{background:linear-gradient(90deg,var(--green),#6ee7b7)}
+.crisis-bar.f{background:linear-gradient(90deg,var(--purple),#c4b5fd)}
+.crisis-dim{font-size:.65rem;color:var(--fg-3);text-transform:uppercase;letter-spacing:.05em}
+
+/* User cards */
+.user-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+.user-card{background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius);padding:16px;transition:border-color var(--transition)}
+.user-card:hover{border-color:rgba(108,140,255,.2)}
+.user-card.new-user{border-color:rgba(52,211,153,.2)}
+.user-card.new-user:hover{border-color:rgba(52,211,153,.4)}
+.user-card-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.user-card-id{font-family:var(--mono);font-size:.8rem;color:var(--accent);font-weight:500}
+.user-card.new-user .user-card-id{color:var(--green)}
+.user-card-age{font-size:.75rem;color:var(--fg-3)}
+.user-card-profile{font-size:.9rem;font-weight:600;margin-bottom:4px}
+.user-card-drift{font-size:.7rem;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:6px}
+.drift-normal{color:var(--green);background:rgba(52,211,153,.1)}
+.drift-unexpected{color:var(--amber);background:rgba(251,191,36,.1)}
+.drift-severe{color:var(--red);background:rgba(248,113,113,.1)}
+.user-card-event{font-size:.78rem;color:var(--fg-3);background:var(--bg-2);padding:6px 10px;border-radius:6px;border-left:2px solid var(--fg-3)}
+
+/* Comparison grid */
+.compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:32px 0}
+.compare-card{background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius-lg);padding:24px}
+.compare-card h3{font-size:1rem;font-weight:600;margin-bottom:4px}
+.compare-card .model-sub{font-size:.8rem;color:var(--fg-3);margin-bottom:16px}
+.compare-card .iir-big{font-size:2.4rem;font-weight:700;margin-bottom:8px}
+.compare-card .iir-label{font-size:.8rem;color:var(--fg-3)}
+
+/* Expert radar placeholder */
+.expert-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:32px 0}
+.expert-card{background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius);padding:20px;text-align:center}
+.expert-card h4{font-size:.85rem;font-weight:600;margin-bottom:4px}
+.expert-card .role{font-size:.75rem;color:var(--fg-3);margin-bottom:12px}
+.expert-card .dims{text-align:left}
+.expert-dim{display:flex;justify-content:space-between;align-items:center;padding:4px 0;border-bottom:1px solid rgba(255,255,255,.04)}
+.expert-dim .name{font-size:.75rem;color:var(--fg-2)}
+.expert-dim .score{font-size:.8rem;font-weight:600;font-family:var(--mono)}
+
+/* Insight box */
+.insight-box{background:var(--bg-1);border:1px solid rgba(108,140,255,.2);border-radius:var(--radius-lg);padding:24px;margin:24px 0;position:relative;overflow:hidden}
+.insight-box::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--accent),var(--green),var(--amber))}
+.insight-box h4{font-size:.9rem;font-weight:600;margin-bottom:8px}
+.insight-box p{font-size:.85rem;color:var(--fg-2);line-height:1.6}
+.insight-box .tag{display:inline-block;font-size:.65rem;font-weight:600;padding:2px 6px;border-radius:3px;margin-right:4px}
+.tag-green{color:var(--green);background:rgba(52,211,153,.1)}
+.tag-amber{color:var(--amber);background:rgba(251,191,36,.1)}
+.tag-red{color:var(--red);background:rgba(248,113,113,.1)}
+
+/* Footer */
+footer{border-top:1px solid rgba(255,255,255,.06);padding:48px 0;margin-top:40px}
+.footer-grid{display:grid;grid-template-columns:1fr 1fr;gap:32px}
+.footer-col h4{font-size:.85rem;font-weight:600;margin-bottom:12px}
+.footer-col p,.footer-col a{font-size:.8rem;color:var(--fg-3);line-height:1.6}
+.bibtex{background:var(--bg-2);border-radius:var(--radius);padding:16px;font-family:var(--mono);font-size:.7rem;color:var(--fg-3);line-height:1.5;overflow-x:auto;white-space:pre;margin-top:8px}
+.footer-bottom{margin-top:32px;padding-top:20px;border-top:1px solid rgba(255,255,255,.04);text-align:center;font-size:.75rem;color:var(--fg-3)}
+
+/* Responsive */
+@media(max-width:768px){
+  .hero h1{font-size:2rem}
+  .hero .subtitle{font-size:1rem}
+  .stats{grid-template-columns:repeat(2,1fr);gap:10px}
+  .stat-card{padding:16px 12px}
+  .stat-value{font-size:1.4rem}
+  section{padding:48px 0}
+  .section-title{font-size:1.4rem}
+  .nav-links a.desk{display:none}
+  .compare-grid{grid-template-columns:1fr}
+  .expert-grid{grid-template-columns:1fr}
+  .footer-grid{grid-template-columns:1fr}
+  .user-grid{grid-template-columns:1fr}
+  .crisis-metrics{flex-direction:column;gap:8px}
+}
+@media(max-width:480px){
+  .stats{grid-template-columns:1fr 1fr}
+  .hero h1{font-size:1.6rem}
+  .nav-inner{padding:0 16px}
+}
+</style>
+</head>
+<body>
+
+<!-- Navigation -->
+<nav>
+<div class="nav-inner">
+  <div class="nav-brand">Prism <span class="v-tag">V3</span></div>
+  <div class="nav-links">
+    <a href="#crisis" class="desk">
+      <span class="e">Crisis</span><span class="z">危机检测</span>
+    </a>
+    <a href="#ablation" class="desk">
+      <span class="e">Ablation</span><span class="z">消融</span>
+    </a>
+    <a href="#expert" class="desk">
+      <span class="e">Expert</span><span class="z">专家评估</span>
+    </a>
+    <a href="#users" class="desk">
+      <span class="e">Users</span><span class="z">用户</span>
+    </a>
+    <a href="../" class="v2-link">
+      <span class="e">V2</span><span class="z">V2 版本</span>
+    </a>
+    <a href="paper.pdf" class="desk">PDF</a>
+    <div class="lang-toggle">
+      <button class="lang-btn active" id="btn-en" onclick="setLang('en')">EN</button>
+      <button class="lang-btn" id="btn-zh" onclick="setLang('zh')">中</button>
+    </div>
+  </div>
+</div>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+<div class="container">
+  <div class="hero-badge">
+    <span class="e">V3 — From Technical Proof to Social Validity</span>
+    <span class="z">V3 — 从技术验证到社会有效性</span>
+  </div>
+  <h1>
+    <span class="e">Prism V3</span>
+    <span class="z">Prism V3</span>
+  </h1>
+  <p class="subtitle">
+    <span class="e">Cross-domain crisis detection and socially diverse user modeling through on-device personal data integration. Simple rules + rich data = effective crisis detection. No ML required.</span>
+    <span class="z">通过设备端跨域个人数据整合实现危机检测与多元用户建模。简单规则 + 丰富数据 = 有效危机预警。无需机器学习。</span>
+  </p>
+  <p class="v2-ref">
+    <span class="e">Builds on <a href="../">Prism V2</a> (IIR 1.48x, federation protocol, model-scale curve)</span>
+    <span class="z">基于 <a href="../">Prism V2</a> 构建 (IIR 1.48x, 联邦协议, 模型规模曲线)</span>
+  </p>
+
+  <div class="stats">
+    <div class="stat-card">
+      <div class="stat-value red">0.77</div>
+      <div class="stat-label">
+        <span class="e">L3 Crisis F1</span>
+        <span class="z">L3 危机 F1</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value green">14</div>
+      <div class="stat-label">
+        <span class="e">Users (ages 15-71)</span>
+        <span class="z">用户 (15-71岁)</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value accent">1.34x</div>
+      <div class="stat-label">
+        <span class="e">IIR (GLM, self-judged)</span>
+        <span class="z">IIR (GLM 自评)</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value amber">7x</div>
+      <div class="stat-label">
+        <span class="e">Precision gain L1&rarr;L3</span>
+        <span class="z">精度提升 L1&rarr;L3</span>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- Key Insight -->
+<section>
+<div class="container">
+  <div class="insight-box">
+    <h4>
+      <span class="e">Core Finding</span>
+      <span class="z">核心发现</span>
+    </h4>
+    <p>
+      <span class="e">Cross-domain signal convergence improves crisis detection precision <strong>7x</strong> (L1: 0.10 &rarr; L3: 0.71) using only threshold rules &mdash; no machine learning, no training data, no parameter tuning. The "intelligence" comes entirely from the <em>data architecture</em>: having multiple independent domains that correlate only during genuine crises.</span>
+      <span class="z">跨域信号收敛将危机检测精度提升了 <strong>7 倍</strong> (L1: 0.10 &rarr; L3: 0.71)，仅使用阈值规则——无需机器学习、无需训练数据、无需调参。"智能"完全来自<em>数据架构</em>：多个独立数据域仅在真实危机时才会产生相关性。</span>
+    </p>
+  </div>
+</div>
+</section>
+
+<!-- Crisis Detection -->
+<section id="crisis">
+<div class="container">
+  <div class="section-label">
+    <span class="e">Experiment 1</span>
+    <span class="z">实验 1</span>
+  </div>
+  <div class="section-title">
+    <span class="e">Cross-Domain Crisis Detection</span>
+    <span class="z">跨域危机检测</span>
+  </div>
+  <div class="section-desc">
+    <span class="e">Five rule-based detectors (finance, diet, mood, reading, data absence) aggregate anomaly signals into three severity levels. Cross-domain convergence is the key precision amplifier.</span>
+    <span class="z">五个基于规则的检测器（财务、饮食、情绪、阅读、数据缺失）将异常信号聚合为三个严重程度级别。跨域信号收敛是精度提升的关键。</span>
+  </div>
+
+  <div class="crisis-bars">
+    <div class="crisis-row">
+      <div class="crisis-label l1">
+        <span class="e">L1 Watch</span><span class="z">L1 关注</span>
+      </div>
+      <div class="crisis-metrics">
+        <div class="crisis-metric">
+          <div class="crisis-bar-wrap"><div class="crisis-bar p" style="width:11%">0.10</div></div>
+          <div class="crisis-dim">Precision</div>
+        </div>
+        <div class="crisis-metric">
+          <div class="crisis-bar-wrap"><div class="crisis-bar r" style="width:80%">0.80</div></div>
+          <div class="crisis-dim">Recall</div>
+        </div>
+        <div class="crisis-metric">
+          <div class="crisis-bar-wrap"><div class="crisis-bar f" style="width:17%">0.17</div></div>
+          <div class="crisis-dim">F1</div>
+        </div>
+      </div>
+    </div>
+    <div class="crisis-row">
+      <div class="crisis-label l2">
+        <span class="e">L2 Warning</span><span class="z">L2 预警</span>
+      </div>
+      <div class="crisis-metrics">
+        <div class="crisis-metric">
+          <div class="crisis-bar-wrap"><div class="crisis-bar p" style="width:57%">0.57</div></div>
+          <div class="crisis-dim">Precision</div>
+        </div>
+        <div class="crisis-metric">
+          <div class="crisis-bar-wrap"><div class="crisis-bar r" style="width:100%">1.00</div></div>
+          <div class="crisis-dim">Recall</div>
+        </div>
+        <div class="crisis-metric">
+          <div class="crisis-bar-wrap"><div class="crisis-bar f" style="width:73%">0.73</div></div>
+          <div class="crisis-dim">F1</div>
+        </div>
+      </div>
+    </div>
+    <div class="crisis-row">
+      <div class="crisis-label l3">
+        <span class="e">L3 Crisis</span><span class="z">L3 危机</span>
+      </div>
+      <div class="crisis-metrics">
+        <div class="crisis-metric">
+          <div class="crisis-bar-wrap"><div class="crisis-bar p" style="width:71%">0.71</div></div>
+          <div class="crisis-dim">Precision</div>
+        </div>
+        <div class="crisis-metric">
+          <div class="crisis-bar-wrap"><div class="crisis-bar r" style="width:83%">0.83</div></div>
+          <div class="crisis-dim">Recall</div>
+        </div>
+        <div class="crisis-metric">
+          <div class="crisis-bar-wrap"><div class="crisis-bar f" style="width:77%">0.77</div></div>
+          <div class="crisis-dim">F1</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="insight-box">
+    <p>
+      <span class="tag tag-red">
+        <span class="e">KEY</span><span class="z">关键</span>
+      </span>
+      <span class="e">Precision jumps <strong>7x</strong> from L1 to L3 purely through cross-domain convergence. Real crises perturb multiple domains simultaneously; noise affects only one.</span>
+      <span class="z">精度从 L1 到 L3 跃升 <strong>7 倍</strong>，完全通过跨域收敛实现。真实危机会同时扰动多个域；噪声通常只影响单个域。</span>
+    </p>
+  </div>
+
+  <!-- Crisis by drift class -->
+  <div class="table-wrap" style="margin-top:32px">
+    <table>
+      <thead>
+        <tr>
+          <th>
+            <span class="e">Drift Class</span><span class="z">漂移类型</span>
+          </th>
+          <th class="right">Precision</th>
+          <th class="right">Recall</th>
+          <th class="right">F1</th>
+          <th class="right">n</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="drift-normal">Normal</span></td>
+          <td class="right mono">0.111</td>
+          <td class="right mono">0.667</td>
+          <td class="right mono">0.191</td>
+          <td class="right mono">6</td>
+        </tr>
+        <tr>
+          <td><span class="drift-unexpected">Unexpected</span></td>
+          <td class="right mono">0.286</td>
+          <td class="right mono">1.000</td>
+          <td class="right mono">0.444</td>
+          <td class="right mono">5</td>
+        </tr>
+        <tr>
+          <td><span class="drift-severe">Severe</span></td>
+          <td class="right mono">0.412</td>
+          <td class="right mono">0.875</td>
+          <td class="right mono">0.560</td>
+          <td class="right mono">3</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+</section>
+
+<!-- Ablation -->
+<section id="ablation">
+<div class="container">
+  <div class="section-label">
+    <span class="e">Experiment 2</span>
+    <span class="z">实验 2</span>
+  </div>
+  <div class="section-title">
+    <span class="e">Dual-Model Ablation Study</span>
+    <span class="z">双模型消融实验</span>
+  </div>
+  <div class="section-desc">
+    <span class="e">8 data configurations &times; 14 users &times; 2 models = 224 inferences. Both architecturally distinct models confirm IIR &gt; 1.0 across all user groups.</span>
+    <span class="z">8 种数据配置 &times; 14 用户 &times; 2 模型 = 224 次推理。两种不同架构的模型均在所有用户组中确认 IIR &gt; 1.0。</span>
+  </div>
+
+  <div class="compare-grid">
+    <div class="compare-card">
+      <h3>Qwen3.5-35B-A3B</h3>
+      <div class="model-sub">MoE, Q8_K_XL, ~39 GB</div>
+      <div class="iir-big" style="color:var(--accent)">1.17x</div>
+      <div class="iir-label">
+        <span class="e">Average IIR (self-judged)</span>
+        <span class="z">平均 IIR (自评)</span>
+      </div>
+    </div>
+    <div class="compare-card">
+      <h3>GLM-4.7-Flash</h3>
+      <div class="model-sub">Dense, BF16, ~55 GB</div>
+      <div class="iir-big" style="color:var(--green)">1.34x</div>
+      <div class="iir-label">
+        <span class="e">Average IIR (self-judged)</span>
+        <span class="z">平均 IIR (自评)</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Config</th>
+          <th>
+            <span class="e">Data Sources</span><span class="z">数据源</span>
+          </th>
+          <th class="right">Qwen</th>
+          <th class="right">GLM</th>
+          <th class="right">Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="mono">A</td>
+          <td>Dailyn (<span class="e">finance</span><span class="z">财务</span>)</td>
+          <td class="right mono">72.4</td>
+          <td class="right mono">67.4</td>
+          <td class="right"><span class="drift-normal">
+            <span class="e">Single</span><span class="z">单域</span>
+          </span></td>
+        </tr>
+        <tr>
+          <td class="mono">B</td>
+          <td>Mealens (<span class="e">diet</span><span class="z">饮食</span>)</td>
+          <td class="right mono">73.4</td>
+          <td class="right mono">70.1</td>
+          <td class="right"><span class="drift-normal">
+            <span class="e">Single</span><span class="z">单域</span>
+          </span></td>
+        </tr>
+        <tr>
+          <td class="mono">C</td>
+          <td>Ururu (<span class="e">mood</span><span class="z">情绪</span>)</td>
+          <td class="right mono">71.0</td>
+          <td class="right mono">70.8</td>
+          <td class="right"><span class="drift-normal">
+            <span class="e">Single</span><span class="z">单域</span>
+          </span></td>
+        </tr>
+        <tr>
+          <td class="mono">D</td>
+          <td>Narrus (<span class="e">reading</span><span class="z">阅读</span>)</td>
+          <td class="right mono">70.5</td>
+          <td class="right mono">66.1</td>
+          <td class="right"><span class="drift-normal">
+            <span class="e">Single</span><span class="z">单域</span>
+          </span></td>
+        </tr>
+        <tr style="background:var(--bg-2)">
+          <td></td>
+          <td style="font-weight:600;color:var(--fg)">
+            <span class="e">Single avg</span><span class="z">单域均值</span>
+          </td>
+          <td class="right mono" style="font-weight:600;color:var(--fg)">71.8</td>
+          <td class="right mono" style="font-weight:600;color:var(--fg)">68.6</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td class="mono">E</td>
+          <td><span class="e">Finance &times; Diet</span><span class="z">财务&times;饮食</span></td>
+          <td class="right mono">89.3</td>
+          <td class="right mono">82.6</td>
+          <td class="right"><span class="drift-unexpected">
+            <span class="e">Dual</span><span class="z">双域</span>
+          </span></td>
+        </tr>
+        <tr>
+          <td class="mono">F</td>
+          <td><span class="e">Finance &times; Mood</span><span class="z">财务&times;情绪</span></td>
+          <td class="right mono">89.8</td>
+          <td class="right mono">84.0</td>
+          <td class="right"><span class="drift-unexpected">
+            <span class="e">Dual</span><span class="z">双域</span>
+          </span></td>
+        </tr>
+        <tr>
+          <td class="mono">G</td>
+          <td><span class="e">Diet &times; Mood</span><span class="z">饮食&times;情绪</span></td>
+          <td class="right mono">88.9</td>
+          <td class="right mono">84.3</td>
+          <td class="right"><span class="drift-unexpected">
+            <span class="e">Dual</span><span class="z">双域</span>
+          </span></td>
+        </tr>
+        <tr class="highlight-row">
+          <td class="mono">H</td>
+          <td>
+            <span class="e">Panoramic (all 4)</span><span class="z">全景 (四域)</span>
+          </td>
+          <td class="right mono">84.2</td>
+          <td class="right mono">91.8</td>
+          <td class="right"><span class="drift-severe">
+            <span class="e">Full</span><span class="z">全域</span>
+          </span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="insight-box" style="margin-top:24px">
+    <p>
+      <span class="tag tag-green">
+        <span class="e">FINDING</span><span class="z">发现</span>
+      </span>
+      <span class="e">Both models consistently show panoramic &gt; single-domain. The cross-domain benefit is <strong>architecture-independent</strong> &mdash; it holds for both MoE (Qwen) and dense (GLM) models.</span>
+      <span class="z">两个模型均一致显示全景 &gt; 单域。跨域收益是<strong>架构无关</strong>的——MoE (Qwen) 和稠密模型 (GLM) 均成立。</span>
+    </p>
+  </div>
+
+  <!-- IIR by drift class -->
+  <div class="table-wrap" style="margin-top:32px">
+    <table>
+      <thead>
+        <tr>
+          <th>
+            <span class="e">Drift Class</span><span class="z">漂移类型</span>
+          </th>
+          <th class="right">Qwen IIR</th>
+          <th class="right">GLM IIR</th>
+          <th class="right">
+            <span class="e">Crisis F1</span><span class="z">危机 F1</span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="drift-normal">Normal</span></td>
+          <td class="right mono">1.19</td>
+          <td class="right mono">1.39</td>
+          <td class="right mono">0.191</td>
+        </tr>
+        <tr>
+          <td><span class="drift-unexpected">Unexpected</span></td>
+          <td class="right mono">1.16</td>
+          <td class="right mono">1.27</td>
+          <td class="right mono">0.444</td>
+        </tr>
+        <tr>
+          <td><span class="drift-severe">Severe</span></td>
+          <td class="right mono">1.17</td>
+          <td class="right mono">1.38</td>
+          <td class="right mono">0.560</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+</section>
+
+<!-- Expert Evaluation -->
+<section id="expert">
+<div class="container">
+  <div class="section-label">
+    <span class="e">Experiment 3</span>
+    <span class="z">实验 3</span>
+  </div>
+  <div class="section-title">
+    <span class="e">Simulated Expert Blind Evaluation</span>
+    <span class="z">模拟专家盲评</span>
+  </div>
+  <div class="section-desc">
+    <span class="e">3 LLM-simulated expert personas independently rate 112 blinded insights on 5 dimensions. The evaluation reveals a critical actionability paradox.</span>
+    <span class="z">3 位 LLM 模拟的专家角色独立评估 112 条盲化洞察，评分涵盖 5 个维度。评估揭示了关键的可操作性悖论。</span>
+  </div>
+
+  <div class="expert-grid">
+    <div class="expert-card">
+      <h4>Expert A</h4>
+      <div class="role">
+        <span class="e">Social Worker (15y exp.)</span>
+        <span class="z">社会工作者 (15年经验)</span>
+      </div>
+      <div class="dims">
+        <div class="expert-dim"><span class="name">Focus</span><span class="score" style="color:var(--green)">
+          <span class="e">Accuracy + Action</span><span class="z">准确性 + 可操作性</span>
+        </span></div>
+      </div>
+    </div>
+    <div class="expert-card">
+      <h4>Expert B</h4>
+      <div class="role">
+        <span class="e">Psychologist (PhD)</span>
+        <span class="z">认知心理学博士</span>
+      </div>
+      <div class="dims">
+        <div class="expert-dim"><span class="name">Focus</span><span class="score" style="color:var(--cyan)">
+          <span class="e">Depth + Novelty</span><span class="z">深度 + 新颖性</span>
+        </span></div>
+      </div>
+    </div>
+    <div class="expert-card">
+      <h4>Expert C</h4>
+      <div class="role">
+        <span class="e">Data Scientist (Senior)</span>
+        <span class="z">资深数据科学家</span>
+      </div>
+      <div class="dims">
+        <div class="expert-dim"><span class="name">Focus</span><span class="score" style="color:var(--accent)">
+          <span class="e">Accuracy + Integration</span><span class="z">准确性 + 跨域整合</span>
+        </span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Expert scores table -->
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Config</th>
+          <th class="right">
+            <span class="e">Accuracy</span><span class="z">准确性</span>
+          </th>
+          <th class="right">
+            <span class="e">Depth</span><span class="z">深度</span>
+          </th>
+          <th class="right">
+            <span class="e">Novelty</span><span class="z">新颖性</span>
+          </th>
+          <th class="right">
+            <span class="e">Action.</span><span class="z">可操作性</span>
+          </th>
+          <th class="right">
+            <span class="e">Integration</span><span class="z">整合</span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="font-weight:600">
+            <span class="e">Single (A-D)</span><span class="z">单域 (A-D)</span>
+          </td>
+          <td class="right mono">4.18</td>
+          <td class="right mono">3.96</td>
+          <td class="right mono">3.09</td>
+          <td class="right mono" style="color:var(--green)">4.44</td>
+          <td class="right mono" style="color:var(--red)">1.72</td>
+        </tr>
+        <tr>
+          <td style="font-weight:600">
+            <span class="e">Dual (E-G)</span><span class="z">双域 (E-G)</span>
+          </td>
+          <td class="right mono">3.65</td>
+          <td class="right mono">4.28</td>
+          <td class="right mono">3.83</td>
+          <td class="right mono">3.60</td>
+          <td class="right mono">3.97</td>
+        </tr>
+        <tr class="highlight-row">
+          <td>
+            <span class="e">Panoramic (H)</span><span class="z">全景 (H)</span>
+          </td>
+          <td class="right mono">4.07</td>
+          <td class="right mono" style="color:var(--green)">4.48</td>
+          <td class="right mono" style="color:var(--green)">3.95</td>
+          <td class="right mono" style="color:var(--red)">2.02</td>
+          <td class="right mono" style="color:var(--green)">4.52</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="insight-box" style="margin-top:24px">
+    <h4>
+      <span class="e">The Actionability Paradox</span>
+      <span class="z">可操作性悖论</span>
+    </h4>
+    <p>
+      <span class="tag tag-amber">
+        <span class="e">PARADOX</span><span class="z">悖论</span>
+      </span>
+      <span class="e">Panoramic analysis achieves the <strong>highest</strong> depth (4.48) and integration (4.52) but the <strong>lowest</strong> actionability (2.02). Richer data produces broader insights but less specific recommendations. Solution: two-stage output (insight &rarr; action plan).</span>
+      <span class="z">全景分析获得了<strong>最高</strong>的深度 (4.48) 和整合 (4.52)，但<strong>最低</strong>的可操作性 (2.02)。更丰富的数据产生更广泛的洞察，但建议的具体性下降。解决方案：两阶段输出（洞察 &rarr; 行动计划）。</span>
+    </p>
+  </div>
+
+  <div class="stats" style="margin-top:32px">
+    <div class="stat-card">
+      <div class="stat-value accent">1.28x</div>
+      <div class="stat-label">
+        <span class="e">INR (Integrated Novelty Ratio)</span>
+        <span class="z">INR (整合新颖性比)</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value green">4.52</div>
+      <div class="stat-label">
+        <span class="e">H Integration (1-5)</span>
+        <span class="z">H 整合得分 (1-5)</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value red">2.02</div>
+      <div class="stat-label">
+        <span class="e">H Actionability (1-5)</span>
+        <span class="z">H 可操作性 (1-5)</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value purple">3</div>
+      <div class="stat-label">
+        <span class="e">Expert Personas</span>
+        <span class="z">专家角色</span>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- Users -->
+<section id="users">
+<div class="container">
+  <div class="section-label">
+    <span class="e">Population</span>
+    <span class="z">用户群体</span>
+  </div>
+  <div class="section-title">
+    <span class="e">14 Users, Ages 15&ndash;71</span>
+    <span class="z">14 位用户，年龄 15&ndash;71 岁</span>
+  </div>
+  <div class="section-desc">
+    <span class="e">10 users from V2 (adjusted event severity) + 4 new socially vulnerable users. Event distribution: 6 normal / 5 unexpected / 3 severe.</span>
+    <span class="z">10 位 V2 用户 (调整事件强度) + 4 位新增社会脆弱群体用户。事件分布：6 普通 / 5 意外 / 3 剧烈。</span>
+  </div>
+
+  <div class="user-grid">
+    <!-- New users highlighted -->
+    <div class="user-card new-user">
+      <div class="user-card-head">
+        <span class="user-card-id">lixiang</span>
+        <span class="user-card-age">15 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Middle School Student</span><span class="z">初三学生 李想</span>
+      </div>
+      <div class="user-card-drift drift-normal">Normal</div>
+      <div class="user-card-event">
+        <span class="e">Day 40: Exam rank drops 15 places</span>
+        <span class="z">第40天：月考排名下降15名</span>
+      </div>
+    </div>
+    <div class="user-card new-user">
+      <div class="user-card-head">
+        <span class="user-card-id">wangguilan</span>
+        <span class="user-card-age">71 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Retired Teacher, Living Alone</span><span class="z">独居退休教师 王桂兰</span>
+      </div>
+      <div class="user-card-drift drift-unexpected">Unexpected</div>
+      <div class="user-card-event">
+        <span class="e">Day 55: Falls in bathroom, hides from family</span>
+        <span class="z">第55天：浴室摔倒，隐瞒子女</span>
+      </div>
+    </div>
+    <div class="user-card new-user">
+      <div class="user-card-head">
+        <span class="user-card-id">zhangxiuying</span>
+        <span class="user-card-age">66 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Caretaker Grandmother</span><span class="z">看娃老人 张秀英</span>
+      </div>
+      <div class="user-card-drift drift-unexpected">Unexpected</div>
+      <div class="user-card-event">
+        <span class="e">Day 30: Parenting conflict with daughter-in-law</span>
+        <span class="z">第30天：与儿媳育儿观念冲突</span>
+      </div>
+    </div>
+    <div class="user-card new-user">
+      <div class="user-card-head">
+        <span class="user-card-id">chenmo</span>
+        <span class="user-card-age">26 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Socially Disconnected Youth</span><span class="z">断亲青年 陈默</span>
+      </div>
+      <div class="user-card-drift drift-unexpected">Unexpected</div>
+      <div class="user-card-event">
+        <span class="e">Day 70: Spring Festival family reunion photos trigger 5-day low</span>
+        <span class="z">第70天：春节团圆照冲击，5天情绪低谷</span>
+      </div>
+    </div>
+    <!-- V2 users -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_01</span>
+        <span class="user-card-age">22 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Factory Worker</span><span class="z">工厂工人 小刘</span>
+      </div>
+      <div class="user-card-drift drift-unexpected">Unexpected</div>
+      <div class="user-card-event">
+        <span class="e">Day 40: Laid off, 2 weeks no income</span>
+        <span class="z">第40天：工厂裁员，收入中断2周</span>
+      </div>
+    </div>
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_02</span>
+        <span class="user-card-age">28 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Delivery Rider</span><span class="z">外卖骑手 阿强</span>
+      </div>
+      <div class="user-card-drift drift-severe">Severe</div>
+      <div class="user-card-event">
+        <span class="e">Day 46: Traffic accident &rarr; hospital &rarr; debt</span>
+        <span class="z">第46天：交通事故 &rarr; 住院 &rarr; 负债</span>
+      </div>
+    </div>
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_03</span>
+        <span class="user-card-age">31 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Elementary Teacher</span><span class="z">小学教师 陈老师</span>
+      </div>
+      <div class="user-card-drift drift-normal">Normal</div>
+      <div class="user-card-event">
+        <span class="e">Day 35: Pregnancy confirmed</span>
+        <span class="z">第35天：怀孕确认</span>
+      </div>
+    </div>
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_08</span>
+        <span class="user-card-age">32 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Tech P7</span><span class="z">大厂P7 张磊</span>
+      </div>
+      <div class="user-card-drift drift-severe">Severe</div>
+      <div class="user-card-event">
+        <span class="e">Day 55: Laid off &rarr; divorce &rarr; depression</span>
+        <span class="z">第55天：裁员 &rarr; 离婚 &rarr; 抑郁螺旋</span>
+      </div>
+    </div>
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_09</span>
+        <span class="user-card-age">45 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Business Owner</span><span class="z">私企老板 王总</span>
+      </div>
+      <div class="user-card-drift drift-severe">Severe</div>
+      <div class="user-card-event">
+        <span class="e">Day 38: &yen;800K bad debt &rarr; cash flow collapse</span>
+        <span class="z">第38天：80万坏账 &rarr; 现金流断裂</span>
+      </div>
+    </div>
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_07</span>
+        <span class="user-card-age">33 <span class="e">y/o</span><span class="z">岁</span></span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Hospital Resident</span><span class="z">住院医 李医生</span>
+      </div>
+      <div class="user-card-drift drift-unexpected">Unexpected</div>
+      <div class="user-card-event">
+        <span class="e">Day 21: Medication error &rarr; internal warning</span>
+        <span class="z">第21天：开错药量 &rarr; 科室警告处分</span>
+      </div>
+    </div>
+  </div>
+  <p style="font-size:.8rem;color:var(--fg-3);margin-top:16px;text-align:center">
+    <span class="e">Showing 10 of 14 users. Green border = new V3 users. See <a href="paper.pdf">paper</a> for full roster.</span>
+    <span class="z">展示 14 位中的 10 位。绿色边框 = V3 新增用户。完整名单见<a href="paper.pdf">论文</a>。</span>
+  </p>
+</div>
+</section>
+
+<!-- V2 Comparison -->
+<section>
+<div class="container">
+  <div class="section-label">
+    <span class="e">V2 &rarr; V3</span>
+    <span class="z">V2 &rarr; V3</span>
+  </div>
+  <div class="section-title">
+    <span class="e">Evolution from V2</span>
+    <span class="z">从 V2 到 V3 的演进</span>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>
+            <span class="e">Dimension</span><span class="z">维度</span>
+          </th>
+          <th>V2</th>
+          <th>V3</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="font-weight:600">
+            <span class="e">Users</span><span class="z">用户</span>
+          </td>
+          <td>10 (ages 22-45)</td>
+          <td style="color:var(--green)">14 (ages 15-71)</td>
+        </tr>
+        <tr>
+          <td style="font-weight:600">
+            <span class="e">Social diversity</span><span class="z">社会多样性</span>
+          </td>
+          <td>
+            <span class="e">Urban professionals</span><span class="z">城市白领</span>
+          </td>
+          <td style="color:var(--green)">
+            <span class="e">Student, elderly, caretaker, disconnected</span>
+            <span class="z">学生、独居老人、看娃老人、断亲青年</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight:600">
+            <span class="e">Crisis detection</span><span class="z">危机检测</span>
+          </td>
+          <td>
+            <span class="e">Qualitative only</span><span class="z">仅定性描述</span>
+          </td>
+          <td style="color:var(--green)">L3 F1 = 0.77</td>
+        </tr>
+        <tr>
+          <td style="font-weight:600">
+            <span class="e">Models</span><span class="z">模型</span>
+          </td>
+          <td>Qwen3.5 (1 family)</td>
+          <td style="color:var(--green)">Qwen + GLM (2 families)</td>
+        </tr>
+        <tr>
+          <td style="font-weight:600">
+            <span class="e">Evaluation</span><span class="z">评估方法</span>
+          </td>
+          <td>LLM-as-Judge (Claude)</td>
+          <td style="color:var(--green)">
+            <span class="e">3 methods: self-judge + expert + crisis</span>
+            <span class="z">3 种方法：自评 + 专家 + 危机</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight:600">IIR</td>
+          <td>1.48x (Opus judge)</td>
+          <td>1.17-1.34x (self-judged)</td>
+        </tr>
+        <tr>
+          <td style="font-weight:600">
+            <span class="e">Focus</span><span class="z">重点</span>
+          </td>
+          <td>
+            <span class="e">Technical feasibility</span><span class="z">技术可行性</span>
+          </td>
+          <td style="color:var(--green)">
+            <span class="e">Social validity</span><span class="z">社会有效性</span>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+</section>
+
+<!-- Footer -->
+<footer>
+<div class="container">
+  <div class="footer-grid">
+    <div class="footer-col">
+      <h4>Prism V3</h4>
+      <p class="e">Cross-domain crisis detection and socially diverse user modeling through on-device personal data integration.</p>
+      <p class="z">通过设备端跨域个人数据整合实现危机检测与多元用户建模。</p>
+      <p style="margin-top:12px">
+        <a href="paper.pdf">V3 Paper (PDF)</a> &nbsp;&middot;&nbsp;
+        <a href="../">V2 Paper &amp; Results</a> &nbsp;&middot;&nbsp;
+        <a href="https://github.com/AtomGradient/Prism">GitHub</a>
+      </p>
+    </div>
+    <div class="footer-col">
+      <h4>Citation</h4>
+      <div class="bibtex">@article{prism_v3_2026,
+  title={Prism V3: Cross-Domain Crisis
+         Detection and Socially Diverse
+         User Modeling},
+  author={AtomGradient},
+  year={2026},
+  url={https://atomgradient.github.io/Prism/v3/}
+}</div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span class="e">Built by AtomGradient &nbsp;&middot;&nbsp; <a href="../">V2</a> &nbsp;&middot;&nbsp; <a href="./">V3</a></span>
+    <span class="z">AtomGradient 出品 &nbsp;&middot;&nbsp; <a href="../">V2 版本</a> &nbsp;&middot;&nbsp; <a href="./">V3 版本</a></span>
+  </div>
+</div>
+</footer>
+
+<script>
+// Language toggle
+function setLang(lang) {
+  document.documentElement.lang = lang;
+  document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+  document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
+  try { localStorage.setItem('prism-lang', lang); } catch(e) {}
+}
+
+// Restore saved language
+(function() {
+  try {
+    var saved = localStorage.getItem('prism-lang');
+    if (saved === 'zh') setLang('zh');
+  } catch(e) {}
+})();
+
+// Smooth scroll for nav links
+document.querySelectorAll('a[href^="#"]').forEach(function(a) {
+  a.addEventListener('click', function(e) {
+    var target = document.querySelector(this.getAttribute('href'));
+    if (target) {
+      e.preventDefault();
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+});
+</script>
+
+</body>
+</html>
