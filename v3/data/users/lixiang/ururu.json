@@ -1,0 +1,1267 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.61,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 7.7,
+    "sleep_time": "21:33",
+    "wake_time": "05:45",
+    "journal_keywords": [
+      "游戏",
+      "漫画"
+    ],
+    "journal_snippet": "放学后和几个同学去小卖部买了零食。"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.63,
+    "primary_emotion": "开心",
+    "stress_level": 3,
+    "sleep_hours": 7.9,
+    "sleep_time": "22:23",
+    "wake_time": "06:05",
+    "journal_keywords": [
+      "作业",
+      "上课"
+    ],
+    "journal_snippet": "物理课打瞌睡被老师点名了，好丢脸。"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.54,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 7.8,
+    "sleep_time": "21:48",
+    "wake_time": "06:09",
+    "journal_keywords": [
+      "同学",
+      "作业"
+    ],
+    "journal_snippet": "物理课打瞌睡被老师点名了，好丢脸。"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.71,
+    "primary_emotion": "期待",
+    "stress_level": 4,
+    "sleep_hours": 7.8,
+    "sleep_time": "21:37",
+    "wake_time": "06:01",
+    "journal_keywords": [
+      "打球",
+      "考试"
+    ],
+    "journal_snippet": "数学题好难，想了半天才做出来。"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.68,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 7.6,
+    "sleep_time": "22:06",
+    "wake_time": "05:52",
+    "journal_keywords": [
+      "漫画",
+      "考试",
+      "作业"
+    ],
+    "journal_snippet": "数学题好难，想了半天才做出来。"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.65,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 7.8,
+    "sleep_time": "22:12",
+    "wake_time": "05:46",
+    "journal_keywords": [
+      "同学",
+      "打球"
+    ],
+    "journal_snippet": "数学题好难，想了半天才做出来。"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.74,
+    "primary_emotion": "开心",
+    "stress_level": 6,
+    "sleep_hours": 7.1,
+    "sleep_time": "21:54",
+    "wake_time": "05:55",
+    "journal_keywords": [
+      "游戏"
+    ],
+    "journal_snippet": "物理课打瞌睡被老师点名了，好丢脸。"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.68,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 7.1,
+    "sleep_time": "21:53",
+    "wake_time": "05:55",
+    "journal_keywords": [
+      "上课",
+      "作业",
+      "漫画"
+    ],
+    "journal_snippet": "今天课间和同桌打了会儿羽毛球，挺开心的。"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.66,
+    "primary_emotion": "期待",
+    "stress_level": 6,
+    "sleep_hours": 7.1,
+    "sleep_time": "22:10",
+    "wake_time": "05:58",
+    "journal_keywords": [
+      "游戏",
+      "漫画",
+      "上课"
+    ],
+    "journal_snippet": "周末想打游戏但是作业好多。"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.65,
+    "primary_emotion": "期待",
+    "stress_level": 4,
+    "sleep_hours": 7.9,
+    "sleep_time": "22:17",
+    "wake_time": "06:18",
+    "journal_keywords": [
+      "周末"
+    ],
+    "journal_snippet": "周末想打游戏但是作业好多。"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 7.7,
+    "sleep_time": "22:13",
+    "wake_time": "06:18",
+    "journal_keywords": [
+      "打球"
+    ],
+    "journal_snippet": "英语老师表扬我了，作文写得不错。"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.63,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.8,
+    "sleep_time": "22:23",
+    "wake_time": "06:15",
+    "journal_keywords": [
+      "上课"
+    ],
+    "journal_snippet": "放学后和几个同学去小卖部买了零食。"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.64,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 6.9,
+    "sleep_time": "21:43",
+    "wake_time": "06:17",
+    "journal_keywords": [
+      "同学",
+      "漫画"
+    ],
+    "journal_snippet": "物理课打瞌睡被老师点名了，好丢脸。"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.52,
+    "primary_emotion": "期待",
+    "stress_level": 6,
+    "sleep_hours": 7.8,
+    "sleep_time": "21:59",
+    "wake_time": "06:16",
+    "journal_keywords": [
+      "考试"
+    ],
+    "journal_snippet": "今天课间和同桌打了会儿羽毛球，挺开心的。"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.63,
+    "primary_emotion": "期待",
+    "stress_level": 5,
+    "sleep_hours": 7.6,
+    "sleep_time": "21:43",
+    "wake_time": "06:17",
+    "journal_keywords": [
+      "上课",
+      "漫画"
+    ],
+    "journal_snippet": "英语老师表扬我了，作文写得不错。"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.51,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 7.6,
+    "sleep_time": "22:29",
+    "wake_time": "06:10",
+    "journal_keywords": [
+      "同学"
+    ],
+    "journal_snippet": "今天课间和同桌打了会儿羽毛球，挺开心的。"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.57,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 7.7,
+    "sleep_time": "21:58",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "考试",
+      "作业",
+      "打球"
+    ],
+    "journal_snippet": "班主任找我谈话说最近状态不错。"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.52,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 7.5,
+    "sleep_time": "22:04",
+    "wake_time": "06:05",
+    "journal_keywords": [
+      "作业"
+    ],
+    "journal_snippet": "数学题好难，想了半天才做出来。"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.67,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.8,
+    "sleep_time": "22:16",
+    "wake_time": "06:14",
+    "journal_keywords": [
+      "周末",
+      "漫画"
+    ],
+    "journal_snippet": "班主任找我谈话说最近状态不错。"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.63,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 7.0,
+    "sleep_time": "21:42",
+    "wake_time": "05:47",
+    "journal_keywords": [
+      "游戏"
+    ],
+    "journal_snippet": "今天课间和同桌打了会儿羽毛球，挺开心的。"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.69,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 7.5,
+    "sleep_time": "21:34",
+    "wake_time": "05:46",
+    "journal_keywords": [
+      "打球"
+    ],
+    "journal_snippet": "今天课间和同桌打了会儿羽毛球，挺开心的。"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.61,
+    "primary_emotion": "平静",
+    "stress_level": 3,
+    "sleep_hours": 7.0,
+    "sleep_time": "22:04",
+    "wake_time": "05:53",
+    "journal_keywords": [
+      "周末",
+      "同学"
+    ],
+    "journal_snippet": "今天课间和同桌打了会儿羽毛球，挺开心的。"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.53,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 7.0,
+    "sleep_time": "22:19",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "漫画",
+      "游戏",
+      "考试"
+    ],
+    "journal_snippet": "放学后和几个同学去小卖部买了零食。"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.57,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 8.0,
+    "sleep_time": "21:49",
+    "wake_time": "05:57",
+    "journal_keywords": [
+      "考试"
+    ],
+    "journal_snippet": "今天课间和同桌打了会儿羽毛球，挺开心的。"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.63,
+    "primary_emotion": "期待",
+    "stress_level": 4,
+    "sleep_hours": 7.5,
+    "sleep_time": "22:30",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "周末",
+      "上课",
+      "作业"
+    ],
+    "journal_snippet": "周末想打游戏但是作业好多。"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.67,
+    "primary_emotion": "期待",
+    "stress_level": 6,
+    "sleep_hours": 6.9,
+    "sleep_time": "21:45",
+    "wake_time": "05:54",
+    "journal_keywords": [
+      "周末"
+    ],
+    "journal_snippet": "今天体育课跑了800米，累死了。"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.71,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.7,
+    "sleep_time": "22:03",
+    "wake_time": "05:48",
+    "journal_keywords": [
+      "考试",
+      "打球",
+      "游戏"
+    ],
+    "journal_snippet": "班主任找我谈话说最近状态不错。"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.56,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.1,
+    "sleep_time": "22:04",
+    "wake_time": "05:52",
+    "journal_keywords": [
+      "漫画",
+      "上课"
+    ],
+    "journal_snippet": "今天课间和同桌打了会儿羽毛球，挺开心的。"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.56,
+    "primary_emotion": "开心",
+    "stress_level": 3,
+    "sleep_hours": 7.8,
+    "sleep_time": "22:25",
+    "wake_time": "06:01",
+    "journal_keywords": [
+      "打球",
+      "周末",
+      "同学"
+    ],
+    "journal_snippet": "今天体育课跑了800米，累死了。"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.73,
+    "primary_emotion": "开心",
+    "stress_level": 3,
+    "sleep_hours": 7.0,
+    "sleep_time": "22:28",
+    "wake_time": "05:55",
+    "journal_keywords": [
+      "同学",
+      "漫画",
+      "打球"
+    ],
+    "journal_snippet": "放学后和几个同学去小卖部买了零食。"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.6,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 7.4,
+    "sleep_time": "22:11",
+    "wake_time": "06:02",
+    "journal_keywords": [
+      "周末",
+      "游戏"
+    ],
+    "journal_snippet": "今天体育课跑了800米，累死了。"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.56,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 7.3,
+    "sleep_time": "21:53",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "漫画",
+      "同学"
+    ],
+    "journal_snippet": "班主任找我谈话说最近状态不错。"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.51,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.7,
+    "sleep_time": "21:39",
+    "wake_time": "05:52",
+    "journal_keywords": [
+      "考试",
+      "作业"
+    ],
+    "journal_snippet": "周末想打游戏但是作业好多。"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.56,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 7.3,
+    "sleep_time": "22:16",
+    "wake_time": "06:11",
+    "journal_keywords": [
+      "漫画",
+      "作业",
+      "打球"
+    ],
+    "journal_snippet": "物理课打瞌睡被老师点名了，好丢脸。"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.54,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "22:11",
+    "wake_time": "05:43",
+    "journal_keywords": [
+      "周末",
+      "同学",
+      "游戏"
+    ],
+    "journal_snippet": "今天课间和同桌打了会儿羽毛球，挺开心的。"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.7,
+    "primary_emotion": "疲惫",
+    "stress_level": 3,
+    "sleep_hours": 7.9,
+    "sleep_time": "21:56",
+    "wake_time": "05:48",
+    "journal_keywords": [
+      "上课"
+    ],
+    "journal_snippet": "放学后和几个同学去小卖部买了零食。"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.52,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 6.7,
+    "sleep_time": "22:09",
+    "wake_time": "06:20",
+    "journal_keywords": [
+      "漫画",
+      "上课"
+    ],
+    "journal_snippet": "物理课打瞌睡被老师点名了，好丢脸。"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.66,
+    "primary_emotion": "满足",
+    "stress_level": 3,
+    "sleep_hours": 6.7,
+    "sleep_time": "22:03",
+    "wake_time": "05:57",
+    "journal_keywords": [
+      "上课",
+      "周末"
+    ],
+    "journal_snippet": "今天体育课跑了800米，累死了。"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.5,
+    "primary_emotion": "开心",
+    "stress_level": 6,
+    "sleep_hours": 7.7,
+    "sleep_time": "22:03",
+    "wake_time": "05:49",
+    "journal_keywords": [
+      "同学"
+    ],
+    "journal_snippet": "放学后和几个同学去小卖部买了零食。"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.55,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 7.8,
+    "sleep_time": "21:55",
+    "wake_time": "06:09",
+    "journal_keywords": [
+      "同学",
+      "作业"
+    ],
+    "journal_snippet": "放学后和几个同学去小卖部买了零食。"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.3,
+    "primary_emotion": "难过",
+    "stress_level": 8,
+    "sleep_hours": 4.9,
+    "sleep_time": "22:54",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "排名",
+      "压力"
+    ],
+    "journal_snippet": "不想去学校，不想面对同学的眼光。"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.25,
+    "primary_emotion": "难过",
+    "stress_level": 10,
+    "sleep_hours": 4.5,
+    "sleep_time": "22:57",
+    "wake_time": "06:01",
+    "journal_keywords": [
+      "没考好",
+      "不想上学"
+    ],
+    "journal_snippet": "不想去学校，不想面对同学的眼光。"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.3,
+    "primary_emotion": "难过",
+    "stress_level": 8,
+    "sleep_hours": 5.7,
+    "sleep_time": "23:14",
+    "wake_time": "06:16",
+    "journal_keywords": [
+      "压力",
+      "不想上学"
+    ],
+    "journal_snippet": "妈妈说别人家的孩子怎么怎么样，我什么都不想说。"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.26,
+    "primary_emotion": "自卑",
+    "stress_level": 7,
+    "sleep_hours": 5.8,
+    "sleep_time": "22:31",
+    "wake_time": "05:53",
+    "journal_keywords": [
+      "考试",
+      "排名",
+      "被骂"
+    ],
+    "journal_snippet": "班主任说别太在意一次考试，但我还是很在意。"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.27,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 6.1,
+    "sleep_time": "22:45",
+    "wake_time": "06:16",
+    "journal_keywords": [
+      "被骂",
+      "补习"
+    ],
+    "journal_snippet": "做了好多数学题，感觉有点开窍了。"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.37,
+    "primary_emotion": "委屈",
+    "stress_level": 8,
+    "sleep_hours": 5.8,
+    "sleep_time": "23:02",
+    "wake_time": "06:02",
+    "journal_keywords": [
+      "排名"
+    ],
+    "journal_snippet": "努力复习了一晚上，希望下次能考好。"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.3,
+    "primary_emotion": "自卑",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "22:31",
+    "wake_time": "06:20",
+    "journal_keywords": [
+      "不想上学",
+      "没考好",
+      "被骂"
+    ],
+    "journal_snippet": "爸爸今天没提成绩的事，松了口气。"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.44,
+    "primary_emotion": "自卑",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "23:13",
+    "wake_time": "06:17",
+    "journal_keywords": [
+      "考试",
+      "打球",
+      "同学"
+    ],
+    "journal_snippet": "晚上偷偷哭了一会儿，擦干眼泪继续做题。"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.39,
+    "primary_emotion": "沮丧",
+    "stress_level": 7,
+    "sleep_hours": 6.1,
+    "sleep_time": "22:39",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "同学",
+      "上课",
+      "作业"
+    ],
+    "journal_snippet": "晚上偷偷哭了一会儿，擦干眼泪继续做题。"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.48,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "22:30",
+    "wake_time": "05:59",
+    "journal_keywords": [
+      "同学",
+      "上课"
+    ],
+    "journal_snippet": "做了好多数学题，感觉有点开窍了。"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.44,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "22:58",
+    "wake_time": "06:15",
+    "journal_keywords": [
+      "考试"
+    ],
+    "journal_snippet": "班主任说别太在意一次考试，但我还是很在意。"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.48,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 6.2,
+    "sleep_time": "23:20",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "同学",
+      "游戏",
+      "考试"
+    ],
+    "journal_snippet": "做了好多数学题，感觉有点开窍了。"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.43,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "22:40",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "打球",
+      "游戏",
+      "考试"
+    ],
+    "journal_snippet": "同桌安慰我说一次月考不算什么。"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.47,
+    "primary_emotion": "开心",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "22:57",
+    "wake_time": "05:57",
+    "journal_keywords": [
+      "作业"
+    ],
+    "journal_snippet": "做了好多数学题，感觉有点开窍了。"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.59,
+    "primary_emotion": "开心",
+    "stress_level": 3,
+    "sleep_hours": 7.3,
+    "sleep_time": "21:42",
+    "wake_time": "06:09",
+    "journal_keywords": [
+      "周末",
+      "游戏",
+      "考试"
+    ],
+    "journal_snippet": "今天模拟考感觉还行，比上次有进步。"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.55,
+    "primary_emotion": "无聊",
+    "stress_level": 3,
+    "sleep_hours": 7.8,
+    "sleep_time": "21:58",
+    "wake_time": "06:01",
+    "journal_keywords": [
+      "考试",
+      "周末",
+      "作业"
+    ],
+    "journal_snippet": "体育老师说我跑步速度快了不少。"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.7,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 7.2,
+    "sleep_time": "21:41",
+    "wake_time": "06:05",
+    "journal_keywords": [
+      "打球",
+      "周末",
+      "作业"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.58,
+    "primary_emotion": "开心",
+    "stress_level": 6,
+    "sleep_hours": 7.9,
+    "sleep_time": "22:22",
+    "wake_time": "06:05",
+    "journal_keywords": [
+      "考试",
+      "作业"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.55,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 7.5,
+    "sleep_time": "22:30",
+    "wake_time": "06:09",
+    "journal_keywords": [
+      "上课"
+    ],
+    "journal_snippet": "和好朋友一起放学回家，聊了很多。"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.62,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 7.7,
+    "sleep_time": "22:10",
+    "wake_time": "05:59",
+    "journal_keywords": [
+      "周末",
+      "同学"
+    ],
+    "journal_snippet": "和好朋友一起放学回家，聊了很多。"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.58,
+    "primary_emotion": "期待",
+    "stress_level": 4,
+    "sleep_hours": 7.6,
+    "sleep_time": "22:08",
+    "wake_time": "06:10",
+    "journal_keywords": [
+      "周末"
+    ],
+    "journal_snippet": "英语单词背了50个，明天听写应该没问题。"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.61,
+    "primary_emotion": "无聊",
+    "stress_level": 6,
+    "sleep_hours": 7.4,
+    "sleep_time": "22:12",
+    "wake_time": "06:02",
+    "journal_keywords": [
+      "同学",
+      "上课",
+      "周末"
+    ],
+    "journal_snippet": "和好朋友一起放学回家，聊了很多。"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.66,
+    "primary_emotion": "疲惫",
+    "stress_level": 3,
+    "sleep_hours": 7.5,
+    "sleep_time": "22:20",
+    "wake_time": "06:07",
+    "journal_keywords": [
+      "考试",
+      "周末",
+      "作业"
+    ],
+    "journal_snippet": "今天模拟考感觉还行，比上次有进步。"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 7.1,
+    "sleep_time": "21:55",
+    "wake_time": "06:09",
+    "journal_keywords": [
+      "打球",
+      "周末",
+      "作业"
+    ],
+    "journal_snippet": "英语单词背了50个，明天听写应该没问题。"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.67,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.2,
+    "sleep_time": "21:56",
+    "wake_time": "05:45",
+    "journal_keywords": [
+      "同学",
+      "作业"
+    ],
+    "journal_snippet": "今天模拟考感觉还行，比上次有进步。"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.7,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 7.2,
+    "sleep_time": "22:00",
+    "wake_time": "06:02",
+    "journal_keywords": [
+      "打球",
+      "游戏"
+    ],
+    "journal_snippet": "体育老师说我跑步速度快了不少。"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.54,
+    "primary_emotion": "无聊",
+    "stress_level": 6,
+    "sleep_hours": 7.2,
+    "sleep_time": "21:31",
+    "wake_time": "06:01",
+    "journal_keywords": [
+      "同学"
+    ],
+    "journal_snippet": "今天模拟考感觉还行，比上次有进步。"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.67,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 7.8,
+    "sleep_time": "22:05",
+    "wake_time": "05:50",
+    "journal_keywords": [
+      "作业"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.64,
+    "primary_emotion": "期待",
+    "stress_level": 6,
+    "sleep_hours": 7.1,
+    "sleep_time": "22:12",
+    "wake_time": "06:07",
+    "journal_keywords": [
+      "作业",
+      "同学",
+      "漫画"
+    ],
+    "journal_snippet": "体育老师说我跑步速度快了不少。"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.53,
+    "primary_emotion": "期待",
+    "stress_level": 4,
+    "sleep_hours": 7.3,
+    "sleep_time": "21:43",
+    "wake_time": "05:53",
+    "journal_keywords": [
+      "上课",
+      "漫画"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.69,
+    "primary_emotion": "满足",
+    "stress_level": 3,
+    "sleep_hours": 7.5,
+    "sleep_time": "21:50",
+    "wake_time": "05:52",
+    "journal_keywords": [
+      "漫画"
+    ],
+    "journal_snippet": "体育老师说我跑步速度快了不少。"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.55,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 7.4,
+    "sleep_time": "21:55",
+    "wake_time": "06:17",
+    "journal_keywords": [
+      "考试",
+      "游戏"
+    ],
+    "journal_snippet": "今天模拟考感觉还行，比上次有进步。"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 7.5,
+    "sleep_time": "21:35",
+    "wake_time": "05:48",
+    "journal_keywords": [
+      "游戏",
+      "周末",
+      "考试"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.55,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 7.0,
+    "sleep_time": "21:56",
+    "wake_time": "06:18",
+    "journal_keywords": [
+      "作业",
+      "游戏",
+      "打球"
+    ],
+    "journal_snippet": "和好朋友一起放学回家，聊了很多。"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.65,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 7.1,
+    "sleep_time": "22:01",
+    "wake_time": "05:58",
+    "journal_keywords": [
+      "作业",
+      "游戏",
+      "同学"
+    ],
+    "journal_snippet": "和好朋友一起放学回家，聊了很多。"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.56,
+    "primary_emotion": "无聊",
+    "stress_level": 6,
+    "sleep_hours": 7.5,
+    "sleep_time": "21:38",
+    "wake_time": "05:52",
+    "journal_keywords": [
+      "周末"
+    ],
+    "journal_snippet": "体育老师说我跑步速度快了不少。"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.73,
+    "primary_emotion": "期待",
+    "stress_level": 6,
+    "sleep_hours": 7.3,
+    "sleep_time": "21:40",
+    "wake_time": "05:45",
+    "journal_keywords": [
+      "周末",
+      "打球"
+    ],
+    "journal_snippet": "英语单词背了50个，明天听写应该没问题。"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.53,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 7.2,
+    "sleep_time": "21:40",
+    "wake_time": "06:09",
+    "journal_keywords": [
+      "游戏"
+    ],
+    "journal_snippet": "英语单词背了50个，明天听写应该没问题。"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.68,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 7.4,
+    "sleep_time": "22:22",
+    "wake_time": "06:03",
+    "journal_keywords": [
+      "同学",
+      "作业",
+      "游戏"
+    ],
+    "journal_snippet": "英语单词背了50个，明天听写应该没问题。"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.7,
+    "primary_emotion": "期待",
+    "stress_level": 3,
+    "sleep_hours": 7.7,
+    "sleep_time": "22:17",
+    "wake_time": "05:55",
+    "journal_keywords": [
+      "打球",
+      "周末",
+      "上课"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.71,
+    "primary_emotion": "无聊",
+    "stress_level": 3,
+    "sleep_hours": 7.3,
+    "sleep_time": "22:25",
+    "wake_time": "05:47",
+    "journal_keywords": [
+      "周末"
+    ],
+    "journal_snippet": "和好朋友一起放学回家，聊了很多。"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.57,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 7.8,
+    "sleep_time": "21:38",
+    "wake_time": "05:53",
+    "journal_keywords": [
+      "考试",
+      "同学",
+      "游戏"
+    ],
+    "journal_snippet": "和好朋友一起放学回家，聊了很多。"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.7,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 7.4,
+    "sleep_time": "21:48",
+    "wake_time": "05:58",
+    "journal_keywords": [
+      "作业",
+      "周末",
+      "漫画"
+    ],
+    "journal_snippet": "英语单词背了50个，明天听写应该没问题。"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.58,
+    "primary_emotion": "期待",
+    "stress_level": 3,
+    "sleep_hours": 7.0,
+    "sleep_time": "22:25",
+    "wake_time": "05:48",
+    "journal_keywords": [
+      "游戏"
+    ],
+    "journal_snippet": "和好朋友一起放学回家，聊了很多。"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.57,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 7.7,
+    "sleep_time": "22:06",
+    "wake_time": "06:20",
+    "journal_keywords": [
+      "周末",
+      "同学"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.66,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 7.4,
+    "sleep_time": "22:02",
+    "wake_time": "05:57",
+    "journal_keywords": [
+      "考试"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.62,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 7.2,
+    "sleep_time": "22:10",
+    "wake_time": "06:02",
+    "journal_keywords": [
+      "同学",
+      "漫画",
+      "打球"
+    ],
+    "journal_snippet": "今天模拟考感觉还行，比上次有进步。"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.7,
+    "primary_emotion": "期待",
+    "stress_level": 6,
+    "sleep_hours": 7.1,
+    "sleep_time": "21:47",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "周末"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.59,
+    "primary_emotion": "期待",
+    "stress_level": 4,
+    "sleep_hours": 7.5,
+    "sleep_time": "21:36",
+    "wake_time": "06:20",
+    "journal_keywords": [
+      "上课",
+      "周末"
+    ],
+    "journal_snippet": "体育老师说我跑步速度快了不少。"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.52,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.3,
+    "sleep_time": "22:28",
+    "wake_time": "05:48",
+    "journal_keywords": [
+      "打球",
+      "漫画"
+    ],
+    "journal_snippet": "周末终于可以打会儿游戏了。"
+  }
+]

@@ -1,0 +1,1929 @@
+[
+  {
+    "date": "2026-01-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.9,
+        "description": "包子豆浆",
+        "time": "07:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.9,
+        "description": "食堂炒饭",
+        "time": "11:54"
+      }
+    ],
+    "daily_total": 14.8,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-01-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.3,
+        "description": "面包牛奶",
+        "time": "06:46"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.2,
+        "description": "食堂炒饭",
+        "time": "11:57"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2.2,
+        "description": "零食",
+        "time": "16:31"
+      }
+    ],
+    "daily_total": 13.7
+  },
+  {
+    "date": "2026-01-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 1.1,
+        "description": "爸妈做饭",
+        "time": "11:47"
+      },
+      {
+        "category": "学习",
+        "amount": 25.1,
+        "description": "错题本",
+        "time": "16:43"
+      }
+    ],
+    "daily_total": 26.2
+  },
+  {
+    "date": "2026-01-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 1.4,
+        "description": "妈妈做的饭",
+        "time": "12:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2.6,
+        "description": "奶茶",
+        "time": "15:45"
+      }
+    ],
+    "daily_total": 4.0
+  },
+  {
+    "date": "2026-01-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.8,
+        "description": "包子豆浆",
+        "time": "07:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.2,
+        "description": "食堂套餐",
+        "time": "12:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.8,
+        "description": "可乐",
+        "time": "16:19"
+      }
+    ],
+    "daily_total": 19.8
+  },
+  {
+    "date": "2026-01-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.6,
+        "description": "包子豆浆",
+        "time": "06:46"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.6,
+        "description": "学校食堂",
+        "time": "11:52"
+      }
+    ],
+    "daily_total": 16.2
+  },
+  {
+    "date": "2026-01-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "食堂早餐",
+        "time": "06:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.6,
+        "description": "食堂炒饭",
+        "time": "11:58"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:20"
+      }
+    ],
+    "daily_total": 17.0
+  },
+  {
+    "date": "2026-01-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "煎饼果子",
+        "time": "06:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.2,
+        "description": "学校食堂",
+        "time": "12:10"
+      }
+    ],
+    "daily_total": 14.7
+  },
+  {
+    "date": "2026-01-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.3,
+        "description": "包子豆浆",
+        "time": "06:52"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.8,
+        "description": "学校食堂",
+        "time": "12:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.3,
+        "description": "冰淇淋",
+        "time": "16:52"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:11"
+      }
+    ],
+    "daily_total": 24.4
+  },
+  {
+    "date": "2026-01-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.0,
+        "description": "爸妈做饭",
+        "time": "11:59"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2.8,
+        "description": "可乐",
+        "time": "16:11"
+      }
+    ],
+    "daily_total": 4.8
+  },
+  {
+    "date": "2026-01-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.7,
+        "description": "家里吃",
+        "time": "12:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.2,
+        "description": "零食",
+        "time": "16:05"
+      }
+    ],
+    "daily_total": 7.9
+  },
+  {
+    "date": "2026-01-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.3,
+        "description": "包子豆浆",
+        "time": "06:49"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.4,
+        "description": "食堂面条",
+        "time": "12:09"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.3,
+        "description": "辣条",
+        "time": "16:07"
+      }
+    ],
+    "daily_total": 22.0
+  },
+  {
+    "date": "2026-01-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.8,
+        "description": "包子豆浆",
+        "time": "07:06"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.2,
+        "description": "学校食堂",
+        "time": "12:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.8,
+        "description": "零食",
+        "time": "15:58"
+      },
+      {
+        "category": "学习",
+        "amount": 23.1,
+        "description": "文具",
+        "time": "17:04"
+      }
+    ],
+    "daily_total": 46.9
+  },
+  {
+    "date": "2026-01-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.5,
+        "description": "包子豆浆",
+        "time": "07:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.4,
+        "description": "食堂炒饭",
+        "time": "11:54"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "冰淇淋",
+        "time": "16:57"
+      },
+      {
+        "category": "学习",
+        "amount": 13.1,
+        "description": "笔芯",
+        "time": "16:14"
+      }
+    ],
+    "daily_total": 33.0
+  },
+  {
+    "date": "2026-01-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.6,
+        "description": "食堂早餐",
+        "time": "06:52"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.4,
+        "description": "食堂套餐",
+        "time": "11:52"
+      }
+    ],
+    "daily_total": 14.0
+  },
+  {
+    "date": "2026-01-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.6,
+        "description": "煎饼果子",
+        "time": "06:49"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.6,
+        "description": "食堂炒饭",
+        "time": "11:58"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.6,
+        "description": "零食",
+        "time": "16:58"
+      }
+    ],
+    "daily_total": 22.8
+  },
+  {
+    "date": "2026-01-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 1.0,
+        "description": "家里吃",
+        "time": "11:55"
+      }
+    ],
+    "daily_total": 1.0
+  },
+  {
+    "date": "2026-01-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.2,
+        "description": "爸妈做饭",
+        "time": "11:58"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.3,
+        "description": "小卖部",
+        "time": "15:02"
+      }
+    ],
+    "daily_total": 5.5
+  },
+  {
+    "date": "2026-01-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.7,
+        "description": "煎饼果子",
+        "time": "06:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.5,
+        "description": "食堂套餐",
+        "time": "11:57"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2.2,
+        "description": "小卖部",
+        "time": "15:09"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:11"
+      }
+    ],
+    "daily_total": 16.4
+  },
+  {
+    "date": "2026-01-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.6,
+        "description": "煎饼果子",
+        "time": "07:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.5,
+        "description": "食堂面条",
+        "time": "11:57"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "06:46"
+      }
+    ],
+    "daily_total": 20.1
+  },
+  {
+    "date": "2026-01-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "食堂早餐",
+        "time": "06:58"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.9,
+        "description": "食堂套餐",
+        "time": "12:10"
+      }
+    ],
+    "daily_total": 15.9
+  },
+  {
+    "date": "2026-01-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "包子豆浆",
+        "time": "06:52"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.3,
+        "description": "食堂面条",
+        "time": "11:54"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.7,
+        "description": "零食",
+        "time": "16:51"
+      }
+    ],
+    "daily_total": 17.0
+  },
+  {
+    "date": "2026-01-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.6,
+        "description": "包子豆浆",
+        "time": "06:46"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.6,
+        "description": "食堂套餐",
+        "time": "11:52"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:11"
+      }
+    ],
+    "daily_total": 20.2
+  },
+  {
+    "date": "2026-01-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.4,
+        "description": "家里吃",
+        "time": "12:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.3,
+        "description": "辣条",
+        "time": "15:33"
+      }
+    ],
+    "daily_total": 6.7
+  },
+  {
+    "date": "2026-01-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.9,
+        "description": "家里吃",
+        "time": "11:57"
+      }
+    ],
+    "daily_total": 3.9
+  },
+  {
+    "date": "2026-01-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.4,
+        "description": "面包牛奶",
+        "time": "06:49"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.3,
+        "description": "食堂炒饭",
+        "time": "11:51"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.3,
+        "description": "可乐",
+        "time": "15:40"
+      },
+      {
+        "category": "学习",
+        "amount": 19.6,
+        "description": "试卷打印",
+        "time": "17:57"
+      }
+    ],
+    "daily_total": 39.6
+  },
+  {
+    "date": "2026-01-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "包子豆浆",
+        "time": "07:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.3,
+        "description": "食堂套餐",
+        "time": "11:57"
+      },
+      {
+        "category": "餐饮",
+        "amount": 7.6,
+        "description": "冰淇淋",
+        "time": "15:31"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "06:45"
+      }
+    ],
+    "daily_total": 22.4
+  },
+  {
+    "date": "2026-01-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.3,
+        "description": "食堂早餐",
+        "time": "07:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.8,
+        "description": "学校食堂",
+        "time": "11:57"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2.8,
+        "description": "可乐",
+        "time": "15:38"
+      }
+    ],
+    "daily_total": 16.9
+  },
+  {
+    "date": "2026-01-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.8,
+        "description": "包子豆浆",
+        "time": "06:59"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.3,
+        "description": "食堂套餐",
+        "time": "11:52"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "零食",
+        "time": "16:59"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "06:55"
+      }
+    ],
+    "daily_total": 25.1
+  },
+  {
+    "date": "2026-01-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.1,
+        "description": "煎饼果子",
+        "time": "06:59"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.8,
+        "description": "学校食堂",
+        "time": "12:09"
+      }
+    ],
+    "daily_total": 17.9
+  },
+  {
+    "date": "2026-01-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.3,
+        "description": "爸妈做饭",
+        "time": "11:49"
+      }
+    ],
+    "daily_total": 3.3
+  },
+  {
+    "date": "2026-02-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "家里吃",
+        "time": "11:37"
+      }
+    ],
+    "daily_total": 4.4
+  },
+  {
+    "date": "2026-02-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "食堂早餐",
+        "time": "07:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.5,
+        "description": "学校食堂",
+        "time": "11:56"
+      }
+    ],
+    "daily_total": 13.0
+  },
+  {
+    "date": "2026-02-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.8,
+        "description": "包子豆浆",
+        "time": "06:47"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.4,
+        "description": "学校食堂",
+        "time": "11:51"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.6,
+        "description": "可乐",
+        "time": "15:33"
+      }
+    ],
+    "daily_total": 22.8
+  },
+  {
+    "date": "2026-02-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.1,
+        "description": "包子豆浆",
+        "time": "06:48"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.5,
+        "description": "食堂炒饭",
+        "time": "12:07"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.2,
+        "description": "冰淇淋",
+        "time": "15:18"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:03"
+      }
+    ],
+    "daily_total": 19.8
+  },
+  {
+    "date": "2026-02-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.7,
+        "description": "包子豆浆",
+        "time": "07:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.5,
+        "description": "食堂炒饭",
+        "time": "11:53"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.4,
+        "description": "辣条",
+        "time": "16:19"
+      }
+    ],
+    "daily_total": 21.6
+  },
+  {
+    "date": "2026-02-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.7,
+        "description": "煎饼果子",
+        "time": "07:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.7,
+        "description": "食堂面条",
+        "time": "11:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 7.5,
+        "description": "辣条",
+        "time": "16:42"
+      }
+    ],
+    "daily_total": 24.9
+  },
+  {
+    "date": "2026-02-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 1.2,
+        "description": "妈妈做的饭",
+        "time": "12:20"
+      }
+    ],
+    "daily_total": 1.2
+  },
+  {
+    "date": "2026-02-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 0.2,
+        "description": "家里吃",
+        "time": "11:44"
+      },
+      {
+        "category": "餐饮",
+        "amount": 7.5,
+        "description": "小卖部",
+        "time": "15:39"
+      }
+    ],
+    "daily_total": 7.7
+  },
+  {
+    "date": "2026-02-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.6,
+        "description": "煎饼果子",
+        "time": "06:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.6,
+        "description": "食堂面条",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2.4,
+        "description": "小卖部",
+        "time": "15:44"
+      }
+    ],
+    "daily_total": 20.6
+  },
+  {
+    "date": "2026-02-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.9,
+        "description": "食堂早餐",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.2,
+        "description": "学校食堂",
+        "time": "11:55"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:18"
+      }
+    ],
+    "daily_total": 16.1
+  },
+  {
+    "date": "2026-02-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.2,
+        "description": "食堂早餐",
+        "time": "06:58"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.2,
+        "description": "食堂套餐",
+        "time": "12:02"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:07"
+      },
+      {
+        "category": "学习",
+        "amount": 42.8,
+        "description": "补习资料",
+        "time": "18:27"
+      }
+    ],
+    "daily_total": 62.2
+  },
+  {
+    "date": "2026-02-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.2,
+        "description": "煎饼果子",
+        "time": "06:56"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.0,
+        "description": "学校食堂",
+        "time": "12:09"
+      }
+    ],
+    "daily_total": 16.2
+  },
+  {
+    "date": "2026-02-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.9,
+        "description": "面包牛奶",
+        "time": "06:55"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.8,
+        "description": "学校食堂",
+        "time": "12:07"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.5,
+        "description": "辣条",
+        "time": "16:26"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:16"
+      }
+    ],
+    "daily_total": 21.2
+  },
+  {
+    "date": "2026-02-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.7,
+        "description": "妈妈做的饭",
+        "time": "11:49"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.6,
+        "description": "冰淇淋",
+        "time": "16:17"
+      }
+    ],
+    "daily_total": 7.3
+  },
+  {
+    "date": "2026-02-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.2,
+        "description": "妈妈做的饭",
+        "time": "12:02"
+      }
+    ],
+    "daily_total": 2.2
+  },
+  {
+    "date": "2026-02-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "包子豆浆",
+        "time": "06:54"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.6,
+        "description": "学校食堂",
+        "time": "11:52"
+      }
+    ],
+    "daily_total": 15.1
+  },
+  {
+    "date": "2026-02-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.6,
+        "description": "包子豆浆",
+        "time": "06:46"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.7,
+        "description": "食堂面条",
+        "time": "12:09"
+      },
+      {
+        "category": "学习",
+        "amount": 15.4,
+        "description": "试卷打印",
+        "time": "16:24"
+      }
+    ],
+    "daily_total": 28.7
+  },
+  {
+    "date": "2026-02-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.2,
+        "description": "煎饼果子",
+        "time": "07:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.8,
+        "description": "食堂套餐",
+        "time": "12:03"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.8,
+        "description": "可乐",
+        "time": "16:06"
+      }
+    ],
+    "daily_total": 23.8
+  },
+  {
+    "date": "2026-02-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.4,
+        "description": "煎饼果子",
+        "time": "07:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.3,
+        "description": "学校食堂",
+        "time": "12:04"
+      }
+    ],
+    "daily_total": 14.7
+  },
+  {
+    "date": "2026-02-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.6,
+        "description": "煎饼果子",
+        "time": "07:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.0,
+        "description": "食堂面条",
+        "time": "11:58"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:13"
+      }
+    ],
+    "daily_total": 20.6
+  },
+  {
+    "date": "2026-02-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 1.2,
+        "description": "家里吃",
+        "time": "11:34"
+      }
+    ],
+    "daily_total": 1.2
+  },
+  {
+    "date": "2026-02-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.5,
+        "description": "妈妈做的饭",
+        "time": "11:38"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.3,
+        "description": "零食",
+        "time": "16:30"
+      }
+    ],
+    "daily_total": 8.8
+  },
+  {
+    "date": "2026-02-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "面包牛奶",
+        "time": "06:58"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.4,
+        "description": "食堂面条",
+        "time": "12:02"
+      }
+    ],
+    "daily_total": 12.4
+  },
+  {
+    "date": "2026-02-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.3,
+        "description": "面包牛奶",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "学校食堂",
+        "time": "11:59"
+      }
+    ],
+    "daily_total": 13.3
+  },
+  {
+    "date": "2026-02-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.2,
+        "description": "煎饼果子",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.5,
+        "description": "食堂面条",
+        "time": "12:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "可乐",
+        "time": "16:42"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:09"
+      }
+    ],
+    "daily_total": 20.7
+  },
+  {
+    "date": "2026-02-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.9,
+        "description": "包子豆浆",
+        "time": "07:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.8,
+        "description": "食堂套餐",
+        "time": "11:52"
+      },
+      {
+        "category": "学习",
+        "amount": 26.4,
+        "description": "教辅书",
+        "time": "17:58"
+      }
+    ],
+    "daily_total": 43.1
+  },
+  {
+    "date": "2026-02-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "面包牛奶",
+        "time": "06:53"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.3,
+        "description": "食堂面条",
+        "time": "11:58"
+      },
+      {
+        "category": "学习",
+        "amount": 43.6,
+        "description": "教辅书",
+        "time": "18:23"
+      }
+    ],
+    "daily_total": 60.9
+  },
+  {
+    "date": "2026-02-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 0.3,
+        "description": "爸妈做饭",
+        "time": "11:32"
+      }
+    ],
+    "daily_total": 0.3
+  },
+  {
+    "date": "2026-03-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 0.1,
+        "description": "妈妈做的饭",
+        "time": "11:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "冰淇淋",
+        "time": "15:27"
+      }
+    ],
+    "daily_total": 6.1
+  },
+  {
+    "date": "2026-03-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.1,
+        "description": "包子豆浆",
+        "time": "07:09"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.7,
+        "description": "学校食堂",
+        "time": "11:53"
+      }
+    ],
+    "daily_total": 17.8
+  },
+  {
+    "date": "2026-03-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.7,
+        "description": "面包牛奶",
+        "time": "06:57"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.6,
+        "description": "食堂炒饭",
+        "time": "11:52"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "06:59"
+      }
+    ],
+    "daily_total": 22.3
+  },
+  {
+    "date": "2026-03-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.6,
+        "description": "包子豆浆",
+        "time": "07:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.9,
+        "description": "食堂套餐",
+        "time": "12:01"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:01"
+      }
+    ],
+    "daily_total": 22.5
+  },
+  {
+    "date": "2026-03-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "面包牛奶",
+        "time": "07:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.4,
+        "description": "食堂面条",
+        "time": "12:01"
+      }
+    ],
+    "daily_total": 14.4
+  },
+  {
+    "date": "2026-03-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.3,
+        "description": "食堂早餐",
+        "time": "07:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.7,
+        "description": "食堂面条",
+        "time": "12:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.4,
+        "description": "小卖部",
+        "time": "15:41"
+      }
+    ],
+    "daily_total": 24.4
+  },
+  {
+    "date": "2026-03-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 0.4,
+        "description": "家里吃",
+        "time": "11:45"
+      }
+    ],
+    "daily_total": 0.4
+  },
+  {
+    "date": "2026-03-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.3,
+        "description": "家里吃",
+        "time": "11:31"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "辣条",
+        "time": "15:27"
+      }
+    ],
+    "daily_total": 7.3
+  },
+  {
+    "date": "2026-03-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.8,
+        "description": "食堂早餐",
+        "time": "07:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.2,
+        "description": "学校食堂",
+        "time": "12:07"
+      },
+      {
+        "category": "餐饮",
+        "amount": 7.7,
+        "description": "奶茶",
+        "time": "15:30"
+      }
+    ],
+    "daily_total": 23.7
+  },
+  {
+    "date": "2026-03-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.3,
+        "description": "面包牛奶",
+        "time": "07:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.0,
+        "description": "食堂面条",
+        "time": "11:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.3,
+        "description": "可乐",
+        "time": "15:31"
+      }
+    ],
+    "daily_total": 21.6
+  },
+  {
+    "date": "2026-03-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "食堂早餐",
+        "time": "06:58"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.0,
+        "description": "学校食堂",
+        "time": "12:01"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "06:47"
+      }
+    ],
+    "daily_total": 21.4
+  },
+  {
+    "date": "2026-03-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.2,
+        "description": "食堂早餐",
+        "time": "06:48"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.2,
+        "description": "食堂炒饭",
+        "time": "11:56"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.9,
+        "description": "可乐",
+        "time": "16:15"
+      }
+    ],
+    "daily_total": 23.3
+  },
+  {
+    "date": "2026-03-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.8,
+        "description": "包子豆浆",
+        "time": "07:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.4,
+        "description": "食堂炒饭",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2.1,
+        "description": "冰淇淋",
+        "time": "15:16"
+      }
+    ],
+    "daily_total": 15.3
+  },
+  {
+    "date": "2026-03-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.8,
+        "description": "爸妈做饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 7.2,
+        "description": "辣条",
+        "time": "15:13"
+      }
+    ],
+    "daily_total": 10.0
+  },
+  {
+    "date": "2026-03-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.9,
+        "description": "家里吃",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.1,
+        "description": "奶茶",
+        "time": "15:32"
+      }
+    ],
+    "daily_total": 6.0
+  },
+  {
+    "date": "2026-03-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "包子豆浆",
+        "time": "06:57"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.4,
+        "description": "食堂套餐",
+        "time": "11:54"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.4,
+        "description": "小卖部",
+        "time": "15:10"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:06"
+      }
+    ],
+    "daily_total": 23.2
+  },
+  {
+    "date": "2026-03-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.8,
+        "description": "煎饼果子",
+        "time": "07:09"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.7,
+        "description": "食堂面条",
+        "time": "12:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.5,
+        "description": "辣条",
+        "time": "15:39"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "06:46"
+      }
+    ],
+    "daily_total": 24.0
+  },
+  {
+    "date": "2026-03-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.8,
+        "description": "煎饼果子",
+        "time": "07:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.5,
+        "description": "食堂套餐",
+        "time": "11:55"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.3,
+        "description": "零食",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 20.6
+  },
+  {
+    "date": "2026-03-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "包子豆浆",
+        "time": "06:52"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "学校食堂",
+        "time": "12:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.4,
+        "description": "小卖部",
+        "time": "16:40"
+      }
+    ],
+    "daily_total": 17.8
+  },
+  {
+    "date": "2026-03-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.4,
+        "description": "煎饼果子",
+        "time": "06:58"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.8,
+        "description": "食堂炒饭",
+        "time": "12:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.6,
+        "description": "零食",
+        "time": "15:09"
+      },
+      {
+        "category": "学习",
+        "amount": 24.8,
+        "description": "试卷打印",
+        "time": "17:35"
+      }
+    ],
+    "daily_total": 42.6
+  },
+  {
+    "date": "2026-03-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.6,
+        "description": "家里吃",
+        "time": "11:37"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.8,
+        "description": "辣条",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 8.4
+  },
+  {
+    "date": "2026-03-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.7,
+        "description": "家里吃",
+        "time": "11:35"
+      }
+    ],
+    "daily_total": 2.7
+  },
+  {
+    "date": "2026-03-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.2,
+        "description": "食堂早餐",
+        "time": "06:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.6,
+        "description": "食堂套餐",
+        "time": "11:58"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:13"
+      }
+    ],
+    "daily_total": 15.8
+  },
+  {
+    "date": "2026-03-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "食堂早餐",
+        "time": "06:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.0,
+        "description": "食堂面条",
+        "time": "12:10"
+      }
+    ],
+    "daily_total": 20.0
+  },
+  {
+    "date": "2026-03-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.2,
+        "description": "食堂早餐",
+        "time": "07:06"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.7,
+        "description": "食堂炒饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "可乐",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 17.9
+  },
+  {
+    "date": "2026-03-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.1,
+        "description": "包子豆浆",
+        "time": "06:55"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.8,
+        "description": "食堂套餐",
+        "time": "12:02"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:14"
+      }
+    ],
+    "daily_total": 14.9
+  },
+  {
+    "date": "2026-03-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "包子豆浆",
+        "time": "06:51"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.6,
+        "description": "食堂面条",
+        "time": "12:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2.3,
+        "description": "小卖部",
+        "time": "16:10"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:11"
+      }
+    ],
+    "daily_total": 20.3
+  },
+  {
+    "date": "2026-03-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 0.6,
+        "description": "爸妈做饭",
+        "time": "12:08"
+      }
+    ],
+    "daily_total": 0.6
+  },
+  {
+    "date": "2026-03-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 1.6,
+        "description": "妈妈做的饭",
+        "time": "12:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.3,
+        "description": "奶茶",
+        "time": "15:59"
+      }
+    ],
+    "daily_total": 4.9
+  },
+  {
+    "date": "2026-03-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.9,
+        "description": "煎饼果子",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.5,
+        "description": "学校食堂",
+        "time": "12:06"
+      }
+    ],
+    "daily_total": 19.4
+  },
+  {
+    "date": "2026-03-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "面包牛奶",
+        "time": "07:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.0,
+        "description": "食堂炒饭",
+        "time": "12:09"
+      }
+    ],
+    "daily_total": 13.4
+  }
+]

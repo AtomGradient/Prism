@@ -1,0 +1,1350 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [
+      {
+        "title": "物理公式总结",
+        "category": "学习",
+        "duration_min": 12,
+        "highlights": 2,
+        "time_range": "21:00~21:12"
+      },
+      {
+        "title": "三体",
+        "category": "小说",
+        "duration_min": 31,
+        "highlights": 1,
+        "time_range": "17:00~17:31"
+      }
+    ],
+    "daily_reading_min": 43,
+    "topics": [
+      "小说",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [
+      {
+        "title": "初三数学精讲",
+        "category": "学习",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "21:00~21:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [
+      {
+        "title": "中考英语词汇",
+        "category": "学习",
+        "duration_min": 26,
+        "highlights": 3,
+        "time_range": "21:00~21:26"
+      },
+      {
+        "title": "B站推荐",
+        "category": "漫画",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "16:00~16:20"
+      }
+    ],
+    "daily_reading_min": 46,
+    "topics": [
+      "漫画",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [
+      {
+        "title": "初三数学精讲",
+        "category": "学习",
+        "duration_min": 17,
+        "highlights": 3,
+        "time_range": "21:00~21:17"
+      },
+      {
+        "title": "微博热搜",
+        "category": "漫画",
+        "duration_min": 13,
+        "highlights": 1,
+        "time_range": "16:00~16:13"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "漫画",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [
+      {
+        "title": "微博热搜",
+        "category": "资讯",
+        "duration_min": 36,
+        "highlights": 2,
+        "time_range": "17:00~17:36"
+      }
+    ],
+    "daily_reading_min": 36,
+    "topics": [
+      "资讯"
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [
+      {
+        "title": "语文阅读理解技巧",
+        "category": "学习",
+        "duration_min": 28,
+        "highlights": 0,
+        "time_range": "21:00~21:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [
+      {
+        "title": "三体",
+        "category": "资讯",
+        "duration_min": 33,
+        "highlights": 2,
+        "time_range": "17:00~17:33"
+      }
+    ],
+    "daily_reading_min": 33,
+    "topics": [
+      "资讯"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "哈利波特",
+        "category": "小说",
+        "duration_min": 29,
+        "highlights": 0,
+        "time_range": "22:00~22:29"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "小说"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [
+      {
+        "title": "斗罗大陆",
+        "category": "漫画",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "22:00~22:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "漫画"
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [
+      {
+        "title": "中考英语词汇",
+        "category": "学习",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "21:00~21:17"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "语文阅读理解技巧",
+        "category": "学习",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "21:00~21:29"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [
+      {
+        "title": "知乎热榜",
+        "category": "资讯",
+        "duration_min": 29,
+        "highlights": 1,
+        "time_range": "17:00~17:29"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "资讯"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "斗罗大陆",
+        "category": "漫画",
+        "duration_min": 35,
+        "highlights": 1,
+        "time_range": "17:00~17:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "漫画"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "哈利波特",
+        "category": "资讯",
+        "duration_min": 30,
+        "highlights": 0,
+        "time_range": "16:00~16:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "资讯"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [
+      {
+        "title": "中考真题解析",
+        "category": "学习",
+        "duration_min": 28,
+        "highlights": 3,
+        "time_range": "21:00~21:28"
+      },
+      {
+        "title": "B站推荐",
+        "category": "小说",
+        "duration_min": 15,
+        "highlights": 0,
+        "time_range": "22:00~22:15"
+      }
+    ],
+    "daily_reading_min": 43,
+    "topics": [
+      "小说",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [
+      {
+        "title": "海贼王",
+        "category": "漫画",
+        "duration_min": 11,
+        "highlights": 2,
+        "time_range": "16:00~16:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "漫画"
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [
+      {
+        "title": "历史知识点梳理",
+        "category": "学习",
+        "duration_min": 26,
+        "highlights": 3,
+        "time_range": "21:00~21:26"
+      }
+    ],
+    "daily_reading_min": 26,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [
+      {
+        "title": "历史知识点梳理",
+        "category": "学习",
+        "duration_min": 27,
+        "highlights": 1,
+        "time_range": "21:00~21:27"
+      },
+      {
+        "title": "三体",
+        "category": "小说",
+        "duration_min": 12,
+        "highlights": 2,
+        "time_range": "17:00~17:12"
+      }
+    ],
+    "daily_reading_min": 39,
+    "topics": [
+      "小说",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [
+      {
+        "title": "知乎热榜",
+        "category": "漫画",
+        "duration_min": 30,
+        "highlights": 2,
+        "time_range": "16:00~16:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "漫画"
+    ]
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [
+      {
+        "title": "海贼王",
+        "category": "小说",
+        "duration_min": 12,
+        "highlights": 1,
+        "time_range": "22:00~22:12"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "小说"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [
+      {
+        "title": "B站推荐",
+        "category": "小说",
+        "duration_min": 33,
+        "highlights": 0,
+        "time_range": "17:00~17:33"
+      }
+    ],
+    "daily_reading_min": 33,
+    "topics": [
+      "小说"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [
+      {
+        "title": "物理公式总结",
+        "category": "学习",
+        "duration_min": 26,
+        "highlights": 2,
+        "time_range": "21:00~21:26"
+      },
+      {
+        "title": "海贼王",
+        "category": "资讯",
+        "duration_min": 33,
+        "highlights": 0,
+        "time_range": "21:00~21:33"
+      }
+    ],
+    "daily_reading_min": 59,
+    "topics": [
+      "资讯",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [
+      {
+        "title": "微博热搜",
+        "category": "资讯",
+        "duration_min": 23,
+        "highlights": 0,
+        "time_range": "21:00~21:23"
+      }
+    ],
+    "daily_reading_min": 23,
+    "topics": [
+      "资讯"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [
+      {
+        "title": "知乎热榜",
+        "category": "漫画",
+        "duration_min": 30,
+        "highlights": 1,
+        "time_range": "16:00~16:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "漫画"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [
+      {
+        "title": "中考真题解析",
+        "category": "学习",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "21:00~21:28"
+      },
+      {
+        "title": "三体",
+        "category": "资讯",
+        "duration_min": 34,
+        "highlights": 2,
+        "time_range": "16:00~16:34"
+      }
+    ],
+    "daily_reading_min": 62,
+    "topics": [
+      "资讯",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [
+      {
+        "title": "知乎热榜",
+        "category": "小说",
+        "duration_min": 10,
+        "highlights": 0,
+        "time_range": "16:00~16:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "小说"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [
+      {
+        "title": "物理公式总结",
+        "category": "学习",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "21:00~21:22"
+      },
+      {
+        "title": "微博热搜",
+        "category": "小说",
+        "duration_min": 11,
+        "highlights": 1,
+        "time_range": "22:00~22:11"
+      }
+    ],
+    "daily_reading_min": 33,
+    "topics": [
+      "小说",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [
+      {
+        "title": "历史知识点梳理",
+        "category": "学习",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "21:00~21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [
+      {
+        "title": "B站推荐",
+        "category": "小说",
+        "duration_min": 38,
+        "highlights": 0,
+        "time_range": "16:00~16:38"
+      }
+    ],
+    "daily_reading_min": 38,
+    "topics": [
+      "小说"
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [
+      {
+        "title": "哈利波特",
+        "category": "漫画",
+        "duration_min": 37,
+        "highlights": 1,
+        "time_range": "21:00~21:37"
+      }
+    ],
+    "daily_reading_min": 37,
+    "topics": [
+      "漫画"
+    ]
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [
+      {
+        "title": "化学方程式大全",
+        "category": "学习",
+        "duration_min": 10,
+        "highlights": 2,
+        "time_range": "21:00~21:10"
+      },
+      {
+        "title": "语文阅读理解技巧",
+        "category": "学习",
+        "duration_min": 40,
+        "highlights": 3,
+        "time_range": "20:00~20:40"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [
+      {
+        "title": "物理公式总结",
+        "category": "学习",
+        "duration_min": 28,
+        "highlights": 3,
+        "time_range": "21:00~21:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [
+      {
+        "title": "中考真题解析",
+        "category": "学习",
+        "duration_min": 22,
+        "highlights": 2,
+        "time_range": "20:00~20:22"
+      },
+      {
+        "title": "哈利波特",
+        "category": "资讯",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "17:00~17:10"
+      }
+    ],
+    "daily_reading_min": 32,
+    "topics": [
+      "资讯",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [
+      {
+        "title": "初三数学精讲",
+        "category": "学习",
+        "duration_min": 45,
+        "highlights": 3,
+        "time_range": "20:00~20:45"
+      },
+      {
+        "title": "B站推荐",
+        "category": "小说",
+        "duration_min": 22,
+        "highlights": 0,
+        "time_range": "21:00~21:22"
+      }
+    ],
+    "daily_reading_min": 67,
+    "topics": [
+      "小说",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [
+      {
+        "title": "中考英语词汇",
+        "category": "学习",
+        "duration_min": 28,
+        "highlights": 4,
+        "time_range": "20:00~20:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [
+      {
+        "title": "初三数学精讲",
+        "category": "学习",
+        "duration_min": 17,
+        "highlights": 3,
+        "time_range": "21:00~21:17"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [
+      {
+        "title": "初三数学精讲",
+        "category": "学习",
+        "duration_min": 31,
+        "highlights": 2,
+        "time_range": "20:00~20:31"
+      }
+    ],
+    "daily_reading_min": 31,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [
+      {
+        "title": "语文阅读理解技巧",
+        "category": "学习",
+        "duration_min": 28,
+        "highlights": 0,
+        "time_range": "21:00~21:28"
+      },
+      {
+        "title": "中考英语词汇",
+        "category": "学习",
+        "duration_min": 22,
+        "highlights": 3,
+        "time_range": "20:00~20:22"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [
+      {
+        "title": "中考真题解析",
+        "category": "学习",
+        "duration_min": 22,
+        "highlights": 2,
+        "time_range": "21:00~21:22"
+      },
+      {
+        "title": "物理公式总结",
+        "category": "学习",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "20:00~20:22"
+      }
+    ],
+    "daily_reading_min": 44,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [
+      {
+        "title": "中考真题解析",
+        "category": "学习",
+        "duration_min": 28,
+        "highlights": 0,
+        "time_range": "21:00~21:28"
+      },
+      {
+        "title": "中考英语词汇",
+        "category": "学习",
+        "duration_min": 29,
+        "highlights": 4,
+        "time_range": "20:00~20:29"
+      }
+    ],
+    "daily_reading_min": 57,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [
+      {
+        "title": "物理公式总结",
+        "category": "学习",
+        "duration_min": 45,
+        "highlights": 2,
+        "time_range": "20:00~20:45"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [
+      {
+        "title": "中考真题解析",
+        "category": "学习",
+        "duration_min": 18,
+        "highlights": 1,
+        "time_range": "20:00~20:18"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [
+      {
+        "title": "中考真题解析",
+        "category": "学习",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "21:00~21:20"
+      },
+      {
+        "title": "中考英语词汇",
+        "category": "学习",
+        "duration_min": 45,
+        "highlights": 3,
+        "time_range": "20:00~20:45"
+      }
+    ],
+    "daily_reading_min": 65,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [
+      {
+        "title": "物理公式总结",
+        "category": "学习",
+        "duration_min": 18,
+        "highlights": 1,
+        "time_range": "21:00~21:18"
+      },
+      {
+        "title": "化学方程式大全",
+        "category": "学习",
+        "duration_min": 42,
+        "highlights": 4,
+        "time_range": "20:00~20:42"
+      }
+    ],
+    "daily_reading_min": 60,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [
+      {
+        "title": "初三数学精讲",
+        "category": "学习",
+        "duration_min": 40,
+        "highlights": 2,
+        "time_range": "20:00~20:40"
+      },
+      {
+        "title": "斗罗大陆",
+        "category": "小说",
+        "duration_min": 36,
+        "highlights": 0,
+        "time_range": "17:00~17:36"
+      }
+    ],
+    "daily_reading_min": 76,
+    "topics": [
+      "小说",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [
+      {
+        "title": "历史知识点梳理",
+        "category": "学习",
+        "duration_min": 45,
+        "highlights": 1,
+        "time_range": "20:00~20:45"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [
+      {
+        "title": "中考真题解析",
+        "category": "学习",
+        "duration_min": 17,
+        "highlights": 1,
+        "time_range": "20:00~20:17"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [
+      {
+        "title": "历史知识点梳理",
+        "category": "学习",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "20:00~20:29"
+      },
+      {
+        "title": "微博热搜",
+        "category": "小说",
+        "duration_min": 36,
+        "highlights": 0,
+        "time_range": "21:00~21:36"
+      }
+    ],
+    "daily_reading_min": 65,
+    "topics": [
+      "小说",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [
+      {
+        "title": "知乎热榜",
+        "category": "漫画",
+        "duration_min": 23,
+        "highlights": 0,
+        "time_range": "22:00~22:23"
+      }
+    ],
+    "daily_reading_min": 23,
+    "topics": [
+      "漫画"
+    ]
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [
+      {
+        "title": "化学方程式大全",
+        "category": "学习",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "21:00~21:15"
+      },
+      {
+        "title": "海贼王",
+        "category": "漫画",
+        "duration_min": 18,
+        "highlights": 0,
+        "time_range": "21:00~21:18"
+      }
+    ],
+    "daily_reading_min": 33,
+    "topics": [
+      "漫画",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [
+      {
+        "title": "语文阅读理解技巧",
+        "category": "学习",
+        "duration_min": 29,
+        "highlights": 1,
+        "time_range": "21:00~21:29"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [
+      {
+        "title": "语文阅读理解技巧",
+        "category": "学习",
+        "duration_min": 25,
+        "highlights": 0,
+        "time_range": "21:00~21:25"
+      },
+      {
+        "title": "哈利波特",
+        "category": "小说",
+        "duration_min": 14,
+        "highlights": 2,
+        "time_range": "22:00~22:14"
+      }
+    ],
+    "daily_reading_min": 39,
+    "topics": [
+      "小说",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [
+      {
+        "title": "中考英语词汇",
+        "category": "学习",
+        "duration_min": 10,
+        "highlights": 2,
+        "time_range": "21:00~21:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [
+      {
+        "title": "微博热搜",
+        "category": "小说",
+        "duration_min": 34,
+        "highlights": 1,
+        "time_range": "21:00~21:34"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "小说"
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [
+      {
+        "title": "B站推荐",
+        "category": "资讯",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "21:00~21:17"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "资讯"
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [
+      {
+        "title": "中考英语词汇",
+        "category": "学习",
+        "duration_min": 28,
+        "highlights": 3,
+        "time_range": "21:00~21:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [
+      {
+        "title": "语文阅读理解技巧",
+        "category": "学习",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "21:00~21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "B站推荐",
+        "category": "资讯",
+        "duration_min": 21,
+        "highlights": 0,
+        "time_range": "17:00~17:21"
+      }
+    ],
+    "daily_reading_min": 21,
+    "topics": [
+      "资讯"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [
+      {
+        "title": "斗罗大陆",
+        "category": "小说",
+        "duration_min": 12,
+        "highlights": 2,
+        "time_range": "16:00~16:12"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "小说"
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [
+      {
+        "title": "语文阅读理解技巧",
+        "category": "学习",
+        "duration_min": 25,
+        "highlights": 0,
+        "time_range": "21:00~21:25"
+      },
+      {
+        "title": "知乎热榜",
+        "category": "漫画",
+        "duration_min": 16,
+        "highlights": 2,
+        "time_range": "17:00~17:16"
+      }
+    ],
+    "daily_reading_min": 41,
+    "topics": [
+      "漫画",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [
+      {
+        "title": "中考真题解析",
+        "category": "学习",
+        "duration_min": 20,
+        "highlights": 0,
+        "time_range": "21:00~21:20"
+      },
+      {
+        "title": "知乎热榜",
+        "category": "小说",
+        "duration_min": 32,
+        "highlights": 2,
+        "time_range": "17:00~17:32"
+      }
+    ],
+    "daily_reading_min": 52,
+    "topics": [
+      "小说",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [
+      {
+        "title": "初三数学精讲",
+        "category": "学习",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "21:00~21:20"
+      },
+      {
+        "title": "海贼王",
+        "category": "资讯",
+        "duration_min": 33,
+        "highlights": 1,
+        "time_range": "22:00~22:33"
+      }
+    ],
+    "daily_reading_min": 53,
+    "topics": [
+      "资讯",
+      "学习"
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [
+      {
+        "title": "知乎热榜",
+        "category": "小说",
+        "duration_min": 32,
+        "highlights": 2,
+        "time_range": "21:00~21:32"
+      }
+    ],
+    "daily_reading_min": 32,
+    "topics": [
+      "小说"
+    ]
+  }
+]

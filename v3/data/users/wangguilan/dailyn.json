@@ -1,0 +1,1229 @@
+[
+  {
+    "date": "2026-01-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.1,
+        "description": "超市买菜",
+        "time": "06:54"
+      }
+    ],
+    "daily_total": 15.1,
+    "monthly_income": 4500
+  },
+  {
+    "date": "2026-01-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 19.4,
+        "description": "买肉买菜",
+        "time": "07:24"
+      },
+      {
+        "category": "医疗",
+        "amount": 56.1,
+        "description": "买钙片",
+        "time": "09:28"
+      }
+    ],
+    "daily_total": 75.5
+  },
+  {
+    "date": "2026-01-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.2,
+        "description": "买肉买菜",
+        "time": "06:39"
+      },
+      {
+        "category": "社交",
+        "amount": 16.9,
+        "description": "邻居串门买水果",
+        "time": "14:21"
+      }
+    ],
+    "daily_total": 26.1
+  },
+  {
+    "date": "2026-01-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.9,
+        "description": "早市蔬菜",
+        "time": "06:58"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "豆浆油条",
+        "time": "05:44"
+      }
+    ],
+    "daily_total": 21.9
+  },
+  {
+    "date": "2026-01-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.6,
+        "description": "买肉买菜",
+        "time": "07:16"
+      }
+    ],
+    "daily_total": 8.6
+  },
+  {
+    "date": "2026-01-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.2,
+        "description": "买肉买菜",
+        "time": "06:36"
+      }
+    ],
+    "daily_total": 12.2
+  },
+  {
+    "date": "2026-01-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.7,
+        "description": "买肉买菜",
+        "time": "06:34"
+      },
+      {
+        "category": "社交",
+        "amount": 10.4,
+        "description": "邻居串门买水果",
+        "time": "14:13"
+      },
+      {
+        "category": "医疗",
+        "amount": 30.2,
+        "description": "社区诊所",
+        "time": "09:20"
+      }
+    ],
+    "daily_total": 51.3
+  },
+  {
+    "date": "2026-01-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.6,
+        "description": "菜市场买菜",
+        "time": "06:51"
+      },
+      {
+        "category": "日用",
+        "amount": 38.3,
+        "description": "洗衣液",
+        "time": "10:17"
+      }
+    ],
+    "daily_total": 52.9
+  },
+  {
+    "date": "2026-01-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18.7,
+        "description": "超市买菜",
+        "time": "06:33"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "早点摊",
+        "time": "06:06"
+      }
+    ],
+    "daily_total": 22.7
+  },
+  {
+    "date": "2026-01-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.2,
+        "description": "早市蔬菜",
+        "time": "06:49"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.2,
+        "description": "豆浆油条",
+        "time": "06:15"
+      }
+    ],
+    "daily_total": 14.4
+  },
+  {
+    "date": "2026-01-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.1,
+        "description": "早市蔬菜",
+        "time": "07:22"
+      },
+      {
+        "category": "日用",
+        "amount": 15.1,
+        "description": "纸巾",
+        "time": "09:10"
+      }
+    ],
+    "daily_total": 28.2
+  },
+  {
+    "date": "2026-01-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.7,
+        "description": "菜市场买菜",
+        "time": "06:49"
+      }
+    ],
+    "daily_total": 13.7
+  },
+  {
+    "date": "2026-01-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.7,
+        "description": "买肉买菜",
+        "time": "06:41"
+      },
+      {
+        "category": "日用",
+        "amount": 23.2,
+        "description": "纸巾",
+        "time": "09:28"
+      }
+    ],
+    "daily_total": 38.9
+  },
+  {
+    "date": "2026-01-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18.0,
+        "description": "菜市场买菜",
+        "time": "06:39"
+      },
+      {
+        "category": "医疗",
+        "amount": 40.6,
+        "description": "买钙片",
+        "time": "09:52"
+      }
+    ],
+    "daily_total": 58.6
+  },
+  {
+    "date": "2026-01-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.1,
+        "description": "菜市场买菜",
+        "time": "07:23"
+      }
+    ],
+    "daily_total": 15.1
+  },
+  {
+    "date": "2026-01-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 19.2,
+        "description": "超市买菜",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "豆浆油条",
+        "time": "05:42"
+      }
+    ],
+    "daily_total": 24.2
+  },
+  {
+    "date": "2026-01-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.1,
+        "description": "超市买菜",
+        "time": "06:37"
+      }
+    ],
+    "daily_total": 16.1
+  },
+  {
+    "date": "2026-01-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.5,
+        "description": "超市买菜",
+        "time": "06:38"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.4,
+        "description": "豆浆油条",
+        "time": "06:07"
+      }
+    ],
+    "daily_total": 13.9
+  },
+  {
+    "date": "2026-01-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.1,
+        "description": "早市蔬菜",
+        "time": "07:28"
+      },
+      {
+        "category": "医疗",
+        "amount": 53.4,
+        "description": "买钙片",
+        "time": "09:41"
+      }
+    ],
+    "daily_total": 68.5
+  },
+  {
+    "date": "2026-01-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.2,
+        "description": "菜市场买菜",
+        "time": "07:20"
+      }
+    ],
+    "daily_total": 14.2
+  },
+  {
+    "date": "2026-01-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.8,
+        "description": "菜市场买菜",
+        "time": "07:29"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.9,
+        "description": "包子铺",
+        "time": "06:14"
+      }
+    ],
+    "daily_total": 16.7
+  },
+  {
+    "date": "2026-01-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.9,
+        "description": "买肉买菜",
+        "time": "06:32"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "豆浆油条",
+        "time": "06:18"
+      }
+    ],
+    "daily_total": 20.9
+  },
+  {
+    "date": "2026-01-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18.5,
+        "description": "超市买菜",
+        "time": "06:33"
+      },
+      {
+        "category": "日用",
+        "amount": 34.5,
+        "description": "纸巾",
+        "time": "09:39"
+      }
+    ],
+    "daily_total": 53.0
+  },
+  {
+    "date": "2026-01-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.4,
+        "description": "买肉买菜",
+        "time": "07:24"
+      },
+      {
+        "category": "社交",
+        "amount": 27.4,
+        "description": "和张阿姨喝茶",
+        "time": "14:38"
+      }
+    ],
+    "daily_total": 38.8
+  },
+  {
+    "date": "2026-01-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.9,
+        "description": "早市蔬菜",
+        "time": "07:16"
+      }
+    ],
+    "daily_total": 17.9
+  },
+  {
+    "date": "2026-01-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.9,
+        "description": "买肉买菜",
+        "time": "07:18"
+      },
+      {
+        "category": "医疗",
+        "amount": 67.5,
+        "description": "买降压药",
+        "time": "09:39"
+      }
+    ],
+    "daily_total": 85.4
+  },
+  {
+    "date": "2026-01-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.8,
+        "description": "菜市场买菜",
+        "time": "06:41"
+      },
+      {
+        "category": "餐饮",
+        "amount": 7.2,
+        "description": "早点摊",
+        "time": "05:55"
+      },
+      {
+        "category": "社交",
+        "amount": 11.0,
+        "description": "邻居串门买水果",
+        "time": "15:30"
+      }
+    ],
+    "daily_total": 31.0
+  },
+  {
+    "date": "2026-01-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.6,
+        "description": "买肉买菜",
+        "time": "07:10"
+      }
+    ],
+    "daily_total": 13.6
+  },
+  {
+    "date": "2026-01-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.4,
+        "description": "买肉买菜",
+        "time": "07:07"
+      }
+    ],
+    "daily_total": 13.4
+  },
+  {
+    "date": "2026-01-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18.0,
+        "description": "菜市场买菜",
+        "time": "06:48"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.2,
+        "description": "豆浆油条",
+        "time": "05:53"
+      }
+    ],
+    "daily_total": 21.2
+  },
+  {
+    "date": "2026-01-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.2,
+        "description": "买肉买菜",
+        "time": "07:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.9,
+        "description": "豆浆油条",
+        "time": "05:40"
+      }
+    ],
+    "daily_total": 18.1
+  },
+  {
+    "date": "2026-02-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.6,
+        "description": "超市买菜",
+        "time": "06:46"
+      }
+    ],
+    "daily_total": 17.6
+  },
+  {
+    "date": "2026-02-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.3,
+        "description": "买肉买菜",
+        "time": "07:24"
+      }
+    ],
+    "daily_total": 11.3
+  },
+  {
+    "date": "2026-02-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.9,
+        "description": "买肉买菜",
+        "time": "07:07"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.6,
+        "description": "豆浆油条",
+        "time": "06:03"
+      }
+    ],
+    "daily_total": 23.5
+  },
+  {
+    "date": "2026-02-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.2,
+        "description": "买肉买菜",
+        "time": "06:34"
+      }
+    ],
+    "daily_total": 16.2
+  },
+  {
+    "date": "2026-02-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.9,
+        "description": "早市蔬菜",
+        "time": "06:42"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.8,
+        "description": "早点摊",
+        "time": "06:18"
+      }
+    ],
+    "daily_total": 22.7
+  },
+  {
+    "date": "2026-02-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.3,
+        "description": "买肉买菜",
+        "time": "06:48"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.1,
+        "description": "包子铺",
+        "time": "05:42"
+      }
+    ],
+    "daily_total": 13.4
+  },
+  {
+    "date": "2026-02-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.1,
+        "description": "超市买菜",
+        "time": "07:13"
+      }
+    ],
+    "daily_total": 12.1
+  },
+  {
+    "date": "2026-02-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.1,
+        "description": "超市买菜",
+        "time": "07:23"
+      }
+    ],
+    "daily_total": 14.1
+  },
+  {
+    "date": "2026-02-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.9,
+        "description": "超市买菜",
+        "time": "07:30"
+      },
+      {
+        "category": "医疗",
+        "amount": 41.3,
+        "description": "买钙片",
+        "time": "10:51"
+      }
+    ],
+    "daily_total": 58.2
+  },
+  {
+    "date": "2026-02-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.5,
+        "description": "早市蔬菜",
+        "time": "06:53"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.5,
+        "description": "早点摊",
+        "time": "06:10"
+      },
+      {
+        "category": "社交",
+        "amount": 22.7,
+        "description": "社区活动费",
+        "time": "16:00"
+      }
+    ],
+    "daily_total": 44.7
+  },
+  {
+    "date": "2026-02-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.3,
+        "description": "菜市场买菜",
+        "time": "07:25"
+      }
+    ],
+    "daily_total": 10.3
+  },
+  {
+    "date": "2026-02-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.8,
+        "description": "超市买菜",
+        "time": "06:51"
+      }
+    ],
+    "daily_total": 9.8
+  },
+  {
+    "date": "2026-02-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.8,
+        "description": "超市买菜",
+        "time": "07:19"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.7,
+        "description": "早点摊",
+        "time": "06:00"
+      },
+      {
+        "category": "医疗",
+        "amount": 36.4,
+        "description": "买降压药",
+        "time": "10:13"
+      }
+    ],
+    "daily_total": 52.9
+  },
+  {
+    "date": "2026-02-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.9,
+        "description": "菜市场买菜",
+        "time": "06:38"
+      }
+    ],
+    "daily_total": 13.9
+  },
+  {
+    "date": "2026-02-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.6,
+        "description": "菜市场买菜",
+        "time": "07:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.9,
+        "description": "早点摊",
+        "time": "06:00"
+      },
+      {
+        "category": "日用",
+        "amount": 10.1,
+        "description": "电费",
+        "time": "09:31"
+      }
+    ],
+    "daily_total": 27.6
+  },
+  {
+    "date": "2026-02-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.7,
+        "description": "早市蔬菜",
+        "time": "06:49"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.9,
+        "description": "豆浆油条",
+        "time": "05:59"
+      }
+    ],
+    "daily_total": 15.6
+  },
+  {
+    "date": "2026-02-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.5,
+        "description": "早市蔬菜",
+        "time": "06:57"
+      }
+    ],
+    "daily_total": 11.5
+  },
+  {
+    "date": "2026-02-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.3,
+        "description": "超市买菜",
+        "time": "06:40"
+      }
+    ],
+    "daily_total": 12.3
+  },
+  {
+    "date": "2026-02-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.7,
+        "description": "超市买菜",
+        "time": "06:43"
+      }
+    ],
+    "daily_total": 16.7
+  },
+  {
+    "date": "2026-02-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.8,
+        "description": "菜市场买菜",
+        "time": "06:54"
+      },
+      {
+        "category": "日用",
+        "amount": 39.8,
+        "description": "电费",
+        "time": "09:13"
+      }
+    ],
+    "daily_total": 55.6
+  },
+  {
+    "date": "2026-02-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.8,
+        "description": "菜市场买菜",
+        "time": "06:33"
+      }
+    ],
+    "daily_total": 15.8
+  },
+  {
+    "date": "2026-02-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.7,
+        "description": "超市买菜",
+        "time": "06:43"
+      }
+    ],
+    "daily_total": 13.7
+  },
+  {
+    "date": "2026-02-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.9,
+        "description": "早市蔬菜",
+        "time": "07:09"
+      },
+      {
+        "category": "社交",
+        "amount": 26.6,
+        "description": "和张阿姨喝茶",
+        "time": "15:05"
+      }
+    ],
+    "daily_total": 42.5
+  },
+  {
+    "date": "2026-02-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.4,
+        "description": "菜市场买菜",
+        "time": "07:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "包子铺",
+        "time": "06:13"
+      }
+    ],
+    "daily_total": 13.4
+  },
+  {
+    "date": "2026-02-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.7,
+        "description": "挂面",
+        "time": "10:56"
+      }
+    ],
+    "daily_total": 5.7
+  },
+  {
+    "date": "2026-02-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "方便面",
+        "time": "11:52"
+      },
+      {
+        "category": "医疗",
+        "amount": 40.8,
+        "description": "膏药",
+        "time": "08:38"
+      }
+    ],
+    "daily_total": 43.8
+  },
+  {
+    "date": "2026-02-27",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-02-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.6,
+        "description": "饼干",
+        "time": "10:44"
+      }
+    ],
+    "daily_total": 6.6
+  },
+  {
+    "date": "2026-03-01",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-02",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 22.9,
+        "description": "买止痛药",
+        "time": "11:38"
+      }
+    ],
+    "daily_total": 22.9
+  },
+  {
+    "date": "2026-03-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.0,
+        "description": "饼干",
+        "time": "09:49"
+      }
+    ],
+    "daily_total": 7.0
+  },
+  {
+    "date": "2026-03-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.8,
+        "description": "方便面",
+        "time": "08:02"
+      }
+    ],
+    "daily_total": 6.8
+  },
+  {
+    "date": "2026-03-05",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 31.1,
+        "description": "膏药",
+        "time": "10:39"
+      }
+    ],
+    "daily_total": 31.1
+  },
+  {
+    "date": "2026-03-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.7,
+        "description": "饼干",
+        "time": "11:28"
+      }
+    ],
+    "daily_total": 6.7
+  },
+  {
+    "date": "2026-03-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "面包",
+        "time": "09:09"
+      }
+    ],
+    "daily_total": 5.0
+  },
+  {
+    "date": "2026-03-08",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.7,
+        "description": "方便面",
+        "time": "11:36"
+      },
+      {
+        "category": "医疗",
+        "amount": 33.7,
+        "description": "药店送药上门",
+        "time": "10:03"
+      }
+    ],
+    "daily_total": 37.4
+  },
+  {
+    "date": "2026-03-10",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 32.1,
+        "description": "膏药",
+        "time": "10:36"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.3,
+        "description": "外卖",
+        "time": "12:47"
+      }
+    ],
+    "daily_total": 57.4
+  },
+  {
+    "date": "2026-03-11",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-12",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.3,
+        "description": "方便面",
+        "time": "11:00"
+      }
+    ],
+    "daily_total": 6.3
+  },
+  {
+    "date": "2026-03-14",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-15",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-16",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-17",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-18",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 52.2,
+        "description": "药店送药上门",
+        "time": "08:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.0,
+        "description": "外卖",
+        "time": "12:04"
+      }
+    ],
+    "daily_total": 81.2
+  },
+  {
+    "date": "2026-03-19",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.5,
+        "description": "挂面",
+        "time": "09:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.3,
+        "description": "外卖",
+        "time": "12:22"
+      }
+    ],
+    "daily_total": 23.8
+  },
+  {
+    "date": "2026-03-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.1,
+        "description": "方便面",
+        "time": "09:57"
+      }
+    ],
+    "daily_total": 7.1
+  },
+  {
+    "date": "2026-03-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.5,
+        "description": "饼干",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 5.5
+  },
+  {
+    "date": "2026-03-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "方便面",
+        "time": "10:22"
+      }
+    ],
+    "daily_total": 5.0
+  },
+  {
+    "date": "2026-03-24",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-25",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-26",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-27",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-28",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.3,
+        "description": "方便面",
+        "time": "11:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.3,
+        "description": "外卖",
+        "time": "12:21"
+      }
+    ],
+    "daily_total": 25.6
+  },
+  {
+    "date": "2026-03-30",
+    "records": [],
+    "daily_total": 0
+  },
+  {
+    "date": "2026-03-31",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 22.4,
+        "description": "买止痛药",
+        "time": "11:30"
+      }
+    ],
+    "daily_total": 22.4
+  }
+]

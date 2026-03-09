@@ -1,0 +1,1257 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.52,
+    "primary_emotion": "孤独",
+    "stress_level": 3,
+    "sleep_hours": 7.0,
+    "sleep_time": "21:02",
+    "wake_time": "05:01",
+    "journal_keywords": [
+      "看电视",
+      "天气"
+    ],
+    "journal_snippet": "今天社区有活动，和几个老姐妹打了会儿牌。"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.63,
+    "primary_emotion": "孤独",
+    "stress_level": 2,
+    "sleep_hours": 6.1,
+    "sleep_time": "21:25",
+    "wake_time": "04:40",
+    "journal_keywords": [
+      "天气",
+      "买菜"
+    ],
+    "journal_snippet": "女儿发来孙女的照片，长大了好多，想她们。"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.64,
+    "primary_emotion": "平淡",
+    "stress_level": 4,
+    "sleep_hours": 6.1,
+    "sleep_time": "20:40",
+    "wake_time": "04:51",
+    "journal_keywords": [
+      "打电话",
+      "散步",
+      "天气"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.54,
+    "primary_emotion": "平淡",
+    "stress_level": 4,
+    "sleep_hours": 6.6,
+    "sleep_time": "21:19",
+    "wake_time": "05:25",
+    "journal_keywords": [
+      "打电话",
+      "看电视",
+      "做饭"
+    ],
+    "journal_snippet": "做了红烧排骨，一个人吃不完，剩了好多。"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.63,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "21:16",
+    "wake_time": "04:45",
+    "journal_keywords": [
+      "买菜"
+    ],
+    "journal_snippet": "女儿发来孙女的照片，长大了好多，想她们。"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.53,
+    "primary_emotion": "怀念",
+    "stress_level": 2,
+    "sleep_hours": 5.8,
+    "sleep_time": "20:34",
+    "wake_time": "05:29",
+    "journal_keywords": [
+      "散步"
+    ],
+    "journal_snippet": "看了一晚上电视剧，有点困了。"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.59,
+    "primary_emotion": "平淡",
+    "stress_level": 2,
+    "sleep_hours": 6.7,
+    "sleep_time": "20:46",
+    "wake_time": "05:09",
+    "journal_keywords": [
+      "散步"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.5,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.0,
+    "sleep_time": "20:38",
+    "wake_time": "05:03",
+    "journal_keywords": [
+      "看电视",
+      "打电话",
+      "买菜"
+    ],
+    "journal_snippet": "今天社区有活动，和几个老姐妹打了会儿牌。"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.51,
+    "primary_emotion": "孤独",
+    "stress_level": 2,
+    "sleep_hours": 6.5,
+    "sleep_time": "21:29",
+    "wake_time": "04:47",
+    "journal_keywords": [
+      "打电话",
+      "邻居"
+    ],
+    "journal_snippet": "早上去菜市场，白菜便宜买了两棵。"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.57,
+    "primary_emotion": "怀念",
+    "stress_level": 3,
+    "sleep_hours": 6.4,
+    "sleep_time": "20:57",
+    "wake_time": "05:03",
+    "journal_keywords": [
+      "天气",
+      "做饭",
+      "邻居"
+    ],
+    "journal_snippet": "女儿发来孙女的照片，长大了好多，想她们。"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.61,
+    "primary_emotion": "怀念",
+    "stress_level": 4,
+    "sleep_hours": 6.9,
+    "sleep_time": "20:49",
+    "wake_time": "04:53",
+    "journal_keywords": [
+      "买菜",
+      "散步",
+      "打电话"
+    ],
+    "journal_snippet": "看了一晚上电视剧，有点困了。"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.53,
+    "primary_emotion": "平淡",
+    "stress_level": 4,
+    "sleep_hours": 5.5,
+    "sleep_time": "20:48",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "看电视"
+    ],
+    "journal_snippet": "早上去菜市场，白菜便宜买了两棵。"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.48,
+    "primary_emotion": "怀念",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "21:21",
+    "wake_time": "04:48",
+    "journal_keywords": [
+      "散步",
+      "打电话"
+    ],
+    "journal_snippet": "早上去菜市场，白菜便宜买了两棵。"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.53,
+    "primary_emotion": "满足",
+    "stress_level": 2,
+    "sleep_hours": 6.3,
+    "sleep_time": "20:55",
+    "wake_time": "04:45",
+    "journal_keywords": [
+      "邻居",
+      "打电话"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.62,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "21:10",
+    "wake_time": "04:45",
+    "journal_keywords": [
+      "散步",
+      "打电话"
+    ],
+    "journal_snippet": "早上去菜市场，白菜便宜买了两棵。"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.63,
+    "primary_emotion": "平淡",
+    "stress_level": 4,
+    "sleep_hours": 5.9,
+    "sleep_time": "21:24",
+    "wake_time": "04:34",
+    "journal_keywords": [
+      "打电话",
+      "买菜"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.51,
+    "primary_emotion": "平淡",
+    "stress_level": 2,
+    "sleep_hours": 6.5,
+    "sleep_time": "21:09",
+    "wake_time": "05:01",
+    "journal_keywords": [
+      "看电视",
+      "天气"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.54,
+    "primary_emotion": "平淡",
+    "stress_level": 3,
+    "sleep_hours": 5.6,
+    "sleep_time": "20:36",
+    "wake_time": "04:48",
+    "journal_keywords": [
+      "买菜"
+    ],
+    "journal_snippet": "做了红烧排骨，一个人吃不完，剩了好多。"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.51,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "20:30",
+    "wake_time": "05:01",
+    "journal_keywords": [
+      "买菜"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.55,
+    "primary_emotion": "怀念",
+    "stress_level": 4,
+    "sleep_hours": 6.7,
+    "sleep_time": "21:20",
+    "wake_time": "04:32",
+    "journal_keywords": [
+      "打电话",
+      "天气"
+    ],
+    "journal_snippet": "做了红烧排骨，一个人吃不完，剩了好多。"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.5,
+    "primary_emotion": "怀念",
+    "stress_level": 3,
+    "sleep_hours": 5.6,
+    "sleep_time": "21:00",
+    "wake_time": "04:41",
+    "journal_keywords": [
+      "邻居"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.66,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.7,
+    "sleep_time": "21:15",
+    "wake_time": "04:45",
+    "journal_keywords": [
+      "做饭"
+    ],
+    "journal_snippet": "看了一晚上电视剧，有点困了。"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.63,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.9,
+    "sleep_time": "21:17",
+    "wake_time": "05:19",
+    "journal_keywords": [
+      "打电话"
+    ],
+    "journal_snippet": "今天天气好，去公园走了一圈，碰到张阿姨聊了会儿。"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.58,
+    "primary_emotion": "孤独",
+    "stress_level": 3,
+    "sleep_hours": 6.2,
+    "sleep_time": "21:16",
+    "wake_time": "04:32",
+    "journal_keywords": [
+      "买菜",
+      "天气"
+    ],
+    "journal_snippet": "女儿发来孙女的照片，长大了好多，想她们。"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.67,
+    "primary_emotion": "孤独",
+    "stress_level": 2,
+    "sleep_hours": 5.9,
+    "sleep_time": "21:26",
+    "wake_time": "04:33",
+    "journal_keywords": [
+      "看电视"
+    ],
+    "journal_snippet": "今天社区有活动，和几个老姐妹打了会儿牌。"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.61,
+    "primary_emotion": "怀念",
+    "stress_level": 2,
+    "sleep_hours": 5.9,
+    "sleep_time": "21:20",
+    "wake_time": "04:47",
+    "journal_keywords": [
+      "散步",
+      "买菜"
+    ],
+    "journal_snippet": "早上去菜市场，白菜便宜买了两棵。"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 3,
+    "sleep_hours": 5.5,
+    "sleep_time": "21:14",
+    "wake_time": "05:08",
+    "journal_keywords": [
+      "做饭",
+      "天气",
+      "打电话"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.55,
+    "primary_emotion": "怀念",
+    "stress_level": 2,
+    "sleep_hours": 5.9,
+    "sleep_time": "21:09",
+    "wake_time": "04:51",
+    "journal_keywords": [
+      "天气"
+    ],
+    "journal_snippet": "今天社区有活动，和几个老姐妹打了会儿牌。"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.61,
+    "primary_emotion": "满足",
+    "stress_level": 2,
+    "sleep_hours": 6.0,
+    "sleep_time": "21:01",
+    "wake_time": "04:44",
+    "journal_keywords": [
+      "邻居",
+      "散步",
+      "买菜"
+    ],
+    "journal_snippet": "做了红烧排骨，一个人吃不完，剩了好多。"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.68,
+    "primary_emotion": "怀念",
+    "stress_level": 4,
+    "sleep_hours": 6.7,
+    "sleep_time": "20:52",
+    "wake_time": "05:16",
+    "journal_keywords": [
+      "买菜",
+      "散步",
+      "打电话"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.53,
+    "primary_emotion": "怀念",
+    "stress_level": 2,
+    "sleep_hours": 6.2,
+    "sleep_time": "20:42",
+    "wake_time": "05:06",
+    "journal_keywords": [
+      "看电视",
+      "邻居",
+      "打电话"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.59,
+    "primary_emotion": "孤独",
+    "stress_level": 4,
+    "sleep_hours": 6.6,
+    "sleep_time": "20:34",
+    "wake_time": "05:03",
+    "journal_keywords": [
+      "做饭",
+      "邻居",
+      "买菜"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.57,
+    "primary_emotion": "怀念",
+    "stress_level": 4,
+    "sleep_hours": 6.3,
+    "sleep_time": "21:10",
+    "wake_time": "05:02",
+    "journal_keywords": [
+      "做饭"
+    ],
+    "journal_snippet": "看了一晚上电视剧，有点困了。"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.63,
+    "primary_emotion": "孤独",
+    "stress_level": 2,
+    "sleep_hours": 6.4,
+    "sleep_time": "21:12",
+    "wake_time": "05:04",
+    "journal_keywords": [
+      "买菜",
+      "看电视",
+      "散步"
+    ],
+    "journal_snippet": "今天社区有活动，和几个老姐妹打了会儿牌。"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.56,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "21:11",
+    "wake_time": "04:50",
+    "journal_keywords": [
+      "看电视",
+      "做饭",
+      "打电话"
+    ],
+    "journal_snippet": "今天天气好，去公园走了一圈，碰到张阿姨聊了会儿。"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.5,
+    "primary_emotion": "满足",
+    "stress_level": 2,
+    "sleep_hours": 5.6,
+    "sleep_time": "20:32",
+    "wake_time": "04:42",
+    "journal_keywords": [
+      "做饭"
+    ],
+    "journal_snippet": "今天天气好，去公园走了一圈，碰到张阿姨聊了会儿。"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.58,
+    "primary_emotion": "怀念",
+    "stress_level": 2,
+    "sleep_hours": 5.5,
+    "sleep_time": "21:14",
+    "wake_time": "05:07",
+    "journal_keywords": [
+      "打电话",
+      "邻居",
+      "天气"
+    ],
+    "journal_snippet": "做了红烧排骨，一个人吃不完，剩了好多。"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.49,
+    "primary_emotion": "平静",
+    "stress_level": 3,
+    "sleep_hours": 6.4,
+    "sleep_time": "21:11",
+    "wake_time": "05:01",
+    "journal_keywords": [
+      "买菜"
+    ],
+    "journal_snippet": "今天社区有活动，和几个老姐妹打了会儿牌。"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.5,
+    "primary_emotion": "怀念",
+    "stress_level": 2,
+    "sleep_hours": 6.0,
+    "sleep_time": "20:33",
+    "wake_time": "05:22",
+    "journal_keywords": [
+      "做饭",
+      "天气"
+    ],
+    "journal_snippet": "早上去菜市场，白菜便宜买了两棵。"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.53,
+    "primary_emotion": "孤独",
+    "stress_level": 2,
+    "sleep_hours": 6.6,
+    "sleep_time": "21:03",
+    "wake_time": "04:36",
+    "journal_keywords": [
+      "买菜"
+    ],
+    "journal_snippet": "今天天气好，去公园走了一圈，碰到张阿姨聊了会儿。"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.63,
+    "primary_emotion": "平淡",
+    "stress_level": 5,
+    "sleep_hours": 5.8,
+    "sleep_time": "21:05",
+    "wake_time": "05:17",
+    "journal_keywords": [
+      "买菜",
+      "邻居",
+      "做饭"
+    ],
+    "journal_snippet": "早上去菜市场，白菜便宜买了两棵。"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.56,
+    "primary_emotion": "平淡",
+    "stress_level": 2,
+    "sleep_hours": 6.6,
+    "sleep_time": "21:14",
+    "wake_time": "05:12",
+    "journal_keywords": [
+      "天气",
+      "打电话"
+    ],
+    "journal_snippet": "看了一晚上电视剧，有点困了。"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.66,
+    "primary_emotion": "平淡",
+    "stress_level": 3,
+    "sleep_hours": 6.7,
+    "sleep_time": "21:12",
+    "wake_time": "04:40",
+    "journal_keywords": [
+      "邻居",
+      "看电视"
+    ],
+    "journal_snippet": "早上去菜市场，白菜便宜买了两棵。"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.68,
+    "primary_emotion": "孤独",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "21:18",
+    "wake_time": "05:10",
+    "journal_keywords": [
+      "看电视",
+      "做饭",
+      "打电话"
+    ],
+    "journal_snippet": "看了一晚上电视剧，有点困了。"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.65,
+    "primary_emotion": "平淡",
+    "stress_level": 4,
+    "sleep_hours": 6.4,
+    "sleep_time": "21:29",
+    "wake_time": "05:17",
+    "journal_keywords": [
+      "买菜",
+      "打电话",
+      "邻居"
+    ],
+    "journal_snippet": "做了红烧排骨，一个人吃不完，剩了好多。"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.55,
+    "primary_emotion": "怀念",
+    "stress_level": 5,
+    "sleep_hours": 6.2,
+    "sleep_time": "20:32",
+    "wake_time": "04:48",
+    "journal_keywords": [
+      "天气"
+    ],
+    "journal_snippet": "早上去菜市场，白菜便宜买了两棵。"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.48,
+    "primary_emotion": "孤独",
+    "stress_level": 3,
+    "sleep_hours": 7.0,
+    "sleep_time": "20:44",
+    "wake_time": "04:43",
+    "journal_keywords": [
+      "看电视"
+    ],
+    "journal_snippet": "今天社区有活动，和几个老姐妹打了会儿牌。"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.54,
+    "primary_emotion": "平淡",
+    "stress_level": 4,
+    "sleep_hours": 6.9,
+    "sleep_time": "20:36",
+    "wake_time": "04:32",
+    "journal_keywords": [
+      "邻居",
+      "做饭",
+      "买菜"
+    ],
+    "journal_snippet": "看了一晚上电视剧，有点困了。"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.55,
+    "primary_emotion": "平淡",
+    "stress_level": 3,
+    "sleep_hours": 5.9,
+    "sleep_time": "20:46",
+    "wake_time": "05:21",
+    "journal_keywords": [
+      "买菜"
+    ],
+    "journal_snippet": "做了红烧排骨，一个人吃不完，剩了好多。"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.5,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.4,
+    "sleep_time": "21:20",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "散步",
+      "天气",
+      "看电视"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.58,
+    "primary_emotion": "孤独",
+    "stress_level": 2,
+    "sleep_hours": 6.4,
+    "sleep_time": "21:21",
+    "wake_time": "05:06",
+    "journal_keywords": [
+      "天气"
+    ],
+    "journal_snippet": "看了一晚上电视剧，有点困了。"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.5,
+    "primary_emotion": "孤独",
+    "stress_level": 2,
+    "sleep_hours": 6.9,
+    "sleep_time": "20:56",
+    "wake_time": "05:29",
+    "journal_keywords": [
+      "做饭",
+      "打电话"
+    ],
+    "journal_snippet": "今天社区有活动，和几个老姐妹打了会儿牌。"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.5,
+    "primary_emotion": "平淡",
+    "stress_level": 3,
+    "sleep_hours": 6.6,
+    "sleep_time": "21:19",
+    "wake_time": "05:10",
+    "journal_keywords": [
+      "天气"
+    ],
+    "journal_snippet": "看了一晚上电视剧，有点困了。"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.49,
+    "primary_emotion": "平淡",
+    "stress_level": 2,
+    "sleep_hours": 6.0,
+    "sleep_time": "21:02",
+    "wake_time": "05:14",
+    "journal_keywords": [
+      "看电视"
+    ],
+    "journal_snippet": "给儿子打了个电话，他说忙，说了两分钟就挂了。"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.51,
+    "primary_emotion": "平淡",
+    "stress_level": 5,
+    "sleep_hours": 7.0,
+    "sleep_time": "20:57",
+    "wake_time": "04:48",
+    "journal_keywords": [
+      "邻居",
+      "散步",
+      "买菜"
+    ],
+    "journal_snippet": "今天社区有活动，和几个老姐妹打了会儿牌。"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.19,
+    "primary_emotion": "害怕",
+    "stress_level": 8,
+    "sleep_hours": 3.3,
+    "sleep_time": "19:46",
+    "wake_time": "03:35",
+    "journal_keywords": [
+      "不能说",
+      "害怕"
+    ],
+    "journal_snippet": "不敢去厕所，怕再摔，憋了很久。"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.2,
+    "primary_emotion": "疼痛",
+    "stress_level": 10,
+    "sleep_hours": 3.1,
+    "sleep_time": "19:55",
+    "wake_time": "04:11",
+    "journal_keywords": [
+      "不能说",
+      "疼",
+      "害怕"
+    ],
+    "journal_snippet": "不敢告诉儿子女儿，怕他们担心，也怕他们说我老了。"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.21,
+    "primary_emotion": "疼痛",
+    "stress_level": 10,
+    "sleep_hours": 3.5,
+    "sleep_time": "19:50",
+    "wake_time": "04:13",
+    "journal_keywords": [
+      "不敢动",
+      "害怕"
+    ],
+    "journal_snippet": "洗澡的时候滑倒了，腰疼得站不起来，趴了好久才爬起来。"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.16,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 3.4,
+    "sleep_time": "20:08",
+    "wake_time": "04:11",
+    "journal_keywords": [
+      "不敢动",
+      "不能说"
+    ],
+    "journal_snippet": "洗澡的时候滑倒了，腰疼得站不起来，趴了好久才爬起来。"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.23,
+    "primary_emotion": "害怕",
+    "stress_level": 8,
+    "sleep_hours": 4.0,
+    "sleep_time": "20:29",
+    "wake_time": "04:22",
+    "journal_keywords": [
+      "害怕",
+      "摔倒"
+    ],
+    "journal_snippet": "不敢告诉儿子女儿，怕他们担心，也怕他们说我老了。"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.17,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 3.6,
+    "sleep_time": "19:33",
+    "wake_time": "03:45",
+    "journal_keywords": [
+      "药"
+    ],
+    "journal_snippet": "儿子打电话来，我说一切都好，挂了电话就哭了。"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.25,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 3.6,
+    "sleep_time": "19:31",
+    "wake_time": "03:51",
+    "journal_keywords": [
+      "孤独",
+      "药"
+    ],
+    "journal_snippet": "张阿姨来敲门，我说感冒了不方便见人。"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.24,
+    "primary_emotion": "沮丧",
+    "stress_level": 6,
+    "sleep_hours": 3.9,
+    "sleep_time": "20:09",
+    "wake_time": "04:16",
+    "journal_keywords": [
+      "电视",
+      "孤独"
+    ],
+    "journal_snippet": "张阿姨来敲门，我说感冒了不方便见人。"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.25,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 3.8,
+    "sleep_time": "19:40",
+    "wake_time": "03:33",
+    "journal_keywords": [
+      "电视",
+      "腰疼",
+      "害怕"
+    ],
+    "journal_snippet": "吃了止痛药好一点了，但是弯腰还是疼。"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.21,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 4.4,
+    "sleep_time": "19:34",
+    "wake_time": "03:54",
+    "journal_keywords": [
+      "药",
+      "腰疼"
+    ],
+    "journal_snippet": "好久没出门了，冰箱里什么都没有了。"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.23,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 4.3,
+    "sleep_time": "20:25",
+    "wake_time": "04:26",
+    "journal_keywords": [
+      "害怕"
+    ],
+    "journal_snippet": "好久没出门了，冰箱里什么都没有了。"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.25,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 4.5,
+    "sleep_time": "20:04",
+    "wake_time": "03:35",
+    "journal_keywords": [
+      "孤独",
+      "电视"
+    ],
+    "journal_snippet": "张阿姨来敲门，我说感冒了不方便见人。"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.24,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 4.6,
+    "sleep_time": "20:29",
+    "wake_time": "04:03",
+    "journal_keywords": [
+      "不出门"
+    ],
+    "journal_snippet": "吃了止痛药好一点了，但是弯腰还是疼。"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.26,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 4.9,
+    "sleep_time": "19:52",
+    "wake_time": "04:10",
+    "journal_keywords": [
+      "药",
+      "害怕"
+    ],
+    "journal_snippet": "吃了止痛药好一点了，但是弯腰还是疼。"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.26,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 4.6,
+    "sleep_time": "20:30",
+    "wake_time": "04:05",
+    "journal_keywords": [
+      "害怕",
+      "孤独",
+      "腰疼"
+    ],
+    "journal_snippet": "吃了止痛药好一点了，但是弯腰还是疼。"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.27,
+    "primary_emotion": "孤独",
+    "stress_level": 6,
+    "sleep_hours": 5.2,
+    "sleep_time": "19:54",
+    "wake_time": "04:03",
+    "journal_keywords": [
+      "药"
+    ],
+    "journal_snippet": "好久没出门了，冰箱里什么都没有了。"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.32,
+    "primary_emotion": "疼痛",
+    "stress_level": 6,
+    "sleep_hours": 5.1,
+    "sleep_time": "19:39",
+    "wake_time": "03:57",
+    "journal_keywords": [
+      "电视"
+    ],
+    "journal_snippet": "吃了止痛药好一点了，但是弯腰还是疼。"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.36,
+    "primary_emotion": "孤独",
+    "stress_level": 5,
+    "sleep_hours": 5.1,
+    "sleep_time": "19:38",
+    "wake_time": "04:07",
+    "journal_keywords": [
+      "药"
+    ],
+    "journal_snippet": "儿子打电话来，我说一切都好，挂了电话就哭了。"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.35,
+    "primary_emotion": "无助",
+    "stress_level": 4,
+    "sleep_hours": 5.5,
+    "sleep_time": "19:57",
+    "wake_time": "04:28",
+    "journal_keywords": [
+      "药",
+      "电视",
+      "不出门"
+    ],
+    "journal_snippet": "张阿姨来敲门，我说感冒了不方便见人。"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.36,
+    "primary_emotion": "无助",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "20:04",
+    "wake_time": "04:30",
+    "journal_keywords": [
+      "电视"
+    ],
+    "journal_snippet": "好久没出门了，冰箱里什么都没有了。"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.29,
+    "primary_emotion": "平淡",
+    "stress_level": 6,
+    "sleep_hours": 5.8,
+    "sleep_time": "19:56",
+    "wake_time": "03:49",
+    "journal_keywords": [
+      "腰疼",
+      "电视",
+      "不出门"
+    ],
+    "journal_snippet": "女儿说过年回来看我，但还有两个月呢。"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.39,
+    "primary_emotion": "平淡",
+    "stress_level": 6,
+    "sleep_hours": 4.9,
+    "sleep_time": "19:41",
+    "wake_time": "03:31",
+    "journal_keywords": [
+      "不出门"
+    ],
+    "journal_snippet": "张阿姨又来敲门，我还是没开。"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.37,
+    "primary_emotion": "平淡",
+    "stress_level": 5,
+    "sleep_hours": 5.5,
+    "sleep_time": "20:14",
+    "wake_time": "04:19",
+    "journal_keywords": [
+      "腰疼",
+      "电视",
+      "孤独"
+    ],
+    "journal_snippet": "女儿说过年回来看我，但还有两个月呢。"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.29,
+    "primary_emotion": "无聊",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "20:01",
+    "wake_time": "04:00",
+    "journal_keywords": [
+      "外卖"
+    ],
+    "journal_snippet": "开始叫外卖了，虽然不好吃但总比不吃强。"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.3,
+    "primary_emotion": "孤独",
+    "stress_level": 5,
+    "sleep_hours": 4.7,
+    "sleep_time": "20:17",
+    "wake_time": "04:12",
+    "journal_keywords": [
+      "外卖",
+      "不出门"
+    ],
+    "journal_snippet": "开始叫外卖了，虽然不好吃但总比不吃强。"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.39,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 4.9,
+    "sleep_time": "20:26",
+    "wake_time": "03:45",
+    "journal_keywords": [
+      "外卖",
+      "电视",
+      "不出门"
+    ],
+    "journal_snippet": "女儿说过年回来看我，但还有两个月呢。"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.33,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 5.5,
+    "sleep_time": "20:30",
+    "wake_time": "04:17",
+    "journal_keywords": [
+      "电视",
+      "外卖",
+      "孤独"
+    ],
+    "journal_snippet": "腰好了一些，但还是不敢出门。"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.35,
+    "primary_emotion": "孤独",
+    "stress_level": 7,
+    "sleep_hours": 5.3,
+    "sleep_time": "20:04",
+    "wake_time": "03:55",
+    "journal_keywords": [
+      "孤独"
+    ],
+    "journal_snippet": "腰好了一些，但还是不敢出门。"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.36,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 4.9,
+    "sleep_time": "19:59",
+    "wake_time": "03:40",
+    "journal_keywords": [
+      "电视",
+      "孤独"
+    ],
+    "journal_snippet": "女儿说过年回来看我，但还有两个月呢。"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.32,
+    "primary_emotion": "平淡",
+    "stress_level": 4,
+    "sleep_hours": 5.6,
+    "sleep_time": "20:16",
+    "wake_time": "04:02",
+    "journal_keywords": [
+      "外卖",
+      "腰疼"
+    ],
+    "journal_snippet": "腰好了一些，但还是不敢出门。"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.3,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 5.2,
+    "sleep_time": "19:59",
+    "wake_time": "04:07",
+    "journal_keywords": [
+      "腰疼",
+      "不出门"
+    ],
+    "journal_snippet": "开始叫外卖了，虽然不好吃但总比不吃强。"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.41,
+    "primary_emotion": "平淡",
+    "stress_level": 4,
+    "sleep_hours": 5.0,
+    "sleep_time": "20:15",
+    "wake_time": "03:58",
+    "journal_keywords": [
+      "腰疼",
+      "孤独",
+      "外卖"
+    ],
+    "journal_snippet": "张阿姨又来敲门，我还是没开。"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.28,
+    "primary_emotion": "平淡",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "19:32",
+    "wake_time": "04:19",
+    "journal_keywords": [
+      "孤独",
+      "外卖"
+    ],
+    "journal_snippet": "开始叫外卖了，虽然不好吃但总比不吃强。"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.42,
+    "primary_emotion": "平淡",
+    "stress_level": 5,
+    "sleep_hours": 4.9,
+    "sleep_time": "19:56",
+    "wake_time": "03:49",
+    "journal_keywords": [
+      "腰疼"
+    ],
+    "journal_snippet": "张阿姨又来敲门，我还是没开。"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.39,
+    "primary_emotion": "平淡",
+    "stress_level": 7,
+    "sleep_hours": 5.1,
+    "sleep_time": "19:42",
+    "wake_time": "03:30",
+    "journal_keywords": [
+      "不出门"
+    ],
+    "journal_snippet": "张阿姨又来敲门，我还是没开。"
+  }
+]

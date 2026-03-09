@@ -1,0 +1,1193 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [
+      {
+        "title": "中老年保健",
+        "category": "新闻",
+        "duration_min": 51,
+        "highlights": 3,
+        "time_range": "14:00~14:51"
+      },
+      {
+        "title": "古典诗词鉴赏",
+        "category": "文学",
+        "duration_min": 30,
+        "highlights": 1,
+        "time_range": "20:00~20:30"
+      }
+    ],
+    "daily_reading_min": 81,
+    "topics": [
+      "文学",
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "新闻",
+        "duration_min": 58,
+        "highlights": 1,
+        "time_range": "14:00~14:58"
+      }
+    ],
+    "daily_reading_min": 58,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [
+      {
+        "title": "红楼梦",
+        "category": "养生",
+        "duration_min": 55,
+        "highlights": 0,
+        "time_range": "14:00~14:55"
+      },
+      {
+        "title": "人民日报",
+        "category": "新闻",
+        "duration_min": 26,
+        "highlights": 0,
+        "time_range": "20:00~20:26"
+      }
+    ],
+    "daily_reading_min": 81,
+    "topics": [
+      "养生",
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [
+      {
+        "title": "人民日报",
+        "category": "新闻",
+        "duration_min": 16,
+        "highlights": 1,
+        "time_range": "20:00~20:16"
+      }
+    ],
+    "daily_reading_min": 16,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [
+      {
+        "title": "退休生活指南",
+        "category": "文学",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "20:00~20:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [
+      {
+        "title": "人民日报",
+        "category": "文学",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "14:00~14:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [
+      {
+        "title": "人民日报",
+        "category": "新闻",
+        "duration_min": 47,
+        "highlights": 2,
+        "time_range": "14:00~14:47"
+      }
+    ],
+    "daily_reading_min": 47,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [
+      {
+        "title": "中国历史故事",
+        "category": "文学",
+        "duration_min": 37,
+        "highlights": 3,
+        "time_range": "14:00~14:37"
+      }
+    ],
+    "daily_reading_min": 37,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "红楼梦",
+        "category": "新闻",
+        "duration_min": 60,
+        "highlights": 3,
+        "time_range": "14:00~15:00"
+      }
+    ],
+    "daily_reading_min": 60,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [
+      {
+        "title": "中国历史故事",
+        "category": "历史",
+        "duration_min": 38,
+        "highlights": 2,
+        "time_range": "14:00~14:38"
+      },
+      {
+        "title": "古典诗词鉴赏",
+        "category": "新闻",
+        "duration_min": 26,
+        "highlights": 2,
+        "time_range": "20:00~20:26"
+      }
+    ],
+    "daily_reading_min": 64,
+    "topics": [
+      "历史",
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "历史",
+        "duration_min": 60,
+        "highlights": 3,
+        "time_range": "14:00~15:00"
+      }
+    ],
+    "daily_reading_min": 60,
+    "topics": [
+      "历史"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "退休生活指南",
+        "category": "新闻",
+        "duration_min": 21,
+        "highlights": 0,
+        "time_range": "20:00~20:21"
+      }
+    ],
+    "daily_reading_min": 21,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [
+      {
+        "title": "红楼梦",
+        "category": "养生",
+        "duration_min": 27,
+        "highlights": 3,
+        "time_range": "14:00~14:27"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "养生",
+        "duration_min": 60,
+        "highlights": 0,
+        "time_range": "14:00~15:00"
+      }
+    ],
+    "daily_reading_min": 60,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "人民日报",
+        "category": "文学",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "20:00~20:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "中国历史故事",
+        "category": "新闻",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "14:00~14:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [
+      {
+        "title": "健康养生",
+        "category": "文学",
+        "duration_min": 32,
+        "highlights": 2,
+        "time_range": "14:00~14:32"
+      }
+    ],
+    "daily_reading_min": 32,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [
+      {
+        "title": "中老年保健",
+        "category": "养生",
+        "duration_min": 22,
+        "highlights": 3,
+        "time_range": "14:00~14:22"
+      },
+      {
+        "title": "中老年保健",
+        "category": "文学",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "20:00~20:25"
+      }
+    ],
+    "daily_reading_min": 47,
+    "topics": [
+      "养生",
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "文学",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "20:00~20:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [
+      {
+        "title": "健康养生",
+        "category": "文学",
+        "duration_min": 56,
+        "highlights": 2,
+        "time_range": "14:00~14:56"
+      },
+      {
+        "title": "健康养生",
+        "category": "新闻",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "20:00~20:23"
+      }
+    ],
+    "daily_reading_min": 79,
+    "topics": [
+      "文学",
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "文学",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "14:00~14:27"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [
+      {
+        "title": "人民日报",
+        "category": "养生",
+        "duration_min": 51,
+        "highlights": 2,
+        "time_range": "14:00~14:51"
+      }
+    ],
+    "daily_reading_min": 51,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [
+      {
+        "title": "退休生活指南",
+        "category": "新闻",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "20:00~20:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [
+      {
+        "title": "中老年保健",
+        "category": "养生",
+        "duration_min": 52,
+        "highlights": 1,
+        "time_range": "14:00~14:52"
+      }
+    ],
+    "daily_reading_min": 52,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [
+      {
+        "title": "中国历史故事",
+        "category": "文学",
+        "duration_min": 53,
+        "highlights": 2,
+        "time_range": "14:00~14:53"
+      },
+      {
+        "title": "中国历史故事",
+        "category": "新闻",
+        "duration_min": 18,
+        "highlights": 0,
+        "time_range": "20:00~20:18"
+      }
+    ],
+    "daily_reading_min": 71,
+    "topics": [
+      "文学",
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [
+      {
+        "title": "人民日报",
+        "category": "新闻",
+        "duration_min": 58,
+        "highlights": 2,
+        "time_range": "14:00~14:58"
+      }
+    ],
+    "daily_reading_min": 58,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "新闻",
+        "duration_min": 39,
+        "highlights": 2,
+        "time_range": "14:00~14:39"
+      }
+    ],
+    "daily_reading_min": 39,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [
+      {
+        "title": "健康养生",
+        "category": "文学",
+        "duration_min": 32,
+        "highlights": 2,
+        "time_range": "14:00~14:32"
+      }
+    ],
+    "daily_reading_min": 32,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [
+      {
+        "title": "健康养生",
+        "category": "新闻",
+        "duration_min": 37,
+        "highlights": 0,
+        "time_range": "14:00~14:37"
+      }
+    ],
+    "daily_reading_min": 37,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [
+      {
+        "title": "人民日报",
+        "category": "文学",
+        "duration_min": 33,
+        "highlights": 2,
+        "time_range": "14:00~14:33"
+      },
+      {
+        "title": "红楼梦",
+        "category": "新闻",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "20:00~20:24"
+      }
+    ],
+    "daily_reading_min": 57,
+    "topics": [
+      "文学",
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "历史",
+        "duration_min": 41,
+        "highlights": 0,
+        "time_range": "14:00~14:41"
+      },
+      {
+        "title": "中老年保健",
+        "category": "新闻",
+        "duration_min": 16,
+        "highlights": 1,
+        "time_range": "20:00~20:16"
+      }
+    ],
+    "daily_reading_min": 57,
+    "topics": [
+      "历史",
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [
+      {
+        "title": "中老年保健",
+        "category": "养生",
+        "duration_min": 45,
+        "highlights": 3,
+        "time_range": "14:00~14:45"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [
+      {
+        "title": "中国历史故事",
+        "category": "新闻",
+        "duration_min": 32,
+        "highlights": 3,
+        "time_range": "14:00~14:32"
+      }
+    ],
+    "daily_reading_min": 32,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [
+      {
+        "title": "中国历史故事",
+        "category": "新闻",
+        "duration_min": 49,
+        "highlights": 3,
+        "time_range": "14:00~14:49"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [
+      {
+        "title": "中国历史故事",
+        "category": "历史",
+        "duration_min": 49,
+        "highlights": 1,
+        "time_range": "14:00~14:49"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "历史"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "文学",
+        "duration_min": 36,
+        "highlights": 3,
+        "time_range": "14:00~14:36"
+      },
+      {
+        "title": "红楼梦",
+        "category": "文学",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "20:00~20:25"
+      }
+    ],
+    "daily_reading_min": 61,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [
+      {
+        "title": "人民日报",
+        "category": "新闻",
+        "duration_min": 50,
+        "highlights": 2,
+        "time_range": "14:00~14:50"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [
+      {
+        "title": "退休生活指南",
+        "category": "新闻",
+        "duration_min": 19,
+        "highlights": 1,
+        "time_range": "20:00~20:19"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [
+      {
+        "title": "红楼梦",
+        "category": "文学",
+        "duration_min": 24,
+        "highlights": 3,
+        "time_range": "14:00~14:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "养生",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "14:00~14:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [
+      {
+        "title": "中国历史故事",
+        "category": "历史",
+        "duration_min": 57,
+        "highlights": 3,
+        "time_range": "14:00~14:57"
+      }
+    ],
+    "daily_reading_min": 57,
+    "topics": [
+      "历史"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [
+      {
+        "title": "红楼梦",
+        "category": "养生",
+        "duration_min": 35,
+        "highlights": 0,
+        "time_range": "14:00~14:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [
+      {
+        "title": "古典诗词鉴赏",
+        "category": "文学",
+        "duration_min": 49,
+        "highlights": 0,
+        "time_range": "14:00~14:49"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [
+      {
+        "title": "骨质疏松预防",
+        "category": "新闻",
+        "duration_min": 12,
+        "highlights": 0,
+        "time_range": "15:00~15:12"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [
+      {
+        "title": "人民日报",
+        "category": "养生",
+        "duration_min": 11,
+        "highlights": 0,
+        "time_range": "15:00~15:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [
+      {
+        "title": "老年人防跌倒指南",
+        "category": "健康",
+        "duration_min": 14,
+        "highlights": 2,
+        "time_range": "15:00~15:14"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [
+      {
+        "title": "膏药使用注意事项",
+        "category": "健康",
+        "duration_min": 28,
+        "highlights": 0,
+        "time_range": "15:00~15:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [
+      {
+        "title": "独居老人安全手册",
+        "category": "新闻",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "15:00~15:19"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [
+      {
+        "title": "骨质疏松预防",
+        "category": "养生",
+        "duration_min": 21,
+        "highlights": 2,
+        "time_range": "15:00~15:21"
+      }
+    ],
+    "daily_reading_min": 21,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [
+      {
+        "title": "膏药使用注意事项",
+        "category": "养生",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "15:00~15:22"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [
+      {
+        "title": "膏药使用注意事项",
+        "category": "养生",
+        "duration_min": 11,
+        "highlights": 2,
+        "time_range": "15:00~15:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "独居老人安全手册",
+        "category": "养生",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "15:00~15:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [
+      {
+        "title": "独居老人安全手册",
+        "category": "健康",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "15:00~15:22"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [
+      {
+        "title": "老年人防跌倒指南",
+        "category": "养生",
+        "duration_min": 25,
+        "highlights": 0,
+        "time_range": "15:00~15:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [
+      {
+        "title": "骨质疏松预防",
+        "category": "健康",
+        "duration_min": 14,
+        "highlights": 2,
+        "time_range": "15:00~15:14"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [
+      {
+        "title": "腰椎损伤怎么办",
+        "category": "新闻",
+        "duration_min": 12,
+        "highlights": 0,
+        "time_range": "15:00~15:12"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [
+      {
+        "title": "骨质疏松预防",
+        "category": "养生",
+        "duration_min": 23,
+        "highlights": 0,
+        "time_range": "15:00~15:23"
+      }
+    ],
+    "daily_reading_min": 23,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [
+      {
+        "title": "健康养生",
+        "category": "健康",
+        "duration_min": 23,
+        "highlights": 2,
+        "time_range": "15:00~15:23"
+      }
+    ],
+    "daily_reading_min": 23,
+    "topics": [
+      "健康"
+    ]
+  }
+]

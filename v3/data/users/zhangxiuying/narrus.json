@@ -1,0 +1,792 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [
+      {
+        "title": "宝宝辅食大全",
+        "category": "养生",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "13:00~13:23"
+      }
+    ],
+    "daily_reading_min": 23,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [
+      {
+        "title": "宝宝辅食大全",
+        "category": "育儿",
+        "duration_min": 17,
+        "highlights": 1,
+        "time_range": "13:00~13:17"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [
+      {
+        "title": "儿童健康知识",
+        "category": "养生",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "13:00~13:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "育儿百科",
+        "category": "育儿",
+        "duration_min": 18,
+        "highlights": 0,
+        "time_range": "13:00~13:18"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "养生堂",
+        "category": "育儿",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "13:00~13:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "宝宝辅食大全",
+        "category": "养生",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "13:00~13:17"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [
+      {
+        "title": "养生堂",
+        "category": "育儿",
+        "duration_min": 19,
+        "highlights": 0,
+        "time_range": "13:00~13:19"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [
+      {
+        "title": "养生堂",
+        "category": "养生",
+        "duration_min": 18,
+        "highlights": 2,
+        "time_range": "13:00~13:18"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [
+      {
+        "title": "育儿百科",
+        "category": "育儿",
+        "duration_min": 19,
+        "highlights": 1,
+        "time_range": "13:00~13:19"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [
+      {
+        "title": "养生堂",
+        "category": "旅游",
+        "duration_min": 10,
+        "highlights": 0,
+        "time_range": "14:00~14:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "旅游"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [
+      {
+        "title": "中老年旅游",
+        "category": "新闻",
+        "duration_min": 10,
+        "highlights": 0,
+        "time_range": "14:00~14:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [
+      {
+        "title": "老家新闻",
+        "category": "养生",
+        "duration_min": 20,
+        "highlights": 0,
+        "time_range": "14:00~14:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [
+      {
+        "title": "老家新闻",
+        "category": "养生",
+        "duration_min": 11,
+        "highlights": 1,
+        "time_range": "14:00~14:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [
+      {
+        "title": "老家新闻",
+        "category": "旅游",
+        "duration_min": 14,
+        "highlights": 1,
+        "time_range": "14:00~14:14"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "旅游"
+    ]
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [
+      {
+        "title": "养生堂",
+        "category": "新闻",
+        "duration_min": 13,
+        "highlights": 1,
+        "time_range": "14:00~14:13"
+      }
+    ],
+    "daily_reading_min": 13,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [
+      {
+        "title": "中老年旅游",
+        "category": "新闻",
+        "duration_min": 19,
+        "highlights": 0,
+        "time_range": "14:00~14:19"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [
+      {
+        "title": "中老年旅游",
+        "category": "养生",
+        "duration_min": 11,
+        "highlights": 1,
+        "time_range": "14:00~14:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [
+      {
+        "title": "退休生活",
+        "category": "旅游",
+        "duration_min": 20,
+        "highlights": 0,
+        "time_range": "14:00~14:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "旅游"
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [
+      {
+        "title": "退休生活",
+        "category": "新闻",
+        "duration_min": 11,
+        "highlights": 1,
+        "time_range": "14:00~14:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [
+      {
+        "title": "养生堂",
+        "category": "旅游",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "14:00~14:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "旅游"
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [
+      {
+        "title": "中老年旅游",
+        "category": "旅游",
+        "duration_min": 20,
+        "highlights": 0,
+        "time_range": "14:00~14:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "旅游"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "中老年旅游",
+        "category": "养生",
+        "duration_min": 17,
+        "highlights": 0,
+        "time_range": "14:00~14:17"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "养生"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [
+      {
+        "title": "养生堂",
+        "category": "旅游",
+        "duration_min": 16,
+        "highlights": 1,
+        "time_range": "14:00~14:16"
+      }
+    ],
+    "daily_reading_min": 16,
+    "topics": [
+      "旅游"
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [
+      {
+        "title": "中老年旅游",
+        "category": "新闻",
+        "duration_min": 11,
+        "highlights": 0,
+        "time_range": "14:00~14:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "新闻"
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [
+      {
+        "title": "养生堂",
+        "category": "旅游",
+        "duration_min": 11,
+        "highlights": 0,
+        "time_range": "14:00~14:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "旅游"
+    ]
+  }
+]
