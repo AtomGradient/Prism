@@ -1,0 +1,14 @@
+{
+  "user_id": "user_08",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 23,
+    "specificity": 20,
+    "cross_domain": 22,
+    "actionability": 19,
+    "total": 84
+  },
+  "score_rationale": "Strongest output in the batch. Excellent relevance to the P7 tech worker facing layoff threat (32yo, 50000 income, org restructuring). The framing 'high savings is not frugality but over-defense' is sharp and profile-specific. Specificity is strong (95.2% savings rate, pressure 7.0/10, emotion mean 0.38, 51 highlights, 1197kcal, sleep 6.2h, 231 yuan anomaly). Cross-domain patterns are the most sophisticated: the 'tactical diligence masking strategic panic' insight linking anxiety-driven reading to financial defensiveness is genuinely novel. The 'information overload trap' pattern (100% reading coverage + emotion deterioration) is well-argued. Recommendations like 'non-utilitarian reading circuit breaker' are creative and directly tailored. Minor deduction for some templated elements in dietary advice."
+}

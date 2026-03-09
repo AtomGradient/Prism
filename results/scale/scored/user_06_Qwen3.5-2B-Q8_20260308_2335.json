@@ -1,0 +1,14 @@
+{
+  "user_id": "user_06",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 17,
+    "specificity": 15,
+    "cross_domain": 15,
+    "actionability": 13,
+    "total": 60
+  },
+  "score_rationale": "Adequate relevance to the freelance illustrator with volatile income — references the 50k project, deadline pressure, perfectionism trap, and income instability. Cites numbers (emotion mean 0.55, pressure 8.1/10, sleep 5.1h, late-night eating 21 times, skip breakfast 53%, savings front 4052 vs back 1297, medical 86 + transport 72, reading coverage 10/30, highlight 27). Three cross-domain patterns are attempted but weaker than other users: the 'high-pressure high-consumption' loop is generic, the 'survivor bias' framing of front/back savings is interesting but under-developed, and the 'perfectionism trap' pattern relies more on profile knowledge than data-driven discovery. The model makes a questionable claim that medical spending of 86 yuan is 'far above normal range' when it is actually quite modest. Temporal drift analysis is brief and less insightful than other users. Actionability offers standard advice (50% savings red line, forced breakfast, work-list separation, micro-reading) that is somewhat relevant but generic and not deeply tailored to the freelancer's specific income volatility challenge. Below average for this batch."
+}

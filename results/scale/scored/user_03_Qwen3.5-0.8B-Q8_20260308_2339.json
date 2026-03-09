@@ -1,0 +1,14 @@
+{
+  "user_id": "user_03",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 15,
+    "specificity": 10,
+    "cross_domain": 10,
+    "actionability": 9,
+    "total": 44
+  },
+  "score_rationale": "The insight correctly identifies the pregnancy event and attempts to address the teacher's frugal lifestyle. It picks up on relevant keywords (prenatal, pregnancy preparation) which shows basic data comprehension. However, the core cross-domain claim -- that skipping breakfast is a psychological defense mechanism for emotional calm -- is bizarre and unsupported. The model invents a causal theory ('not eating breakfast = emotional composure') that contradicts nutritional logic. The temporal drift section fabricates a narrative about 'defensive savings' transitioning to 'emotional return' with insufficient data grounding. Specificity is moderate (cites 55.8% savings rate, 81 yuan/day spending, emotion values) but many numbers feel unreliable. Recommendations include a genuinely counterproductive suggestion to test not eating breakfast for 10 days. Output truncated."
+}

@@ -1,0 +1,103 @@
+{
+  "user_id": "user_04",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "configs": {
+    "A": {
+      "label": "仅财务",
+      "apps": ["dailyn"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 18,
+        "total": 64
+      },
+      "score_rationale": "Strong relevance to grad student profile -- references 2000 yuan income, thesis pressure, survival-mode consumption. Excellent specificity with concrete numbers (96.5% food ratio, 1391/1441 on dining, 28% savings, daily 48 yuan, front 775 vs back 665 yuan with per-day calculations). Cross-domain speculation about health and stress is reasonable. Actionability is good with specific suggestions (minimum 300 yuan health spending, thesis-specific fund, income diversification via tutoring) though some tips are slightly generic."
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": ["mealens"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 23,
+        "cross_domain": 4,
+        "actionability": 20,
+        "total": 69
+      },
+      "score_rationale": "Excellent relevance tying diet patterns directly to thesis pressure (stress-induced anorexia, cognitive resource depletion). Outstanding specificity with rich data points (1451kcal daily, 60% breakfast skip rate, 2% healthy ratio, 876ml water -- flagged as critically low, 8 late-night eating episodes, 1567->1336 calorie decline, specific food frequencies: dumplings 13x, instant noodles 7x). Cross-domain speculation about sleep/emotion is limited but reasonable. Actionability is strong with prioritized, concrete micro-interventions (drink 200ml before opening laptop, egg+soymilk breakfast for 2 yuan, add blanched vegetables to takeout orders, replace late-night noodles with boiled egg)."
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": ["ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 19,
+        "cross_domain": 3,
+        "actionability": 17,
+        "total": 60
+      },
+      "score_rationale": "Strong relevance to graduate student under thesis pressure -- identifies 'defensive calm' as exhaustion rather than peace, correctly interprets 'new direction' keyword as thesis pivot anxiety. Good specificity (emotion mean 0.47, calm 9x, fatigued 9x at 60% combined, tense 7x, satisfied only 3x, sleep 6.0h, stress 6.4/10, front 0.43 vs back 0.50). Cross-domain appropriately minimal. Actionability is decent -- 'minimum executable unit' for thesis work, 'brain shutdown ritual', and deliberate micro-satisfaction tracking are good concepts, but some advice like 'cognitive reframing of calm' is more therapeutic framework than concrete action."
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": ["narrus"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 20,
+        "cross_domain": 3,
+        "actionability": 17,
+        "total": 60
+      },
+      "score_rationale": "Good relevance connecting reading habits to thesis pressure and ML/NLP research. Strong specificity (21/30 days, 59 min/day, 1235 min total, 32 reading sessions, 104 highlights = 3.25/session, ML 16x + NLP 9x = 78%). Cross-domain speculation about output conversion and emotional state is limited but reasonable. Actionability includes useful 10-minute daily highlight synthesis and cross-disciplinary reading allocation (10-15%), but the 'monitor your reading enjoyment' suggestion is somewhat vague."
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": ["dailyn", "mealens"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 22,
+        "cross_domain": 16,
+        "actionability": 19,
+        "total": 79
+      },
+      "score_rationale": "Excellent relevance connecting grad student survival mode across financial and nutritional dimensions. Strong specificity with cross-referenced numbers (96.5% food ratio vs 2% healthy diet, 48 yuan/day yielding only high-carb processed food, 60% breakfast skip driving 8 late-night binges, calorie decline 1567->1336 paralleling spend decline 775->665). Outstanding cross-domain insights: 'trading health for money' framing, breakfast skipping as both financial and metabolic mechanism, 'dual decline' as stress-induced appetite suppression rather than self-discipline, and fragility analysis (49 yuan total non-food budget). Actionability is concrete with specific budget reallocation (3-5 yuan for whole wheat bread/milk, 2 yuan breakfast intervention to reduce late-night episodes)."
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": ["dailyn", "ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 20,
+        "cross_domain": 15,
+        "actionability": 17,
+        "total": 74
+      },
+      "score_rationale": "Excellent relevance connecting thesis pressure to both financial contraction and emotional exhaustion. Good specificity with temporal alignment (front 775/0.43 vs back 665/0.50, sleep 6.0h, 96.5% food ratio, 28% savings rate). Strong cross-domain insights: 'pseudo-discipline' revealing financial minimalism as emotional exhaustion rather than intentional planning; 'decision paralysis' from cognitive depletion preventing even reward spending; counter-intuitive 'spending down, emotion up' pattern explained as life-order restoration. The comparison table (single-dimension vs cross-domain truth) is effective. Actionability is moderate -- 100-200 yuan non-survival budget and 'sleep-spending coupling' reward are creative but lack full precision."
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": ["mealens", "ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 21,
+        "cross_domain": 16,
+        "actionability": 18,
+        "total": 77
+      },
+      "score_rationale": "Excellent relevance connecting thesis-stage dietary collapse to emotional deterioration. Strong specificity with tight data cross-referencing (1567->1336 kcal vs 0.43->0.50 emotion, 8 late-night episodes vs 6.0h sleep, 60% breakfast skip vs 'tense' keyword, 2% healthy ratio vs emotion 'monotony'). Outstanding cross-domain insights: 'anxious fasting' as stress-induced appetite suppression, late-night eating as serotonin-seeking emotional compensation mechanism, breakfast skipping causing physiological basis for all-day cognitive fatigue, 'nutritional-emotional homogeneity' linking single-food-type diet to emotional flatness. The identification that the emotion 'improvement' is actually a facade masking nutritional depletion is particularly insightful. Actionability is good with specific substitutions (warm milk vs noodles at night, target 20% healthy ratio, maintain 1500+ kcal floor)."
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": ["dailyn", "mealens", "ururu", "narrus"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 22,
+        "actionability": 20,
+        "total": 87
+      },
+      "score_rationale": "Excellent relevance synthesizing all dimensions of a grad student's high-pressure survival mode. Strong specificity cross-referencing all four domains (fatigued 9x + tense 7x driving 13x dumplings + 7x noodles at 48 yuan/day; 8 late-night eating episodes + 6.0h sleep + 104 reading highlights showing brain never shuts down; 1567->1336 kcal + 775->665 spending + 0.43->0.50 emotion as temporal drift). Outstanding cross-domain patterns: three-way 'anxiety-junkfood-fatigue' loop linking all four dimensions; 'pseudo-diligence' in reading exposed by 876ml water + 6h sleep making 59 min/day reading likely low-efficiency; 'calm' reinterpreted as 'learned helplessness' via diet+sleep context. Actionability includes highly specific interventions (mandatory egg+milk+cucumber breakfast at 5-8 yuan, hard 22:30 screen cutoff, only warm milk if eating past 22:00). Output truncated at 2000 tokens, cutting off final 3 of 5 recommendations, which slightly limits score."
+    }
+  },
+  "iir": 1.38
+}

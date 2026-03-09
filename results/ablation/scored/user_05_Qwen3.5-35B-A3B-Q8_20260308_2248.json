@@ -1,0 +1,103 @@
+{
+  "user_id": "user_05",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "configs": {
+    "A": {
+      "label": "仅财务",
+      "apps": ["dailyn"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 22,
+        "cross_domain": 3,
+        "actionability": 17,
+        "total": 63
+      },
+      "score_rationale": "Strongly references user's 996 schedule, e-commerce role, and 12k income. Rich in data points (18.9% savings, 324 yuan/day, 7337/2390 split, specific anomaly dates and amounts). Acknowledges single-domain blindness honestly. Advice is reasonably specific (25% savings target, 3000/month) but could be more granular on implementation."
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": ["mealens"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 23,
+        "cross_domain": 3,
+        "actionability": 18,
+        "total": 64
+      },
+      "score_rationale": "Good user-context framing with 996 and e-commerce references. Exceptionally data-rich: 81 meals, 1593kcal daily, 4% healthy rate, 73% breakfast skip, 13 late-night meals, 1023ml water, cola 11x, beer 10x, rice 17x, and temporal trend 1502-1685kcal. Practical advice with specific substitutions (egg+milk breakfast, sugar-free sparkling water, water alarm). Single-domain limitations properly flagged."
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": ["ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 20,
+        "cross_domain": 3,
+        "actionability": 16,
+        "total": 60
+      },
+      "score_rationale": "Strong user relevance with promotion event, 996 context, and team leader role referenced. Good data density (emotion mean 0.60, fatigue 13x at 43%, sleep 6.3h, stress 6.6/10, social keywords 29x, satisfied only 5x). Cross-domain is appropriately low for single-domain. Actionability is moderate: social stop-loss line and emotional isolation zone are reasonable but lack specific numeric targets beyond time frames."
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": ["narrus"],
+      "scores": {
+        "relevance": 19,
+        "specificity": 19,
+        "cross_domain": 2,
+        "actionability": 14,
+        "total": 54
+      },
+      "score_rationale": "References e-commerce career and 996 schedule, though less deeply tied to user's specific life event (promotion). Solid data: 12/30 reading days, 332 min total, 28 min/day, management 9x, 19 highlights, 1.27 per session. Cross-domain is minimal with only vague speculation. Advice is the most generic of the single-domain configs: microhabits and non-utilitarian reading are sound principles but lack concrete, measurable action steps tailored to this user."
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": ["dailyn", "mealens"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 22,
+        "cross_domain": 16,
+        "actionability": 18,
+        "total": 77
+      },
+      "score_rationale": "Strong user-specific framing. Data from both domains is well integrated. Cross-domain connections are the highlight: social spending correlated with alcohol/sugar intake, front-half financial blowout causing back-half diet degradation, abnormal spending days linked to binge patterns, and the 'savings rate vs metabolic health' coupling. The insight that 'financial austerity directly caused dietary deterioration' (not discipline improvement) is genuinely emergent. Actionable advice includes specific numbers (cut 300-500/month from social-alcohol chain, 15 yuan/day breakfast budget)."
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": ["dailyn", "ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 21,
+        "cross_domain": 15,
+        "actionability": 17,
+        "total": 74
+      },
+      "score_rationale": "Good user-specific framing with promotion context. Cross-domain connections are strong: social spending as 'emotional stop-loss' (high cost, low return), month-start spending as 'emotional shock' followed by 'defensive contraction', and the sleep-savings negative coupling concept. The 'emotion-finance death spiral' is a genuine cross-domain insight. Slightly less specific than E in actionable terms: 'cut 30% non-essential social' and 'sleep to 7h' are reasonable but less precisely quantified."
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": ["mealens", "ururu"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 22,
+        "cross_domain": 17,
+        "actionability": 16,
+        "total": 75
+      },
+      "score_rationale": "Good user context. Excellent cross-domain analysis: the near-perfect 1:1 correlation between social events (10x) and beer consumption (10x) is a standout finding. The 'nutritional deficiency as physiological basis for emotional decline' insight goes beyond simple correlation. Temporal trend analysis (183kcal increase linked to social pressure, not nutrition) is nuanced. Actionable advice is sound but slightly less specific than E in terms of concrete numbers and dollar amounts."
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": ["dailyn", "mealens", "ururu", "narrus"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 22,
+        "cross_domain": 22,
+        "actionability": 15,
+        "total": 81
+      },
+      "score_rationale": "Comprehensive 4-domain integration with several genuinely emergent cross-domain discoveries: (1) the 'social spending health tax' visible only when combining finance+diet+emotion, (2) 'anxiety-driven reading' as a coping mechanism revealed only by combining reading topics with emotion data, (3) the temporal drift pattern showing behavioral compensation across all four domains simultaneously. The 'savings cannot solve calorie surplus' insight requires both finance and diet data. However, the output was truncated at 2000 tokens, cutting off the actionable recommendations section. The risk identification is excellent but the incomplete advice section significantly limits actionability."
+    }
+  },
+  "iir": 1.34
+}

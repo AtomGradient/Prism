@@ -1,0 +1,14 @@
+{
+  "user_id": "user_09",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 15,
+    "specificity": 13,
+    "cross_domain": 13,
+    "actionability": 7,
+    "total": 48
+  },
+  "score_rationale": "The insight appropriately frames the business owner's cash flow crisis and emotional exhaustion. Cross-domain patterns are relevant: anxiety-driven alcohol/seafood consumption (citing 12 times white wine, 9 times seafood), sleep deprivation-emotional depletion loop (5.4h sleep, 0.39 emotion mean, 7.0/10 pressure), and reading gaps correlating with decision-making blind spots (22/30 day coverage, missing financial self-assessment content). Data specificity is reasonable with concrete numbers. However, actionability is severely undermined by the first recommendation: 'eat 2000 yuan of pure carbs tonight' -- an absurd and potentially harmful suggestion for someone with a drinking problem. Other recommendations include reasonable ideas (sleep prioritization, reading financial literacy books) but also odd ones (reducing seafood from '9 times/day to 3-4 times/day' when the data clearly means 9 times over 30 days). The temporal drift section is thin, showing only a 0.01 shift in emotion. Output truncated."
+}

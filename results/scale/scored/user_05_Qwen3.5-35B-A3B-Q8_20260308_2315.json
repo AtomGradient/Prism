@@ -1,0 +1,14 @@
+{
+  "user_id": "user_05",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 21,
+    "specificity": 22,
+    "cross_domain": 22,
+    "actionability": 17,
+    "total": 82
+  },
+  "score_rationale": "Good relevance to user_05's profile as a 27-year-old e-commerce operations lead newly promoted. References the promotion event and 996 culture. Excellent specificity with data points (73% skipped breakfast, 6.3h sleep, 4% healthy diet, 2174 yuan social spending, beer 10 times, cola 11 times, deep-night eating 13 times, 7337 vs 2390 yuan front/back half spending). Cross-domain connections between socializing-driven alcohol consumption, late-night eating, and emotional exhaustion are well-articulated. The 'time poverty' construct linking 996 work to cognitive narrowing through only functional reading is insightful. Actionability is weaker: recommendations were truncated and the suggestions that do appear are somewhat generic (reduce social spending, add protein), lacking the specificity seen in other users' recommendations."
+}

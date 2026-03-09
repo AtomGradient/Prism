@@ -1,0 +1,14 @@
+{
+  "user_id": "user_09",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 23,
+    "specificity": 21,
+    "cross_domain": 22,
+    "actionability": 17,
+    "total": 83
+  },
+  "score_rationale": "Excellent relevance to private business owner profile (45yo, tight cash flow, 80wan arrears). Outstanding specificity with precise data (12044 yuan anomaly on March 5, 11 late-night meals, 12 anxiety episodes, 7 supplier mentions, 7 negotiation mentions, baijiu 12 times, 57% breakfast skip, sleep 5.4h, pressure 7.0/10, daily water 974ml, 0% healthy eating). Cross-domain patterns are compelling: the anxiety-night eating-financial anomaly loop is powerfully argued with the 'selling car to plug gap' as concrete evidence. The 'defensive learning' pattern in reading (law 15 times, finance 6 times) tied to crisis mentality is insightful. Actionability is slightly lower because the advice to 'not sell the car' and 'negotiate with suppliers' are correct but lack operational detail on how to execute under extreme cash pressure."
+}

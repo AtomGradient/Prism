@@ -1,0 +1,14 @@
+{
+  "user_id": "user_07",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 18,
+    "specificity": 17,
+    "cross_domain": 16,
+    "actionability": 12,
+    "total": 63
+  },
+  "score_rationale": "Good relevance to the hospital resident doctor profile — captures high-pressure high-income dynamics, references the consecutive night shift emotional collapse event, and addresses professional burnout. Cites specific numbers (emotion mean 0.64, healthy diet 14%, rice 24 times, sleep 6.7h, skip breakfast 20%, highlights 51, reading 19/30 days at 33min/day, dining spend 1649 at 47%, total spend 3466, front half 1342 vs back half 2124, anomalous days 539 and 359, savings rate 86.1%). Three cross-domain patterns are structurally coherent: the emotion-diet-consumption negative loop is well-argued, the cognitive load vs focus time disconnect is an interesting observation, and the burnout-driven 'defensive savings' failure is a genuine cross-domain insight. However, there are logical issues — claiming 86.1% savings rate will 'quickly collapse' when spending increased by only 800 yuan seems alarmist. The temporal drift table format is a good structural choice, showing clear before/after comparison. Actionability is the weakest dimension — 'golden 2 hours' plan is vague, and advice is cut off before completion. The model also incorrectly claims 'only 1 fatigue entry' is alarming when the doctor's high emotion mean (0.64) actually suggests reasonable coping."
+}

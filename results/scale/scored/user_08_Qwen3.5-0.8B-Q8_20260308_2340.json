@@ -1,0 +1,14 @@
+{
+  "user_id": "user_08",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 15,
+    "specificity": 12,
+    "cross_domain": 12,
+    "actionability": 11,
+    "total": 50
+  },
+  "score_rationale": "The insight correctly identifies the tech worker's layoff anxiety and addresses the emotional-financial crisis framing. It picks up on relevant context clues (browsing Maimai/job platforms, panic, sleep disruption). Cross-domain patterns connecting emotion-diet-spending are structurally coherent: anxiety leading to diet degradation and defensive spending behavior. Cites specific numbers (6.2h sleep, 37% skipped breakfast, 1129ml water, 0.32 rising to 0.44 emotion, 95.2% savings rate, 231 yuan anomalous spending day, 1234 vs 1146 yuan half-to-half). However, there are contradictions: 95.2% savings rate contradicts the 'financial collapse' narrative, and 'deep night eating = 0' is simultaneously treated as both a health risk and a defense mechanism. The temporal drift section is reasonable but under-developed. Recommendations are mostly sensible (forced eating schedule, emotional isolation strategy, diet restructuring, financial stress test, positive journaling) though some phrasing is awkward."
+}

@@ -1,0 +1,14 @@
+{
+  "user_id": "user_02",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 21,
+    "specificity": 20,
+    "cross_domain": 21,
+    "actionability": 19,
+    "total": 81
+  },
+  "score_rationale": "Good relevance to user_02's profile as a 28-year-old delivery rider who had his e-bike stolen. References specific numbers (55.1% savings rate, 47% skipped breakfast, 80 yuan social spending, 914 yuan food spending). Cross-domain analysis linking physical labor fatigue with high-calorie compensatory eating and social isolation is well-constructed. However, the social spending figure of 914 yuan labeled as 'daily' dining seems off (likely monthly), and some causal claims about 'cortisol' are speculative given synthetic data. Recommendations are practical but the last one was truncated."
+}

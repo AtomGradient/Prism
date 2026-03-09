@@ -1,0 +1,159 @@
+{
+  "benchmarks": {
+    "short": {
+      "label": "短文本(~100 tokens)",
+      "max_tokens": 100,
+      "model_id": "Qwen3.5-9B-UD-Q8_K_XL.gguf",
+      "runs": [
+        {
+          "total_tokens": 26,
+          "total_time_s": 1.776,
+          "ttft_s": 0.495,
+          "tps": 14.6,
+          "output_length": 58
+        },
+        {
+          "total_tokens": 36,
+          "total_time_s": 1.803,
+          "ttft_s": 0.192,
+          "tps": 20.0,
+          "output_length": 75
+        },
+        {
+          "total_tokens": 32,
+          "total_time_s": 1.582,
+          "ttft_s": 0.298,
+          "tps": 20.2,
+          "output_length": 64
+        },
+        {
+          "total_tokens": 27,
+          "total_time_s": 1.366,
+          "ttft_s": 0.286,
+          "tps": 19.8,
+          "output_length": 55
+        },
+        {
+          "total_tokens": 29,
+          "total_time_s": 1.54,
+          "ttft_s": 0.156,
+          "tps": 18.8,
+          "output_length": 62
+        }
+      ],
+      "summary": {
+        "tps_mean": 18.7,
+        "tps_min": 14.6,
+        "tps_max": 20.2,
+        "latency_mean_s": 1.61,
+        "ttft_mean_s": 0.285,
+        "n_runs": 5
+      }
+    },
+    "medium": {
+      "label": "中等文本(~500 tokens)",
+      "max_tokens": 500,
+      "model_id": "Qwen3.5-9B-UD-Q8_K_XL.gguf",
+      "runs": [
+        {
+          "total_tokens": 500,
+          "total_time_s": 22.849,
+          "ttft_s": 0.647,
+          "tps": 21.9,
+          "output_length": 840
+        },
+        {
+          "total_tokens": 495,
+          "total_time_s": 22.764,
+          "ttft_s": 0.328,
+          "tps": 21.7,
+          "output_length": 859
+        },
+        {
+          "total_tokens": 500,
+          "total_time_s": 22.691,
+          "ttft_s": 0.603,
+          "tps": 22.0,
+          "output_length": 827
+        },
+        {
+          "total_tokens": 500,
+          "total_time_s": 22.645,
+          "ttft_s": 0.383,
+          "tps": 22.1,
+          "output_length": 849
+        },
+        {
+          "total_tokens": 500,
+          "total_time_s": 22.649,
+          "ttft_s": 0.329,
+          "tps": 22.1,
+          "output_length": 842
+        }
+      ],
+      "summary": {
+        "tps_mean": 22.0,
+        "tps_min": 21.7,
+        "tps_max": 22.1,
+        "latency_mean_s": 22.72,
+        "ttft_mean_s": 0.458,
+        "n_runs": 5
+      }
+    },
+    "long": {
+      "label": "长文本(~1500 tokens)",
+      "max_tokens": 1500,
+      "model_id": "Qwen3.5-9B-UD-Q8_K_XL.gguf",
+      "runs": [
+        {
+          "total_tokens": 1493,
+          "total_time_s": 68.385,
+          "ttft_s": 1.221,
+          "tps": 21.8,
+          "output_length": 2464
+        },
+        {
+          "total_tokens": 1495,
+          "total_time_s": 68.361,
+          "ttft_s": 1.14,
+          "tps": 21.9,
+          "output_length": 2488
+        },
+        {
+          "total_tokens": 1500,
+          "total_time_s": 68.423,
+          "ttft_s": 1.103,
+          "tps": 21.9,
+          "output_length": 2518
+        },
+        {
+          "total_tokens": 1495,
+          "total_time_s": 68.353,
+          "ttft_s": 1.127,
+          "tps": 21.9,
+          "output_length": 2517
+        },
+        {
+          "total_tokens": 1500,
+          "total_time_s": 68.488,
+          "ttft_s": 1.1,
+          "tps": 21.9,
+          "output_length": 2508
+        }
+      ],
+      "summary": {
+        "tps_mean": 21.9,
+        "tps_min": 21.8,
+        "tps_max": 21.9,
+        "latency_mean_s": 68.4,
+        "ttft_mean_s": 1.138,
+        "n_runs": 5
+      }
+    }
+  },
+  "device": "M1 Max 32G",
+  "model_name": "Qwen3.5-9B-Q8",
+  "endpoint": "http://192.168.0.103:9200",
+  "engine": "llama.cpp",
+  "timestamp": "2026-03-08T22:34:31.519776"
+}

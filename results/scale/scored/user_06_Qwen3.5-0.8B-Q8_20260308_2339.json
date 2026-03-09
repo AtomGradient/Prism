@@ -1,0 +1,14 @@
+{
+  "user_id": "user_06",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 15,
+    "specificity": 12,
+    "cross_domain": 13,
+    "actionability": 11,
+    "total": 51
+  },
+  "score_rationale": "The insight appropriately addresses the freelance illustrator's income volatility and deadline pressure. The three cross-domain patterns are reasonable: stress-binge eating cycle during deadline crunch, income drop triggering spending restructuring (from shopping to medical/transport), and reading as both emotional buffer and professional anxiety amplifier. Cites data points (emotion 0.60 vs 0.51, 15 times instant noodles, 21 late-night meals, 53% skipped breakfast, 1485/1469 kcal, 5350 vs reduced spending, 97 min reading). The temporal drift table has a markdown formatting error (missing separator) but the 'front-middle-back' crisis arc is a plausible narrative for a freelancer facing a big project. The 'meta-data decoding' framing is slightly overwrought. Recommendations are moderately actionable (hunger diary, SMART income response plan, digital work-rest boundaries). Output truncated."
+}

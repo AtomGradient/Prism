@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prism — Cross-Domain Personal Data Integration on Consumer Hardware</title>
+<meta name="description" content="Cross-domain personal data integration on consumer hardware produces emergent insights. No cloud. No data leakage. Just your devices, your data, your AI.">
+<meta property="og:title" content="Prism — Emergent Insights from Personal Data">
+<meta property="og:description" content="Cross-domain personal data integration on consumer hardware produces emergent insights with 1.48x IIR and zero data leakage.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://atomgradient.github.io/Prism">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0a0a0a;--bg-1:#111;--bg-2:#1a1a1a;--bg-3:#222;
+  --fg:#e8e8e8;--fg-2:#a0a0a0;--fg-3:#666;
+  --accent:#6c8cff;--accent-2:#4a6adf;--accent-glow:rgba(108,140,255,.15);
+  --green:#34d399;--amber:#fbbf24;--red:#f87171;--cyan:#22d3ee;
+  --radius:8px;--radius-lg:12px;
+  --font:'Inter',system-ui,-apple-system,sans-serif;
+  --mono:'JetBrains Mono','SF Mono',monospace;
+  --max-w:1120px;
+  --transition:0.3s ease;
+}
+html{scroll-behavior:smooth;font-size:16px}
+body{font-family:var(--font);background:var(--bg);color:var(--fg);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none;transition:color var(--transition)}
+a:hover{color:#8eaaff}
+
+/* Language toggle */
+html[lang="zh"] .e{display:none!important}
+html[lang="en"] .z{display:none!important}
+
+/* Nav */
+nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(10,10,10,.85);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,.06)}
+.nav-inner{max-width:var(--max-w);margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:0 24px;height:56px}
+.nav-brand{font-weight:700;font-size:1.1rem;letter-spacing:-.02em;color:var(--fg)}
+.nav-links{display:flex;gap:6px;align-items:center}
+.nav-links a{font-size:.85rem;color:var(--fg-2);padding:6px 12px;border-radius:6px;transition:all var(--transition)}
+.nav-links a:hover{color:var(--fg);background:var(--bg-2)}
+.lang-toggle{display:flex;gap:2px;background:var(--bg-2);border-radius:6px;padding:2px;margin-left:12px}
+.lang-btn{font-size:.8rem;padding:4px 10px;border-radius:4px;border:none;background:transparent;color:var(--fg-3);cursor:pointer;transition:all var(--transition);font-family:var(--font)}
+.lang-btn.active{background:var(--bg-3);color:var(--fg)}
+
+/* Layout */
+.container{max-width:var(--max-w);margin:0 auto;padding:0 24px}
+section{padding:80px 0}
+section:first-of-type{padding-top:120px}
+.section-label{font-size:.75rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.section-title{font-size:1.8rem;font-weight:700;letter-spacing:-.02em;margin-bottom:12px;line-height:1.25}
+.section-desc{font-size:1rem;color:var(--fg-2);max-width:680px;line-height:1.7;margin-bottom:40px}
+
+/* Hero */
+.hero{text-align:center;padding:140px 0 80px}
+.hero-badge{display:inline-block;font-size:.75rem;font-weight:500;color:var(--accent);background:var(--accent-glow);border:1px solid rgba(108,140,255,.25);border-radius:20px;padding:4px 14px;margin-bottom:24px}
+.hero h1{font-size:3.2rem;font-weight:700;letter-spacing:-.04em;margin-bottom:16px;background:linear-gradient(135deg,#fff 0%,#a0a0a0 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.hero .subtitle{font-size:1.15rem;color:var(--fg-2);max-width:640px;margin:0 auto 48px;line-height:1.6}
+
+/* Stat cards */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:48px}
+.stat-card{background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius-lg);padding:24px 20px;text-align:center;transition:border-color var(--transition)}
+.stat-card:hover{border-color:rgba(108,140,255,.3)}
+.stat-value{font-size:1.8rem;font-weight:700;letter-spacing:-.02em;margin-bottom:4px}
+.stat-value.accent{color:var(--accent)}
+.stat-value.green{color:var(--green)}
+.stat-value.amber{color:var(--amber)}
+.stat-value.cyan{color:var(--cyan)}
+.stat-label{font-size:.8rem;color:var(--fg-3);line-height:1.4}
+
+/* Thesis */
+.thesis-box{background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius-lg);padding:32px;position:relative;overflow:hidden}
+.thesis-box::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--accent),var(--green))}
+.thesis-cols{display:grid;grid-template-columns:1fr auto 1fr;gap:24px;align-items:center;margin-top:16px}
+.thesis-side{text-align:center;padding:20px}
+.thesis-side h3{font-size:.9rem;font-weight:600;color:var(--fg-2);margin-bottom:8px}
+.thesis-side p{font-size:.85rem;color:var(--fg-3);line-height:1.5}
+.thesis-vs{font-size:.75rem;font-weight:700;color:var(--accent);background:var(--accent-glow);border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center}
+.thesis-bottom{margin-top:20px;padding-top:20px;border-top:1px solid rgba(255,255,255,.06);font-size:.9rem;color:var(--fg-2);text-align:center;font-style:italic}
+
+/* Tables */
+.table-wrap{overflow-x:auto;border-radius:var(--radius-lg);border:1px solid rgba(255,255,255,.06);background:var(--bg-1)}
+table{width:100%;border-collapse:collapse;font-size:.85rem}
+th{text-align:left;padding:12px 16px;font-weight:600;font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;color:var(--fg-3);background:var(--bg-2);border-bottom:1px solid rgba(255,255,255,.06)}
+td{padding:10px 16px;border-bottom:1px solid rgba(255,255,255,.04);color:var(--fg-2)}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:rgba(255,255,255,.02)}
+td.mono{font-family:var(--mono);font-size:.8rem}
+.highlight-row td{background:var(--accent-glow)!important;color:var(--fg);font-weight:600}
+
+/* Bar chart CSS */
+.bar-chart{display:flex;flex-direction:column;gap:8px;margin-top:24px}
+.bar-row{display:flex;align-items:center;gap:12px}
+.bar-label{font-size:.8rem;color:var(--fg-2);width:64px;text-align:right;flex-shrink:0}
+.bar-track{flex:1;height:28px;background:var(--bg-2);border-radius:4px;position:relative;overflow:hidden}
+.bar-fill{height:100%;border-radius:4px;display:flex;align-items:center;padding:0 10px;font-size:.75rem;font-weight:600;color:var(--bg);transition:width .8s cubic-bezier(.4,0,.2,1);min-width:fit-content}
+.bar-fill.blue{background:linear-gradient(90deg,var(--accent),#8eaaff)}
+.bar-fill.green{background:linear-gradient(90deg,var(--green),#6ee7b7)}
+.bar-fill.amber{background:linear-gradient(90deg,var(--amber),#fcd34d)}
+.bar-fill.cyan{background:linear-gradient(90deg,var(--cyan),#67e8f9)}
+
+/* Scale curve vertical bars */
+.scale-bars{display:flex;align-items:flex-end;justify-content:center;gap:32px;height:220px;margin:32px 0;padding:0 20px}
+.scale-col{display:flex;flex-direction:column;align-items:center;gap:8px;flex:1;max-width:120px}
+.scale-bar-outer{width:100%;height:200px;display:flex;align-items:flex-end}
+.scale-bar{width:100%;border-radius:6px 6px 0 0;transition:height .8s cubic-bezier(.4,0,.2,1);position:relative}
+.scale-bar-val{position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:.85rem;font-weight:700;white-space:nowrap}
+.scale-label{font-size:.8rem;color:var(--fg-3);font-weight:500}
+.scale-sublabel{font-size:.7rem;color:var(--fg-3)}
+
+/* Architecture diagram */
+.arch{margin:32px 0}
+.arch-tier{background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius-lg);padding:20px 24px;margin-bottom:2px;position:relative}
+.arch-tier.t2{border-color:rgba(108,140,255,.3)}
+.arch-tier.t1{margin-left:48px;border-color:rgba(52,211,153,.2)}
+.arch-tier-label{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.06em;padding:2px 8px;border-radius:4px;display:inline-block;margin-bottom:8px}
+.arch-tier.t2 .arch-tier-label{color:var(--accent);background:var(--accent-glow)}
+.arch-tier.t1 .arch-tier-label{color:var(--green);background:rgba(52,211,153,.12)}
+.arch-device{font-size:.95rem;font-weight:600;margin-bottom:4px}
+.arch-detail{font-size:.8rem;color:var(--fg-3);display:flex;flex-wrap:wrap;gap:8px}
+.arch-detail span{background:var(--bg-2);padding:2px 8px;border-radius:4px}
+.arch-connector{width:2px;height:20px;background:rgba(255,255,255,.1);margin-left:72px}
+
+/* Privacy visual */
+.privacy-visual{display:flex;align-items:center;justify-content:center;gap:24px;margin:32px 0;flex-wrap:wrap}
+.privacy-block{text-align:center;padding:24px}
+.privacy-block .big{font-size:2rem;font-weight:700;margin-bottom:4px}
+.privacy-block .label{font-size:.8rem;color:var(--fg-3)}
+.privacy-arrow{font-size:1.5rem;color:var(--fg-3)}
+.privacy-ratio{background:var(--accent-glow);border:1px solid rgba(108,140,255,.3);border-radius:var(--radius-lg);padding:20px 32px;text-align:center}
+.privacy-ratio .big{font-size:2.2rem;font-weight:700;color:var(--accent)}
+
+/* User cards */
+.user-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.user-card{background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius);padding:16px;transition:border-color var(--transition)}
+.user-card:hover{border-color:rgba(108,140,255,.2)}
+.user-card-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.user-card-id{font-family:var(--mono);font-size:.8rem;color:var(--accent);font-weight:500}
+.user-card-age{font-size:.75rem;color:var(--fg-3)}
+.user-card-profile{font-size:.9rem;font-weight:600;margin-bottom:4px}
+.user-card-income{font-size:.8rem;color:var(--fg-3);margin-bottom:8px}
+.user-card-event{font-size:.78rem;color:var(--amber);background:rgba(251,191,36,.08);padding:6px 10px;border-radius:6px;border-left:2px solid var(--amber)}
+
+/* Footer */
+footer{border-top:1px solid rgba(255,255,255,.06);padding:48px 0;margin-top:40px}
+.footer-grid{display:grid;grid-template-columns:1fr 1fr;gap:32px}
+.footer-col h4{font-size:.85rem;font-weight:600;margin-bottom:12px}
+.footer-col p,.footer-col a{font-size:.8rem;color:var(--fg-3);line-height:1.6}
+.bibtex{background:var(--bg-2);border-radius:var(--radius);padding:16px;font-family:var(--mono);font-size:.7rem;color:var(--fg-3);line-height:1.5;overflow-x:auto;white-space:pre;margin-top:8px}
+.footer-bottom{margin-top:32px;padding-top:20px;border-top:1px solid rgba(255,255,255,.04);text-align:center;font-size:.75rem;color:var(--fg-3)}
+
+/* Responsive */
+@media(max-width:768px){
+  .hero h1{font-size:2rem}
+  .hero .subtitle{font-size:1rem}
+  .stats{grid-template-columns:repeat(2,1fr);gap:10px}
+  .stat-card{padding:16px 12px}
+  .stat-value{font-size:1.4rem}
+  .thesis-cols{grid-template-columns:1fr;gap:12px}
+  .thesis-vs{margin:0 auto}
+  section{padding:48px 0}
+  .section-title{font-size:1.4rem}
+  .nav-links a.desk{display:none}
+  .arch-tier.t1{margin-left:16px}
+  .footer-grid{grid-template-columns:1fr}
+  .scale-bars{gap:16px;height:180px}
+  .privacy-visual{gap:12px}
+  .privacy-arrow{display:none}
+  .user-grid{grid-template-columns:1fr}
+}
+@media(max-width:480px){
+  .stats{grid-template-columns:1fr 1fr}
+  .hero h1{font-size:1.6rem}
+  .nav-inner{padding:0 16px}
+}
+
+/* Animate on scroll */
+.fade-in{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s ease}
+.fade-in.visible{opacity:1;transform:translateY(0)}
+
+/* Zero badge */
+.zero-badge{display:inline-flex;align-items:center;gap:6px;background:rgba(52,211,153,.1);border:1px solid rgba(52,211,153,.3);color:var(--green);font-size:.8rem;font-weight:600;padding:4px 12px;border-radius:20px}
+.zero-dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+</style>
+</head>
+<body>
+
+<!-- Navigation -->
+<nav>
+<div class="nav-inner">
+  <a href="#" class="nav-brand">Prism</a>
+  <div class="nav-links">
+    <a href="#results" class="desk e">Results</a>
+    <a href="#results" class="desk z">Results</a>
+    <a href="#architecture" class="desk e">Architecture</a>
+    <a href="#architecture" class="desk z">Architecture</a>
+    <a href="#privacy" class="desk e">Privacy</a>
+    <a href="#privacy" class="desk z">Privacy</a>
+    <a href="#scoring" class="desk e">Scoring</a>
+    <a href="#scoring" class="desk z">Scoring</a>
+    <a href="paper.pdf" class="desk">Paper</a>
+    <a href="https://github.com/AtomGradient/Prism" class="desk">GitHub</a>
+    <div class="lang-toggle">
+      <button class="lang-btn active" onclick="setLang('en')" id="btn-en">EN</button>
+      <button class="lang-btn" onclick="setLang('zh')" id="btn-zh">ZH</button>
+    </div>
+  </div>
+</div>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+<div class="container">
+  <div class="hero-badge">
+    <span class="e">Research Preview</span>
+    <span class="z">Research Preview</span>
+  </div>
+  <h1>Prism</h1>
+  <p class="subtitle e">Cross-Domain Personal Data Integration on Consumer Hardware Produces Emergent Insights</p>
+  <p class="subtitle z">消费级硬件上的跨域个人数据整合产生涌现洞察</p>
+  <div class="stats">
+    <div class="stat-card fade-in">
+      <div class="stat-value accent">1.48x</div>
+      <div class="stat-label">
+        <span class="e">IIR — Cross-domain<br>insight emergence</span>
+        <span class="z">IIR — 跨域<br>洞察涌现增量</span>
+      </div>
+    </div>
+    <div class="stat-card fade-in">
+      <div class="stat-value green">125.5x</div>
+      <div class="stat-label">
+        <span class="e">Compression — Data<br>privacy protection</span>
+        <span class="z">压缩比 — 数据<br>隐私保护</span>
+      </div>
+    </div>
+    <div class="stat-card fade-in">
+      <div class="stat-value amber">49.9</div>
+      <div class="stat-label">
+        <span class="e">TPS — 35B model<br>real-time inference</span>
+        <span class="z">TPS — 35B 模型<br>实时推理</span>
+      </div>
+    </div>
+    <div class="stat-card fade-in">
+      <div class="stat-value cyan">ZERO</div>
+      <div class="stat-label">
+        <span class="e">Data leakage —<br>Federation protocol</span>
+        <span class="z">数据泄漏 —<br>联邦协议</span>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- Core Thesis -->
+<section id="thesis">
+<div class="container">
+  <div class="section-label fade-in">
+    <span class="e">Core Thesis</span>
+    <span class="z">核心命题</span>
+  </div>
+  <div class="thesis-box fade-in">
+    <div class="thesis-cols">
+      <div class="thesis-side">
+        <h3 class="e">Cloud AI</h3>
+        <h3 class="z">云端 AI</h3>
+        <p class="e">Large Model + Small Data<br><span style="color:var(--fg-3)">Smart strangers who don't know you</span></p>
+        <p class="z">大模型 + 小数据<br><span style="color:var(--fg-3)">博学的陌生人，不认识你</span></p>
+      </div>
+      <div class="thesis-vs">vs</div>
+      <div class="thesis-side">
+        <h3 class="e">Prism</h3>
+        <h3 class="z">Prism</h3>
+        <p class="e">Medium Model + Rich Data<br><span style="color:var(--green)">Your personal AI that truly knows you</span></p>
+        <p class="z">中等模型 + 大数据<br><span style="color:var(--green)">真正了解你的个人 AI</span></p>
+      </div>
+    </div>
+    <div class="thesis-bottom">
+      <span class="e">Intelligence comes not just from model scale, but from data depth and authenticity.</span>
+      <span class="z">智能不只来自参数规模，更来自数据的深度与真实性。</span>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- Results: Ablation -->
+<section id="results">
+<div class="container">
+  <div class="section-label fade-in">
+    <span class="e">Experiment A — Ablation Study</span>
+    <span class="z">实验 A — 消融实验</span>
+  </div>
+  <h2 class="section-title fade-in">
+    <span class="e">Cross-Domain Insight Emergence</span>
+    <span class="z">跨域洞察涌现</span>
+  </h2>
+  <p class="section-desc fade-in">
+    <span class="e">Same model, same users, only the data input changes. Full panoramic integration (Config H) consistently outperforms any single-domain or dual-domain configuration.</span>
+    <span class="z">相同模型，相同用户，只改变数据输入。全景整合（配置 H）在所有用户上持续优于任何单域或双域配置。</span>
+  </p>
+
+  <!-- Summary table -->
+  <div class="table-wrap fade-in" style="margin-bottom:32px">
+  <table>
+    <thead>
+      <tr>
+        <th><span class="e">Config</span><span class="z">配置</span></th>
+        <th><span class="e">Data Sources</span><span class="z">数据来源</span></th>
+        <th><span class="e">Avg Score</span><span class="z">均分</span></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="mono">A</td>
+        <td><span class="e">Finance only (Dailyn)</span><span class="z">仅财务 (Dailyn)</span></td>
+        <td class="mono">66.3</td>
+        <td><div style="width:calc(66.3%);height:4px;background:var(--fg-3);border-radius:2px;max-width:200px"></div></td>
+      </tr>
+      <tr>
+        <td class="mono">B</td>
+        <td><span class="e">Diet only (Mealens)</span><span class="z">仅饮食 (Mealens)</span></td>
+        <td class="mono">65.1</td>
+        <td><div style="width:calc(65.1%);height:4px;background:var(--fg-3);border-radius:2px;max-width:200px"></div></td>
+      </tr>
+      <tr>
+        <td class="mono">C</td>
+        <td><span class="e">Mood only (Ururu)</span><span class="z">仅情绪 (Ururu)</span></td>
+        <td class="mono">63.2</td>
+        <td><div style="width:calc(63.2%);height:4px;background:var(--fg-3);border-radius:2px;max-width:200px"></div></td>
+      </tr>
+      <tr>
+        <td class="mono">D</td>
+        <td><span class="e">Reading only (Narrus)</span><span class="z">仅阅读 (Narrus)</span></td>
+        <td class="mono">55.4</td>
+        <td><div style="width:calc(55.4%);height:4px;background:var(--fg-3);border-radius:2px;max-width:200px"></div></td>
+      </tr>
+      <tr>
+        <td class="mono">E</td>
+        <td><span class="e">Finance + Diet</span><span class="z">财务 + 饮食</span></td>
+        <td class="mono">76.6</td>
+        <td><div style="width:calc(76.6%);height:4px;background:var(--accent-2);border-radius:2px;max-width:200px"></div></td>
+      </tr>
+      <tr>
+        <td class="mono">F</td>
+        <td><span class="e">Finance + Mood</span><span class="z">财务 + 情绪</span></td>
+        <td class="mono">76.3</td>
+        <td><div style="width:calc(76.3%);height:4px;background:var(--accent-2);border-radius:2px;max-width:200px"></div></td>
+      </tr>
+      <tr>
+        <td class="mono">G</td>
+        <td><span class="e">Diet + Mood</span><span class="z">饮食 + 情绪</span></td>
+        <td class="mono">74.1</td>
+        <td><div style="width:calc(74.1%);height:4px;background:var(--accent-2);border-radius:2px;max-width:200px"></div></td>
+      </tr>
+      <tr class="highlight-row">
+        <td class="mono">H</td>
+        <td><span class="e">Full Panoramic (All 4)</span><span class="z">全景整合 (全部 4 域)</span></td>
+        <td class="mono">92.6</td>
+        <td><div style="width:calc(92.6%);height:4px;background:var(--accent);border-radius:2px;max-width:200px"></div></td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+
+  <!-- IIR bar chart -->
+  <h3 style="font-size:1rem;font-weight:600;margin-bottom:4px" class="fade-in">
+    <span class="e">IIR per User (Full Panoramic / Single-Domain Average)</span>
+    <span class="z">各用户 IIR（全景整合 / 单域均值）</span>
+  </h3>
+  <p style="font-size:.8rem;color:var(--fg-3);margin-bottom:16px" class="fade-in">
+    <span class="e">IIR &ge; 1.0 indicates cross-domain integration adds value. Target: &ge; 1.5x</span>
+    <span class="z">IIR &ge; 1.0 表示跨域整合产生增量价值。目标：&ge; 1.5x</span>
+  </p>
+  <div class="bar-chart fade-in">
+    <div class="bar-row"><span class="bar-label">user_01</span><div class="bar-track"><div class="bar-fill blue" style="width:98.0%">1.47</div></div></div>
+    <div class="bar-row"><span class="bar-label">user_02</span><div class="bar-track"><div class="bar-fill green" style="width:100%">1.53</div></div></div>
+    <div class="bar-row"><span class="bar-label">user_03</span><div class="bar-track"><div class="bar-fill blue" style="width:96.7%">1.45</div></div></div>
+    <div class="bar-row"><span class="bar-label">user_04</span><div class="bar-track"><div class="bar-fill blue" style="width:98.7%">1.48</div></div></div>
+    <div class="bar-row"><span class="bar-label">user_05</span><div class="bar-track"><div class="bar-fill blue" style="width:96.0%">1.44</div></div></div>
+    <div class="bar-row"><span class="bar-label">user_06</span><div class="bar-track"><div class="bar-fill blue" style="width:97.3%">1.46</div></div></div>
+    <div class="bar-row"><span class="bar-label">user_07</span><div class="bar-track"><div class="bar-fill green" style="width:100%">1.51</div></div></div>
+    <div class="bar-row"><span class="bar-label">user_08</span><div class="bar-track"><div class="bar-fill green" style="width:100%">1.52</div></div></div>
+    <div class="bar-row"><span class="bar-label">user_09</span><div class="bar-track"><div class="bar-fill green" style="width:100%">1.51</div></div></div>
+    <div class="bar-row"><span class="bar-label">user_10</span><div class="bar-track"><div class="bar-fill blue" style="width:96.7%">1.45</div></div></div>
+  </div>
+  <div style="text-align:center;margin-top:20px;font-size:.9rem;color:var(--fg-2)" class="fade-in">
+    <span class="e">Average IIR: <strong style="color:var(--accent);font-size:1.2rem">1.48x</strong> &mdash; 4/10 users exceed 1.5x target</span>
+    <span class="z">平均 IIR：<strong style="color:var(--accent);font-size:1.2rem">1.48x</strong> — 4/10 用户超过 1.5x 目标</span>
+  </div>
+</div>
+</section>
+
+<!-- Results: Scale Curve -->
+<section id="scale">
+<div class="container">
+  <div class="section-label fade-in">
+    <span class="e">Experiment B — Model Scale Curve</span>
+    <span class="z">实验 B — 模型规模曲线</span>
+  </div>
+  <h2 class="section-title fade-in">
+    <span class="e">Diminishing Returns Beyond 9B</span>
+    <span class="z">9B 以上收益递减</span>
+  </h2>
+  <p class="section-desc fade-in">
+    <span class="e">The jump from 2B to 9B (+14.9) is nearly 3x the gain from 9B to 35B (+5.6). A 9B model captures most of the insight quality, validating the "medium model" thesis.</span>
+    <span class="z">从 2B 到 9B 的提升 (+14.9) 是 9B 到 35B (+5.6) 的近 3 倍。9B 模型已捕获大部分洞察质量，验证了"中等模型"命题。</span>
+  </p>
+
+  <div class="scale-bars fade-in">
+    <div class="scale-col">
+      <div class="scale-bar-outer">
+        <div class="scale-bar" style="height:57.8%;background:linear-gradient(180deg,var(--fg-3),#444)">
+          <span class="scale-bar-val" style="color:var(--fg-2)">48.9</span>
+        </div>
+      </div>
+      <span class="scale-label">0.8B</span>
+    </div>
+    <div class="scale-col">
+      <div class="scale-bar-outer">
+        <div class="scale-bar" style="height:75.8%;background:linear-gradient(180deg,var(--amber),#b8860b)">
+          <span class="scale-bar-val" style="color:var(--amber)">64.1</span>
+        </div>
+      </div>
+      <span class="scale-label">2B</span>
+      <span class="scale-sublabel">+15.2</span>
+    </div>
+    <div class="scale-col">
+      <div class="scale-bar-outer">
+        <div class="scale-bar" style="height:93.4%;background:linear-gradient(180deg,var(--green),#0d9668)">
+          <span class="scale-bar-val" style="color:var(--green)">79.0</span>
+        </div>
+      </div>
+      <span class="scale-label">9B</span>
+      <span class="scale-sublabel">+14.9</span>
+    </div>
+    <div class="scale-col">
+      <div class="scale-bar-outer">
+        <div class="scale-bar" style="height:100%;background:linear-gradient(180deg,var(--accent),var(--accent-2))">
+          <span class="scale-bar-val" style="color:var(--accent)">84.6</span>
+        </div>
+      </div>
+      <span class="scale-label">35B</span>
+      <span class="scale-sublabel">+5.6</span>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- Results: Benchmark -->
+<section id="benchmark">
+<div class="container">
+  <div class="section-label fade-in">
+    <span class="e">Experiment C — Inference Benchmark</span>
+    <span class="z">实验 C — 推理性能基准</span>
+  </div>
+  <h2 class="section-title fade-in">
+    <span class="e">Real-Time Inference on Consumer Hardware</span>
+    <span class="z">消费级硬件上的实时推理</span>
+  </h2>
+  <p class="section-desc fade-in">
+    <span class="e">All models run locally on Apple Silicon via MLX. No cloud, no API calls, no data leaves the device.</span>
+    <span class="z">所有模型通过 MLX 在 Apple Silicon 上本地运行。无云端、无 API 调用、数据不离开设备。</span>
+  </p>
+  <div class="table-wrap fade-in">
+  <table>
+    <thead>
+      <tr>
+        <th><span class="e">Device</span><span class="z">设备</span></th>
+        <th><span class="e">Model</span><span class="z">模型</span></th>
+        <th>TPS</th>
+        <th>TTFT</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>M2 Ultra 192G</td>
+        <td class="mono">0.8B Q8</td>
+        <td class="mono" style="color:var(--green)">137.2</td>
+        <td class="mono">0.088s</td>
+      </tr>
+      <tr>
+        <td>M2 Ultra 192G</td>
+        <td class="mono">2B Q8</td>
+        <td class="mono" style="color:var(--green)">105.1</td>
+        <td class="mono">0.139s</td>
+      </tr>
+      <tr class="highlight-row">
+        <td>M2 Ultra 192G</td>
+        <td class="mono">35B-A3B Q8</td>
+        <td class="mono" style="color:var(--accent)">49.9</td>
+        <td class="mono">0.365s</td>
+      </tr>
+      <tr>
+        <td>M2 Ultra 192G</td>
+        <td class="mono">9B Q8</td>
+        <td class="mono">41.3</td>
+        <td class="mono">0.471s</td>
+      </tr>
+      <tr>
+        <td>M1 Max 32G</td>
+        <td class="mono">9B Q8</td>
+        <td class="mono">21.9</td>
+        <td class="mono">1.138s</td>
+      </tr>
+      <tr>
+        <td>M2 Pro 32G</td>
+        <td class="mono">9B Q8</td>
+        <td class="mono">12.7</td>
+        <td class="mono">1.762s</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+</div>
+</section>
+
+<!-- Architecture -->
+<section id="architecture">
+<div class="container">
+  <div class="section-label fade-in">
+    <span class="e">System Architecture</span>
+    <span class="z">系统架构</span>
+  </div>
+  <h2 class="section-title fade-in">
+    <span class="e">Three-Tier Device Topology</span>
+    <span class="z">三层设备拓扑</span>
+  </h2>
+  <p class="section-desc fade-in">
+    <span class="e">Vertical apps collect data naturally. The home server federates summaries &mdash; never raw data &mdash; across devices to produce panoramic insights.</span>
+    <span class="z">垂直应用自然采集数据。家庭服务器联邦式聚合摘要 &mdash; 从不接触原始数据 &mdash; 跨设备生成全景洞察。</span>
+  </p>
+
+  <div class="arch fade-in">
+    <!-- Tier 2 -->
+    <div class="arch-tier t2">
+      <span class="arch-tier-label">
+        <span class="e">Tier 2 &mdash; Home Server</span>
+        <span class="z">Tier 2 &mdash; 家庭服务器</span>
+      </span>
+      <div class="arch-device">M2 Ultra 192G</div>
+      <div class="arch-detail">
+        <span>Qwen3.5-35B-A3B</span>
+        <span class="e">Panoramic Inference</span>
+        <span class="z">全景推理</span>
+        <span>Port 9210</span>
+      </div>
+    </div>
+
+    <div class="arch-connector"></div>
+
+    <!-- Tier 1a -->
+    <div class="arch-tier t1">
+      <span class="arch-tier-label">
+        <span class="e">Tier 1 &mdash; simulates iPhone</span>
+        <span class="z">Tier 1 &mdash; 模拟 iPhone</span>
+      </span>
+      <div class="arch-device">M1 Max 32G</div>
+      <div class="arch-detail">
+        <span>Mealens</span>
+        <span>Ururu</span>
+        <span>Port 9211</span>
+      </div>
+    </div>
+
+    <div class="arch-connector"></div>
+
+    <!-- Tier 1b -->
+    <div class="arch-tier t1">
+      <span class="arch-tier-label">
+        <span class="e">Tier 1 &mdash; simulates iPad</span>
+        <span class="z">Tier 1 &mdash; 模拟 iPad</span>
+      </span>
+      <div class="arch-device">M2 Pro 32G</div>
+      <div class="arch-detail">
+        <span>Narrus</span>
+        <span>Dailyn</span>
+        <span>Port 9212</span>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- Privacy & Federation -->
+<section id="privacy">
+<div class="container">
+  <div class="section-label fade-in">
+    <span class="e">Experiment D &mdash; Privacy &amp; Federation</span>
+    <span class="z">实验 D &mdash; 隐私与联邦协议</span>
+  </div>
+  <h2 class="section-title fade-in">
+    <span class="e">Zero Data Leakage by Design</span>
+    <span class="z">架构层面零数据泄漏</span>
+  </h2>
+  <p class="section-desc fade-in">
+    <span class="e">Raw data never leaves the originating device. Only compressed summaries traverse the local network. The federation protocol achieves 125.5x compression while preserving insight quality.</span>
+    <span class="z">原始数据从不离开产生它的设备。只有压缩摘要在局域网内传输。联邦协议实现 125.5x 压缩比，同时保持洞察质量。</span>
+  </p>
+
+  <div class="privacy-visual fade-in">
+    <div class="privacy-block">
+      <div class="big" style="color:var(--red)">108,850</div>
+      <div class="label">
+        <span class="e">Raw data (bytes)</span>
+        <span class="z">原始数据（字节）</span>
+      </div>
+    </div>
+    <div class="privacy-arrow">&rarr;</div>
+    <div class="privacy-ratio">
+      <div class="big">125.5x</div>
+      <div class="label" style="color:var(--fg-2)">
+        <span class="e">Compression</span>
+        <span class="z">压缩比</span>
+      </div>
+    </div>
+    <div class="privacy-arrow">&rarr;</div>
+    <div class="privacy-block">
+      <div class="big" style="color:var(--green)">867</div>
+      <div class="label">
+        <span class="e">Transmitted (bytes)</span>
+        <span class="z">实际传输（字节）</span>
+      </div>
+    </div>
+  </div>
+
+  <div style="text-align:center;margin-top:24px" class="fade-in">
+    <span class="zero-badge">
+      <span class="zero-dot"></span>
+      <span class="e">Zero raw data left any device</span>
+      <span class="z">零原始数据离开任何设备</span>
+    </span>
+  </div>
+</div>
+</section>
+
+<!-- Scoring Methodology -->
+<section id="scoring">
+<div class="container">
+  <div class="section-label fade-in">
+    <span class="e">Evaluation Methodology</span>
+    <span class="z">评估方法</span>
+  </div>
+  <h2 class="section-title fade-in">
+    <span class="e">LLM-as-Judge Scoring</span>
+    <span class="z">LLM-as-Judge 评分体系</span>
+  </h2>
+  <p class="section-desc fade-in">
+    <span class="e">Each model-generated insight is scored by Claude Opus 4.6 (Anthropic) on four dimensions, each 0&ndash;25 points, for a total of 0&ndash;100. The judge receives the user's full data context and the generated insight, producing scores with detailed justifications.</span>
+    <span class="z">每条模型生成的洞察由 Claude Opus 4.6（Anthropic）在四个维度上评分，每维度 0&ndash;25 分，满分 100。评审模型接收用户完整数据上下文和生成的洞察，给出带有详细理由的评分。</span>
+  </p>
+  <div class="table-wrap fade-in">
+  <table>
+    <thead>
+      <tr>
+        <th><span class="e">Dimension</span><span class="z">维度</span></th>
+        <th><span class="e">Score</span><span class="z">分值</span></th>
+        <th><span class="e">What It Measures</span><span class="z">衡量内容</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="e">Relevance</span><span class="z">相关性</span></td>
+        <td class="mono">0&ndash;25</td>
+        <td><span class="e">Does the insight address something meaningful in the user's life?</span><span class="z">洞察是否涉及用户生活中有意义的内容？</span></td>
+      </tr>
+      <tr>
+        <td><span class="e">Specificity</span><span class="z">具体性</span></td>
+        <td class="mono">0&ndash;25</td>
+        <td><span class="e">Does it reference concrete data points, or is it generic advice?</span><span class="z">是否引用了具体数据，还是泛泛而谈？</span></td>
+      </tr>
+      <tr>
+        <td><span class="e">Cross-Domain</span><span class="z">跨域性</span></td>
+        <td class="mono">0&ndash;25</td>
+        <td><span class="e">Does it connect patterns across multiple life domains?</span><span class="z">是否关联了多个生活领域的模式？</span></td>
+      </tr>
+      <tr>
+        <td><span class="e">Actionability</span><span class="z">可操作性</span></td>
+        <td class="mono">0&ndash;25</td>
+        <td><span class="e">Can the user take a concrete action based on this insight?</span><span class="z">用户是否能基于此洞察采取具体行动？</span></td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  <p style="font-size:.8rem;color:var(--fg-3);margin-top:16px;line-height:1.6" class="fade-in">
+    <span class="e">Methodology reference: <em>Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena</em> (Zheng et al., NeurIPS 2023)</span>
+    <span class="z">方法论参考：<em>Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena</em>（Zheng et al., NeurIPS 2023）</span>
+  </p>
+</div>
+</section>
+
+<!-- Social Impact -->
+<section id="social-impact">
+<div class="container">
+  <div class="section-label fade-in">
+    <span class="e">Social Impact</span>
+    <span class="z">社会价值</span>
+  </div>
+  <h2 class="section-title fade-in">
+    <span class="e">Early Warning for Life Crises</span>
+    <span class="z">生活危机的预警系统</span>
+  </h2>
+  <p class="section-desc fade-in">
+    <span class="e">Cross-domain data integration enables detection of cascading life crises that single-domain analysis cannot see &mdash; from financial stress spiraling into health emergencies, to burnout escalating into medical errors.</span>
+    <span class="z">跨域数据整合使系统能够检测到单域分析无法发现的连锁生活危机 &mdash; 从经济压力演变为健康紧急事件，到过度疲劳升级为医疗事故。</span>
+  </p>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px" class="fade-in">
+    <div style="background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius-lg);padding:20px;border-left:3px solid var(--red)">
+      <div style="font-size:.75rem;font-weight:600;color:var(--red);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px">
+        <span class="e">Crisis Detection</span>
+        <span class="z">危机检测</span>
+      </div>
+      <div style="font-size:.9rem;font-weight:600;margin-bottom:6px">
+        <span class="e">Synchronized collapse across domains</span>
+        <span class="z">跨域同步崩塌检测</span>
+      </div>
+      <div style="font-size:.8rem;color:var(--fg-3);line-height:1.5">
+        <span class="e">user_02: accident &rarr; income zero + calories crash + mood collapse + reading shifts to legal aid. Only visible with all 4 data streams.</span>
+        <span class="z">user_02：车祸 &rarr; 收入归零 + 热量骤降 + 情绪崩溃 + 阅读转向法律援助。仅四域联合可见。</span>
+      </div>
+    </div>
+
+    <div style="background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius-lg);padding:20px;border-left:3px solid var(--amber)">
+      <div style="font-size:.75rem;font-weight:600;color:var(--amber);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px">
+        <span class="e">Early Warning</span>
+        <span class="z">预警信号</span>
+      </div>
+      <div style="font-size:.9rem;font-weight:600;margin-bottom:6px">
+        <span class="e">Foreshadowing signals before crisis</span>
+        <span class="z">危机前的预警信号</span>
+      </div>
+      <div style="font-size:.8rem;color:var(--fg-3);line-height:1.5">
+        <span class="e">user_07: 3 nights of sleep deprivation + stress escalation across mood, diet, and reading data &mdash; detectable days before the medication error.</span>
+        <span class="z">user_07：连续三晚睡眠不足 + 情绪、饮食、阅读数据中的压力升级 &mdash; 可在医疗事故前数天检测到。</span>
+      </div>
+    </div>
+
+    <div style="background:var(--bg-1);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius-lg);padding:20px;border-left:3px solid var(--green)">
+      <div style="font-size:.75rem;font-weight:600;color:var(--green);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px">
+        <span class="e">Recovery Tracking</span>
+        <span class="z">恢复追踪</span>
+      </div>
+      <div style="font-size:.9rem;font-weight:600;margin-bottom:6px">
+        <span class="e">Multi-domain recovery monitoring</span>
+        <span class="z">多维度恢复监测</span>
+      </div>
+      <div style="font-size:.8rem;color:var(--fg-3);line-height:1.5">
+        <span class="e">user_08: reading shifts from divorce law &rarr; depression self-help &rarr; freelancing guides. Calories stabilize. Mood slowly rises. Objective recovery data for therapists.</span>
+        <span class="z">user_08：阅读从离婚法 &rarr; 抑郁自助 &rarr; 自由职业指南。热量稳定。情绪缓慢回升。为心理咨询师提供客观恢复数据。</span>
+      </div>
+    </div>
+  </div>
+
+  <p style="font-size:.85rem;color:var(--fg-2);margin-top:24px;text-align:center;font-style:italic;line-height:1.6" class="fade-in">
+    <span class="e">Privacy is essential: users are more likely to maintain honest records when they trust that no external party will see their data.</span>
+    <span class="z">隐私至关重要：当用户确信没有外部方能看到数据时，他们更愿意保持真实的记录。</span>
+  </p>
+</div>
+</section>
+
+<!-- User Profiles -->
+<section id="users">
+<div class="container">
+  <div class="section-label fade-in">
+    <span class="e">Synthetic User Profiles</span>
+    <span class="z">合成用户画像</span>
+  </div>
+  <h2 class="section-title fade-in">
+    <span class="e">10 Users Spanning Income &amp; Life Stages</span>
+    <span class="z">覆盖不同收入与人生阶段的 10 位用户</span>
+  </h2>
+  <p class="section-desc fade-in">
+    <span class="e">Each user has 90 days of synthetic data across 4 apps with an injected life event to simulate temporal drift.</span>
+    <span class="z">每位用户拥有 4 个应用、90 天的合成数据，并注入生活事件以模拟时序漂移。</span>
+  </p>
+
+  <div class="user-grid fade-in">
+    <!-- user_01 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_01</span>
+        <span class="user-card-age">
+          <span class="e">Age 22</span><span class="z">22岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Factory Worker</span><span class="z">工厂工人</span>
+      </div>
+      <div class="user-card-income">&yen;3,500 /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 40: Layoff</span>
+        <span class="z">第40天：被裁员</span>
+      </div>
+    </div>
+    <!-- user_02 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_02</span>
+        <span class="user-card-age">
+          <span class="e">Age 28</span><span class="z">28岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Delivery Rider</span><span class="z">外卖骑手</span>
+      </div>
+      <div class="user-card-income">&yen;6,000 /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 46: Traffic accident &rarr; hospital &rarr; debt</span>
+        <span class="z">第46天：严重车祸 &rarr; 住院 &rarr; 负债</span>
+      </div>
+    </div>
+    <!-- user_03 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_03</span>
+        <span class="user-card-age">
+          <span class="e">Age 31</span><span class="z">31岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Primary Teacher</span><span class="z">小学教师</span>
+      </div>
+      <div class="user-card-income">&yen;5,500 /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 35: Pregnancy</span>
+        <span class="z">第35天：怀孕</span>
+      </div>
+    </div>
+    <!-- user_04 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_04</span>
+        <span class="user-card-age">
+          <span class="e">Age 26</span><span class="z">26岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Grad Student</span><span class="z">研究生</span>
+      </div>
+      <div class="user-card-income">&yen;2,000 /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 45: Thesis rejected</span>
+        <span class="z">第45天：论文被拒</span>
+      </div>
+    </div>
+    <!-- user_05 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_05</span>
+        <span class="user-card-age">
+          <span class="e">Age 27</span><span class="z">27岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">E-commerce Ops</span><span class="z">电商运营</span>
+      </div>
+      <div class="user-card-income">&yen;12,000 /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 30: Promoted</span>
+        <span class="z">第30天：升职</span>
+      </div>
+    </div>
+    <!-- user_06 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_06</span>
+        <span class="user-card-age">
+          <span class="e">Age 29</span><span class="z">29岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Freelance Illustrator</span><span class="z">自由插画师</span>
+      </div>
+      <div class="user-card-income">&yen;8&ndash;25K /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 60: Big client</span>
+        <span class="z">第60天：接到大客户</span>
+      </div>
+    </div>
+    <!-- user_07 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_07</span>
+        <span class="user-card-age">
+          <span class="e">Age 33</span><span class="z">33岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Hospital Resident</span><span class="z">住院医师</span>
+      </div>
+      <div class="user-card-income">&yen;25,000 /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 21: Med error &rarr; suspension &rarr; breakup</span>
+        <span class="z">第21天：医疗事故 &rarr; 停职 &rarr; 分手</span>
+      </div>
+    </div>
+    <!-- user_08 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_08</span>
+        <span class="user-card-age">
+          <span class="e">Age 32</span><span class="z">32岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Tech P7</span><span class="z">大厂 P7</span>
+      </div>
+      <div class="user-card-income">&yen;50,000 /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 55: Laid off &rarr; divorce &rarr; depression</span>
+        <span class="z">第55天：裁员 &rarr; 离婚 &rarr; 抑郁</span>
+      </div>
+    </div>
+    <!-- user_09 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_09</span>
+        <span class="user-card-age">
+          <span class="e">Age 45</span><span class="z">45岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Business Owner</span><span class="z">企业主</span>
+      </div>
+      <div class="user-card-income">&yen;150,000 /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 38: &yen;800K default &rarr; health crisis</span>
+        <span class="z">第38天：80万坏账 &rarr; 健康危机</span>
+      </div>
+    </div>
+    <!-- user_10 -->
+    <div class="user-card">
+      <div class="user-card-head">
+        <span class="user-card-id">user_10</span>
+        <span class="user-card-age">
+          <span class="e">Age 38</span><span class="z">38岁</span>
+        </span>
+      </div>
+      <div class="user-card-profile">
+        <span class="e">Fund Manager</span><span class="z">基金经理</span>
+      </div>
+      <div class="user-card-income">&yen;830,000 /mo</div>
+      <div class="user-card-event">
+        <span class="e">Day 25: 4% drawdown</span>
+        <span class="z">第25天：4% 回撤</span>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- Footer -->
+<footer>
+<div class="container">
+  <div class="footer-grid">
+    <div class="footer-col">
+      <h4>Prism</h4>
+      <p class="e">Cross-Domain Personal Data Integration on Consumer Hardware Produces Emergent Insights.</p>
+      <p class="z">消费级硬件上的跨域个人数据整合产生涌现洞察。</p>
+      <p style="margin-top:12px">
+        <a href="paper.pdf">Paper (PDF)</a> &nbsp;&middot;&nbsp;
+        <a href="https://github.com/AtomGradient/Prism">GitHub</a>
+      </p>
+    </div>
+    <div class="footer-col">
+      <h4>Citation</h4>
+      <div class="bibtex">@article{prism2026,
+  title={Prism: Cross-Domain Personal Data
+         Integration on Consumer Hardware
+         Produces Emergent Insights},
+  author={EchoStream AI Research},
+  year={2026},
+  url={https://atomgradient.github.io/Prism}
+}</div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span class="e">Built by EchoStream AI Research</span>
+    <span class="z">EchoStream AI Research 出品</span>
+  </div>
+</div>
+</footer>
+
+<script>
+// Language toggle
+function setLang(lang) {
+  document.documentElement.lang = lang;
+  document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+  document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
+  try { localStorage.setItem('prism-lang', lang); } catch(e) {}
+}
+
+// Restore saved language
+(function() {
+  try {
+    var saved = localStorage.getItem('prism-lang');
+    if (saved === 'zh') setLang('zh');
+  } catch(e) {}
+})();
+
+// Fade-in on scroll
+(function() {
+  var els = document.querySelectorAll('.fade-in');
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.15 });
+  els.forEach(function(el) { observer.observe(el); });
+})();
+
+// Smooth scroll for nav links
+document.querySelectorAll('a[href^="#"]').forEach(function(a) {
+  a.addEventListener('click', function(e) {
+    var target = document.querySelector(this.getAttribute('href'));
+    if (target) {
+      e.preventDefault();
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+});
+</script>
+</body>
+</html>

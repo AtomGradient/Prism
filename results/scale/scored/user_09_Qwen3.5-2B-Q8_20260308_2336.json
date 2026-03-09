@@ -1,0 +1,14 @@
+{
+  "user_id": "user_09",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 19,
+    "specificity": 18,
+    "cross_domain": 17,
+    "actionability": 13,
+    "total": 67
+  },
+  "score_rationale": "Strong relevance — directly engages with the private business owner's cash flow crisis, references the 800k receivables delinquency event, captures the stress-driven lifestyle spiral. Excellent specificity with concrete numbers (sleep 5.4h, late-night eating 11 times, baijiu 12 times, dining 38001 yuan at 66% of total, anomalous spend day 12044 yuan, emotion mean 0.39, front half spend 31756 vs back half 25482, reading 30 times at 29min/day, law topics 15, finance 6, 'considering selling car' diary entry). Three cross-domain patterns are well-grounded: the late-night-eating to anxiety to alcohol cycle is data-backed and compelling; the high-dining-spend vs sparse-professional-reading cognitive gap is a genuine cross-domain observation; the emotion-driven asset disposal timing lag is sophisticated. Temporal drift analysis captures the shift from 'expansionist survival' to 'contractionary survival' convincingly, with the spending reduction as evidence of forced austerity. Actionability is weaker — forced sleep rules and alcohol prohibition are correct but simplistic for a business owner under extreme financial pressure, and the cognitive-layer advice (read before spending on dining) feels disconnected from reality. The model quotes the diary verbatim ('considering selling car') which adds credibility."
+}

@@ -1,0 +1,14 @@
+{
+  "user_id": "user_06",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 21,
+    "specificity": 20,
+    "cross_domain": 20,
+    "actionability": 18,
+    "total": 79
+  },
+  "score_rationale": "Strong relevance to freelance illustrator profile (29yo, variable income 8000-25000, 50k project). Good specificity with concrete data (79% savings rate, 21 late-night meals, 15 instant noodles, 9 snack instances, 53% breakfast skip rate, sleep 5.1h, 2267 yuan single-day anomaly, front 4052 vs back 1297 yuan). Cross-domain patterns are well-articulated: the emotion-driven consumption pulse, pressure-junk food-blood sugar loop, and self-improvement desire vs physiological depletion gap. The 'survival mode' temporal drift analysis is convincing. Recommendations are practical (emotion buffer account, breakfast+curfew, de-noodlification) though the pattern of advice remains somewhat formulaic across users."
+}

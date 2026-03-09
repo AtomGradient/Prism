@@ -1,0 +1,14 @@
+{
+  "user_id": "user_06",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 20,
+    "specificity": 21,
+    "cross_domain": 22,
+    "actionability": 19,
+    "total": 82
+  },
+  "score_rationale": "Good relevance to user_06's profile as a 29-year-old freelance illustrator with volatile income. References the large client order event indirectly through project deadline analysis. Solid specificity with data (78.6% savings rate, 8% healthy eating, 53% skipped breakfast, 5.1h sleep, 21 deep-night meals, 33% reading coverage, 2267 yuan anomalous day). Cross-domain analysis linking deadline anxiety to speed-food dependency to abnormal spending is well-constructed; the 'time poverty leading to cognitive stagnation' pattern is compelling. However, the event (day 60 large order) is not directly referenced -- the analysis focuses on a general deadline pattern rather than the specific injected event. Recommendations are concrete (20 yuan daily breakfast budget, mandatory art reading instead of efficiency books, 300 yuan spending cooldown threshold) but partially truncated."
+}

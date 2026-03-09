@@ -1,0 +1,14 @@
+{
+  "user_id": "user_01",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 18,
+    "specificity": 16,
+    "cross_domain": 17,
+    "actionability": 13,
+    "total": 64
+  },
+  "score_rationale": "Solid relevance to user_01's factory worker profile — references layoff event, frugal living, remittances home. Cites specific numbers (emotion mean 0.52, savings rate 46.3%, calorie 1340kcal, sleep 6.9h, anomalous spend 1222 yuan on 3/15). Cross-domain connections are present (emotion-diet loop, financial shock vs emotional recovery, cheap diet vs high savings paradox) though some causal chains are speculative and over-interpreted (e.g., claiming zero late-night eating is 'restraint against anxiety' rather than simply normal behavior). Temporal drift analysis attempts to track pre/post job change but stretches thin data. Actionability is the weakest dimension — recommendations are cut off mid-sentence and the completed portions are generic (eat healthier, set budget red lines). For a 2B model, this is above-average: it maintains structural coherence and attempts genuine cross-domain reasoning rather than just listing per-app summaries."
+}

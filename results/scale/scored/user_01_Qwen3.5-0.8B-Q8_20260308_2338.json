@@ -1,0 +1,14 @@
+{
+  "user_id": "user_01",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 14,
+    "specificity": 11,
+    "cross_domain": 12,
+    "actionability": 10,
+    "total": 47
+  },
+  "score_rationale": "The insight addresses the factory worker's core situation (low income, remittances, frugality) and identifies plausible cross-domain patterns (emotion-diet-spending cycle). However, many cited numbers appear fabricated or inconsistently derived from the prompt data (e.g., emotion scores 0.52/0.56, transfer amounts). The 'information cocoon' reading pattern is speculative with weak data support. Cross-domain linkages are attempted but logic chains are often circular or forced (e.g., 'reading as emotional defense' claim is unsupported). Recommendations are generic (emergency fund, forced reading pauses) and some are contradictory (advising to stop reading when stressed while also lamenting insufficient reading). Output was truncated at 2000 tokens, losing final recommendations."
+}

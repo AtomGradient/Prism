@@ -1,0 +1,14 @@
+{
+  "user_id": "user_01",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 22,
+    "specificity": 21,
+    "cross_domain": 22,
+    "actionability": 20,
+    "total": 85
+  },
+  "score_rationale": "Excellent relevance to user_01's profile as a 22-year-old factory worker sending money home. Cites specific data points (1222 yuan anomalous spending, 46.3% savings rate, 30% skipped breakfast, 911ml daily water). Strong cross-domain connections linking stress-driven compensatory eating with financial anomalies and cognitive narrowing via 'chicken soup' reading. Recommendations are concrete and budget-aware (add 2 yuan/day for eggs), though the 4th recommendation was truncated. Slight deduction for occasional over-interpretation of causal chains from synthetic data."
+}

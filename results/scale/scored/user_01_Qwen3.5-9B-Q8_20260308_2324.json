@@ -1,0 +1,14 @@
+{
+  "user_id": "user_01",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 21,
+    "specificity": 19,
+    "cross_domain": 20,
+    "actionability": 18,
+    "total": 78
+  },
+  "score_rationale": "Strong relevance to user profile (22yo factory worker, 3500 income, savings rate 46%). Good specificity with concrete data (daily spend 63 yuan, fatigue 11 times, healthy eating 9%, daily calories 1340kcal). Cross-domain connections are well-articulated (fatigue-diet-finance loop, compensatory spending pattern). Recommendations are concrete (add 2 boiled eggs, emotion-consumption firewall) but some interpretations of the 1222 yuan anomaly feel speculative without firm data grounding."
+}

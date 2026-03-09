@@ -1,0 +1,14 @@
+{
+  "user_id": "user_10",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 16,
+    "specificity": 13,
+    "cross_domain": 15,
+    "actionability": 11,
+    "total": 55
+  },
+  "score_rationale": "The second-strongest output in the batch. The fund manager framing is well-handled, and the 'emotion-driven investment decisions' cross-domain pattern (Mode 3) is a genuinely insightful observation -- connecting emotional diary keywords (rebalancing, cautious, returns) with investment behavior represents authentic cross-domain value that no single app could produce. The diet-finance hidden synchronization pattern is an interesting attempt, though the logic is muddled (confusing caloric data with financial figures in places). Data citations are present (0.61 emotion mean, 93.6% savings rate, 1666/1626 kcal, 30% skipped breakfast, 32389/20816 yuan spending split, 1441 min reading). Temporal drift analysis is structured with plausible scenarios. However, the model confuses caloric deficit with financial loss in the health section, and the 'cognitive anchor' recommendation is vague. The self-reflective section at the end ('why single-domain cannot produce these findings') is a nice structural touch for 0.8B. Output truncated."
+}

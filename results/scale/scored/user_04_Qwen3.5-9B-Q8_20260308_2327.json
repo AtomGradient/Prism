@@ -1,0 +1,14 @@
+{
+  "user_id": "user_04",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 22,
+    "specificity": 21,
+    "cross_domain": 21,
+    "actionability": 18,
+    "total": 82
+  },
+  "score_rationale": "Strong relevance to grad student profile (26yo, thesis pressure, 2000 income, advisor rejection). Excellent specificity with precise data citations (dumplings 13 times, instant noodles 7 times, 96% dining ratio 1391/1441 yuan, 2% healthy eating, 8 late-night meals, sleep 6.0h, reading coverage 70% at 59 min/day). Cross-domain patterns are well-constructed (anxiety-carbs-cashflow loop, late-night eating-sleep-mood cycle, reading-as-refuge vs financial-dietary degradation). The 'rational short-term sacrifice eroding long-term health capital' framing is insightful. Recommendations are concrete but somewhat standard (breakfast enforcement, food substitution, 19:00 cutoff)."
+}

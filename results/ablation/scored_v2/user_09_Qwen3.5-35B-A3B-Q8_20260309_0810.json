@@ -1,0 +1,156 @@
+{
+  "user_id": "user_09",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "user_meta": {
+    "user_id": "user_09",
+    "name": "王总",
+    "age": 45,
+    "profile": "私企老板，资金链断裂引发健康+婚姻连锁危机",
+    "monthly_income": 150000,
+    "event_day": 38,
+    "event": "大客户拖欠80万→现金流断裂→心脏病住院→妻子出走→裁员→缓慢重建",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 23,
+        "cross_domain": 3,
+        "actionability": 20,
+        "total": 68
+      },
+      "total_score": 68,
+      "completion_tokens": 1810,
+      "latency_s": 39.2
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 20,
+        "specificity": 20,
+        "cross_domain": 3,
+        "actionability": 20,
+        "total": 63
+      },
+      "total_score": 63,
+      "completion_tokens": 1519,
+      "latency_s": 32.27
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 20,
+        "cross_domain": 4,
+        "actionability": 18,
+        "total": 64
+      },
+      "total_score": 64,
+      "completion_tokens": 1656,
+      "latency_s": 35.93
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 19,
+        "specificity": 17,
+        "cross_domain": 4,
+        "actionability": 17,
+        "total": 57
+      },
+      "total_score": 57,
+      "completion_tokens": 1933,
+      "latency_s": 41.73
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 22,
+        "cross_domain": 14,
+        "actionability": 19,
+        "total": 77
+      },
+      "total_score": 77,
+      "completion_tokens": 1905,
+      "latency_s": 41.44
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 16,
+        "actionability": 17,
+        "total": 78
+      },
+      "total_score": 78,
+      "completion_tokens": 1898,
+      "latency_s": 41.2
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 21,
+        "cross_domain": 14,
+        "actionability": 17,
+        "total": 74
+      },
+      "total_score": 74,
+      "completion_tokens": 1873,
+      "latency_s": 40.67
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 25,
+        "cross_domain": 25,
+        "actionability": 21,
+        "total": 95
+      },
+      "total_score": 95,
+      "completion_tokens": 3119,
+      "latency_s": 68.35
+    }
+  },
+  "iir": 1.51,
+  "scoring_model": "Claude Opus 4.6 (Anthropic)",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points"
+}

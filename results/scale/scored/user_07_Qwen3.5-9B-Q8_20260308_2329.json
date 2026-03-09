@@ -1,0 +1,14 @@
+{
+  "user_id": "user_07",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 22,
+    "specificity": 18,
+    "cross_domain": 21,
+    "actionability": 18,
+    "total": 79
+  },
+  "score_rationale": "Excellent relevance to the doctor profile (33yo, hospital resident, emotional collapse after 3 consecutive night shifts). The cross-domain patterns are genuinely insightful: 'compensatory weekend consumption' tied to emotional release, 'cognitive surplus vs physiological deficit' (heavy medical reading but poor nutrition), and the 'empathy fatigue leading to self-neglect' observation are all profession-specific and novel. Specificity is adequate but not outstanding (86.1% savings, 1484kcal, 14% healthy eating, 6.7h sleep) with some data points feeling inferred. The 'professional knowledge vs personal practice gap' insight is particularly strong for a medical professional. Recommendations are relevant but some (breakfast enforcement, diet structure) are repetitive across users."
+}

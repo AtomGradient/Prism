@@ -1,0 +1,14 @@
+{
+  "user_id": "user_03",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 19,
+    "specificity": 17,
+    "cross_domain": 16,
+    "actionability": 14,
+    "total": 66
+  },
+  "score_rationale": "Strong relevance — correctly identifies the pregnant teacher profile, references pregnancy event (day 35), connects 'waiting for delivery' keywords to emotional state, and addresses the teacher's disciplined-yet-anxious personality. Good specificity with concrete numbers (savings rate 55.8%, emotion mean 0.72, healthy diet 100%, skip breakfast 0%, daily water 1887ml, sleep 7.1h, reading coverage 77%, 710 minutes). Three cross-domain patterns (emotion-consumption defensive mechanism, physiology-psychology imbalance, cognition-behavior time lag) show genuine integration attempts. However, the model makes contradictory claims — it says healthy diet ratio is 100% then later suggests nutritional deficiency, and the 'deep night no eating causes sleep quality decline' reasoning is medically dubious. Temporal drift captures the pressure-compensation dynamic reasonably well. Actionability provides structured advice with some pregnancy-appropriate awareness (water intake adjustment, forced breakfast anchor) but also includes questionable suggestions like replacing sleep with aerobic exercise for a pregnant woman. Best-scored of the 2B batch due to strong profile alignment."
+}

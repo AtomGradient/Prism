@@ -1,0 +1,14 @@
+{
+  "user_id": "user_02",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 20,
+    "specificity": 18,
+    "cross_domain": 19,
+    "actionability": 17,
+    "total": 74
+  },
+  "score_rationale": "Good relevance to delivery rider profile (28yo, 6000 income, electric bike stolen). Decent specificity (34% dining ratio at 914 yuan, sleep 6.3h, 1518kcal daily). Cross-domain patterns are solid (anxiety-eating-spending triangle, March 6 stress trigger) but the temporal drift table, while structured, contains some speculative interpretations (e.g., 'false calm'). Recommendations follow a formulaic pattern seen across outputs and lack deeply personalized touches beyond surface-level adjustments."
+}

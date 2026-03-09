@@ -1,0 +1,14 @@
+{
+  "user_id": "user_08",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 23,
+    "specificity": 23,
+    "cross_domain": 24,
+    "actionability": 19,
+    "total": 89
+  },
+  "score_rationale": "Excellent relevance to user_08's profile as a 32-year-old P7 engineer facing restructuring (layoff threat). The insight directly addresses the organizational change event, referencing 'Maimai layoff news' and salary negotiation anxiety. Outstanding specificity with precise data (95.2% savings rate, 1197 kcal daily, 37% skipped breakfast, 6.2h sleep, 46 min daily reading over 30/30 days, 13 convenience store coffees, 9 beers). The cross-domain analysis is the strongest across all 10 users: the reframing of 95.2% savings as 'pathological defensive contraction' rather than financial discipline, and reading as 'traumatic coping' rather than self-improvement, demonstrates genuine multi-domain insight that no single app could produce. The 'Truth A/B/C' section explicitly articulates the unique value of cross-domain integration. Recommendations are well-targeted (5% mandatory health/social budget, forced breakfast) but truncated before full implementation."
+}

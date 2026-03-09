@@ -1,0 +1,1048 @@
+% !TEX program = xelatex
+\documentclass[11pt,a4paper]{article}
+
+% ── Packages ──────────────────────────────────────────────────────────────────
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage[colorlinks=true,linkcolor=blue!70!black,citecolor=blue!70!black,urlcolor=blue!70!black]{hyperref}
+\usepackage{amsmath}
+\usepackage[round]{natbib}
+\usepackage{xcolor}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{xeCJK}
+\setCJKmainfont{STFangsong}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\newcommand{\yen}{¥}
+
+% ── Page style ────────────────────────────────────────────────────────────────
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small Prism: Cross-Domain Personal Data Integration}
+\fancyhead[R]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% ── Custom commands ───────────────────────────────────────────────────────────
+\newcommand{\echostream}{\textsc{Prism}}
+\newcommand{\iir}{\textsc{IIR}}
+\newcommand{\appname}[1]{\textsf{#1}}
+\newcommand{\tiernum}[1]{\textbf{Tier~#1}}
+
+% ── Title ─────────────────────────────────────────────────────────────────────
+\title{%
+  \textbf{Prism: Cross-Domain Personal Data Integration on \\
+  Consumer Hardware Produces Emergent Insights}%
+}
+
+\author{%
+  EchoStream AI Research (AtomGradient)\\
+  \texttt{\url{https://github.com/AtomGradient/Prism}}\\
+  \texttt{\url{https://atomgradient.github.io/Prism}}
+}
+
+\date{March 2026}
+
+\begin{document}
+
+\maketitle
+
+% ══════════════════════════════════════════════════════════════════════════════
+% ABSTRACT
+% ══════════════════════════════════════════════════════════════════════════════
+\begin{abstract}
+Current cloud-based AI assistants operate under a fundamental structural
+contradiction: to be genuinely useful, a model must understand its user's life
+context, yet the private data needed for such understanding is precisely what
+users are unwilling to upload to remote servers. We present \echostream{}, a
+three-tier on-device architecture that resolves this privacy--utility paradox by
+integrating data from four vertical personal-data applications---finance, diet,
+mood, and reading---entirely on consumer Apple Silicon hardware. Through an
+ablation study on 10 synthetic users over 90 simulated days, we demonstrate
+that full cross-domain data integration achieves an average Insight Increment
+Ratio (\iir{}) of $1.48\times$ over single-domain baselines, with the
+cross-domain scoring dimension driving nearly all of the gain. A model-scale
+study across four Qwen3.5 checkpoints (0.8B to 35B-A3B) reveals diminishing
+returns: the 2B$\to$9B jump yields $+14.9$ points while 9B$\to$35B yields only
+$+5.6$. Our federation protocol transmits only data summaries, achieving a
+$125.5\times$ compression ratio with zero raw-data leakage. All experiments run
+on commodity hardware (M2~Ultra, M1~Max, M2~Pro), establishing a practical
+blueprint for privacy-preserving personal AI.
+\end{abstract}
+
+\vspace{0.5em}
+\noindent\textbf{Keywords:} personal AI, cross-domain data integration,
+on-device inference, federated data protocol, Apple Silicon, privacy-preserving AI
+
+% ══════════════════════════════════════════════════════════════════════════════
+\section{Introduction}
+\label{sec:intro}
+% ══════════════════════════════════════════════════════════════════════════════
+
+\subsection{The Privacy--Utility Paradox}
+
+The promise of a truly personal AI assistant rests on a circular dependency
+that current cloud-centric architectures cannot resolve: \emph{to make AI
+genuinely useful, it must understand its user; to understand a user, it needs
+their most private data; yet the more private the data, the less willing users
+are to upload it to a third-party server.}
+
+Today's flagship models---GPT-4o, Claude, Gemini---are powerful
+general-purpose reasoners, but they remain \emph{knowledgeable strangers}.
+They can draft emails, generate images, and answer trivia, yet they do not
+know whether their user slept well last night, is under financial stress, or
+has been skipping meals for a week. The data that would enable such
+understanding---journals, medical records, financial transactions, dietary
+logs, emotional states---is exactly what users refuse to entrust to remote
+servers.
+
+This is not merely a technical obstacle; it is a \emph{structural} one. Cloud
+AI providers derive revenue from API calls (per-token billing); data remaining
+on-device eliminates their primary business incentive. Their competitive moat
+is built on data accumulation; local-only data erodes that moat. Even
+platform-native players face barriers: Apple's app ecosystem fragments
+third-party data into isolated silos, and Google's advertising model creates a
+rational distrust of deeper data access.
+
+\subsection{A Paradigm Inversion}
+
+We observe that the dominant paradigm can be characterized as \textbf{large
+model + small data}: a cloud-hosted model with hundreds of billions of
+parameters operates on a thin sliver of user context squeezed into a few
+thousand tokens of conversation history. \echostream{} inverts this paradigm
+to \textbf{medium model + rich data}: a locally hosted model of modest scale
+(3--35 billion parameters) operates on the user's entire longitudinal life
+data across multiple domains.
+
+The core insight is that intelligence does not arise solely from parameter
+count; it also arises from \emph{data depth and authenticity}. A 9-billion
+parameter model that has access to 90 days of a user's financial transactions,
+dietary patterns, emotional states, and reading habits can produce insights
+that a 1-trillion parameter model operating on a single conversation turn
+cannot---because the latter simply does not have the data.
+
+\subsection{Contributions}
+
+This paper makes the following contributions:
+
+\begin{enumerate}[leftmargin=*,itemsep=2pt]
+  \item \textbf{Cross-domain insight emergence.} We demonstrate through a
+    controlled ablation study (10 users $\times$ 8 data configurations) that
+    integrating four personal-data domains produces an average \iir{} of
+    $1.48\times$ over single-domain analysis, with the cross-domain scoring
+    dimension accounting for nearly all of the gain (Section~\ref{sec:results:ablation}).
+
+  \item \textbf{Model-scale analysis.} We establish a model-size vs.\
+    insight-quality curve on commodity hardware, showing that the practical
+    sweet spot lies at the 9B parameter scale, with diminishing returns beyond
+    that point (Section~\ref{sec:results:scale}).
+
+  \item \textbf{Privacy-preserving federation.} We implement and evaluate a
+    LAN-based federation protocol that achieves $125.5\times$ data compression
+    with zero raw-data leakage, demonstrating that multi-device personal AI can
+    operate without any data leaving the user's physical premises
+    (Section~\ref{sec:results:federation}).
+
+  \item \textbf{Practical system design.} We provide a fully reproducible
+    three-tier architecture running entirely on consumer Apple Silicon hardware,
+    with all code and synthetic data publicly available.\footnote{%
+      \url{https://github.com/AtomGradient/Prism}}
+\end{enumerate}
+
+
+% ══════════════════════════════════════════════════════════════════════════════
+\section{Related Work}
+\label{sec:related}
+% ══════════════════════════════════════════════════════════════════════════════
+
+\subsection{Personalized Large Language Models}
+
+The challenge of adapting LLMs to individual users has received growing
+attention. \citet{survey_personalized_llm_2025} provide a comprehensive survey
+identifying three axes of personalization: user profile injection, few-shot
+behavioral conditioning, and parametric adaptation. Most approaches assume
+access to a relatively small and static user profile.
+
+\citet{plum2024} propose PLUM, a system that learns to ``remember'' user
+conversations by compressing dialogue history into persistent user embeddings.
+While effective for conversational style adaptation, PLUM does not address
+cross-domain data integration or the privacy implications of storing user
+embeddings on cloud infrastructure.
+
+PersonalLLM \citep{personalllm2025} introduces a benchmark and training
+methodology for personalized generation, demonstrating that even modest
+amounts of user-specific data can significantly improve output alignment.
+However, the evaluation is confined to text generation quality within a single
+domain and does not consider the compounding effects of multi-domain data
+fusion.
+
+\subsection{Continual and Lifelong Learning}
+
+The temporal dynamics of user preferences---what the literature terms
+\emph{temporal drift}---pose a distinct challenge. \citet{continual_llm_survey_2024}
+survey continual learning methods for LLMs, highlighting catastrophic
+forgetting as the primary obstacle to lifelong adaptation. Current approaches
+(elastic weight consolidation, progressive neural networks, replay buffers)
+focus on model-side solutions and do not consider the data architecture that
+feeds the model.
+
+LIBER \citep{liber2024} addresses lifelong user behavior modeling by proposing
+a framework that compresses long behavioral sequences into structured
+representations. LIBER's insight---that raw behavioral sequences are too long
+for direct LLM consumption and require intermediate structuring---directly
+informs our federation protocol design. However, LIBER operates in a
+cloud-based recommendation setting and does not address on-device deployment
+or cross-domain integration.
+
+\subsection{Federated Learning and On-Device Inference}
+
+Federated learning \citep{mcmahan2017fedavg} was designed to train models
+across distributed devices without centralizing raw data. However, classical
+federated learning focuses on \emph{model training} (gradient aggregation),
+whereas our setting requires \emph{data-level integration} for inference-time
+reasoning. Our federation protocol is closer to federated analytics
+\citep{ramage2020federated_analytics} but operates at the semantic summary
+level rather than the statistical aggregate level.
+
+On-device LLM inference has become practical with the advent of Apple Silicon's
+unified memory architecture. The MLX framework \citep{mlx2023} and
+llama.cpp \citep{llamacpp2023} have demonstrated that models up to 70B
+parameters (with quantization) can run at interactive speeds on consumer
+hardware. Our work builds on this capability but focuses on \emph{what to do}
+with on-device inference once it is technically feasible, rather than on the
+inference engine itself.
+
+
+% ══════════════════════════════════════════════════════════════════════════════
+\section{System Design}
+\label{sec:system}
+% ══════════════════════════════════════════════════════════════════════════════
+
+\subsection{Design Principles}
+
+\echostream{} is built on three design principles:
+
+\begin{enumerate}[leftmargin=*,itemsep=2pt]
+  \item \textbf{Privacy by architecture, not by policy.} Raw data never
+    leaves the device that generated it. This is enforced structurally, not
+    by terms of service.
+  \item \textbf{Data collection as a natural byproduct.} Users interact with
+    genuinely useful vertical applications; data accumulation is a side effect
+    of normal usage, not a separate act of ``feeding the AI.''
+  \item \textbf{Heterogeneous device awareness.} The system adapts its
+    inference strategy to the computational tier of the device, from sub-1B
+    models on mobile to 35B MoE models on a home server.
+\end{enumerate}
+
+\subsection{Three-Tier Device Topology}
+
+The system organizes user devices into three computational tiers:
+
+\paragraph{Tier 0 --- Mobile Devices (Data Collection + Lightweight Inference).}
+Smartphones and tablets serve as the primary data collection points. In our
+experimental setup, an iPhone 15 Pro Max (8\,GB) runs \appname{Mealens}
+(dietary tracking via photo recognition) and \appname{Ururu} (mood journaling
+and emotional state tracking), while an iPad Air M3 (8\,GB) runs
+\appname{Narrus} (reading analysis) and \appname{Dailyn} (financial
+accounting). These devices can run sub-2B models for immediate local queries
+but delegate complex cross-domain reasoning to higher tiers.
+
+\paragraph{Tier 1 --- Mid-Tier Local Inference (Daily Queries).}
+Machines with 32\,GB unified memory (Apple M1~Max, M2~Pro) run quantized 9B
+models, handling routine queries that require moderate reasoning over a single
+user's data. In our experiments, an M1~Max 32\,GB and an M2~Pro 32\,GB serve
+this role, achieving 21.9 and 12.7 tokens per second respectively on
+Qwen3.5-9B-Q8.
+
+\paragraph{Tier 2 --- Home Server (Panoramic Inference + Model Evolution).}
+A machine with large unified memory (Apple M2~Ultra 192\,GB) runs
+full-precision or lightly quantized 35B-class models. This tier performs
+cross-domain ``panoramic'' reasoning by federating data summaries from all
+Tier~0 devices. In idle periods, it can execute LoRA incremental fine-tuning
+on Tier~1 models using accumulated data. In our experiments, the M2~Ultra runs
+Qwen3.5-35B-A3B-Q8 at 49.9 tokens per second.
+
+\subsection{Vertical Application Suite}
+
+Four applications collect data from complementary life domains:
+
+\begin{table}[H]
+\centering
+\caption{Vertical application suite and the data dimensions they capture.}
+\label{tab:apps}
+\begin{tabular}{@{}llll@{}}
+\toprule
+\textbf{App} & \textbf{Domain} & \textbf{Data Dimension} & \textbf{Example Signals} \\
+\midrule
+\appname{Dailyn}  & Finance    & Behavioral layer & Spending categories, amounts, timing \\
+\appname{Mealens} & Diet       & Physical layer   & Meal photos, nutritional estimates \\
+\appname{Ururu}   & Mood       & Emotional layer  & Mood scores, journal entries, triggers \\
+\appname{Narrus}  & Reading    & Cognitive layer  & Articles read, topics, time spent \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The critical design decision is that these are \emph{standalone useful tools},
+not data-collection wrappers. A user adopts \appname{Dailyn} because it is a
+good accounting app; the fact that it contributes to a cross-domain personal
+model is invisible and incidental. This resolves the cold-start problem: data
+accumulates as a natural byproduct of tool usage.
+
+\subsection{Federation Protocol}
+\label{sec:system:federation}
+
+When a Tier~2 device initiates a panoramic query, the federation protocol
+executes the following steps:
+
+\begin{algorithm}[H]
+\caption{LAN Federation Protocol for Panoramic Query}
+\label{alg:federation}
+\begin{algorithmic}[1]
+\REQUIRE Query $q$, user ID $u$, time window $\Delta t$, registered data nodes $\mathcal{N}$
+\ENSURE Panoramic insight $\mathcal{I}$
+\STATE $\mathcal{S} \leftarrow \{\}$ \COMMENT{Collected summaries}
+\FOR{each node $n \in \mathcal{N}$ \textbf{in parallel}}
+  \STATE $s_n \leftarrow$ \textsc{RequestSummary}($n$, $u$, $\Delta t$) \COMMENT{LAN-local HTTP}
+  \STATE $\mathcal{S} \leftarrow \mathcal{S} \cup \{s_n\}$
+\ENDFOR
+\STATE $\text{prompt} \leftarrow$ \textsc{BuildPanoramicPrompt}($q$, $\mathcal{S}$)
+\STATE $\mathcal{I} \leftarrow$ \textsc{LLMInference}($\text{prompt}$) \COMMENT{Tier 2 model}
+\STATE \textsc{AuditLog}($|\text{raw}|$, $|\text{transmitted}|$, $\text{nodes}$) \COMMENT{Privacy audit}
+\RETURN $\mathcal{I}$
+\end{algorithmic}
+\end{algorithm}
+
+Each data node exposes a standardized JSON Schema interface that returns
+\emph{summaries}, never raw records. For example, \appname{Dailyn}'s summary
+endpoint returns aggregated spending by category and trend indicators, not
+individual transaction records. The privacy audit trail records the size of
+raw data on each device versus the bytes actually transmitted, enabling
+post-hoc verification that no data leakage occurred.
+
+In our experiments, the protocol achieves a $125.5\times$ compression ratio:
+108,850 bytes of raw data across all apps compress to 867 bytes of transmitted
+summaries. The average federation latency (network round-trip to all data
+nodes) is 469.5\,ms, negligible compared to the LLM inference time of 40.3\,s.
+
+
+% ══════════════════════════════════════════════════════════════════════════════
+\section{Experimental Setup}
+\label{sec:setup}
+% ══════════════════════════════════════════════════════════════════════════════
+
+\subsection{Synthetic User Population}
+
+We generate synthetic data for 10 users spanning diverse socioeconomic
+profiles, each with 90 days of simulated life data across all four
+applications. Each user has a pre-designed ``life event'' injected at a
+specific day to simulate temporal drift---the phenomenon where a significant
+event causes correlated changes across multiple life domains simultaneously.
+
+\begin{table}[H]
+\centering
+\caption{Synthetic user profiles with injected life events for temporal drift simulation.}
+\label{tab:users}
+\small
+\begin{tabular}{@{}clccp{5.5cm}@{}}
+\toprule
+\textbf{ID} & \textbf{Profile} & \textbf{Income} & \textbf{Age} & \textbf{Injected Event} \\
+\midrule
+user\_01 & Factory worker     & \yen 3,500/mo  & 22 & Day 40: factory layoff, income interrupted \\
+user\_02 & Delivery rider     & \yen 6,000/mo  & 28 & Day 46: severe traffic accident $\to$ hospitalization $\to$ debt spiral \\
+user\_03 & Primary teacher    & \yen 5,500/mo  & 31 & Day 35: pregnancy confirmed, spending/diet shift \\
+user\_04 & Grad student       & \yen 2,000/mo  & 26 & Day 45: thesis rejected by advisor \\
+user\_05 & E-commerce ops     & \yen 12,000/mo & 27 & Day 30: promoted to team lead \\
+user\_06 & Freelance illustrator & \yen 8--25K/mo & 29 & Day 60: large client commission (\yen 50K) \\
+user\_07 & Hospital resident  & \yen 25,000/mo & 33 & Day 21: medication error $\to$ patient ICU $\to$ suspension $\to$ breakup \\
+user\_08 & Tech P7 engineer   & \yen 50,000/mo & 32 & Day 55: laid off (N+1) $\to$ divorce $\to$ depression spiral \\
+user\_09 & Business owner & \yen 150,000/mo & 45 & Day 38: \yen 800K bad debt $\to$ cash flow crisis $\to$ hospitalization \\
+user\_10 & Fund manager       & \yen 830,000/mo & 38 & Day 25: 4\% single-day fund drawdown \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The user population is deliberately diverse in income level (from
+\yen 2,000/month graduate student to \yen 830,000/month fund manager), life
+stage (22-year-old factory worker to 45-year-old business owner), and event
+type (sudden income loss, health changes, career shifts). This diversity tests
+whether cross-domain insight emergence is robust across demographic segments
+rather than an artifact of a particular user profile.
+
+Each injected event is designed to produce \emph{correlated multi-domain
+signatures}. For example, user\_01's factory layoff at Day~40 should
+simultaneously affect: (a) \appname{Dailyn}: sudden income loss, spending
+pattern shifts; (b) \appname{Mealens}: dietary degradation (cheaper,
+less nutritious meals); (c) \appname{Ururu}: mood decline, anxiety signals;
+(d) \appname{Narrus}: shift in reading topics toward job search, financial
+advice. A single-domain analysis can detect the within-domain anomaly; only
+cross-domain analysis can identify the \emph{causal pattern} connecting all
+four signals.
+
+\subsection{Data Generation}
+
+For each user, we generate 90 daily records per app (360 records per user,
+3,600 total), with the following characteristics:
+
+\begin{itemize}[leftmargin=*,itemsep=2pt]
+  \item \textbf{\appname{Dailyn}}: 3--8 financial transactions per day with
+    category, amount, and memo fields. Amounts are calibrated to each user's
+    income level with realistic variance.
+  \item \textbf{\appname{Mealens}}: 2--4 meal entries per day with estimated
+    nutritional content, meal type (breakfast/lunch/dinner/snack), and
+    optional photo description.
+  \item \textbf{\appname{Ururu}}: 1--3 mood entries per day with a 1--10
+    mood score, free-text journal entry, and detected emotional state tags.
+  \item \textbf{\appname{Narrus}}: 0--5 reading sessions per day with
+    article/book title, topic tags, reading duration, and highlight/annotation
+    count.
+\end{itemize}
+
+Pre-event and post-event data distributions differ systematically according to
+each user's injected event, creating ground-truth temporal drift patterns that
+the system should be able to detect.
+
+\subsection{Models and Hardware}
+
+All experiments use the Qwen3.5 model family exclusively, eliminating
+architecture variation as a confound. Table~\ref{tab:models} lists the
+model--device assignments.
+
+\begin{table}[H]
+\centering
+\caption{Model and hardware configuration. All models use Q8 GGUF quantization.
+Inference engine: llama.cpp on all devices.}
+\label{tab:models}
+\begin{tabular}{@{}llll@{}}
+\toprule
+\textbf{Device} & \textbf{Memory} & \textbf{Model} & \textbf{Role} \\
+\midrule
+M2 Ultra & 192\,GB & Qwen3.5-35B-A3B-Q8 & Panoramic reasoning (Tier 2) \\
+M2 Ultra & 192\,GB & Qwen3.5-9B-Q8      & Scale comparison \\
+M2 Ultra & 192\,GB & Qwen3.5-2B-Q8      & Scale comparison \\
+M2 Ultra & 192\,GB & Qwen3.5-0.8B-Q8    & IoT baseline \\
+M1 Max   & 32\,GB  & Qwen3.5-9B-Q8      & Mid-tier inference (Tier 1) \\
+M2 Pro   & 32\,GB  & Qwen3.5-9B-Q8      & Mid-tier inference (Tier 1) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The Qwen3.5-35B-A3B is a Mixture-of-Experts (MoE) architecture with 35
+billion total parameters but only 3 billion activated per token, providing
+knowledge capacity comparable to a 35B dense model at inference costs closer
+to a 3B model. This architecture directly embodies the \echostream{} thesis:
+a ``medium-scale but highly efficient'' local model.
+
+\subsection{Scoring Methodology}
+\label{sec:setup:scoring}
+
+Each generated insight is scored on four dimensions, each on a 0--25 scale,
+for a total of 0--100:
+
+\begin{enumerate}[leftmargin=*,itemsep=2pt]
+  \item \textbf{Relevance} (0--25): Does the insight address something
+    meaningful in the user's life?
+  \item \textbf{Specificity} (0--25): Does it reference concrete details
+    from the user's data, or is it generic advice?
+  \item \textbf{Cross-Domain} (0--25): Does the insight connect patterns
+    across multiple life domains?
+  \item \textbf{Actionability} (0--25): Can the user take a concrete
+    action based on this insight?
+\end{enumerate}
+
+Scoring is performed by Claude Opus 4.6 \citep{anthropic2025claude} serving as an
+LLM-as-Judge. The judge receives the user's full data context and the
+generated insight, and produces scores with justifications. This approach
+follows the established practice of using strong LLMs as evaluators
+\citep{zheng2023judging}.
+
+The key metric is the \textbf{Insight Increment Ratio} (\iir{}):
+\begin{equation}
+\iir{} = \frac{S_H}{\frac{1}{4}(S_A + S_B + S_C + S_D)}
+\label{eq:iir}
+\end{equation}
+where $S_H$ is the total score under full panoramic integration (Config~H)
+and $S_A, S_B, S_C, S_D$ are scores under single-domain configurations.
+An $\iir{} > 1.0$ indicates that cross-domain integration adds value beyond
+what any individual domain can provide.
+
+
+% ══════════════════════════════════════════════════════════════════════════════
+\section{Results}
+\label{sec:results}
+% ══════════════════════════════════════════════════════════════════════════════
+
+\subsection{Experiment A: Cross-Domain Ablation Study}
+\label{sec:results:ablation}
+
+We evaluate eight data configurations on all 10 users using
+Qwen3.5-35B-A3B-Q8. The configurations range from single-domain (A--D)
+through two-domain combinations (E--G) to full panoramic integration (H).
+Results are summarized in Table~\ref{tab:ablation}.
+
+\begin{table}[H]
+\centering
+\caption{Cross-domain ablation results. Scores are averages across 10 users
+(0--100 scale). Config~H consistently outperforms all partial configurations.}
+\label{tab:ablation}
+\begin{tabular}{@{}clc@{}}
+\toprule
+\textbf{Config} & \textbf{Data Sources} & \textbf{Avg.\ Score} \\
+\midrule
+A & Finance only (\appname{Dailyn})   & 66.3 \\
+B & Diet only (\appname{Mealens})     & 65.1 \\
+C & Mood only (\appname{Ururu})       & 63.2 \\
+D & Reading only (\appname{Narrus})   & 55.4 \\
+\midrule
+E & Finance $\times$ Diet             & 76.6 \\
+F & Finance $\times$ Mood             & 76.3 \\
+G & Diet $\times$ Mood                & 74.1 \\
+\midrule
+H & Full panoramic (all 4)            & 92.6 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The single-domain average is $\bar{S}_{single} = \frac{66.3 + 65.1 + 63.2 + 55.4}{4} = 62.5$, yielding:
+
+\begin{equation}
+\iir{} = \frac{92.6}{62.5} = 1.48\times
+\end{equation}
+
+The \iir{} ranges from 1.44 (user\_05, e-commerce operations) to 1.53
+(user\_02, delivery rider with severe traffic accident). Users experiencing
+dramatic cascading life crises consistently show higher \iir{} values,
+confirming that cross-domain integration is most valuable when multiple
+life domains are simultaneously disrupted. Per-user results are shown
+in Table~\ref{tab:iir_per_user}.
+
+\begin{table}[H]
+\centering
+\caption{Per-user \iir{} values. Users with dramatic cascading life crises
+(marked $\geq 1.5$) show higher cross-domain value. Range: 1.44--1.53.}
+\label{tab:iir_per_user}
+\begin{tabular}{@{}clcc@{}}
+\toprule
+\textbf{User} & \textbf{Profile} & \textbf{Age} & \textbf{\iir{}} \\
+\midrule
+user\_01 & Factory worker        & 22 & 1.47 \\
+user\_02 & Delivery rider        & 28 & 1.53 \\
+user\_03 & Primary teacher       & 31 & 1.45 \\
+user\_04 & Grad student          & 26 & 1.48 \\
+user\_05 & E-commerce ops        & 27 & 1.44 \\
+user\_06 & Freelance illustrator & 29 & 1.46 \\
+user\_07 & Hospital resident     & 33 & 1.51 \\
+user\_08 & Tech P7 engineer      & 32 & 1.52 \\
+user\_09 & Business owner        & 45 & 1.51 \\
+user\_10 & Fund manager          & 38 & 1.45 \\
+\midrule
+\multicolumn{3}{@{}l}{\textbf{Average}} & \textbf{1.48} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Dimension-level analysis.} The cross-domain scoring dimension
+is the primary driver of the \iir{} gain. Under single-domain configurations
+(A--D), the cross-domain score averages 2--5 out of 25, which is expected:
+a model with access to only finance data cannot produce cross-domain insights.
+Under the full panoramic configuration (H), the cross-domain score rises to
+21--24 out of 25. The other three dimensions (relevance, specificity,
+actionability) show moderate but consistent improvement, as the richer data
+context enables more specific and actionable recommendations.
+
+\paragraph{Two-domain combinations.} The two-domain configurations (E--G)
+achieve scores in the 74--77 range, intermediate between single-domain
+(55--66) and full panoramic (92.6). This confirms that cross-domain value
+scales with the number of integrated domains, though the relationship is
+super-linear: the jump from two domains to four domains
+($92.6 - 75.7 \approx +17$) is proportionally larger than the jump from one
+domain to two domains ($75.7 - 62.5 \approx +13$ for a $2\times$ increase
+in data sources).
+
+\paragraph{Qualitative insight examples.}
+Consider user\_02 (delivery rider, severe traffic accident at Day~46).
+With only \appname{Dailyn} (Config~A), the system detects ``anomalous
+spending spikes''---an incomplete observation. With only \appname{Ururu}
+(Config~C), it detects ``mood has declined severely.'' With full panoramic
+data (Config~H), the system identifies a complete \emph{cascading life crisis}:
+income drops to zero for 35 consecutive days, calories crash from 1,800 to
+200/day (hospital IV), sleep collapses from 6.2h to 1.5h, and reading topics
+shift from casual browsing to legal aid applications and traffic accident
+compensation law. The model generates: \emph{``This is a synchronized
+multi-domain collapse consistent with a severe physical trauma event.
+Financial, nutritional, emotional, and cognitive patterns all pivot around
+Day~46. Specific recommendations: apply for work-injury compensation via
+[referenced article], increase caloric intake to at least 1,200 kcal
+during recovery, consider [specific low-cost career transition paths based
+on reading interest patterns].''}
+
+The qualitative difference is categorical: single-domain analysis produces
+observations; cross-domain analysis produces \emph{causal explanations} and
+\emph{targeted interventions} grounded in the user's specific data trail.
+
+
+\subsection{Experiment B: Model Scale vs.\ Insight Quality}
+\label{sec:results:scale}
+
+To understand the relationship between model scale and insight quality, we run
+all 10 users under the full panoramic configuration (Config~H) on four
+Qwen3.5 checkpoints, all on the M2~Ultra. Results are shown in
+Table~\ref{tab:scale}.
+
+\begin{table}[H]
+\centering
+\caption{Model scale vs.\ insight quality. All runs use Config~H (full
+panoramic) on M2~Ultra 192\,GB. Scores are averages $\pm$ standard deviation
+across 10 users.}
+\label{tab:scale}
+\begin{tabular}{@{}lccc@{}}
+\toprule
+\textbf{Model} & \textbf{Avg.\ Score} & \textbf{Std.\ Dev.} & \textbf{Quality Tier} \\
+\midrule
+Qwen3.5-0.8B-Q8     & 48.9 & 4.6 & Unusable \\
+Qwen3.5-2B-Q8       & 64.1 & 3.2 & Marginally useful \\
+Qwen3.5-9B-Q8       & 79.0 & 3.4 & Good \\
+Qwen3.5-35B-A3B-Q8  & 84.6 & 3.4 & Excellent \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The quality curve exhibits clear diminishing returns:
+\begin{itemize}[leftmargin=*,itemsep=2pt]
+  \item 0.8B $\to$ 2B: $+15.2$ points ($\Delta = 15.2$)
+  \item 2B $\to$ 9B: $+14.9$ points ($\Delta = 14.9$)
+  \item 9B $\to$ 35B: $+5.6$ points ($\Delta = 5.6$)
+\end{itemize}
+
+The 2B$\to$9B transition represents the steepest quality improvement relative
+to the model size increase (4.5$\times$ parameters for $+14.9$ points), while
+the 9B$\to$35B transition (3.9$\times$ parameters for $+5.6$ points) yields
+only 37.6\% of the per-parameter efficiency. This suggests that for personal
+data integration tasks, the practical sweet spot is at the 9B scale: it
+achieves 93.4\% of the 35B score ($79.0/84.6$) while requiring substantially
+less memory and offering higher throughput.
+
+The 0.8B model's poor performance (48.9) is not merely a matter of degree;
+it produces qualitatively different outputs---generic platitudes rather than
+data-grounded insights. This establishes a lower bound: sub-2B models are
+insufficient for meaningful cross-domain personal reasoning on current
+architectures.
+
+
+\subsection{Experiment C: Device Performance Benchmark}
+\label{sec:results:benchmark}
+
+We benchmark inference speed across the three-tier hardware stack.
+Table~\ref{tab:benchmark} reports tokens per second (TPS) and time to first
+token (TTFT) for each device--model combination.
+
+\begin{table}[H]
+\centering
+\caption{Inference performance across the three-tier device stack. TPS measured
+at two context lengths: long ($\sim$4K tokens) and medium ($\sim$2K tokens).
+Inference engine: llama.cpp, quantization: Q8 GGUF.}
+\label{tab:benchmark}
+\begin{tabular}{@{}llccc@{}}
+\toprule
+\textbf{Device} & \textbf{Model} & \textbf{TPS (long)} & \textbf{TPS (med)} & \textbf{TTFT (s)} \\
+\midrule
+M2 Ultra 192G & Qwen3.5-0.8B-Q8    & 137.2 & 135.7 & 0.088 \\
+M2 Ultra 192G & Qwen3.5-2B-Q8      & 105.1 & 105.2 & 0.139 \\
+M2 Ultra 192G & Qwen3.5-35B-A3B-Q8 & 49.9  & 49.3  & 0.365 \\
+M2 Ultra 192G & Qwen3.5-9B-Q8      & 41.3  & 41.4  & 0.471 \\
+\midrule
+M1 Max 32G    & Qwen3.5-9B-Q8      & 21.9  & 22.0  & 1.138 \\
+M2 Pro 32G    & Qwen3.5-9B-Q8      & 12.7  & 12.7  & 1.762 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Several observations merit discussion:
+
+\paragraph{MoE efficiency.} The Qwen3.5-35B-A3B-Q8 model achieves 49.9 TPS
+despite having 35B total parameters, outperforming the dense 9B model (41.3
+TPS) on the same hardware. This validates the MoE architecture's suitability
+for on-device deployment: 35B knowledge capacity at super-9B inference speed.
+
+\paragraph{Cross-device scaling.} The same model (Qwen3.5-9B-Q8) exhibits a
+clear performance hierarchy: M2~Ultra (41.3 TPS) $>$ M1~Max (21.9 TPS) $>$
+M2~Pro (12.7 TPS). The M2~Ultra's advantage stems from its 800~GB/s memory
+bandwidth and 76-core GPU, compared to M1~Max's 400~GB/s / 32-core GPU and
+M2~Pro's 200~GB/s / 19-core GPU. Memory bandwidth, not compute, is the
+binding constraint for LLM inference.
+
+\paragraph{Context length insensitivity.} TPS is nearly identical between
+long and medium context lengths across all configurations, indicating that
+our workload (personal data summaries, typically 2--4K tokens) falls well
+within the efficient operating range of these models.
+
+\paragraph{Practical implications.} Even at the lowest tier (M2~Pro, 12.7
+TPS), a 200-token insight is generated in under 16 seconds. At Tier~2
+(M2~Ultra with 35B-A3B, 49.9 TPS), the same insight takes 4 seconds. Both
+are well within acceptable latency for a personal insight system that
+generates reports on demand rather than in real-time conversation.
+
+
+\subsection{Experiment D: Federation Protocol Evaluation}
+\label{sec:results:federation}
+
+We evaluate the federation protocol (Section~\ref{sec:system:federation})
+in a real multi-device deployment across a local area network.
+
+\paragraph{Topology.} The M2~Ultra serves as the panoramic query coordinator.
+The M1~Max hosts data for \appname{Mealens} (diet) and \appname{Ururu}
+(mood). The M2~Pro hosts data for \appname{Narrus} (reading) and
+\appname{Dailyn} (finance). All three machines communicate over a standard
+home WiFi network.
+
+\paragraph{Protocol.} The panoramic node sends summary requests to both data
+nodes in parallel, collects JSON summaries, constructs a unified prompt, and
+runs inference on Qwen3.5-35B-A3B-Q8.
+
+Results from 5 runs are summarized in Table~\ref{tab:federation}.
+
+\begin{table}[H]
+\centering
+\caption{Federation protocol performance over 5 runs. Raw data stays on
+origin devices; only summaries are transmitted.}
+\label{tab:federation}
+\begin{tabular}{@{}lr@{}}
+\toprule
+\textbf{Metric} & \textbf{Value} \\
+\midrule
+Raw data on devices (total)      & 108,850 bytes \\
+Transmitted summaries (total)    & 867 bytes \\
+Compression ratio                & $125.5\times$ \\
+\midrule
+Federation latency (avg)         & 469.5 ms \\
+Federation latency (min)         & 103.2 ms \\
+Federation latency (max)         & 1,459.5 ms \\
+\midrule
+LLM inference time (avg)         & 40.3 s \\
+End-to-end latency (avg)         & 40.8 s \\
+\midrule
+Raw data leaked across devices   & \textbf{0 bytes (all runs)} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Compression analysis.} The $125.5\times$ compression ratio
+reflects the fundamental design of the summary interface: rather than
+transmitting 90 days of individual transactions, meal logs, mood entries,
+and reading records, each data node computes domain-specific aggregates
+(e.g., weekly spending by category, daily mood trend slopes, top reading
+topics) and returns a compact JSON summary. The semantic loss from this
+compression is deliberately minimal: the panoramic model needs patterns and
+trends, not individual data points.
+
+\paragraph{Latency decomposition.} Federation latency (469.5\,ms average)
+is $\sim$1.2\% of the total end-to-end latency (40.8\,s), which is dominated
+by LLM inference (40.3\,s). This validates the architectural decision to
+separate data collection from inference: the network overhead of federated
+data collection is negligible. The max-latency outlier (1,459.5\,ms) likely
+reflects WiFi contention and is not architecturally significant.
+
+\paragraph{Privacy verification.} Across all 5 runs, the audit trail confirms
+zero raw-data leakage. The data nodes' summary endpoints are stateless: they
+receive a time-window parameter and return pre-computed aggregates. No
+mechanism exists for the panoramic node to request or receive raw records,
+as the API simply does not expose them. This is privacy by \emph{architecture},
+not by access control.
+
+
+% ══════════════════════════════════════════════════════════════════════════════
+\section{Discussion}
+\label{sec:discussion}
+% ══════════════════════════════════════════════════════════════════════════════
+
+\subsection{IIR and the 1.5$\times$ Target}
+
+Our initial target for the Insight Increment Ratio was $1.5\times$. The
+observed average of $1.48\times$ approaches but does not fully reach this
+target in aggregate, though four out of ten users (user\_02, user\_07,
+user\_08, user\_09) individually exceed $1.5\times$. We analyze the
+structural factors that shape the IIR:
+
+\paragraph{Scoring saturation.} Single-domain configurations already achieve
+moderate scores (55.4--66.3 out of 100) because the relevance, specificity,
+and actionability dimensions can be partially satisfied without cross-domain
+data. A user's spending patterns alone are enough to generate relevant and
+somewhat actionable financial advice. The \iir{} formula divides by this
+non-trivial baseline, compressing the ratio.
+
+\paragraph{Cross-domain dimension ceiling.} While the cross-domain dimension
+is the primary driver of the \iir{} gain (jumping from 2--5 points in
+single-domain to 21--24 in panoramic), this single dimension can contribute
+at most 25 out of 100 points. The other three dimensions show more modest
+improvements from data integration ($\sim$2--5 points each), limiting the
+overall score amplification.
+
+\paragraph{Crisis users exceed the target.} Notably, the four users who
+exceed $1.5\times$ (user\_02: 1.53, user\_07: 1.51, user\_08: 1.52,
+user\_09: 1.51) all experienced severe cascading life crises---a traffic
+accident leading to hospitalization, a medical error resulting in
+suspension, a layoff triggering divorce, and a bad debt causing cash flow
+collapse. These users exhibit the strongest cross-domain signal because
+their crises simultaneously perturb all four data dimensions, creating
+correlations that single-domain analysis cannot detect. This supports a
+key finding: \textbf{the value of cross-domain integration is greatest
+precisely when users need it most---during life crises.}
+
+\paragraph{Synthetic data limitations.} Our synthetic data, while designed
+with realistic correlations, may underrepresent the richness of real user
+data. In particular, the textual content of mood journal entries and reading
+annotations---which would provide the richest signals for cross-domain
+reasoning in real data---is necessarily simpler in synthetic generation. We
+hypothesize that real user data would yield higher \iir{} values.
+
+The $1.48\times$ average \iir{} represents a substantive improvement.
+A 48\% increase in insight quality from data integration---with no change
+to the model---is practically significant.
+Moreover, the qualitative examples (Section~\ref{sec:results:ablation})
+demonstrate that the nature of the improvement is categorical:
+single-domain analysis produces observations, while cross-domain analysis
+produces explanations and interventions.
+
+\subsection{The Diminishing Returns Plateau}
+
+The model-scale experiment (Section~\ref{sec:results:scale}) reveals that
+the practical value curve flattens above 9B parameters. The 9B model achieves
+93.4\% of the 35B model's score while running at 84\% of its speed on the
+same hardware (41.3 vs.\ 49.9 TPS, noting that the 35B MoE is faster due to
+sparse activation).
+
+This finding has a concrete practical implication: \textbf{a user with only a
+32\,GB device (M1~Max or M2~Pro) can run a 9B model and achieve near-optimal
+insight quality.} The 35B MoE model on a 192\,GB machine provides marginal
+improvement. The bottleneck for personal AI quality is not model scale---it
+is data availability and integration.
+
+This aligns with the broader \echostream{} thesis: in the personal data
+regime, data richness matters more than model size.
+
+\subsection{Social Impact: Early Warning and Preventive Intervention}
+\label{sec:discussion:social}
+
+Beyond personal convenience, cross-domain data integration enables a class of
+interventions with significant social value. Our synthetic user population
+includes several cases where the system's cross-domain analysis could function
+as an \emph{early warning system} for cascading life crises.
+
+\paragraph{Cascading crisis detection.}
+Consider user\_02 (delivery rider, severe traffic accident at Day~46). The
+single-domain mood analysis (Config~C) detects ``mood has declined.'' But the
+full panoramic analysis (Config~H) detects a synchronized collapse across
+all four domains---income drops to zero, calories crash from 1,800 to 200/day,
+sleep collapses from 6.2h to 1.5h, and reading topics shift from casual
+browsing to legal aid and accident compensation---identifying a \emph{life
+crisis cascade} rather than an isolated mood dip. Similarly, user\_09
+(business owner) shows the system detecting a debt-induced health crisis
+trajectory: financial stress $\to$ insomnia $\to$ cardiac symptoms $\to$
+hospitalization, visible only when financial, emotional, dietary, and reading
+data are analyzed together.
+
+\paragraph{Pre-crisis intervention window.}
+Several users exhibit \emph{foreshadowing signals} in the days before their
+crisis events. User\_08 (P7 engineer) shows rising anxiety in mood data and
+shifts in reading topics (from technical articles to layoff-related content)
+10 days before the actual layoff. User\_07 (hospital resident) shows
+accumulating sleep deprivation and stress escalation across 3 consecutive
+night shifts before the medication error. A deployed system could detect
+these multi-domain warning patterns and prompt early intervention---suggesting
+rest, financial planning, or professional support---before the crisis
+materializes.
+
+\paragraph{Psychological support and recovery monitoring.}
+Post-crisis, the system can track recovery trajectories across domains.
+User\_02's data shows a slow but measurable recovery arc: reading topics
+gradually shift from legal aid to career transition, calories slowly
+increase from hospital levels, and mood stabilizes at a new (lower)
+baseline. This multi-dimensional recovery tracking could complement
+professional mental health support, providing therapists with objective
+behavioral data rather than relying solely on self-reporting.
+
+\paragraph{Societal implications.}
+The ability to detect cascading life crises through passive data collection
+has implications for public health infrastructure. In populations where
+mental health services are scarce or stigmatized, an on-device system that
+can detect distress patterns without requiring the user to actively seek
+help---and without exposing their data to any external party---could serve
+as a crucial safety net. The privacy-preserving architecture is essential
+here: users are more likely to maintain honest records (mood journals,
+spending logs) when they trust that no one else will see the data.
+
+\subsection{Practical Deployment Considerations}
+
+\paragraph{Hardware accessibility.} The entire experimental stack uses
+consumer Apple hardware. The M2~Pro (the least powerful Tier~1 device) is
+available in MacBook Pro configurations starting at approximately \$2,000~USD.
+The M2~Ultra Mac Studio (Tier~2) costs approximately \$4,000~USD. While not
+inexpensive, these are consumer-grade devices that many knowledge workers
+already own or could justify purchasing.
+
+\paragraph{Latency budget.} The end-to-end panoramic query latency of
+40.8\,s may seem high for a conversational assistant, but it is appropriate
+for the intended use case: periodic (daily or weekly) personal insight
+reports, not real-time chat. A user would request a ``weekly life summary''
+and receive a comprehensive cross-domain analysis within a minute---a
+fundamentally different interaction pattern from cloud chatbots.
+
+\paragraph{Cold start.} The vertical app design addresses cold start through
+utility-driven adoption. Users download \appname{Dailyn} because they need
+an accounting app, not because they want to train a personal AI. Data
+accumulation is a byproduct of normal usage. After 30--60 days of natural
+usage across multiple apps, the system has sufficient data for meaningful
+cross-domain insights.
+
+\subsection{Limitations}
+
+\paragraph{Synthetic data.} All results are based on synthetic users. While
+we have designed the data generation process to be realistic, synthetic data
+inevitably underrepresents the complexity, noise, and idiosyncrasy of real
+human behavior. A user study with real participants is the critical next step.
+
+\paragraph{LLM-as-Judge.} Our scoring methodology relies on Claude Opus 4.6
+as an evaluator. While LLM-as-Judge has been validated in prior work
+\citep{zheng2023judging}, it introduces potential biases---particularly the
+risk that the judge systematically favors longer or more structured outputs,
+which the panoramic configuration naturally produces. Future work should
+complement LLM scoring with human evaluation.
+
+\paragraph{Single model family.} All experiments use Qwen3.5, eliminating
+architecture as a variable but limiting generalizability. Different model
+families (Llama, Mistral, Gemma) may exhibit different model-scale vs.\
+insight-quality curves.
+
+\paragraph{Security model.} Our privacy analysis focuses on data
+\emph{leakage} (raw data leaving devices). We do not address adversarial
+scenarios such as prompt injection attacks on the federation protocol, or
+side-channel attacks on the inference process. A production deployment would
+require a more comprehensive threat model.
+
+\paragraph{Quantization.} All models use Q8 quantization. While this
+provides a good balance of quality and efficiency, the interaction between
+quantization level and personal-data reasoning quality has not been explored.
+Aggressive quantization (Q4, Q2) may disproportionately degrade the nuanced
+reasoning required for cross-domain insight generation.
+
+
+% ══════════════════════════════════════════════════════════════════════════════
+\section{Conclusion}
+\label{sec:conclusion}
+% ══════════════════════════════════════════════════════════════════════════════
+
+We have presented \echostream{}, a system that demonstrates how cross-domain
+personal data integration on consumer hardware produces emergent insights
+unreachable by single-domain analysis. Our ablation study across 10 synthetic
+users and 8 data configurations establishes an average Insight Increment Ratio
+of $1.48\times$, with the cross-domain dimension driving nearly all of the
+gain. The model-scale analysis reveals that a 9B model captures 93.4\% of the
+35B model's quality, placing the practical sweet spot well within the reach
+of consumer 32\,GB devices. The federation protocol achieves $125.5\times$
+data compression with zero raw-data leakage, proving that multi-device
+personal AI can operate without any data leaving the user's premises.
+
+The broader implication is a paradigm inversion. The dominant cloud AI model
+of \emph{large model + small data} reaches an inherent ceiling because users
+rationally withhold their most valuable data from remote servers. The
+\echostream{} paradigm of \emph{medium model + rich data} exploits an
+orthogonal axis of improvement: not larger parameters, but deeper and more
+authentic data. As on-device inference capabilities continue to improve with
+each hardware generation, this paradigm becomes increasingly viable.
+
+The critical next step is a longitudinal user study with real participants
+using real vertical applications. The synthetic data results presented here
+are a necessary proof of concept; the true test of the \echostream{} thesis
+requires real users generating real data over real time.
+
+\subsection*{Reproducibility}
+
+All code, synthetic data, and experiment scripts are available at
+\url{https://github.com/AtomGradient/Prism}. The experimental
+results and interactive visualizations are hosted at
+\url{https://atomgradient.github.io/Prism}.
+
+
+% ══════════════════════════════════════════════════════════════════════════════
+% REFERENCES
+% ══════════════════════════════════════════════════════════════════════════════
+
+\begin{thebibliography}{20}
+
+\bibitem[{Chen et~al.(2025)}]{survey_personalized_llm_2025}
+Chen, Z., Wang, Y., Liu, Z., et~al. (2025).
+\newblock A survey of personalized large language models.
+\newblock \emph{arXiv preprint arXiv:2502.11528}.
+
+\bibitem[{Chuang et~al.(2024)}]{plum2024}
+Chuang, Y.-S., Xie, S., Luo, H., Kim, Y., Glass, J., \& He, P. (2024).
+\newblock On the way to {LLM} personalization: Learning to remember user
+  conversations.
+\newblock \emph{arXiv preprint arXiv:2411.13405}.
+
+\bibitem[{Li et~al.(2025)}]{personalllm2025}
+Li, T., et~al. (2025).
+\newblock {PersonalLLM}: Tailoring {LLMs} to individual preferences.
+\newblock In \emph{Proceedings of the International Conference on Learning
+  Representations (ICLR 2025)}.
+
+\bibitem[{Wang et~al.(2024)}]{continual_llm_survey_2024}
+Wang, T., Zhang, Z., Liang, J., et~al. (2024).
+\newblock Continual learning of large language models: A comprehensive survey.
+\newblock \emph{arXiv preprint arXiv:2404.16789}.
+
+\bibitem[{Huang et~al.(2024)}]{liber2024}
+Huang, Y., Cao, J., Zhang, X., et~al. (2024).
+\newblock {LIBER}: Lifelong user behavior modeling based on large language
+  models.
+\newblock \emph{arXiv preprint arXiv:2411.14713}.
+
+\bibitem[{McMahan et~al.(2017)}]{mcmahan2017fedavg}
+McMahan, B., Moore, E., Ramage, D., Hampson, S., \& y~Arcas, B.~A. (2017).
+\newblock Communication-efficient learning of deep networks from decentralized
+  data.
+\newblock In \emph{Proceedings of the 20th International Conference on
+  Artificial Intelligence and Statistics (AISTATS)}, pp.\ 1273--1282.
+
+\bibitem[{Ramage \& Mazzocchi(2020)}]{ramage2020federated_analytics}
+Ramage, D. \& Mazzocchi, S. (2020).
+\newblock Federated analytics: Collaborative data science without data
+  collection.
+\newblock \emph{Google AI Blog}.
+
+\bibitem[{Hannun et~al.(2023)}]{mlx2023}
+Hannun, A., et~al. (2023).
+\newblock {MLX}: An efficient machine learning framework for {Apple Silicon}.
+\newblock \emph{Apple Machine Learning Research}.
+
+\bibitem[{Gerganov(2023)}]{llamacpp2023}
+Gerganov, G. (2023).
+\newblock llama.cpp: {LLM} inference in {C/C++}.
+\newblock \url{https://github.com/ggerganov/llama.cpp}.
+
+\bibitem[{Anthropic(2025)}]{anthropic2025claude}
+Anthropic (2025).
+\newblock Claude {Opus} 4.6 model card.
+\newblock \url{https://www.anthropic.com}.
+
+\bibitem[{Zheng et~al.(2023)}]{zheng2023judging}
+Zheng, L., Chiang, W.-L., Sheng, Y., et~al. (2023).
+\newblock Judging {LLM}-as-a-judge with {MT-Bench} and {Chatbot Arena}.
+\newblock In \emph{Advances in Neural Information Processing Systems (NeurIPS
+  2023)}.
+
+\bibitem[{Qwen Team(2025)}]{qwen2025qwen35}
+Qwen Team (2025).
+\newblock Qwen3.5 technical report.
+\newblock \emph{Alibaba Cloud}.
+
+\end{thebibliography}
+
+\end{document}

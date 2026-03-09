@@ -1,0 +1,14 @@
+{
+  "user_id": "user_10",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 21,
+    "specificity": 21,
+    "cross_domain": 22,
+    "actionability": 18,
+    "total": 82
+  },
+  "score_rationale": "Good relevance to user_10's profile as a 38-year-old fund manager. The insight captures the high-pressure financial professional archetype and references the fund drawdown event indirectly through 'adjustment/strategy' keywords and defensive contraction behavior. Specificity is solid (93.6% savings rate, 1646 kcal, 34% healthy diet, 30% skipped breakfast, 6.5h sleep, 48 min daily reading at 30/30 coverage, 30060 yuan dining at 56% of total, front/back half spending 32k vs 20k). Cross-domain analysis linking anxiety-driven sweet/wine consumption to blood sugar volatility, and cognitive overload displacing breakfast time, is well-reasoned. The observation that the professional risk-management mindset 'mirrors' into personal spending contraction is a creative cross-domain insight. However, some analysis feels formulaic -- the patterns (anxiety-food-finance cycle, reading displacing sleep, defensive contraction) follow a template visible across multiple users. Actionability is moderate; the 'emotion-food separation' concept is sound but recommendations were truncated and some (like banning dessert during anxiety) may be impractical for a high-net-worth lifestyle."
+}

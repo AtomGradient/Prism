@@ -1,0 +1,14 @@
+{
+  "user_id": "user_05",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 14,
+    "specificity": 12,
+    "cross_domain": 12,
+    "actionability": 9,
+    "total": 47
+  },
+  "score_rationale": "The insight addresses the 996 e-commerce worker's lifestyle reasonably, identifying relevant themes (work-life imbalance, socializing/drinking pressure after promotion, sleep deprivation). Cross-domain patterns connecting emotion-diet-finance and sleep-cognition are structurally sound. Cites several data points (6.3h sleep, 73% skipped breakfast, 13 late-night meals, emotion 0.60/0.59, 332 min reading). However, contains serious calculation errors (1.87 yuan per meal is nonsensical for someone earning 12,000/month). The temporal drift table has internal inconsistencies: reading coverage stays flat at 12/30 in both halves while claiming decline. The 'front half 7337 yuan, back half 2390 yuan' spending shift is dramatically presented but weakly explained. Recommendations are vague ('build emotion-diet auto-regulation mechanism') and the output truncates before completing them."
+}

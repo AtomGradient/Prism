@@ -1,0 +1,103 @@
+{
+  "user_id": "user_07",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "configs": {
+    "A": {
+      "label": "仅财务",
+      "apps": ["dailyn"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 22,
+        "cross_domain": 3,
+        "actionability": 16,
+        "total": 62
+      },
+      "score_rationale": "Strong user-specific framing around the resident doctor's 86.1% savings rate and 25k income with rich data citations (3466 total, 116/day, 47.6% food, anomalous dates Mar 19/24). Cross-domain score low as expected for single domain. Actionability is reasonable with 500-800/month entertainment fund suggestion but could be more concrete on implementation."
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": ["mealens"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 23,
+        "cross_domain": 3,
+        "actionability": 19,
+        "total": 65
+      },
+      "score_rationale": "Excellent specificity with 1484kcal daily, rice 24x, noodles 12x, 14% healthy rate, 20% breakfast skip rate, 1678ml water, and front/back calorie split. Very actionable with forced breakfast protocol (egg+milk+bread), carb upgrade strategy, hidden protein additions, and specific water targets. Relevance well-grounded in resident doctor's work rhythm."
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": ["ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 21,
+        "cross_domain": 3,
+        "actionability": 15,
+        "total": 60
+      },
+      "score_rationale": "Well-tailored to the resident doctor's emotional landscape with insightful framing of 'defensive calm' vs genuine relaxation. Good data citation (0.64 mean, focus 10x, calm 9x, joy 2x, stress 5.3, sleep 6.7h). Actionability somewhat weaker — advice to 'introduce purposeless joy 2-3 times' and 'deepen hotpot social quality' is directionally correct but lacks concrete implementation steps."
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": ["narrus"],
+      "scores": {
+        "relevance": 19,
+        "specificity": 22,
+        "cross_domain": 2,
+        "actionability": 15,
+        "total": 58
+      },
+      "score_rationale": "Strong specificity with 56.7% coverage, 558 min total, 33 min/day, 12:4:3 topic split, 51 highlights at 2.7/session and 1 per 11 minutes. Relevance is solid but slightly less personalized than other configs. Actionability advice (raise lit to 25-30%, highlight review, no-purpose reading day) is reasonable but not highly concrete."
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": ["dailyn", "mealens"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 23,
+        "cross_domain": 14,
+        "actionability": 18,
+        "total": 76
+      },
+      "score_rationale": "Excellent cross-domain analysis linking low spending directly to nutritional deficit (86.1% savings rate built on 14% healthy diet). Identifies the spending-calorie scissors effect (back-half spending +58% while calories dropped), medical-diet causal chain (432 medical as consequence of poor eating), and social spending nutritional quality gap. Actionability strong with specific budget increase (180-200/day), forced breakfast, and anomalous day quality monitoring."
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": ["dailyn", "ururu"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 22,
+        "cross_domain": 13,
+        "actionability": 14,
+        "total": 69
+      },
+      "score_rationale": "Good cross-domain connections between suppression-release spending cycles and emotion patterns, linking 'calm' as emotional isolation to spending patterns. Identifies weekend social dependency as single emotional lifeline with financial consequences. However, actionability is somewhat generic — 'smooth consumption curve' and 'focus on joy not calm' lack specific implementation details compared to config E."
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": ["mealens", "ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 21,
+        "cross_domain": 14,
+        "actionability": 16,
+        "total": 72
+      },
+      "score_rationale": "Strong cross-domain analysis identifying survival-mode compensation (low calories masking as 'calm'), weekend compensatory eating vs weekday suppression, and the paradox of declining calories with stable emotion (energy reserve depletion). The 'boiling frog' crisis framing is insightful. Actionability includes breaking breakfast skip cycle, raising healthy rate to 30%, and body scan — reasonable but slightly less specific than config E."
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": ["dailyn", "mealens", "ururu", "narrus"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 23,
+        "cross_domain": 22,
+        "actionability": 17,
+        "total": 85
+      },
+      "score_rationale": "Outstanding cross-domain integration: links high-pressure compensation cycle (emotion->carbs->spending), fragmented cognition + sleep deficit, social isolation + compensatory spending to reading behavior, with a comprehensive temporal drift table spanning all 4 dimensions. Rich data citations across all domains. Actionability includes forced breakfast mandate, reading desensitization plan (50:50 ratio with no highlighting), and micro-happiness fund (500-800/month), but the response was truncated at 2000 tokens, cutting off the full recommendations, which limits the actionability score."
+    }
+  },
+  "iir": 1.39
+}

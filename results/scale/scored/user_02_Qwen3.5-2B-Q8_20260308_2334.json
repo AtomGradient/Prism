@@ -1,0 +1,14 @@
+{
+  "user_id": "user_02",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 17,
+    "specificity": 15,
+    "cross_domain": 16,
+    "actionability": 14,
+    "total": 62
+  },
+  "score_rationale": "Addresses the delivery rider profile well — references income 6000/month, physical labor demands, electric bike theft event context. Cites specific data points (emotion mean 0.51, anomalous spends 518 and 1040 yuan, daily calorie 1518, sleep 6.3h, skip breakfast 47%, transfer expense 1500). Three cross-domain patterns identified (anxiety-consumption loop, energy-energy feedback, cognitive-lag discrepancy) are structurally coherent but contain some logical overreach — e.g., claiming reading 3 finance books while spending more proves 'cognitive lag' is a stretch. The temporal drift section (3 phases) is reasonable but maps poorly to the actual event (bike theft at day 50) since the model appears to analyze only 30-day windows. Actionability provides concrete steps (24-hour delay rule, forced breakfast, micro-goal savings) though some are impractical for a delivery worker's schedule. Overall decent for 2B but with noticeable fabrication tendencies."
+}

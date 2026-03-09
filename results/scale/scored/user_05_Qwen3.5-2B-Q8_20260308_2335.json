@@ -1,0 +1,14 @@
+{
+  "user_id": "user_05",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 18,
+    "specificity": 16,
+    "cross_domain": 17,
+    "actionability": 13,
+    "total": 64
+  },
+  "score_rationale": "Good relevance to the 996 e-commerce operations worker promoted to team lead — captures social pressure from new role, alcohol/entertainment obligations, and burnout trajectory. Cites specific data (emotion mean 0.60/0.59, late-night eating 13 times, skip breakfast 73%, daily calorie 1502 to 1685, anomalous spends 2970 and 2140, savings rate drop to 18.9%, sleep 6.3h, reading coverage 12/30 days, high-frequency: rice 17, cola 11). Three cross-domain patterns are reasonable: social-pressure to compensatory-eating, low-emotion to anomalous-spending, and temporal drift from 'high efficiency' to 'collapse'. However, there is a factual error claiming 1593kcal 'far exceeds the 2000kcal upper limit' which is self-contradictory. The temporal drift section identifies a domino-effect pattern (psychological-physiological-financial) which is a genuine cross-domain observation. Actionability provides structured advice (curfew on eating, breakfast recovery, emotion thermometer, financial circuit breaker) but is cut off and some suggestions are impractical given 996 work culture constraints."
+}

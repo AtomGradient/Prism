@@ -1,0 +1,14 @@
+{
+  "user_id": "user_02",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 13,
+    "specificity": 10,
+    "cross_domain": 11,
+    "actionability": 8,
+    "total": 42
+  },
+  "score_rationale": "The insight addresses the delivery rider persona and references relevant themes (physical fatigue, diet quality, financial pressure). However, it contains significant analytical errors: the '1.87 yuan per meal' calculation is nonsensical, the 'acute heart failure risk' claim is an irresponsible medical overreach from limited data, and the 'social spending' analysis contradicts the stated 80 yuan social expenditure. Cross-domain connections are attempted (emotion-compensatory eating, finance-social pressure) but logic is often circular. The temporal drift section references 'Day 0-4' and 'Day 5-7' timescales that don't match the 30-day data window. Recommendations include reasonable ideas (reduce junk food, stress management) but also odd suggestions ('purchase cognitive enhancement instead of reading enhancement'). Output truncated."
+}

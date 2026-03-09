@@ -1,0 +1,14 @@
+{
+  "user_id": "user_10",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 17,
+    "specificity": 16,
+    "cross_domain": 15,
+    "actionability": 11,
+    "total": 59
+  },
+  "score_rationale": "Adequate relevance — addresses the fund manager profile and references the 4% single-day drawdown event, investment stress, and high-income lifestyle. Cites numbers (emotion mean 0.60/0.61, social spend 8110, dining 30060, savings rate 93.6%, healthy diet 34%, sleep 6.5h, late-night eating 0, skip breakfast 30%, reading 58 times / 1441min, water 1720ml, front half ~53k vs back half ~20k, keywords: rebalancing, cautious). Three cross-domain patterns are attempted but the weakest in this batch: 'anxiety-driven compensation consumption' is the same pattern identified for nearly every user showing pattern fatigue; 'health vs financial leverage' tries to frame avocado toast as investment metaphor which is forced; 'review-thinking causes decision paralysis' is interesting conceptually but poorly supported by data. The model makes an error claiming 58 reading sessions in 30 days seems low when it is actually almost 2 per day. Temporal drift analysis is reasonable but the 62% spending reduction claim needs verification. Actionability is the weakest dimension — cut off early with no completed recommendations, and the analysis tends toward philosophical observation rather than concrete action steps. Lowest scored in this batch due to repetitive pattern templates and weaker data grounding."
+}

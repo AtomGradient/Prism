@@ -1,0 +1,103 @@
+{
+  "user_id": "user_09",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "configs": {
+    "A": {
+      "label": "仅财务",
+      "apps": ["dailyn"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 23,
+        "cross_domain": 3,
+        "actionability": 19,
+        "total": 67
+      },
+      "score_rationale": "Highly relevant to Wang's profile as a 45yo business owner with cash flow crisis, correctly interpreting the 61.8% savings rate as 'forced austerity' rather than wealth. Excellent specificity with precise numbers (38,001 yuan catering, 66.4%, 12,044 yuan anomaly day, daily average 1,267 yuan dining). Cross-domain limited to reasonable speculation about debt and health. Actionable advice on ROI review of dining expenses and establishing survival red lines, though some suggestions (like negotiating rent) are somewhat generic."
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": ["mealens"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 17,
+        "total": 63
+      },
+      "score_rationale": "Strong relevance connecting dietary patterns to the business owner under financial stress. Good specificity with concrete data (974ml daily water, 57% skipped breakfast, 11 late-night meals, baijiu 12 times, instant noodles 8 times, 1678->1894 kcal trend). Cross-domain speculation about financial stress driving eating behavior is reasonable but unverifiable from diet data alone. Actionability is moderate: suggestions like forced hydration to 1500ml and reducing baijiu from 12 to 8 times are concrete, but 'replace late-night eating with hot milk' is somewhat simplistic for a stressed business owner."
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": ["ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 19,
+        "cross_domain": 4,
+        "actionability": 16,
+        "total": 60
+      },
+      "score_rationale": "Highly relevant analysis connecting emotional data to the business crisis context. Good specificity with key metrics (0.39 mean, 5.4h sleep, 7.0/10 pressure, anxiety 12 times, irritability 7 times), though fewer hard data points than financial/dietary configs. Correctly identifies the stagnant emotional trajectory (0.38->0.39) as potentially more dangerous than decline. Cross-domain speculation about selling the car and financial crisis is grounded in diary samples. Actionability is weakest: 'anxiety window period' and 'quantify the gap' are reasonable but somewhat generic psychological advice without data-driven specifics."
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": ["narrus"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 18,
+        "cross_domain": 3,
+        "actionability": 15,
+        "total": 56
+      },
+      "score_rationale": "Relevant connection between reading patterns and business crisis (50% legal content interpreted as defensive posture). Reasonable specificity with reading stats (22/30 days, 29min daily, 30 articles, 39 highlights, 628 min total, legal 50%, financial 6, commercial 5, health 4). Cross-domain inference is limited to speculation about mental state and legal risk. Actionability is the weakest of the single-domain configs: advice to shift from passive defense to active breakthrough and increase health reading is directionally correct but lacks concrete implementation steps or measurable targets."
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": ["dailyn", "mealens"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 18,
+        "actionability": 19,
+        "total": 82
+      },
+      "score_rationale": "Excellent relevance with deep understanding of the business owner's predicament. Strong specificity combining financial and dietary data points (38,001 yuan dining + 0% healthy eating, 12,044 anomaly day + baijiu 12x, medical only 947 yuan at age 45). Cross-domain analysis is genuinely insightful: identifying the 'pseudo-prosperity' of 61.8% savings built on health deficit, the 'social eating for survival' pattern linking high dining spend to baijiu/seafood frequency, and the health time-bomb where low medical spend + terrible diet = delayed crisis. The March 5 anomaly analysis connecting financial and dietary behavioral shifts is compelling. Actionable with specific targets (daily breakfast budget 30 yuan, baijiu reduction, forced physical exam)."
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": ["dailyn", "ururu"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 17,
+        "actionability": 18,
+        "total": 79
+      },
+      "score_rationale": "Highly relevant with excellent framing of 'defensive contraction under crisis.' Good specificity linking financial metrics (61.8% savings, 38,001 dining, 12,044 anomaly) with emotional data (anxiety 12x, 5.4h sleep, supplier/negotiation keywords 7x each). Cross-domain connections are meaningful: the insight that high savings is a 'functional result' of anxiety rather than a habit, the March 5 anomaly corroborated by diary mention of selling the car, and the expenditure-emotion decoupling pattern. However, some cross-domain links feel speculative (e.g., 'dining is for negotiation survival'). Actionability is reasonable with sleep intervention priority and personal/corporate financial firewall, but lacks the numerical precision of config E."
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": ["mealens", "ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 20,
+        "cross_domain": 16,
+        "actionability": 18,
+        "total": 76
+      },
+      "score_rationale": "Relevant analysis identifying the vicious cycle of stress-driven eating. Good specificity with cross-referenced data (11 late-night meals overlapping with 4 insomnia records, baijiu 12x + 5.4h sleep, 57% skipped breakfast + anxiety 12x, 1678->1894 kcal trend + 0.38->0.39 emotion). Cross-domain patterns are genuinely interesting: the 'late-night eating is emotional eating combined with alcohol-assisted sleep' insight, the 'skipped breakfast as a physiological amplifier of negotiation anxiety' link, and identifying the 0.38->0.39 'stability' as potentially alcohol-induced numbness rather than genuine recovery. Actionable with forced breakfast, alcohol control, and the specific suggestion to delay asset sale decisions by 1-2 weeks pending physiological recovery."
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": ["dailyn", "mealens", "ururu", "narrus"],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 20,
+        "total": 89
+      },
+      "score_rationale": "Exceptional relevance with comprehensive understanding of Wang's multi-dimensional crisis. Strong specificity weaving together data from all four domains (38,001 dining + 0% healthy eating + anxiety 12x + 50% legal reading; 12,044 anomaly + selling car diary + 5.4h sleep; 1678->1894 kcal + 0.38->0.39 emotion). Cross-domain analysis is the strongest: the 'anxiety-binge-compensation' cycle linking all four domains, the 'crisis-driven learning' pattern connecting legal reading obsession to sleep deprivation to dietary collapse, and the 'false high savings' insight connecting financial surface health to emotional diary and dietary reality. Uniquely identifies that legal reading has 'mutated' from self-improvement to anxiety relief tool, a pattern invisible without all four data sources. Actionability is strong with concrete targets (daily dining cap 800 yuan, 72-hour no-alcohol challenge, stop self-reading legal books and hire a lawyer instead, 5-min breathing + 10-min walking substitution), though the response was truncated at 2000 tokens limiting the final recommendation."
+    }
+  },
+  "iir": 1.45
+}

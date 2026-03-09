@@ -1,0 +1,14 @@
+{
+  "user_id": "user_07",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 22,
+    "specificity": 20,
+    "cross_domain": 21,
+    "actionability": 18,
+    "total": 81
+  },
+  "score_rationale": "Strong relevance to user_07's profile as a 33-year-old resident doctor under high pressure. The insight correctly identifies the emotional breakdown after consecutive night shifts. Specificity is good but slightly weaker than other users -- data points are cited (86.1% savings rate, 14% healthy diet, 1484 kcal, 6.7h sleep, 398 yuan social spending, 76 yuan entertainment) but some interpretations stretch thin (claiming 'deep-night eating 0 times' yet constructing a compensatory eating narrative). Cross-domain analysis linking high professional focus with low nutritional density and social isolation is valid. The 'emotional numbness vs true satisfaction' distinction is insightful. Actionability is moderate -- 'micro-rest' replacing 'weekend binge relaxation' is a good concept but the recommendations were truncated before concrete implementation details."
+}

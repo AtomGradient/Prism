@@ -1,0 +1,14 @@
+{
+  "user_id": "user_03",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 22,
+    "specificity": 18,
+    "cross_domain": 20,
+    "actionability": 19,
+    "total": 79
+  },
+  "score_rationale": "Excellent relevance to the pregnant teacher profile (31yo, 5500 income, pregnancy confirmed). The cross-domain insight linking pregnancy anxiety to defensive consumption and information overload from parenting reading (74% of reading topics) is genuinely novel. Specificity is adequate (medical 320 yuan, dining 1476 yuan at 60%, 55.8% savings rate) but some data citations feel inferred rather than directly grounded. Recommendations are highly contextual to pregnancy (post-birth fund, information diet, non-parenting joy sources) making them more actionable than typical templated advice."
+}

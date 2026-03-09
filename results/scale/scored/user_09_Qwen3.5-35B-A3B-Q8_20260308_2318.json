@@ -1,0 +1,14 @@
+{
+  "user_id": "user_09",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 23,
+    "specificity": 22,
+    "cross_domain": 23,
+    "actionability": 21,
+    "total": 89
+  },
+  "score_rationale": "Excellent relevance to user_09's profile as a 45-year-old business owner with cash flow pressure. Directly references the overdue payment crisis, 'considering selling the car', and supplier negotiations. Strong specificity with data (61.8% savings rate, 38001 yuan dining at 66% of spending, 12 times baijiu, 11 deep-night meals, 5.4h sleep, 57% skipped breakfast, 12044 yuan anomalous day, emotion score 0.39). Cross-domain analysis is excellent: the 'false financial health' insight exposing how 61.8% savings masks liquidity crisis (only visible through emotion diary's 'sell car' mention) is a textbook demonstration of cross-domain value. The anxiety-binge-spending cycle with alcohol involvement is well-documented. Recommendations are the most actionable of all 10 users: specific budget caps (500 yuan/day dining), concrete behavioral rules (24-hour cooldown for emotional spending >500 yuan, no alcohol after 22:00), and strategic advice (shift from defensive reading to weekly structured review sessions). Only minor truncation at the end."
+}

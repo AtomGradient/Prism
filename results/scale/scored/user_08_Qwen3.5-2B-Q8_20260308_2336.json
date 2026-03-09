@@ -1,0 +1,14 @@
+{
+  "user_id": "user_08",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 20,
+    "specificity": 17,
+    "cross_domain": 18,
+    "actionability": 14,
+    "total": 69
+  },
+  "score_rationale": "Strong relevance — directly addresses the P7 tech worker facing organizational restructuring (layoff threat), captures the anxiety-driven behavioral patterns convincingly. Cites specific data (emotion mean 0.38 front / 0.44 back, pressure 7.0, beer 9 times, skip breakfast 37%, sleep 6.2h, late-night eating 0, reading coverage 100%, highlights 51, anomalous spend 231, dining 1965, keywords: layoff 4, salary-negotiation 4, learning 4, panic 2). Three cross-domain patterns are the strongest in this batch: 'anxiety-driven consumption as dopamine purchasing' is a genuinely insightful framing; 'compensatory diet as emotion regulator' correctly identifies beer and coffee as coping mechanisms rather than nutrition; 'information overload as anxiety amplifier' noting that defensive reading creates an anxiety feedback loop is sophisticated reasoning. The temporal drift table is well-structured with clear before/after comparisons. The paradox observation — 95% savings rate masking deep insecurity — is a high-quality cross-domain insight. Actionability provides concrete mechanisms (anxiety circuit breaker, forced breakfast, alcohol substitution) though cut off. Best insight quality in this 2B batch — the model genuinely engaged with the layoff anxiety theme."
+}

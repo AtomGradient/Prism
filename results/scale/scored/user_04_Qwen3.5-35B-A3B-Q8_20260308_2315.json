@@ -1,0 +1,14 @@
+{
+  "user_id": "user_04",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 22,
+    "specificity": 23,
+    "cross_domain": 23,
+    "actionability": 20,
+    "total": 88
+  },
+  "score_rationale": "Strong relevance to user_04's profile as a 26-year-old grad student under thesis pressure. Excellent specificity with precise data citations (60% skipped breakfast, 59 min daily reading, 104 highlights, 1451 kcal, 2% healthy meals, 8 late-night meals, 6h sleep). The cross-domain analysis is the standout: the 'cognitive compensation' loop linking deep academic reading to junk food dependency to blood sugar crashes to emotional fatigue is a genuinely insightful multi-domain causal chain. The 'pseudo-savings' insight (28% savings rate masking health deterioration) demonstrates exactly the kind of cross-domain value the experiment aims to prove. Recommendations are specific (10 yuan breakfast, 45-min study blocks with 10-min breaks) though the third was truncated."
+}

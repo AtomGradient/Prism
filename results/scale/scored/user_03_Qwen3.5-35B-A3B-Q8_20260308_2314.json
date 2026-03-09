@@ -1,0 +1,14 @@
+{
+  "user_id": "user_03",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 23,
+    "specificity": 22,
+    "cross_domain": 23,
+    "actionability": 19,
+    "total": 87
+  },
+  "score_rationale": "Excellent relevance to user_03's profile as a 31-year-old pregnant teacher. The insight correctly identifies pregnancy-driven behavioral changes across all four domains. Strong specificity with cited figures (100% healthy eating, 1698 kcal, 55.8% savings rate, 218 yuan shopping, 320 yuan medical). Outstanding cross-domain work connecting 'defensive frugality' in finances with anxiety-driven reading (100% parenting/health topics) and dietary perfectionism. Temporal drift analysis showing shift from 'worried waiting' to 'active preparation' is nuanced. Recommendations were beginning to be truncated, and could be more specific about nutritional targets for pregnancy."
+}

@@ -1,0 +1,27 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (large)
+*.mlpackage/
+models/
+*.gguf
+
+# Runtime logs
+logs/
+
+# Synthetic user data (regenerable)
+data/users/
+
+# Python env
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

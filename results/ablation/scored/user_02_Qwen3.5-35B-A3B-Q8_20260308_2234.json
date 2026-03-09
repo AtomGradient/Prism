@@ -1,0 +1,103 @@
+{
+  "user_id": "user_02",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "configs": {
+    "A": {
+      "label": "仅财务",
+      "apps": ["dailyn"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 22,
+        "cross_domain": 3,
+        "actionability": 18,
+        "total": 64
+      },
+      "score_rationale": "Strong relevance connecting financial data to delivery rider's high-intensity work and family obligations. Excellent specificity: 55.1% savings rate, transfer 1500 RMB (55.7% of spend), food 914 RMB (30.4 RMB/day), anomalies on March 6 (518 RMB) and March 20 (1040 RMB), front half 1055 vs back half 1636. Cross-domain is minimal but does speculate about health implications of low food budget. Actionability is good with concrete suggestions (raise food budget to 40-45 RMB/day, create 300-500 RMB/month vehicle/medical fund, clarify transfer purpose) though career transition advice is generic."
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": ["mealens"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 21,
+        "cross_domain": 3,
+        "actionability": 20,
+        "total": 64
+      },
+      "score_rationale": "Good relevance connecting dietary patterns to delivery rider's extreme physical demands. Strong specificity: 1518kcal daily average, 0% healthy ratio, 47% breakfast skip rate, 1077ml water, 82 meals with 0 healthy, front half 1299 vs back half 1738kcal, caloric deficit estimated at 1000-1500kcal. Cross-domain low but speculates about economic constraints driving food choices. Actionability is very practical: egg + banana breakfast, ask for extra vegetables (2-3 RMB), 1.5-2L water bottle, 2 tea eggs or 1 bag milk daily. All suggestions are low-cost and feasible for a delivery rider."
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": ["ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 19,
+        "cross_domain": 4,
+        "actionability": 16,
+        "total": 60
+      },
+      "score_rationale": "Good relevance connecting emotional patterns to delivery rider's gig economy stress and debt pressure. Moderate specificity: emotion 0.51 mean, front 0.42 vs back 0.60, fatigue 8 times, anxiety 7 times, normal 9 times, sleep 6.3h, stress 5.7/10, recovery 6 times, relief 4 times. The diary quote about repayment plan is well-utilized. Cross-domain slightly elevated for speculating about income instability and health implications. Actionability is mixed: the repayment schedule advice is good but 'micro-rest' and 'build non-rider identity' suggestions are somewhat vague and hard to implement for someone in gig economy."
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": ["narrus"],
+      "scores": {
+        "relevance": 17,
+        "specificity": 15,
+        "cross_domain": 4,
+        "actionability": 14,
+        "total": 50
+      },
+      "score_rationale": "Moderate relevance connecting reading to rider's situation but limited by sparse data. Specificity is constrained: 9 reading days, 12 min/day average, 108 total minutes, 11 sessions at 9.8 min each, 2 highlights, 30% coverage rate, topics (social 4, finance 3, other 2). Cross-domain speculates about anxiety-driven reading and physical exhaustion limiting reading capacity. Actionability has some reasonable points (audiobooks during wait times, convert finance reading to action items) but 'allow yourself not to read' is not particularly useful advice. Overall weakest config due to limited data depth."
+    },
+    "E": {
+      "label": "财务x饮食",
+      "apps": ["dailyn", "mealens"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 21,
+        "cross_domain": 13,
+        "actionability": 18,
+        "total": 74
+      },
+      "score_rationale": "Strong relevance integrating financial and dietary data for a physically demanding job. Good specificity combining cross-domain numbers (55.1% savings, 1518kcal, 47% breakfast skip, 914 RMB food, front/back comparisons in both domains). Cross-domain analysis identifies meaningful patterns: the 'compensatory binge eating' theory linking emotional fatigue to March anomalies, and 'saved breakfast money converting to future medical costs.' However, the speculation that March 6/20 anomalies were 'binge eating or social dining' is somewhat unfounded given the user's event was bike theft + borrowing money; the model missed this connection. Actionability includes daily food budget cap of 60 RMB, forced breakfast, and 100-200 RMB 'health fund' reallocation from savings."
+    },
+    "F": {
+      "label": "财务x情绪",
+      "apps": ["dailyn", "ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 21,
+        "cross_domain": 15,
+        "actionability": 17,
+        "total": 75
+      },
+      "score_rationale": "Strong relevance connecting financial stress to emotional state for a debt-carrying delivery rider. Good specificity with cross-referenced data (55.1% savings vs 5.7/10 stress, front 1055/0.42 vs back 1636/0.60, transfer 1500 vs 'repayment plan' diary). Cross-domain analysis is strong: identifies anxiety as driver of spending (not result), the paradox of 'emotional recovery coinciding with financial overspend,' and 'goal' becoming 'shackle' rather than motivation. Insightful identification that the 0.51 emotion mean is at a 'tipping point.' Actionability: reduce savings to 40-45%, add 200-300 RMB monthly 'recovery spending,' sleep 30 min earlier. Some advice is reasonable but the response was truncated at 2000 tokens, cutting off the conclusion."
+    },
+    "G": {
+      "label": "饮食x情绪",
+      "apps": ["mealens", "ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 20,
+        "cross_domain": 14,
+        "actionability": 16,
+        "total": 71
+      },
+      "score_rationale": "Good relevance connecting diet and emotion for a physically stressed delivery rider. Solid specificity with correlated data: front 1299kcal/0.42 vs back 1738kcal/0.60, 47% breakfast skip vs anxiety 7 times, 0% healthy diet vs fatigue 8 times, sleep 6.3h. Cross-domain analysis identifies meaningful patterns: caloric compensation as emotional regulation, 'sugar-induced false recovery' in back half, and debt pressure physically manifesting as skipped meals. The 'no late-night eating means daytime over-compensation' insight is creative. Actionability suggests breakfast eggs (3-5 RMB), extra vegetables with hot pot orders, and redefining 'recovery' beyond food. Response was truncated, slightly weakening the conclusion."
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": ["dailyn", "mealens", "ururu", "narrus"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 21,
+        "actionability": 19,
+        "total": 85
+      },
+      "score_rationale": "Excellent relevance painting a comprehensive portrait of the delivery rider's life across all dimensions. Strong specificity citing data from all four domains with cross-references (55.1% savings, 1518kcal, 0% healthy, emotion 0.42/0.60 split, 47% breakfast skip, 6.3h sleep, 9 reading days, social spend 80 RMB). Outstanding cross-domain analysis: identifies three major patterns (anxiety-calories-spending vicious cycle, 'energy conservation law' where physical exhaustion crowds out reading and healthy eating simultaneously, goal-driven social isolation as psychological defense). The temporal drift analysis is well-structured showing pressure/deprivation in first half vs rebound/imbalance in second half. Risk assessment table with three tiers (health extreme, financial medium-high, psychological medium) is a strong structured addition. Actionability includes 5 specific recommendations (caloric supplementation at <5 RMB, emotion-spending circuit breaker at 200 RMB threshold, micro-reading strategy, low-cost social budget restructuring). Truncated at 2000 tokens but core analysis is complete. Slightly docked for not explicitly connecting the March anomalies to the bike theft event in user meta."
+    }
+  },
+  "iir": 1.43
+}

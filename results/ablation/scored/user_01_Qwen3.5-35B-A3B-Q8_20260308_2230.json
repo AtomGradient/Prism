@@ -1,0 +1,103 @@
+{
+  "user_id": "user_01",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "configs": {
+    "A": {
+      "label": "仅财务",
+      "apps": ["dailyn"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 23,
+        "cross_domain": 2,
+        "actionability": 19,
+        "total": 66
+      },
+      "score_rationale": "Highly relevant to user profile (22yo factory worker, frugal, sends money home). Excellent specificity with concrete numbers (46.3% savings rate, 23 RMB/day living cost, 19.4 RMB/day food, 1222 RMB anomaly on March 15, 1200 RMB transfers). Cross-domain is minimal as expected for single-domain, though it does speculate reasonably about health impacts. Actionability is good with specific suggestions (emergency fund of 100-200 RMB/month, 24-hour cooling period for purchases over 200 RMB, invest 300 RMB/month in skills) but some advice is somewhat generic (learn a skill)."
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": ["mealens"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 22,
+        "cross_domain": 3,
+        "actionability": 21,
+        "total": 67
+      },
+      "score_rationale": "Strong relevance connecting diet data to factory worker lifestyle and frugality motive. Excellent specificity: 1340kcal daily average, 9% healthy ratio, 30% breakfast skip rate, 911ml water intake, 81 meals analyzed. Appropriately low cross-domain score but does speculate about financial and emotional drivers. Very strong actionability with cost-conscious suggestions (extra 2 RMB/day for egg, free water strategy, ask for extra vegetables at 1 RMB) that are realistic for a 3500 RMB income worker."
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": ["ururu"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 18,
+        "cross_domain": 4,
+        "actionability": 15,
+        "total": 57
+      },
+      "score_rationale": "Good relevance linking emotional patterns to factory worker context and family responsibility. Moderate specificity: emotion mean 0.52, fatigue 11 times (37%), calm 9 times, sleep 6.9h, stress 4.7/10, front half 0.48 vs back half 0.56. Mentions interview as key event. Cross-domain slightly higher as it speculates about financial burden and diet impacts. Actionability is weaker: suggestions like 'write a small joy each day' and 'emotion emergency kit' are somewhat vague. The 'self-development fund' suggestion lacks concrete amounts."
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": ["narrus"],
+      "scores": {
+        "relevance": 17,
+        "specificity": 14,
+        "cross_domain": 4,
+        "actionability": 13,
+        "total": 48
+      },
+      "score_rationale": "Moderate relevance connecting reading habits to factory worker life and aspirations. Limited specificity due to sparse data: 8 reading days, 27% coverage, 55 minutes total, 7 min/day average, 2 highlights, topic breakdown (workplace 50%, inspirational 37.5%, finance 12.5%). Cross-domain slightly elevated as it speculates well about financial behavior and emotional state. Actionability is weak: 'shift from inspirational to skill content' and 'micro-investment of time' are generic; the weekly 30-minute deep reading suggestion is reasonable but lacks the concrete detail of other configs."
+    },
+    "E": {
+      "label": "财务x饮食",
+      "apps": ["dailyn", "mealens"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 22,
+        "cross_domain": 14,
+        "actionability": 19,
+        "total": 77
+      },
+      "score_rationale": "Excellent relevance integrating financial frugality with diet deprivation for this specific user. Strong specificity combining numbers from both domains (46.3% savings, 1340kcal, 9% healthy ratio, 583 RMB food spend, front/back half comparisons in both domains). Cross-domain analysis is meaningful: identifies the 'energy-money exchange model' where dietary deprivation directly funds savings, and the counter-intuitive finding that spending dropped in back half but calories slightly rose. Actionable with specific cost suggestions (1.5 RMB/day for egg, 100-200 RMB health emergency fund) though some recommendations overlap with single-domain insights."
+    },
+    "F": {
+      "label": "财务x情绪",
+      "apps": ["dailyn", "ururu"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 20,
+        "cross_domain": 15,
+        "actionability": 18,
+        "total": 76
+      },
+      "score_rationale": "Strong relevance connecting financial sacrifice to emotional toll for this specific factory worker. Good specificity with cross-referenced data points (March 15 anomaly vs emotion curve, 46.3% savings vs fatigue 11 times, front/back half comparisons in both domains, 11.5 RMB/day post-transfer). Cross-domain analysis is strong: identifies 'false financial security' where savings come at psychological cost, the 'defensive tightening' mechanism after large transfers, and the hidden urgency of career change masked by financial stability. Actionability is decent with minimum spending floor (25 RMB/day food), treating interview as 'emotional medicine', but some advice is more psychological than concrete."
+    },
+    "G": {
+      "label": "饮食x情绪",
+      "apps": ["mealens", "ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 20,
+        "cross_domain": 14,
+        "actionability": 17,
+        "total": 72
+      },
+      "score_rationale": "Good relevance connecting diet patterns to emotional states for a factory worker under financial pressure. Solid specificity with correlated data points (1290kcal/0.48 emotion front half vs 1390kcal/0.56 back half, 30% breakfast skip vs fatigue 11 times). Cross-domain analysis reveals interesting patterns: 'hunger-induced calm' as physiological suppression of emotional range, carbohydrate as sole psychological comfort mechanism, and the correlation between 100kcal increase and 16.6% emotion improvement. Actionability includes specific suggestions (reduce breakfast skip to 0%, add egg or denser soymilk for 150-200kcal) but some explanations are more theoretical than practical."
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": ["dailyn", "mealens", "ururu", "narrus"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 22,
+        "actionability": 20,
+        "total": 86
+      },
+      "score_rationale": "Excellent relevance with a comprehensive portrait of the factory worker's life across all four dimensions. Good specificity citing data from all domains (46.3% savings, 1340kcal, 9% healthy, emotion 0.52, fatigue 11 times, 8 reading days with topic breakdown). Outstanding cross-domain analysis: identifies three major cross-domain patterns (savings-nutrition-anxiety loop, March 15 event triggering behavioral cliff across all domains, cognitive-action gap between reading aspirations and financial reality). The temporal drift analysis connecting financial pulses to dietary compensation to emotional fluctuation is particularly insightful. Actionability is strong with five numbered, domain-specific recommendations (raise daily budget to 40-50 RMB, lower savings to 30-35%, stop reading inspirational content in favor of actionable skills, weekly non-work rest, dietary structure optimization). Note was truncated at 2000 tokens which slightly limits the final recommendation."
+    }
+  },
+  "iir": 1.45
+}

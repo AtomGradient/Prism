@@ -1,0 +1,103 @@
+{
+  "user_id": "user_08",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "configs": {
+    "A": {
+      "label": "仅财务",
+      "apps": ["dailyn"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 22,
+        "cross_domain": 3,
+        "actionability": 14,
+        "total": 59
+      },
+      "score_rationale": "Correctly identifies the massive mismatch between P7 high-consumption profile and 95.2% savings rate (2379 total, 79/day). Good specificity with 1965 food (82.6%), 287 transport, Mar 5 anomaly (231). Relevance solid for P7 context. Actionability weaker — 'verify hidden expenses' and 'set up social fund of 2000-3000' are reasonable but the primary advice is to check data completeness rather than act on patterns, which feels tentative."
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": ["mealens"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 23,
+        "cross_domain": 3,
+        "actionability": 20,
+        "total": 66
+      },
+      "score_rationale": "Excellent specificity: 1197kcal daily, 37% healthy, 37% skipped breakfast, 75 meals (vs 90 expected), 1129ml water, 13 coffees, 9 beers, rice 16x. Identifies 'coffee-beer survival loop' pattern convincingly. Actionability is the highest among single-domain configs with forced hydration to 1.8-2L, minimal breakfast strategy, cafeteria optimization, protein target of 100g+, calorie raise to 1600-1800, and beer reduction to 2-3/month — all with specific numbers."
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": ["ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 22,
+        "cross_domain": 4,
+        "actionability": 18,
+        "total": 66
+      },
+      "score_rationale": "Highly relevant — directly engages with the organizational restructuring/layoff threat, Maimai browsing behavior, and 'pseudo-affluence' anxiety. Strong specificity with 0.38 mean (0.32->0.44), stress 7.0, sleep 6.2h, keyword counts (layoff 4x, deposits 5x, salary negotiation 4x). Cross-domain slightly higher (4) as it makes reasonable inferences about financial behavior. Actionability strong with specific interventions: 15-min Maimai firewall, financial stress test protocol, 1-hour pre-sleep screen ban."
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": ["narrus"],
+      "scores": {
+        "relevance": 19,
+        "specificity": 21,
+        "cross_domain": 3,
+        "actionability": 15,
+        "total": 58
+      },
+      "score_rationale": "Good specificity with 30/30 days coverage, 46 min/day, ~23 hours total, workplace 16, tech 14, interview 5, finance/invest 11, 51 highlights. Correctly identifies 'defensive growth' reading pattern. Relevance adequate but slightly generic in places. Actionability somewhat weak — shift from defensive to offensive reading and input-output loop are directionally right but lack concrete implementation (how many blogs per week? which topics exactly?)."
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": ["dailyn", "mealens"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 23,
+        "cross_domain": 13,
+        "actionability": 18,
+        "total": 75
+      },
+      "score_rationale": "Strong cross-domain analysis: coffee as breakfast substitute mechanism (13 coffees mapped against 37% skipped breakfasts), beer as hidden emotional spending masked in low overall budget, and uniformity of consumption patterns indicating life on autopilot. Excellent specificity combining both datasets. Actionability includes specific budget increase (+20 yuan/day for protein), early mandatory breakfast, alcohol monitoring, and weekly non-cafeteria dinner — all concrete."
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": ["dailyn", "ururu"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 15,
+        "actionability": 17,
+        "total": 77
+      },
+      "score_rationale": "The best dual-domain config for this user. Exceptional relevance — precisely captures the 'defensive savings driven by layoff anxiety' narrative. Cross-domain analysis is excellent: links 95.2% savings to fear rather than discipline, identifies emotion recovery not translating to self-reward (0.32->0.44 but spending decreased), and the sleep-decision quality vicious cycle. Identifies three 'invisible risks' only visible through cross-domain lens. Actionability includes 30% mandatory spending increase, Maimai firewall, sleep KPI at 6.5h — specific thresholds."
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": ["mealens", "ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 23,
+        "cross_domain": 16,
+        "actionability": 19,
+        "total": 80
+      },
+      "score_rationale": "Outstanding cross-domain work: establishes caloric threshold-anxiety threshold negative feedback loop, identifies 'zero late-night eating' masking high-intensity info-binging as stress response, and brilliantly debunks three common single-domain misinterpretations ('self-disciplined' is actually pathological, 'balanced diet' is actually forced, 'improving emotions' may be pre-collapse calm). Actionability is strong with specific targets: 0% breakfast skip, 1600kcal+ red line, afternoon coffee replacement, and an 'eating repair' protocol triggered by anxiety keywords."
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": ["dailyn", "mealens", "ururu", "narrus"],
+      "scores": {
+        "relevance": 24,
+        "specificity": 24,
+        "cross_domain": 24,
+        "actionability": 17,
+        "total": 89
+      },
+      "score_rationale": "The most comprehensive and insightful analysis. Cross-domain integration is superb: anxiety->diet suppression->emotional lowdown cycle, info overload->knowledge anxiety->defensive savings mechanism, and intermittent collapse->fragmented repair rhythm — all backed by data from all four domains. The 'single dimension blind spots' section is the most compelling part, explicitly demonstrating what each domain misses (high savings as fear not discipline, diligent reading as anxiety not growth, healthy diet as forced not chosen). Temporal drift analysis across all 4 dimensions is rigorous. Actionability suffers from the 2000-token truncation — the 'happy account' recommendation at 15-20% income is specific but the full recommendation set was cut off."
+    }
+  },
+  "iir": 1.43
+}

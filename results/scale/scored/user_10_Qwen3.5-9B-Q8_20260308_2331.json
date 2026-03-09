@@ -1,0 +1,14 @@
+{
+  "user_id": "user_10",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 22,
+    "specificity": 19,
+    "cross_domain": 21,
+    "actionability": 16,
+    "total": 78
+  },
+  "score_rationale": "Strong relevance to fund manager profile (38yo, annual salary in tens of millions, 4% single-day drawdown). Good specificity (dining 30060 yuan, 6.5h sleep, 93.6% savings, 48 min daily reading, pressure 5.1/10, front 32389 vs back 20816 yuan). Cross-domain patterns show sophistication: 'cognitive overload - compensatory eating' linking coffee dependency and sweets to stress, 'perfect control as fragility' is a genuinely novel meta-observation. The 'reading as escape not nourishment' insight is well-grounded. However, actionability suffers: recommendations like 'caffeine-free windows' and 'non-cognitive rest' are generic wellness advice that doesn't leverage the fund manager's specific constraints and decision-making environment. The 'identity anxiety' framing, while interesting, borders on over-interpretation."
+}

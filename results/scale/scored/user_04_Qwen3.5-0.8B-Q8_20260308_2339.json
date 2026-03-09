@@ -1,0 +1,14 @@
+{
+  "user_id": "user_04",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 17,
+    "specificity": 14,
+    "cross_domain": 14,
+    "actionability": 12,
+    "total": 57
+  },
+  "score_rationale": "This is the strongest output in the batch. The 'Academic Survival Anxiety' framing is highly relevant to a 26-year-old grad student whose advisor rejected their thesis direction. Cross-domain connections are the most coherent: anxiety-driven compensatory eating (citing shift from rice to instant noodles/dumplings), cognitive overload from high-intensity reading (104 highlights, ML/NLP topics), and spending patterns reflecting stress (73% on dining). Specific data points are cited (1451 kcal, 60% skipped breakfast, 8 late-night meals, 6.0h sleep, 1235 min reading, 28% savings rate). The temporal drift section plausibly describes a progression from stability to anxiety to near-collapse. Recommendations are the most actionable: emotion-food intervention logging, breakfast restoration, Pomodoro reading technique, and financial restructuring. Still exhibits 0.8B-level weaknesses: some pseudo-scientific claims (amygdala activation, PTSD-like tendencies from limited data), and output truncated before completing all recommendations."
+}

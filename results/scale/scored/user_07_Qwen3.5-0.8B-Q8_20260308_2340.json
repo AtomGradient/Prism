@@ -1,0 +1,14 @@
+{
+  "user_id": "user_07",
+  "model_name": "Qwen3.5-0.8B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 14,
+    "specificity": 11,
+    "cross_domain": 11,
+    "actionability": 12,
+    "total": 48
+  },
+  "score_rationale": "The insight addresses the hospital doctor's high-pressure lifestyle and identifies relevant themes (emotional exhaustion, social spending as compensation, diet quality concerns). Uses emoji headers which is unprofessional but expected at this model scale. Cross-domain patterns are plausible: emotion-reading inverse relationship (satisfaction correlates with less reading), dining as emotional spending (hotpot, social meals), and consumption-driven 'health' eating. However, the temporal drift section contains a major factual error -- it references 'April-June' (months 4-6) when the data range is January-March, indicating the model lost track of the stated timeframe. Data citations are present (1511/1457 kcal, 6.7h sleep, 33 min reading dropping to 5.5 min, 1649 yuan dining, 2437 yuan dining+entertainment) but some feel unreliable. Recommendations are relatively concrete and actionable (fixed 20-min reading window, pre-meal nutrition check, social spending budget cap, deep work 15-min rule, weekly financial review)."
+}

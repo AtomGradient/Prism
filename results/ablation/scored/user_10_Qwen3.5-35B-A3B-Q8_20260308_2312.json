@@ -1,0 +1,103 @@
+{
+  "user_id": "user_10",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "configs": {
+    "A": {
+      "label": "仅财务",
+      "apps": ["dailyn"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 22,
+        "cross_domain": 3,
+        "actionability": 16,
+        "total": 62
+      },
+      "score_rationale": "Good relevance connecting financial patterns to a fund manager's lifestyle (interpreting high dining spend as business networking, linking front-half/back-half spending to financial industry monthly rhythms). Strong specificity with precise numbers (93.6% savings rate, 30,060 yuan dining at 56.5%, daily average 1,774 yuan, front 32,389 vs back 20,816, entertainment 7,677, shopping 2,874). Cross-domain speculation is minimal and appropriately flagged as limitation. Actionability is moderate: advice to optimize dining ROI and build family financial firewall is reasonable but generic; the suggestion to review asset allocation of the 93.6% savings is relevant but lacks specifics suited to a fund manager who presumably already knows about investing."
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": ["mealens"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 20,
+        "cross_domain": 3,
+        "actionability": 17,
+        "total": 60
+      },
+      "score_rationale": "Relevant analysis identifying the 'elite pseudo-health trap' of expensive but nutritionally imbalanced food. Good specificity with data points (1646 kcal daily, 34% healthy eating ratio, 73 meals, 30% skipped breakfast, 0 late-night meals, avocado/hand-pour/fresh juice/red wine/dessert each 6 times, front 1666 vs back 1626 kcal). Cross-domain appropriately limited to speculation. Actionability is reasonable with concrete advice: replace fresh juice with whole fruit, reduce dessert frequency or switch to dark chocolate, and ensure protein-heavy first meal if skipping breakfast. The recognition that 0 late-night meals is a positive signal and that total calorie control matters more than the 34% health label shows good judgment."
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": ["ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 20,
+        "cross_domain": 4,
+        "actionability": 18,
+        "total": 64
+      },
+      "score_rationale": "Highly relevant with excellent characterization of the fund manager's emotional profile as 'defensive calm' and 'high-functioning stress.' Good specificity (0.61 mean, front 0.60/back 0.61, anxiety 7x, tension 6x, satisfaction 4x, fatigue 5x, sleep 6.5h, pressure 5.1/10, keywords: rebalancing 6, cautious 6, strategy 4). Insightful observation that negative emotions outnumber positive by 3.25x despite acceptable mean score. Cross-domain speculation about work-life binding is reasonable. Actionability is strong for a single-domain config: building non-work emotional anchors, establishing a 'psychological clock-out' ritual, converting anxiety into specific action lists, and recommending a genuine 48-hour offline vacation as a diagnostic test."
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": ["narrus"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 21,
+        "cross_domain": 3,
+        "actionability": 16,
+        "total": 61
+      },
+      "score_rationale": "Relevant analysis recognizing the fund manager's reading as a cognitive system (finance 19, philosophy 12, investment 8, industry 5). Good specificity with precise metrics (30/30 days coverage, 48 min daily, 1441 minutes total, 173 highlights, 0.12 highlights/minute density, health only 1 article). The 'cognitive pyramid' model (finance base, philosophy middle, investment top) is an insightful structural observation. Cross-domain limited to speculation about whether reading converts to investment alpha. Actionability is moderate: advice to actively output philosophy-finance synthesis and guard against 'knowledge squirrel syndrome' is relevant, but the suggestion to add health reading is generic. The lack of health reading (only 1 article) is noted but not deeply analyzed."
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": ["dailyn", "mealens"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 23,
+        "cross_domain": 17,
+        "actionability": 17,
+        "total": 79
+      },
+      "score_rationale": "Strong relevance connecting the elite fund manager's spending patterns to dietary behavior. Excellent specificity with cross-referenced data (30,060 yuan dining + 1646 kcal daily = 'high price low calorie' paradox; social spend 8,110 + red wine 6x + dessert 6x; front 32,389/1666kcal vs back 20,816/1626kcal showing financial-dietary decoupling). Cross-domain insights are genuinely novel: the 'high premium low calorie' consumption model where 3 million won dining buys health anxiety relief rather than nutrition, the identification that 30% skipped breakfast is a deliberate 'time-for-money' trade by a high-earner, and the finding that social spending is a 'dining amplifier' where red wine and desserts are social entry costs. The insight that dietary control is independent of financial fluctuation demonstrates true cross-domain analysis. Actionability is moderate: switching to high-protein breakfast is specific, but the truncated response limits full recommendations."
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": ["dailyn", "ururu"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 18,
+        "actionability": 19,
+        "total": 82
+      },
+      "score_rationale": "Highly relevant with deep insight into the high-income high-control high-internal-consumption pattern. Strong specificity linking financial and emotional data (93.6% savings + anxiety 7x + cautious 6x; front 32,389 declining to 20,816 + emotion 0.60->0.61; sleep 6.5h + fatigue 5x + entertainment only 7,677). Cross-domain analysis is the strongest of the dual-domain configs: the insight that high savings is a 'functional result' of professional-grade anxiety rather than frugality, that 'expenditure-emotion decoupling' (spending drops 36% but anxiety unchanged) reveals passive compression rather than active saving, and that the 0.61 emotion mean is a 'professional mask' supported by cognitive reframing ('satisfied with this week's operations'). The '越忙越省，越省越累' closed loop is uniquely discoverable only through cross-domain analysis. Actionability is strong: specific advice to allocate 5-10% to 'non-productive spending' for recovery, restructure social spending as emotional recharging, and build an emotion-finance firewall."
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": ["mealens", "ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 21,
+        "cross_domain": 17,
+        "actionability": 19,
+        "total": 79
+      },
+      "score_rationale": "Relevant analysis identifying 'high cognitive control with physiological compensation.' Good specificity cross-referencing dietary and emotional data (dessert 6x + red wine 6x linked to rebalancing 6x + cautious 6x; sleep 6.5h + skipped breakfast 30% + emotion 0.61; coffee 6x co-occurring with anxiety 7x; fatigue 5x + avocado/hand-pour as 'pseudo-health'). Cross-domain insights are meaningful: identifying that emotional stability depends on food-based compensation mechanisms (removing dessert/wine could drop emotion to 0.5), the 'coffee-anxiety' feedback loop, and the crucial finding that zero late-night eating represents extreme suppression rather than healthy discipline, with stress distributed through 'micro-frequent' daytime consumption instead. Actionability is strong with specific interventions: 15-minute non-food breaks instead of dessert, forced breakfast with quality protein to stabilize morning blood sugar, caffeine cutoff before 10 AM, and sleep target of 7-7.5h."
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": ["dailyn", "mealens", "ururu", "narrus"],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 22,
+        "actionability": 19,
+        "total": 88
+      },
+      "score_rationale": "Exceptional relevance with comprehensive four-dimensional portrait of the fund manager. Excellent specificity weaving all data streams (30,060 dining + 1646 kcal + anxiety 7x + 1441 min reading = 'anxiety compensation consumption loop'; 30/30 reading days with 67% finance/investment + 6.5h sleep + 30% skipped breakfast = 'cognitive overload chain'; front 32,389/1666kcal/0.60 vs back 20,816/1626kcal/0.61 temporal drift with keyword shift from 'rebalancing/cautious' to 'returns/strategy'). Cross-domain analysis achieves genuine four-way integration: the 'anxiety compensation' loop linking emotions to eating to spending is enhanced by the reading data showing 'defensive diligence' (reading as anxiety coping rather than learning), the 'morning deprivation mirrors nighttime invasion' insight connecting late-night reading to skipped breakfast to dietary imbalance, and the temporal drift table showing synchronized behavioral shifts across all four domains. However, the response was truncated at 2000 tokens, cutting off the final two recommendations and weakening actionability. The existing advice is specific (replace dessert/wine with low-sugar protein + sparkling water; forced breakfast within 1h of waking; limit finance reading to 20min/day), but incomplete."
+    }
+  },
+  "iir": 1.43
+}

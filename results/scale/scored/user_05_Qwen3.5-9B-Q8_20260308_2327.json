@@ -1,0 +1,14 @@
+{
+  "user_id": "user_05",
+  "model_name": "Qwen3.5-9B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 20,
+    "specificity": 19,
+    "cross_domain": 18,
+    "actionability": 17,
+    "total": 74
+  },
+  "score_rationale": "Adequate relevance to e-commerce 996 profile (27yo, 12000 income, promoted to team lead). Good specificity (social spending 2174 yuan at 22%, 13 late-night meals, 4% healthy eating, front-half 7337 vs back-half 2390 yuan). Cross-domain patterns are reasonable but somewhat formulaic (social-finance-health triangle, reading as compensation, front/back structural imbalance). The model identifies the promotion-driven socializing pressure but doesn't deeply explore how the role change specifically altered behavior. Recommendations follow a visible template pattern (breakfast enforcement, consumption firewall, reading strategy shift) that reduces perceived personalization."
+}

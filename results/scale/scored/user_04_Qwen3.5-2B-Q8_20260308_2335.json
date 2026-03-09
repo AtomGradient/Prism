@@ -1,0 +1,14 @@
+{
+  "user_id": "user_04",
+  "model_name": "Qwen3.5-2B-Q8",
+  "experiment": "scale",
+  "config": "H",
+  "scores": {
+    "relevance": 19,
+    "specificity": 16,
+    "cross_domain": 18,
+    "actionability": 14,
+    "total": 67
+  },
+  "score_rationale": "Excellent relevance — directly addresses the graduate student under thesis pressure, references advisor rejection event, and captures the 'cognitive overload meets resource depletion' dynamic characteristic of this user profile. Cites concrete numbers (reading only 59min/day, skip breakfast 60%, late-night eating 8 times, sleep 6.0h, emotion mean 0.47/0.43/0.50, healthy diet 2%, total spend 1441 yuan, savings rate 28%, pressure 6.4/10). Cross-domain reasoning is the strongest aspect: the thesis-investment to sleep-deprivation to late-night-eating chain is plausible and well-argued; the diet-quality to emotion-volatility to financial-stress link is coherent; the time-fragmentation to financial-compression argument is creative. Some over-interpretation exists (claiming 59min reading is 'extremely low' when it may be adequate). Temporal drift is structurally sound but maps to a 30-day window rather than capturing the day-45 advisor rejection event. Actionability gives specific interventions (3-hour pre-sleep fast, Pomodoro technique, 4-7-8 breathing) that are practical for a graduate student, though cut off before completing all recommendations."
+}

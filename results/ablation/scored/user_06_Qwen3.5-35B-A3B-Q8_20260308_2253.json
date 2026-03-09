@@ -1,0 +1,103 @@
+{
+  "user_id": "user_06",
+  "model_name": "Qwen3.5-35B-A3B-Q8",
+  "configs": {
+    "A": {
+      "label": "仅财务",
+      "apps": ["dailyn"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 23,
+        "cross_domain": 3,
+        "actionability": 17,
+        "total": 63
+      },
+      "score_rationale": "Good user-context awareness: references freelance illustrator identity, income volatility, and age 29. Exceptionally data-rich with 5350 total spend, 78.6% savings, 2200 rent (41%), 2050 food (38%), 876 shopping, 26 entertainment, 86 medical, anomaly 474 and 2267, and front/back 4052/1297 split. Cross-domain limited to speculation. Advice is solid: review anomaly, daily cap 200 yuan, 6-month emergency fund target (15k-20k), social security planning."
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": ["mealens"],
+      "scores": {
+        "relevance": 20,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 19,
+        "total": 64
+      },
+      "score_rationale": "References freelance illustrator creative needs and income-driven food choices. Good data density: 106 meals, 1485kcal, 8% healthy, ramen 15x, 53% breakfast skip, 21 deep-night meals, coffee 14x, 1501/1469 trend. Slightly higher cross-domain score for insightful speculation linking income volatility to food choices (though cannot verify). Excellent actionability: very practical advice with breakfast methods A/B, snack substitution with delay method, coffee cutoff at 2pm, ramen upgrade (+egg +vegetables). Best single-domain actionability."
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": ["ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 21,
+        "cross_domain": 3,
+        "actionability": 16,
+        "total": 62
+      },
+      "score_rationale": "Strong relevance: directly references the 50k project event, freelance illustrator pressure cycle (accept-rush-revise), client feedback stress. Good specificity with emotion mean 0.55, 0.60 to 0.51 drift, tension/anxiety 7x each, sleep 5.1h, stress 8.1/10, late-night 12x. Insightful observation that satisfaction comes from relief ('finally done') rather than creative joy. Advice is reasonable but moderate: +30min sleep target, 1h cool-down before responding to client feedback, diary upgrades."
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": ["narrus"],
+      "scores": {
+        "relevance": 19,
+        "specificity": 19,
+        "cross_domain": 3,
+        "actionability": 15,
+        "total": 56
+      },
+      "score_rationale": "References freelance illustrator identity and creative needs for non-utilitarian input. Solid data: 10 sessions, 97 min total, 9.7 min/session, efficiency 50%, career 20%, health 10%, 27 highlights, 2.8 highlights per 10 min. Good observation about 'efficiency anxiety' as seeking quick fixes rather than systemic improvement. Cross-domain limited to noting missing creative output data. Advice is moderately specific: shift 30-40min to art/fiction, bind to pre-drawing trigger, reduce highlight frequency to 1 action item. The 'highlight trap' concept is useful but overall less actionable."
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": ["dailyn", "mealens"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 23,
+        "cross_domain": 16,
+        "actionability": 19,
+        "total": 79
+      },
+      "score_rationale": "Strong user framing with freelance illustrator survival mode. Comprehensive cross-domain data integration: 78.6% savings vs 8% healthy eating, 2050 food budget failing to convert to 'health capital', spending decline (4052 to 1297) synchronizing with dietary degradation rather than improvement, 86 medical as false safety with impending health crisis. The insight that 'back-half spending reduction is diet downgrade not discipline' requires both domains. Excellent actionability: 500 yuan nutrition fund, 24h cool-down for >500 spend, forced hydration+breakfast plan, 50-100/month health reserve fund. Best dual-domain actionability."
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": ["dailyn", "ururu"],
+      "scores": {
+        "relevance": 22,
+        "specificity": 22,
+        "cross_domain": 17,
+        "actionability": 18,
+        "total": 79
+      },
+      "score_rationale": "Excellent user relevance with 50k project event deeply integrated. Cross-domain discoveries are strong: 'anxiety-driven revenge savings' concept (78.6% savings as defense mechanism not discipline), the 3/5 anomaly (2267 yuan) decoded as emotional compensation after project pressure, sleep deprivation causing 'passive consumption capacity loss' rather than virtue, and 'pseudo-savings' at health's expense. The insight that high savings rate masks emotional crisis is genuinely emergent. Actionable: self-care fund 200-300 yuan, restructure savings target to include 15-20% for health, project-specific financial prep, sleep priority."
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": ["mealens", "ururu"],
+      "scores": {
+        "relevance": 21,
+        "specificity": 22,
+        "cross_domain": 19,
+        "actionability": 17,
+        "total": 79
+      },
+      "score_rationale": "Good user context. Strongest dual-domain cross-domain analysis: the anxiety-carb-late night vicious triangle is well-evidenced, the calorie trap + emotion cliff synchrony (heat down slightly but emotion craters) reveals that nutritional quality not quantity is the driver, and the reframing of intermittent fasting as stress response rather than choice is insightful. Three named 'hidden insights' are all genuinely cross-domain: (1) binge eating as emotional compensation not greed, (2) low calorie as illusion masking nutritional depression, (3) sleep as victim not independent cause. Advice is good but slightly less specific in numbers than E or F."
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": ["dailyn", "mealens", "ururu", "narrus"],
+      "scores": {
+        "relevance": 23,
+        "specificity": 23,
+        "cross_domain": 22,
+        "actionability": 19,
+        "total": 87
+      },
+      "score_rationale": "Comprehensive 4-domain portrait of the 'freelance survival paradox'. Cross-domain integration is excellent: (1) anxiety-speed food-deep night triangle links all 3 behavioral domains, (2) large spending events correlated with emotion peaks from diary, (3) temporal drift table showing synchronized deterioration across all 4 domains, (4) 'anxiety-driven reading' as failed self-rescue mechanism visible only with reading+emotion data. The 'freelance survival paradox' framing (extreme self-denial for financial safety at health's cost) is a genuinely emergent macro-pattern. Actionability is strong despite 2000-token truncation: 15 yuan breakfast circuit breaker, 2000-3000 project dedicated fund + 5000 survival fund, non-efficiency reading for sleep (15min art before bed), 24h delay for >200 spend. More advice survived truncation than user_05."
+    }
+  },
+  "iir": 1.42
+}
