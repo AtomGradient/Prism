@@ -14,8 +14,7 @@
 \usepackage{enumitem}
 \usepackage{array}
 \usepackage{tabularx}
-\usepackage{xeCJK}
-\setCJKmainfont{STFangsong}
+% No CJK fonts needed — all content is English
 \usepackage{algorithm}
 \usepackage{algorithmic}
 \usepackage{caption}
@@ -205,24 +204,24 @@ their social context.
 \textbf{Drift} & \textbf{User} & \textbf{Age} & \textbf{Profile} & \textbf{Event} \\
 \midrule
 \multirow{6}{*}{Normal}
-  & user\_03 陈老师 & 31 & 小学教师 & Day 35: 怀孕确认 \\
-  & user\_04 小林 & 26 & 研究生 & Day 45: 论文大修，答辩推迟 \\
-  & user\_05 小周 & 27 & 电商运营 & Day 30: 晋升组长 \\
-  & user\_06 小夏 & 29 & 自由插画师 & Day 60: 接到 ¥50K 大客户 \\
-  & user\_10 赵总 & 38 & 基金经理 & Day 25: 基金单日回撤 4\% \\
-  & lixiang 李想 & 15 & 初三学生 & Day 40: 月考排名下降 15 名 \\
+  & user\_03 & 31 & Elementary teacher & Day 35: Pregnancy confirmed \\
+  & user\_04 & 26 & Graduate student & Day 45: Thesis major revision, defense postponed \\
+  & user\_05 & 27 & E-commerce ops & Day 30: Promoted to team lead \\
+  & user\_06 & 29 & Freelance illustrator & Day 60: Lands \yen{}50K client project \\
+  & user\_10 & 38 & Fund manager & Day 25: Fund 4\% single-day drawdown \\
+  & lixiang & 15 & Middle school student & Day 40: Exam rank drops 15 places \\
 \midrule
 \multirow{5}{*}{Unexpected}
-  & user\_01 小刘 & 22 & 工厂工人 & Day 40: 工厂裁员，收入中断 2 周 \\
-  & user\_07 李医生 & 33 & 住院医 & Day 21: 开错药量，科室警告处分 \\
-  & wangguilan 王桂兰 & 71 & 独居退休教师 & Day 55: 浴室摔倒，隐瞒子女 \\
-  & zhangxiuying 张秀英 & 66 & 看娃老人 & Day 30: 与儿媳育儿观念冲突 \\
-  & chenmo 陈默 & 26 & 断亲青年 & Day 70: 春节团圆照冲击 \\
+  & user\_01 & 22 & Factory worker & Day 40: Laid off, 2 weeks no income \\
+  & user\_07 & 33 & Hospital resident & Day 21: Medication error, internal warning \\
+  & wangguilan & 71 & Retired teacher, alone & Day 55: Falls in bathroom, hides from family \\
+  & zhangxiuying & 66 & Caretaker grandmother & Day 30: Parenting conflict with daughter-in-law \\
+  & chenmo & 26 & Socially disconnected & Day 70: Spring Festival photos trigger 5-day low \\
 \midrule
 \multirow{3}{*}{Severe}
-  & user\_02 阿强 & 28 & 外卖骑手 & Day 46: 严重交通事故，住院 \\
-  & user\_08 张磊 & 32 & 大厂 P7 & Day 55: 裁员 N+1，离婚 \\
-  & user\_09 王总 & 45 & 私企老板 & Day 38: 80 万坏账，现金流断裂 \\
+  & user\_02 & 28 & Delivery rider & Day 46: Traffic accident, hospitalized \\
+  & user\_08 & 32 & Tech P7 engineer & Day 55: Laid off N+1, divorce \\
+  & user\_09 & 45 & Business owner & Day 38: \yen{}800K bad debt, cash flow collapse \\
 \bottomrule
 \end{tabularx}
 \end{table}
@@ -276,11 +275,11 @@ per data domain plus a data-absence detector:
 Signals are aggregated into three levels:
 
 \begin{itemize}[leftmargin=*,itemsep=2pt]
-  \item \textbf{L1 (关注, Watch):} Single-domain anomaly. High sensitivity,
+  \item \textbf{L1 (Watch):} Single-domain anomaly. High sensitivity,
     low precision.
-  \item \textbf{L2 (预警, Warning):} Two or more domains show concurrent
+  \item \textbf{L2 (Warning):} Two or more domains show concurrent
     anomalies within a 7-day window.
-  \item \textbf{L3 (危机, Crisis):} Three or more domains converge, or a
+  \item \textbf{L3 (Crisis):} Three or more domains converge, or a
     severe cross-domain pattern is detected.
 \end{itemize}
 
@@ -335,7 +334,7 @@ easier to detect. Normal-drift users generate many false positives because
 their everyday fluctuations occasionally exceed single-domain thresholds.
 
 \paragraph{L3 false negative analysis.} The single L3 miss is user\_09
-(王总, business owner). His debt crisis (Day 38, ¥800K bad debt) initially
+(business owner). His debt crisis (Day 38, \yen{}800K bad debt) initially
 \emph{increases} spending (business entertainment, attempted deal recovery)
 before the cash-flow collapse, creating a spending spike rather than the
 spending drop our detector looks for. This suggests that domain-specific
