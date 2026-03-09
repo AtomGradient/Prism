@@ -1,0 +1,13 @@
+{
+  "user_id": "lixiang",
+  "name": "李想",
+  "drift_class": "normal",
+  "signals": [],
+  "crisis_events": [],
+  "signal_count": 0,
+  "crisis_count_by_level": {
+    "1": 0,
+    "2": 0,
+    "3": 0
+  }
+}

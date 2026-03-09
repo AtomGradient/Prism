@@ -1,0 +1,1217 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [
+      {
+        "title": "教育的目的",
+        "category": "教育",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [
+      {
+        "title": "围城",
+        "category": "文学",
+        "duration_min": 50,
+        "highlights": 2,
+        "time_range": "14:00-14:50"
+      },
+      {
+        "title": "三体",
+        "category": "科幻",
+        "duration_min": 45,
+        "highlights": 3,
+        "time_range": "20:00-20:45"
+      }
+    ],
+    "daily_reading_min": 95,
+    "topics": [
+      "科幻",
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [
+      {
+        "title": "教育的目的",
+        "category": "教育",
+        "duration_min": 20,
+        "highlights": 0,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [
+      {
+        "title": "白鹿原",
+        "category": "文学",
+        "duration_min": 60,
+        "highlights": 3,
+        "time_range": "14:00-15:00"
+      }
+    ],
+    "daily_reading_min": 60,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "人间值得",
+        "category": "自助",
+        "duration_min": 40,
+        "highlights": 1,
+        "time_range": "14:00-14:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "自助"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [
+      {
+        "title": "小学语文教学设计与实践",
+        "category": "教育",
+        "duration_min": 30,
+        "highlights": 1,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "窗边的小豆豆",
+        "category": "教育",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [
+      {
+        "title": "新课标解读",
+        "category": "教育",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [
+      {
+        "title": "小学语文教学设计与实践",
+        "category": "教育",
+        "duration_min": 30,
+        "highlights": 1,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "人间值得",
+        "category": "自助",
+        "duration_min": 40,
+        "highlights": 3,
+        "time_range": "14:00-14:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "自助"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "白鹿原",
+        "category": "文学",
+        "duration_min": 60,
+        "highlights": 6,
+        "time_range": "14:00-15:00"
+      }
+    ],
+    "daily_reading_min": 60,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [
+      {
+        "title": "课堂管理的艺术",
+        "category": "教育",
+        "duration_min": 25,
+        "highlights": 0,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [
+      {
+        "title": "活着",
+        "category": "文学",
+        "duration_min": 35,
+        "highlights": 4,
+        "time_range": "21:00-21:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [
+      {
+        "title": "平凡的世界",
+        "category": "文学",
+        "duration_min": 40,
+        "highlights": 2,
+        "time_range": "21:00-21:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [
+      {
+        "title": "活着",
+        "category": "文学",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "21:00-21:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [
+      {
+        "title": "教育心理学",
+        "category": "教育",
+        "duration_min": 45,
+        "highlights": 2,
+        "time_range": "14:00-14:45"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [
+      {
+        "title": "人间值得",
+        "category": "自助",
+        "duration_min": 40,
+        "highlights": 2,
+        "time_range": "14:00-14:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "自助"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [
+      {
+        "title": "窗边的小豆豆",
+        "category": "教育",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [
+      {
+        "title": "窗边的小豆豆",
+        "category": "教育",
+        "duration_min": 30,
+        "highlights": 1,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [
+      {
+        "title": "新课标解读",
+        "category": "教育",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [
+      {
+        "title": "教育的目的",
+        "category": "教育",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [
+      {
+        "title": "课堂管理的艺术",
+        "category": "教育",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [
+      {
+        "title": "小王子",
+        "category": "文学",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "20:00-20:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [
+      {
+        "title": "平凡的世界",
+        "category": "文学",
+        "duration_min": 40,
+        "highlights": 3,
+        "time_range": "21:00-21:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [
+      {
+        "title": "小学语文教学设计与实践",
+        "category": "教育",
+        "duration_min": 30,
+        "highlights": 2,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [
+      {
+        "title": "胎教方案大全",
+        "category": "育儿",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [
+      {
+        "title": "怀孕圣经",
+        "category": "育儿",
+        "duration_min": 50,
+        "highlights": 3,
+        "time_range": "14:00-14:50"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [
+      {
+        "title": "胎教方案大全",
+        "category": "育儿",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [
+      {
+        "title": "胎教方案大全",
+        "category": "育儿",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [
+      {
+        "title": "西尔斯怀孕百科",
+        "category": "育儿",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "21:00-21:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [
+      {
+        "title": "胎教方案大全",
+        "category": "育儿",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [
+      {
+        "title": "胎教方案大全",
+        "category": "育儿",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [
+      {
+        "title": "从怀孕到分娩",
+        "category": "育儿",
+        "duration_min": 45,
+        "highlights": 4,
+        "time_range": "14:00-14:45"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [
+      {
+        "title": "你想活出怎样的人生",
+        "category": "文学",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "20:00-20:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "文学"
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [
+      {
+        "title": "准妈妈必读",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 4,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [
+      {
+        "title": "西尔斯怀孕百科",
+        "category": "育儿",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "21:00-21:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [
+      {
+        "title": "准妈妈必读",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [
+      {
+        "title": "准妈妈必读",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 2,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [
+      {
+        "title": "孕期心理健康",
+        "category": "健康",
+        "duration_min": 35,
+        "highlights": 2,
+        "time_range": "14:00-14:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [
+      {
+        "title": "从怀孕到分娩",
+        "category": "育儿",
+        "duration_min": 45,
+        "highlights": 2,
+        "time_range": "14:00-14:45"
+      },
+      {
+        "title": "正面管教",
+        "category": "育儿",
+        "duration_min": 35,
+        "highlights": 2,
+        "time_range": "20:00-20:35"
+      }
+    ],
+    "daily_reading_min": 80,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [
+      {
+        "title": "准妈妈必读",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 4,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [
+      {
+        "title": "怀孕圣经",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 4,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [
+      {
+        "title": "怀孕圣经",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 2,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [
+      {
+        "title": "准妈妈必读",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 4,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [
+      {
+        "title": "怀孕圣经",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 4,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [
+      {
+        "title": "西尔斯怀孕百科",
+        "category": "育儿",
+        "duration_min": 35,
+        "highlights": 2,
+        "time_range": "21:00-21:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [
+      {
+        "title": "孕期营养与保健",
+        "category": "健康",
+        "duration_min": 25,
+        "highlights": 3,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [
+      {
+        "title": "孕期营养与保健",
+        "category": "健康",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [
+      {
+        "title": "怀孕圣经",
+        "category": "育儿",
+        "duration_min": 50,
+        "highlights": 5,
+        "time_range": "14:00-14:50"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [
+      {
+        "title": "正面管教",
+        "category": "育儿",
+        "duration_min": 35,
+        "highlights": 4,
+        "time_range": "20:00-20:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [
+      {
+        "title": "孕期营养与保健",
+        "category": "健康",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [
+      {
+        "title": "怀孕圣经",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [
+      {
+        "title": "胎教方案大全",
+        "category": "育儿",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [
+      {
+        "title": "孕期营养与保健",
+        "category": "健康",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [
+      {
+        "title": "新生儿护理手册",
+        "category": "育儿",
+        "duration_min": 40,
+        "highlights": 3,
+        "time_range": "14:00-14:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [
+      {
+        "title": "胎教方案大全",
+        "category": "育儿",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [
+      {
+        "title": "怀孕圣经",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 4,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [
+      {
+        "title": "西尔斯怀孕百科",
+        "category": "育儿",
+        "duration_min": 35,
+        "highlights": 2,
+        "time_range": "21:00-21:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [
+      {
+        "title": "西尔斯怀孕百科",
+        "category": "育儿",
+        "duration_min": 35,
+        "highlights": 4,
+        "time_range": "21:00-21:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "孕期心理健康",
+        "category": "健康",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "14:00-14:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [
+      {
+        "title": "孕期心理健康",
+        "category": "健康",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "14:00-14:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [
+      {
+        "title": "准妈妈必读",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 2,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [
+      {
+        "title": "胎教方案大全",
+        "category": "育儿",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [
+      {
+        "title": "怀孕圣经",
+        "category": "育儿",
+        "duration_min": 50,
+        "highlights": 4,
+        "time_range": "14:00-14:50"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [
+      {
+        "title": "怀孕圣经",
+        "category": "育儿",
+        "duration_min": 30,
+        "highlights": 5,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [
+      {
+        "title": "胎教方案大全",
+        "category": "育儿",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "育儿"
+    ]
+  }
+]

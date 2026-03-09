@@ -1,0 +1,3573 @@
+[
+  {
+    "date": "2026-01-01",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂油条",
+          "豆浆",
+          "茶叶蛋"
+        ],
+        "estimated_calories": 418,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂鱼香肉丝",
+          "米饭",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 649,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂面条",
+          "卤蛋"
+        ],
+        "estimated_calories": 623,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1690,
+    "water_ml": 1483
+  },
+  {
+    "date": "2026-01-02",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂油条",
+          "豆浆",
+          "茶叶蛋"
+        ],
+        "estimated_calories": 425,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂番茄炒蛋",
+          "米饭",
+          "冬瓜排骨汤"
+        ],
+        "estimated_calories": 625,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂面条",
+          "卤蛋"
+        ],
+        "estimated_calories": 575,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1625,
+    "water_ml": 1432
+  },
+  {
+    "date": "2026-01-03",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂包子",
+          "小米粥"
+        ],
+        "estimated_calories": 372,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂番茄炒蛋",
+          "米饭",
+          "冬瓜排骨汤"
+        ],
+        "estimated_calories": 603,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂套餐",
+          "水果"
+        ],
+        "estimated_calories": 636,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1611,
+    "water_ml": 1329
+  },
+  {
+    "date": "2026-01-04",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "科室订的盒饭",
+          "可乐"
+        ],
+        "estimated_calories": 711,
+        "tags": [
+          "食堂",
+          "高热量"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "00:30",
+        "foods": [
+          "泡面",
+          "火腿肠"
+        ],
+        "estimated_calories": 441,
+        "tags": [
+          "夜班",
+          "凑合"
+        ]
+      },
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂粥",
+          "包子"
+        ],
+        "estimated_calories": 337,
+        "tags": [
+          "下夜班",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1489,
+    "water_ml": 1914
+  },
+  {
+    "date": "2026-01-05",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂馒头",
+          "鸡蛋",
+          "豆浆"
+        ],
+        "estimated_calories": 431,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂宫保鸡丁",
+          "米饭",
+          "凉拌黄瓜"
+        ],
+        "estimated_calories": 626,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂面条",
+          "卤蛋"
+        ],
+        "estimated_calories": 646,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1703,
+    "water_ml": 1491
+  },
+  {
+    "date": "2026-01-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂包子",
+          "小米粥"
+        ],
+        "estimated_calories": 411,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂宫保鸡丁",
+          "米饭",
+          "凉拌黄瓜"
+        ],
+        "estimated_calories": 687,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂面条",
+          "卤蛋"
+        ],
+        "estimated_calories": 513,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1611,
+    "water_ml": 1458
+  },
+  {
+    "date": "2026-01-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂包子",
+          "小米粥"
+        ],
+        "estimated_calories": 364,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂红烧肉",
+          "米饭",
+          "青菜"
+        ],
+        "estimated_calories": 702,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂炒饭",
+          "酸辣汤"
+        ],
+        "estimated_calories": 518,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1584,
+    "water_ml": 1790
+  },
+  {
+    "date": "2026-01-08",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "食堂套餐加量",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 738,
+        "tags": [
+          "食堂",
+          "高热量"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "00:30",
+        "foods": [
+          "泡面",
+          "火腿肠"
+        ],
+        "estimated_calories": 444,
+        "tags": [
+          "夜班",
+          "凑合"
+        ]
+      },
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂粥",
+          "包子"
+        ],
+        "estimated_calories": 338,
+        "tags": [
+          "下夜班",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1520,
+    "water_ml": 1287
+  },
+  {
+    "date": "2026-01-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂馒头",
+          "鸡蛋",
+          "豆浆"
+        ],
+        "estimated_calories": 365,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂宫保鸡丁",
+          "米饭",
+          "凉拌黄瓜"
+        ],
+        "estimated_calories": 657,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂套餐",
+          "水果"
+        ],
+        "estimated_calories": 597,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1619,
+    "water_ml": 1661
+  },
+  {
+    "date": "2026-01-10",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂包子",
+          "小米粥"
+        ],
+        "estimated_calories": 388,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂宫保鸡丁",
+          "米饭",
+          "凉拌黄瓜"
+        ],
+        "estimated_calories": 678,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂套餐",
+          "水果"
+        ],
+        "estimated_calories": 515,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1581,
+    "water_ml": 1824
+  },
+  {
+    "date": "2026-01-11",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂油条",
+          "豆浆",
+          "茶叶蛋"
+        ],
+        "estimated_calories": 362,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂鱼香肉丝",
+          "米饭",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 654,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂炒饭",
+          "酸辣汤"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1536,
+    "water_ml": 1360
+  },
+  {
+    "date": "2026-01-12",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "食堂套餐加量",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 744,
+        "tags": [
+          "食堂",
+          "高热量"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "00:30",
+        "foods": [
+          "饼干",
+          "咖啡"
+        ],
+        "estimated_calories": 319,
+        "tags": [
+          "夜班",
+          "凑合"
+        ]
+      },
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂粥",
+          "包子"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "下夜班",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1383,
+    "water_ml": 1202
+  },
+  {
+    "date": "2026-01-13",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂包子",
+          "小米粥"
+        ],
+        "estimated_calories": 407,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂宫保鸡丁",
+          "米饭",
+          "凉拌黄瓜"
+        ],
+        "estimated_calories": 674,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂面条",
+          "卤蛋"
+        ],
+        "estimated_calories": 559,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1640,
+    "water_ml": 1495
+  },
+  {
+    "date": "2026-01-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂油条",
+          "豆浆",
+          "茶叶蛋"
+        ],
+        "estimated_calories": 386,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂宫保鸡丁",
+          "米饭",
+          "凉拌黄瓜"
+        ],
+        "estimated_calories": 618,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂套餐",
+          "水果"
+        ],
+        "estimated_calories": 559,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1563,
+    "water_ml": 1470
+  },
+  {
+    "date": "2026-01-15",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂油条",
+          "豆浆",
+          "茶叶蛋"
+        ],
+        "estimated_calories": 425,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂鱼香肉丝",
+          "米饭",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 708,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂面条",
+          "卤蛋"
+        ],
+        "estimated_calories": 639,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1772,
+    "water_ml": 1430
+  },
+  {
+    "date": "2026-01-16",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "食堂套餐加量",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 768,
+        "tags": [
+          "食堂",
+          "高热量"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "00:30",
+        "foods": [
+          "泡面",
+          "火腿肠"
+        ],
+        "estimated_calories": 318,
+        "tags": [
+          "夜班",
+          "凑合"
+        ]
+      },
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂粥",
+          "包子"
+        ],
+        "estimated_calories": 307,
+        "tags": [
+          "下夜班",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1393,
+    "water_ml": 1369
+  },
+  {
+    "date": "2026-01-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂包子",
+          "小米粥"
+        ],
+        "estimated_calories": 426,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂番茄炒蛋",
+          "米饭",
+          "冬瓜排骨汤"
+        ],
+        "estimated_calories": 712,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂面条",
+          "卤蛋"
+        ],
+        "estimated_calories": 619,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1757,
+    "water_ml": 1905
+  },
+  {
+    "date": "2026-01-18",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂包子",
+          "小米粥"
+        ],
+        "estimated_calories": 439,
+        "tags": [
+          "食堂",
+          "均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂宫保鸡丁",
+          "米饭",
+          "凉拌黄瓜"
+        ],
+        "estimated_calories": 669,
+        "tags": [
+          "食堂",
+          "荤素搭配"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂套餐",
+          "水果"
+        ],
+        "estimated_calories": 638,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1746,
+    "water_ml": 1705
+  },
+  {
+    "date": "2026-01-19",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "科室订的盒饭",
+          "可乐"
+        ],
+        "estimated_calories": 720,
+        "tags": [
+          "食堂",
+          "高热量"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "00:30",
+        "foods": [
+          "饼干",
+          "咖啡"
+        ],
+        "estimated_calories": 310,
+        "tags": [
+          "夜班",
+          "凑合"
+        ]
+      },
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "食堂粥",
+          "包子"
+        ],
+        "estimated_calories": 355,
+        "tags": [
+          "下夜班",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1385,
+    "water_ml": 1952
+  },
+  {
+    "date": "2026-01-20",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "食堂套餐",
+          "匆匆吃了几口"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "赶时间",
+          "没吃完"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "02:00",
+        "foods": [
+          "咖啡",
+          "饼干"
+        ],
+        "estimated_calories": 200,
+        "tags": [
+          "夜班",
+          "提神"
+        ]
+      }
+    ],
+    "daily_calories": 600,
+    "water_ml": 765
+  },
+  {
+    "date": "2026-01-21",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "13:00",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "凑合",
+          "太累了"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "23:00",
+        "foods": [
+          "咖啡",
+          "士力架"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "夜班",
+          "硬撑"
+        ]
+      }
+    ],
+    "daily_calories": 700,
+    "water_ml": 909
+  },
+  {
+    "date": "2026-01-22",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "14:00",
+        "foods": [
+          "便利店饭团",
+          "几乎没吃"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "出事了",
+          "吃不下"
+        ]
+      }
+    ],
+    "daily_calories": 150,
+    "water_ml": 728
+  },
+  {
+    "date": "2026-01-23",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "水",
+          "几块饼干"
+        ],
+        "estimated_calories": 136,
+        "tags": [
+          "没胃口",
+          "强迫自己吃"
+        ]
+      }
+    ],
+    "daily_calories": 136,
+    "water_ml": 694
+  },
+  {
+    "date": "2026-01-24",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "21:00",
+        "foods": [
+          "便利店三明治"
+        ],
+        "estimated_calories": 347,
+        "tags": [
+          "勉强吃了点",
+          "没胃口"
+        ]
+      }
+    ],
+    "daily_calories": 347,
+    "water_ml": 790
+  },
+  {
+    "date": "2026-01-25",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "14:00",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 332,
+        "tags": [
+          "没胃口"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "方便面"
+        ],
+        "estimated_calories": 271,
+        "tags": [
+          "凑合"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "01:00",
+        "foods": [
+          "啤酒",
+          "花生米"
+        ],
+        "estimated_calories": 362,
+        "tags": [
+          "借酒浇愁",
+          "深夜"
+        ]
+      }
+    ],
+    "daily_calories": 965,
+    "water_ml": 651
+  },
+  {
+    "date": "2026-01-26",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "14:00",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 289,
+        "tags": [
+          "没胃口"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "方便面"
+        ],
+        "estimated_calories": 285,
+        "tags": [
+          "凑合"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "22:00",
+        "foods": [
+          "啤酒x2"
+        ],
+        "estimated_calories": 284,
+        "tags": [
+          "借酒浇愁",
+          "深夜"
+        ]
+      }
+    ],
+    "daily_calories": 858,
+    "water_ml": 610
+  },
+  {
+    "date": "2026-01-27",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "关东煮",
+          "没吃完"
+        ],
+        "estimated_calories": 394,
+        "tags": [
+          "强迫进食"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "22:00",
+        "foods": [
+          "啤酒",
+          "花生米"
+        ],
+        "estimated_calories": 264,
+        "tags": [
+          "借酒浇愁",
+          "深夜"
+        ]
+      }
+    ],
+    "daily_calories": 658,
+    "water_ml": 565
+  },
+  {
+    "date": "2026-01-28",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "20:00",
+        "foods": [
+          "水",
+          "几块饼干"
+        ],
+        "estimated_calories": 115,
+        "tags": [
+          "没胃口",
+          "强迫自己吃"
+        ]
+      }
+    ],
+    "daily_calories": 115,
+    "water_ml": 400
+  },
+  {
+    "date": "2026-01-29",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "泡面",
+          "吃了一半"
+        ],
+        "estimated_calories": 248,
+        "tags": [
+          "强迫进食"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "23:00",
+        "foods": [
+          "白酒",
+          "没吃东西"
+        ],
+        "estimated_calories": 313,
+        "tags": [
+          "借酒浇愁",
+          "深夜"
+        ]
+      }
+    ],
+    "daily_calories": 561,
+    "water_ml": 789
+  },
+  {
+    "date": "2026-01-30",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "20:00",
+        "foods": [
+          "水",
+          "几块饼干"
+        ],
+        "estimated_calories": 120,
+        "tags": [
+          "没胃口",
+          "强迫自己吃"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "23:00",
+        "foods": [
+          "啤酒",
+          "花生米"
+        ],
+        "estimated_calories": 378,
+        "tags": [
+          "借酒浇愁",
+          "深夜"
+        ]
+      }
+    ],
+    "daily_calories": 498,
+    "water_ml": 648
+  },
+  {
+    "date": "2026-01-31",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "水",
+          "几块饼干"
+        ],
+        "estimated_calories": 140,
+        "tags": [
+          "没胃口",
+          "强迫自己吃"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "01:00",
+        "foods": [
+          "啤酒x2"
+        ],
+        "estimated_calories": 341,
+        "tags": [
+          "借酒浇愁",
+          "深夜"
+        ]
+      }
+    ],
+    "daily_calories": 481,
+    "water_ml": 608
+  },
+  {
+    "date": "2026-02-01",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "16:00",
+        "foods": [
+          "咖啡",
+          "面包"
+        ],
+        "estimated_calories": 179,
+        "tags": [
+          "又没好好吃饭"
+        ]
+      }
+    ],
+    "daily_calories": 179,
+    "water_ml": 972
+  },
+  {
+    "date": "2026-02-02",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "16:00",
+        "foods": [
+          "水果",
+          "饼干"
+        ],
+        "estimated_calories": 189,
+        "tags": [
+          "又没好好吃饭"
+        ]
+      }
+    ],
+    "daily_calories": 189,
+    "water_ml": 1010
+  },
+  {
+    "date": "2026-02-03",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖盖浇饭"
+        ],
+        "estimated_calories": 680,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当"
+        ],
+        "estimated_calories": 556,
+        "tags": [
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1236,
+    "water_ml": 994
+  },
+  {
+    "date": "2026-02-04",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂",
+          "米饭"
+        ],
+        "estimated_calories": 598,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "麻辣烫大份",
+          "肉丸",
+          "午餐肉",
+          "方便面",
+          "奶茶"
+        ],
+        "estimated_calories": 1720,
+        "tags": [
+          "暴食",
+          "情绪性进食",
+          "深夜"
+        ]
+      }
+    ],
+    "daily_calories": 2318,
+    "water_ml": 639
+  },
+  {
+    "date": "2026-02-05",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "西餐厅牛排",
+          "红酒",
+          "甜点",
+          "她什么都没怎么吃"
+        ],
+        "estimated_calories": 800,
+        "tags": [
+          "分手饭",
+          "最后一顿"
+        ]
+      }
+    ],
+    "daily_calories": 800,
+    "water_ml": 848
+  },
+  {
+    "date": "2026-02-06",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "00:00",
+        "foods": [
+          "酒吧鸡尾酒x4",
+          "薯条"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "喝到凌晨",
+          "一个人"
+        ]
+      }
+    ],
+    "daily_calories": 600,
+    "water_ml": 1101
+  },
+  {
+    "date": "2026-02-07",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖盖浇饭"
+        ],
+        "estimated_calories": 588,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当"
+        ],
+        "estimated_calories": 587,
+        "tags": [
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1175,
+    "water_ml": 995
+  },
+  {
+    "date": "2026-02-08",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖"
+        ],
+        "estimated_calories": 616,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "海底捞外卖",
+          "肥牛卷",
+          "虾滑",
+          "土豆",
+          "可乐"
+        ],
+        "estimated_calories": 1914,
+        "tags": [
+          "暴食",
+          "情绪性进食",
+          "深夜"
+        ]
+      }
+    ],
+    "daily_calories": 2530,
+    "water_ml": 744
+  },
+  {
+    "date": "2026-02-09",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖盖浇饭"
+        ],
+        "estimated_calories": 609,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当"
+        ],
+        "estimated_calories": 461,
+        "tags": [
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1070,
+    "water_ml": 825
+  },
+  {
+    "date": "2026-02-10",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖盖浇饭"
+        ],
+        "estimated_calories": 647,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当"
+        ],
+        "estimated_calories": 488,
+        "tags": [
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1135,
+    "water_ml": 1007
+  },
+  {
+    "date": "2026-02-11",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "16:00",
+        "foods": [
+          "咖啡",
+          "面包"
+        ],
+        "estimated_calories": 278,
+        "tags": [
+          "又没好好吃饭"
+        ]
+      }
+    ],
+    "daily_calories": 278,
+    "water_ml": 1104
+  },
+  {
+    "date": "2026-02-12",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "炸鸡全家桶",
+          "可乐大杯",
+          "薯条"
+        ],
+        "estimated_calories": 1738,
+        "tags": [
+          "暴食",
+          "情绪性进食",
+          "深夜"
+        ]
+      }
+    ],
+    "daily_calories": 1738,
+    "water_ml": 967
+  },
+  {
+    "date": "2026-02-13",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "16:00",
+        "foods": [
+          "水果",
+          "饼干"
+        ],
+        "estimated_calories": 186,
+        "tags": [
+          "又没好好吃饭"
+        ]
+      }
+    ],
+    "daily_calories": 186,
+    "water_ml": 919
+  },
+  {
+    "date": "2026-02-14",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭"
+        ],
+        "estimated_calories": 569,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当"
+        ],
+        "estimated_calories": 517,
+        "tags": [
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1086,
+    "water_ml": 846
+  },
+  {
+    "date": "2026-02-15",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖盖浇饭"
+        ],
+        "estimated_calories": 570,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当"
+        ],
+        "estimated_calories": 586,
+        "tags": [
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1156,
+    "water_ml": 889
+  },
+  {
+    "date": "2026-02-16",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "便利店便当"
+        ],
+        "estimated_calories": 674,
+        "tags": [
+          "食堂"
+        ]
+      }
+    ],
+    "daily_calories": 674,
+    "water_ml": 870
+  },
+  {
+    "date": "2026-02-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酸奶",
+          "水果"
+        ],
+        "estimated_calories": 323,
+        "tags": [
+          "尝试规律饮食"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "便利店便当"
+        ],
+        "estimated_calories": 573,
+        "tags": [
+          "食堂"
+        ]
+      }
+    ],
+    "daily_calories": 896,
+    "water_ml": 1448
+  },
+  {
+    "date": "2026-02-18",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐"
+        ],
+        "estimated_calories": 663,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "薯片",
+          "冰淇淋",
+          "巧克力"
+        ],
+        "estimated_calories": 1362,
+        "tags": [
+          "又暴食了",
+          "情绪不好"
+        ]
+      }
+    ],
+    "daily_calories": 2025,
+    "water_ml": 829
+  },
+  {
+    "date": "2026-02-19",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "面包"
+        ],
+        "estimated_calories": 325,
+        "tags": [
+          "咨询师说要好好吃饭"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖",
+          "米饭",
+          "菜"
+        ],
+        "estimated_calories": 660,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "烧烤外卖"
+        ],
+        "estimated_calories": 1110,
+        "tags": [
+          "又暴食了",
+          "情绪不好"
+        ]
+      }
+    ],
+    "daily_calories": 2095,
+    "water_ml": 1379
+  },
+  {
+    "date": "2026-02-20",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐"
+        ],
+        "estimated_calories": 593,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "烧烤外卖"
+        ],
+        "estimated_calories": 1345,
+        "tags": [
+          "又暴食了",
+          "情绪不好"
+        ]
+      }
+    ],
+    "daily_calories": 1938,
+    "water_ml": 1191
+  },
+  {
+    "date": "2026-02-21",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐"
+        ],
+        "estimated_calories": 677,
+        "tags": [
+          "食堂"
+        ]
+      }
+    ],
+    "daily_calories": 677,
+    "water_ml": 1272
+  },
+  {
+    "date": "2026-02-22",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖",
+          "米饭",
+          "菜"
+        ],
+        "estimated_calories": 615,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖沙拉",
+          "鸡胸肉"
+        ],
+        "estimated_calories": 473,
+        "tags": [
+          "在好转"
+        ]
+      }
+    ],
+    "daily_calories": 1088,
+    "water_ml": 875
+  },
+  {
+    "date": "2026-02-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂粥",
+          "鸡蛋"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "咨询师说要好好吃饭"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "便利店便当"
+        ],
+        "estimated_calories": 658,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖沙拉",
+          "鸡胸肉"
+        ],
+        "estimated_calories": 450,
+        "tags": [
+          "努力控制"
+        ]
+      }
+    ],
+    "daily_calories": 1508,
+    "water_ml": 1294
+  },
+  {
+    "date": "2026-02-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂粥",
+          "鸡蛋"
+        ],
+        "estimated_calories": 396,
+        "tags": [
+          "咨询师说要好好吃饭"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "便利店便当"
+        ],
+        "estimated_calories": 625,
+        "tags": [
+          "食堂"
+        ]
+      }
+    ],
+    "daily_calories": 1021,
+    "water_ml": 1474
+  },
+  {
+    "date": "2026-02-25",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "面包"
+        ],
+        "estimated_calories": 394,
+        "tags": [
+          "尝试规律饮食"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "便利店便当"
+        ],
+        "estimated_calories": 677,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "食堂",
+          "素菜为主"
+        ],
+        "estimated_calories": 555,
+        "tags": [
+          "努力控制"
+        ]
+      }
+    ],
+    "daily_calories": 1626,
+    "water_ml": 1024
+  },
+  {
+    "date": "2026-02-26",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "便利店便当"
+        ],
+        "estimated_calories": 614,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "自己煮的粥",
+          "咸菜"
+        ],
+        "estimated_calories": 574,
+        "tags": [
+          "在好转"
+        ]
+      }
+    ],
+    "daily_calories": 1188,
+    "water_ml": 1443
+  },
+  {
+    "date": "2026-02-27",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酸奶",
+          "水果"
+        ],
+        "estimated_calories": 260,
+        "tags": [
+          "咨询师说要好好吃饭"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖",
+          "米饭",
+          "菜"
+        ],
+        "estimated_calories": 558,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "食堂",
+          "素菜为主"
+        ],
+        "estimated_calories": 475,
+        "tags": [
+          "努力控制"
+        ]
+      }
+    ],
+    "daily_calories": 1293,
+    "water_ml": 1225
+  },
+  {
+    "date": "2026-02-28",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "面包"
+        ],
+        "estimated_calories": 388,
+        "tags": [
+          "咨询师说要好好吃饭"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "便利店便当"
+        ],
+        "estimated_calories": 678,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖沙拉",
+          "鸡胸肉"
+        ],
+        "estimated_calories": 523,
+        "tags": [
+          "努力控制"
+        ]
+      }
+    ],
+    "daily_calories": 1589,
+    "water_ml": 1146
+  },
+  {
+    "date": "2026-03-01",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖",
+          "米饭",
+          "菜"
+        ],
+        "estimated_calories": 569,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "炸鸡",
+          "奶茶大杯"
+        ],
+        "estimated_calories": 1340,
+        "tags": [
+          "又暴食了",
+          "情绪不好"
+        ]
+      }
+    ],
+    "daily_calories": 1909,
+    "water_ml": 1492
+  },
+  {
+    "date": "2026-03-02",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "外卖",
+          "米饭",
+          "菜"
+        ],
+        "estimated_calories": 692,
+        "tags": [
+          "食堂"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "食堂",
+          "素菜为主"
+        ],
+        "estimated_calories": 467,
+        "tags": [
+          "在好转"
+        ]
+      }
+    ],
+    "daily_calories": 1159,
+    "water_ml": 1265
+  },
+  {
+    "date": "2026-03-03",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 436,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 749,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "冰淇淋",
+          "巧克力蛋糕"
+        ],
+        "estimated_calories": 755,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 1940,
+    "water_ml": 1682
+  },
+  {
+    "date": "2026-03-04",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 429,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 656,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当",
+          "水果"
+        ],
+        "estimated_calories": 618,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1703,
+    "water_ml": 1509
+  },
+  {
+    "date": "2026-03-05",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酸奶",
+          "燕麦",
+          "蓝莓"
+        ],
+        "estimated_calories": 402,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 635,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "奶茶",
+          "蛋糕",
+          "小饼干"
+        ],
+        "estimated_calories": 855,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 1892,
+    "water_ml": 1318
+  },
+  {
+    "date": "2026-03-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 699,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当",
+          "水果"
+        ],
+        "estimated_calories": 638,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1717,
+    "water_ml": 1358
+  },
+  {
+    "date": "2026-03-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 433,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 725,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "自己煮面条",
+          "青菜"
+        ],
+        "estimated_calories": 508,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1666,
+    "water_ml": 1422
+  },
+  {
+    "date": "2026-03-08",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 406,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 692,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "冰淇淋",
+          "巧克力蛋糕"
+        ],
+        "estimated_calories": 978,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 2076,
+    "water_ml": 1567
+  },
+  {
+    "date": "2026-03-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 648,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "自己煮面条",
+          "青菜"
+        ],
+        "estimated_calories": 523,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1571,
+    "water_ml": 1221
+  },
+  {
+    "date": "2026-03-10",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 450,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 662,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当",
+          "水果"
+        ],
+        "estimated_calories": 552,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "茶",
+          "饼干"
+        ],
+        "estimated_calories": 126,
+        "tags": [
+          "下午茶",
+          "自我关爱"
+        ]
+      }
+    ],
+    "daily_calories": 1790,
+    "water_ml": 1800
+  },
+  {
+    "date": "2026-03-11",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 379,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 637,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当",
+          "水果"
+        ],
+        "estimated_calories": 500,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "水果",
+          "坚果"
+        ],
+        "estimated_calories": 116,
+        "tags": [
+          "下午茶",
+          "自我关爱"
+        ]
+      }
+    ],
+    "daily_calories": 1632,
+    "water_ml": 1753
+  },
+  {
+    "date": "2026-03-12",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 372,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 606,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "冰淇淋",
+          "巧克力蛋糕"
+        ],
+        "estimated_calories": 821,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 1799,
+    "water_ml": 1216
+  },
+  {
+    "date": "2026-03-13",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 383,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 632,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当",
+          "水果"
+        ],
+        "estimated_calories": 529,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1544,
+    "water_ml": 1687
+  },
+  {
+    "date": "2026-03-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 449,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 731,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "自己煮面条",
+          "青菜"
+        ],
+        "estimated_calories": 628,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "茶",
+          "饼干"
+        ],
+        "estimated_calories": 105,
+        "tags": [
+          "下午茶",
+          "自我关爱"
+        ]
+      }
+    ],
+    "daily_calories": 1913,
+    "water_ml": 1733
+  },
+  {
+    "date": "2026-03-15",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 408,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 615,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "自己煮面条",
+          "青菜"
+        ],
+        "estimated_calories": 609,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1632,
+    "water_ml": 1702
+  },
+  {
+    "date": "2026-03-16",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酸奶",
+          "燕麦",
+          "蓝莓"
+        ],
+        "estimated_calories": 406,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "炸鸡",
+          "薯条",
+          "可乐"
+        ],
+        "estimated_calories": 733,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "茶",
+          "饼干"
+        ],
+        "estimated_calories": 181,
+        "tags": [
+          "下午茶",
+          "自我关爱"
+        ]
+      }
+    ],
+    "daily_calories": 1940,
+    "water_ml": 1799
+  },
+  {
+    "date": "2026-03-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酸奶",
+          "燕麦",
+          "蓝莓"
+        ],
+        "estimated_calories": 441,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 697,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当",
+          "水果"
+        ],
+        "estimated_calories": 575,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1713,
+    "water_ml": 1640
+  },
+  {
+    "date": "2026-03-18",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 439,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 741,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "食堂",
+          "炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1790,
+    "water_ml": 1433
+  },
+  {
+    "date": "2026-03-19",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 393,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 702,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "食堂",
+          "炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1675,
+    "water_ml": 1461
+  },
+  {
+    "date": "2026-03-20",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 369,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 617,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "奶茶",
+          "蛋糕",
+          "小饼干"
+        ],
+        "estimated_calories": 747,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 1733,
+    "water_ml": 1581
+  },
+  {
+    "date": "2026-03-21",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 421,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 750,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当",
+          "水果"
+        ],
+        "estimated_calories": 584,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1755,
+    "water_ml": 1620
+  },
+  {
+    "date": "2026-03-22",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 435,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 613,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "外卖便当",
+          "水果"
+        ],
+        "estimated_calories": 579,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      }
+    ],
+    "daily_calories": 1627,
+    "water_ml": 1791
+  },
+  {
+    "date": "2026-03-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酸奶",
+          "燕麦",
+          "蓝莓"
+        ],
+        "estimated_calories": 377,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 723,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "奶茶",
+          "蛋糕",
+          "小饼干"
+        ],
+        "estimated_calories": 879,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 1979,
+    "water_ml": 1576
+  },
+  {
+    "date": "2026-03-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 447,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 746,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "甜甜圈",
+          "奶茶"
+        ],
+        "estimated_calories": 987,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 2180,
+    "water_ml": 1770
+  },
+  {
+    "date": "2026-03-25",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 427,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 607,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "冰淇淋",
+          "巧克力蛋糕"
+        ],
+        "estimated_calories": 873,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 1907,
+    "water_ml": 1385
+  },
+  {
+    "date": "2026-03-26",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 422,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 617,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "奶茶",
+          "蛋糕",
+          "小饼干"
+        ],
+        "estimated_calories": 746,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 1785,
+    "water_ml": 1420
+  },
+  {
+    "date": "2026-03-27",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 403,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 687,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "冰淇淋",
+          "巧克力蛋糕"
+        ],
+        "estimated_calories": 866,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 1956,
+    "water_ml": 1781
+  },
+  {
+    "date": "2026-03-28",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酸奶",
+          "燕麦",
+          "蓝莓"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 639,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:00",
+        "foods": [
+          "披萨",
+          "鸡翅"
+        ],
+        "estimated_calories": 725,
+        "tags": [
+          "comfort food",
+          "甜食"
+        ]
+      }
+    ],
+    "daily_calories": 1724,
+    "water_ml": 1478
+  },
+  {
+    "date": "2026-03-29",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 434,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 724,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "自己煮面条",
+          "青菜"
+        ],
+        "estimated_calories": 569,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "茶",
+          "饼干"
+        ],
+        "estimated_calories": 114,
+        "tags": [
+          "下午茶",
+          "自我关爱"
+        ]
+      }
+    ],
+    "daily_calories": 1841,
+    "water_ml": 1553
+  },
+  {
+    "date": "2026-03-30",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "食堂包子",
+          "豆浆"
+        ],
+        "estimated_calories": 364,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂面条",
+          "卤味"
+        ],
+        "estimated_calories": 724,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "自己煮面条",
+          "青菜"
+        ],
+        "estimated_calories": 511,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "茶",
+          "饼干"
+        ],
+        "estimated_calories": 107,
+        "tags": [
+          "下午茶",
+          "自我关爱"
+        ]
+      }
+    ],
+    "daily_calories": 1706,
+    "water_ml": 1207
+  },
+  {
+    "date": "2026-03-31",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛奶",
+          "全麦面包",
+          "鸡蛋"
+        ],
+        "estimated_calories": 388,
+        "tags": [
+          "规律早餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "食堂套餐",
+          "米饭",
+          "汤"
+        ],
+        "estimated_calories": 635,
+        "tags": [
+          "食堂",
+          "正常"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "自己煮面条",
+          "青菜"
+        ],
+        "estimated_calories": 583,
+        "tags": [
+          "正常",
+          "在恢复"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "酸奶"
+        ],
+        "estimated_calories": 195,
+        "tags": [
+          "下午茶",
+          "自我关爱"
+        ]
+      }
+    ],
+    "daily_calories": 1801,
+    "water_ml": 1640
+  }
+]

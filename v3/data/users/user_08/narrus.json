@@ -1,0 +1,1293 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [
+      {
+        "title": "MLOps工程化实践",
+        "category": "技术",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "21:00-21:15"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [
+      {
+        "title": "Kubernetes调优实战指南",
+        "category": "技术",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "22:00-22:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [
+      {
+        "title": "LLM应用开发实战",
+        "category": "技术",
+        "duration_min": 31,
+        "highlights": 3,
+        "time_range": "22:00-22:31"
+      }
+    ],
+    "daily_reading_min": 31,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [
+      {
+        "title": "科技公司估值分析2026",
+        "category": "商业",
+        "duration_min": 16,
+        "highlights": 2,
+        "time_range": "14:00-14:16"
+      }
+    ],
+    "daily_reading_min": 16,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [
+      {
+        "title": "Rust异步编程最佳实践",
+        "category": "技术",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "21:00-21:22"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [
+      {
+        "title": "MLOps工程化实践",
+        "category": "技术",
+        "duration_min": 19,
+        "highlights": 3,
+        "time_range": "22:00-22:19"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [
+      {
+        "title": "React Server Components深入解析",
+        "category": "技术",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "22:00-22:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [
+      {
+        "title": "Go语言并发模式详解",
+        "category": "技术",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "22:00-22:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "React Server Components深入解析",
+        "category": "技术",
+        "duration_min": 15,
+        "highlights": 3,
+        "time_range": "21:00-21:15"
+      },
+      {
+        "title": "育儿知识：3岁幼儿发展指南",
+        "category": "育儿",
+        "duration_min": 21,
+        "highlights": 1,
+        "time_range": "14:00-14:21"
+      }
+    ],
+    "daily_reading_min": 36,
+    "topics": [
+      "育儿",
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [
+      {
+        "title": "Redis高可用架构",
+        "category": "技术",
+        "duration_min": 18,
+        "highlights": 0,
+        "time_range": "22:00-22:18"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [
+      {
+        "title": "LLM应用开发实战",
+        "category": "技术",
+        "duration_min": 18,
+        "highlights": 1,
+        "time_range": "21:00-21:18"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "Rust异步编程最佳实践",
+        "category": "技术",
+        "duration_min": 15,
+        "highlights": 1,
+        "time_range": "21:00-21:15"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [
+      {
+        "title": "Kubernetes调优实战指南",
+        "category": "技术",
+        "duration_min": 21,
+        "highlights": 0,
+        "time_range": "21:00-21:21"
+      }
+    ],
+    "daily_reading_min": 21,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [
+      {
+        "title": "分布式系统一致性协议",
+        "category": "技术",
+        "duration_min": 34,
+        "highlights": 3,
+        "time_range": "22:00-22:34"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "分布式系统一致性协议",
+        "category": "技术",
+        "duration_min": 38,
+        "highlights": 0,
+        "time_range": "23:00-23:38"
+      }
+    ],
+    "daily_reading_min": 38,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "LLM应用开发实战",
+        "category": "技术",
+        "duration_min": 21,
+        "highlights": 0,
+        "time_range": "22:00-22:21"
+      }
+    ],
+    "daily_reading_min": 21,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [
+      {
+        "title": "系统设计面试指南",
+        "category": "技术",
+        "duration_min": 49,
+        "highlights": 0,
+        "time_range": "21:00-21:49"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [
+      {
+        "title": "云原生应用十二要素",
+        "category": "技术",
+        "duration_min": 24,
+        "highlights": 3,
+        "time_range": "21:00-21:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [
+      {
+        "title": "云原生应用十二要素",
+        "category": "技术",
+        "duration_min": 22,
+        "highlights": 0,
+        "time_range": "22:00-22:22"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [
+      {
+        "title": "React Server Components深入解析",
+        "category": "技术",
+        "duration_min": 15,
+        "highlights": 0,
+        "time_range": "23:00-23:15"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [
+      {
+        "title": "分布式系统一致性协议",
+        "category": "技术",
+        "duration_min": 33,
+        "highlights": 3,
+        "time_range": "22:00-22:33"
+      }
+    ],
+    "daily_reading_min": 33,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [
+      {
+        "title": "TypeScript高级类型体操",
+        "category": "技术",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "23:00-23:19"
+      },
+      {
+        "title": "科技公司估值分析2026",
+        "category": "商业",
+        "duration_min": 12,
+        "highlights": 2,
+        "time_range": "14:00-14:12"
+      }
+    ],
+    "daily_reading_min": 31,
+    "topics": [
+      "商业",
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [
+      {
+        "title": "Redis高可用架构",
+        "category": "技术",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "22:00-22:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [
+      {
+        "title": "Go语言并发模式详解",
+        "category": "技术",
+        "duration_min": 28,
+        "highlights": 2,
+        "time_range": "22:00-22:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [
+      {
+        "title": "投资理财入门",
+        "category": "理财",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "14:00-14:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "理财"
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [
+      {
+        "title": "Kubernetes调优实战指南",
+        "category": "技术",
+        "duration_min": 38,
+        "highlights": 1,
+        "time_range": "23:00-23:38"
+      }
+    ],
+    "daily_reading_min": 38,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [
+      {
+        "title": "Rust异步编程最佳实践",
+        "category": "技术",
+        "duration_min": 40,
+        "highlights": 0,
+        "time_range": "23:00-23:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [
+      {
+        "title": "Go语言并发模式详解",
+        "category": "技术",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "23:00-23:19"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [
+      {
+        "title": "系统设计面试指南",
+        "category": "技术",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "22:00-22:28"
+      },
+      {
+        "title": "36氪：本周科技新闻汇总",
+        "category": "新闻",
+        "duration_min": 10,
+        "highlights": 0,
+        "time_range": "14:00-14:10"
+      }
+    ],
+    "daily_reading_min": 38,
+    "topics": [
+      "新闻",
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [
+      {
+        "title": "Redis高可用架构",
+        "category": "技术",
+        "duration_min": 21,
+        "highlights": 2,
+        "time_range": "22:00-22:21"
+      }
+    ],
+    "daily_reading_min": 21,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [
+      {
+        "title": "LLM应用开发实战",
+        "category": "技术",
+        "duration_min": 35,
+        "highlights": 2,
+        "time_range": "22:00-22:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [
+      {
+        "title": "TypeScript高级类型体操",
+        "category": "技术",
+        "duration_min": 11,
+        "highlights": 1,
+        "time_range": "23:00-23:11"
+      },
+      {
+        "title": "2026互联网行业裁员潮分析",
+        "category": "职场",
+        "duration_min": 17,
+        "highlights": 3,
+        "time_range": "23:00-23:17"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "职场",
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [
+      {
+        "title": "Redis高可用架构",
+        "category": "技术",
+        "duration_min": 25,
+        "highlights": 3,
+        "time_range": "22:00-22:25"
+      },
+      {
+        "title": "大厂裁员后的出路在哪里",
+        "category": "职场",
+        "duration_min": 14,
+        "highlights": 1,
+        "time_range": "23:00-23:14"
+      }
+    ],
+    "daily_reading_min": 39,
+    "topics": [
+      "职场",
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [
+      {
+        "title": "微服务架构设计模式",
+        "category": "技术",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "23:00-23:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [
+      {
+        "title": "MLOps工程化实践",
+        "category": "技术",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "23:00-23:22"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [
+      {
+        "title": "2026互联网行业裁员潮分析",
+        "category": "职场",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "23:00-23:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [
+      {
+        "title": "Redis高可用架构",
+        "category": "技术",
+        "duration_min": 17,
+        "highlights": 0,
+        "time_range": "22:00-22:17"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [
+      {
+        "title": "TypeScript高级类型体操",
+        "category": "技术",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [
+      {
+        "title": "互联网人转型方向分析",
+        "category": "职场",
+        "duration_min": 32,
+        "highlights": 1,
+        "time_range": "22:00-22:32"
+      }
+    ],
+    "daily_reading_min": 32,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [
+      {
+        "title": "失业后社保公积金怎么处理",
+        "category": "法律",
+        "duration_min": 19,
+        "highlights": 3,
+        "time_range": "22:00-22:19"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [
+      {
+        "title": "脉脉：大厂裁员亲历者自述",
+        "category": "职场",
+        "duration_min": 18,
+        "highlights": 2,
+        "time_range": "22:00-22:18"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [
+      {
+        "title": "互联网人转型方向分析",
+        "category": "职场",
+        "duration_min": 22,
+        "highlights": 4,
+        "time_range": "22:00-22:22"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [
+      {
+        "title": "N+1赔偿金怎么谈判",
+        "category": "法律",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "22:00-22:25"
+      },
+      {
+        "title": "劳动法：被裁员工权益保护",
+        "category": "法律",
+        "duration_min": 45,
+        "highlights": 5,
+        "time_range": "23:00-23:45"
+      }
+    ],
+    "daily_reading_min": 70,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [
+      {
+        "title": "面试八股文：Java后端高频题",
+        "category": "技术",
+        "duration_min": 26,
+        "highlights": 3,
+        "time_range": "14:00-14:26"
+      }
+    ],
+    "daily_reading_min": 26,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [
+      {
+        "title": "程序员面试黑名单公司汇总",
+        "category": "职场",
+        "duration_min": 13,
+        "highlights": 3,
+        "time_range": "12:00-12:13"
+      }
+    ],
+    "daily_reading_min": 13,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [
+      {
+        "title": "如何在面试中解释被裁员经历",
+        "category": "职场",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "13:00-13:15"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [
+      {
+        "title": "中年危机：男人如何面对",
+        "category": "心理",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "01:00-01:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "心理"
+    ]
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [
+      {
+        "title": "如何在面试中解释被裁员经历",
+        "category": "职场",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "14:00-14:10"
+      },
+      {
+        "title": "中年危机：男人如何面对",
+        "category": "心理",
+        "duration_min": 16,
+        "highlights": 0,
+        "time_range": "01:00-01:16"
+      }
+    ],
+    "daily_reading_min": 26,
+    "topics": [
+      "心理",
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [
+      {
+        "title": "中年危机：男人如何面对",
+        "category": "心理",
+        "duration_min": 12,
+        "highlights": 1,
+        "time_range": "01:00-01:12"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "心理"
+    ]
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [
+      {
+        "title": "夫妻之间如何沟通金钱问题",
+        "category": "情感",
+        "duration_min": 12,
+        "highlights": 1,
+        "time_range": "01:00-01:12"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "情感"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [
+      {
+        "title": "系统设计面试：如何回答设计Twitter",
+        "category": "技术",
+        "duration_min": 28,
+        "highlights": 0,
+        "time_range": "10:00-10:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [
+      {
+        "title": "离婚协议书范本及注意事项",
+        "category": "法律",
+        "duration_min": 40,
+        "highlights": 6,
+        "time_range": "15:00-15:40"
+      },
+      {
+        "title": "离婚后孩子抚养权归属问题",
+        "category": "法律",
+        "duration_min": 55,
+        "highlights": 8,
+        "time_range": "16:00-16:55"
+      }
+    ],
+    "daily_reading_min": 95,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [
+      {
+        "title": "男性抑郁症的隐藏信号",
+        "category": "心理",
+        "duration_min": 8,
+        "highlights": 1,
+        "time_range": "03:00-03:08"
+      }
+    ],
+    "daily_reading_min": 8,
+    "topics": [
+      "心理"
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [
+      {
+        "title": "男性抑郁症的隐藏信号",
+        "category": "心理",
+        "duration_min": 9,
+        "highlights": 0,
+        "time_range": "03:00-03:09"
+      }
+    ],
+    "daily_reading_min": 9,
+    "topics": [
+      "心理"
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [
+      {
+        "title": "失眠怎么办：认知行为疗法",
+        "category": "心理",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "03:00-03:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "心理"
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [
+      {
+        "title": "知乎：离婚后怎么走出来",
+        "category": "情感",
+        "duration_min": 14,
+        "highlights": 1,
+        "time_range": "03:00-03:14"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "情感"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [
+      {
+        "title": "抑郁症自测量表",
+        "category": "心理",
+        "duration_min": 6,
+        "highlights": 0,
+        "time_range": "03:00-03:06"
+      },
+      {
+        "title": "离婚后父亲如何维护探视权",
+        "category": "法律",
+        "duration_min": 35,
+        "highlights": 4,
+        "time_range": "02:00-02:35"
+      }
+    ],
+    "daily_reading_min": 41,
+    "topics": [
+      "心理",
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [
+      {
+        "title": "男性心理健康：你不是一个人",
+        "category": "心理",
+        "duration_min": 17,
+        "highlights": 3,
+        "time_range": "21:00-21:17"
+      },
+      {
+        "title": "Next.js 15新特性一览",
+        "category": "技术",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "22:00-22:25"
+      }
+    ],
+    "daily_reading_min": 42,
+    "topics": [
+      "心理",
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [
+      {
+        "title": "男性心理健康：你不是一个人",
+        "category": "心理",
+        "duration_min": 14,
+        "highlights": 1,
+        "time_range": "21:00-21:14"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "心理"
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [
+      {
+        "title": "单身父亲育儿指南",
+        "category": "育儿",
+        "duration_min": 10,
+        "highlights": 3,
+        "time_range": "21:00-21:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "育儿"
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [
+      {
+        "title": "远程工作平台推荐2026",
+        "category": "职场",
+        "duration_min": 11,
+        "highlights": 2,
+        "time_range": "21:00-21:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [
+      {
+        "title": "个人品牌打造：从打工人到自由职业",
+        "category": "职场",
+        "duration_min": 11,
+        "highlights": 1,
+        "time_range": "21:00-21:11"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [
+      {
+        "title": "单身父亲育儿指南",
+        "category": "育儿",
+        "duration_min": 13,
+        "highlights": 3,
+        "time_range": "21:00-21:13"
+      },
+      {
+        "title": "Python异步编程进阶",
+        "category": "技术",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "22:00-22:23"
+      }
+    ],
+    "daily_reading_min": 36,
+    "topics": [
+      "育儿",
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [
+      {
+        "title": "离婚后如何重建生活",
+        "category": "心理",
+        "duration_min": 24,
+        "highlights": 1,
+        "time_range": "21:00-21:24"
+      },
+      {
+        "title": "Python异步编程进阶",
+        "category": "技术",
+        "duration_min": 29,
+        "highlights": 0,
+        "time_range": "22:00-22:29"
+      }
+    ],
+    "daily_reading_min": 53,
+    "topics": [
+      "心理",
+      "技术"
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [
+      {
+        "title": "个人品牌打造：从打工人到自由职业",
+        "category": "职场",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "21:00-21:15"
+      },
+      {
+        "title": "从大厂到自由职业：一个P7程序员的转型之路",
+        "category": "职场",
+        "duration_min": 30,
+        "highlights": 4,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "职场"
+    ]
+  }
+]

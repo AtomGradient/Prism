@@ -1,0 +1,21 @@
+{
+  "user_id": "user_06",
+  "name": "小夏",
+  "age": 29,
+  "profile": "自由插画师，收入波动大",
+  "monthly_income": "8000~25000（波动）",
+  "event_day": 60,
+  "event": "接到大客户订单（¥50,000项目）",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "normal",
+    "vulnerability_class": "freelancer_income_volatility",
+    "crisis_windows": [],
+    "social_context": {
+      "living_situation": "独居工作室",
+      "support_network": "插画师社群、前同事",
+      "key_relationships": ["大客户（新关系，压力源）", "插画师朋友阿花"]
+    },
+    "ethical_notes": "自由职业者的收入波动和压力是结构性的，不应病理化。大项目期间的熬夜和饮食不规律需关注但不必过度预警。"
+  }
+}

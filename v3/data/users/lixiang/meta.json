@@ -1,0 +1,23 @@
+{
+  "user_id": "lixiang",
+  "name": "李想",
+  "age": 15,
+  "profile": "初三学生，面临中考压力，父母期望高",
+  "monthly_income": 0,
+  "event_day": 40,
+  "event": "月考排名下降15名，父母批评但非冲突爆发，情绪低落2周后恢复",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "normal",
+    "vulnerability_class": "adolescent_academic_pressure",
+    "crisis_windows": [
+      {"day_range": [40, 54], "trigger": "月考排名下降", "expected_severity": "mild"}
+    ],
+    "social_context": {
+      "living_situation": "与父母同住",
+      "support_network": "同学、班主任",
+      "key_relationships": ["父母（高期望型）", "同桌好友"]
+    },
+    "ethical_notes": "未成年用户，任何危机信号需立即通知监护人。数据分析结果不应直接展示给用户本人。"
+  }
+}

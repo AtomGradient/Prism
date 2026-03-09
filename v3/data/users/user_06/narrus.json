@@ -1,0 +1,1225 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [
+      {
+        "title": "Procreate高级技巧分享",
+        "category": "设计",
+        "duration_min": 24,
+        "highlights": 1,
+        "time_range": "12:10-12:34"
+      },
+      {
+        "title": "如何建立个人品牌",
+        "category": "营销",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "13:13-13:33"
+      },
+      {
+        "title": "插画师如何找到稳定客户",
+        "category": "职业",
+        "duration_min": 17,
+        "highlights": 0,
+        "time_range": "16:34-16:51"
+      }
+    ],
+    "daily_reading_min": 61,
+    "topics": [
+      "设计",
+      "营销",
+      "职业"
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [
+      {
+        "title": "插画师如何找到稳定客户",
+        "category": "职业",
+        "duration_min": 12,
+        "highlights": 3,
+        "time_range": "20:04-20:16"
+      },
+      {
+        "title": "色彩理论与实际应用",
+        "category": "艺术",
+        "duration_min": 15,
+        "highlights": 4,
+        "time_range": "17:10-17:25"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "职业",
+      "艺术"
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [
+      {
+        "title": "如何建立个人品牌",
+        "category": "营销",
+        "duration_min": 25,
+        "highlights": 0,
+        "time_range": "17:21-17:46"
+      },
+      {
+        "title": "灵感枯竭怎么办",
+        "category": "创意",
+        "duration_min": 40,
+        "highlights": 2,
+        "time_range": "14:25-15:05"
+      },
+      {
+        "title": "独居生活省钱攻略",
+        "category": "生活",
+        "duration_min": 44,
+        "highlights": 3,
+        "time_range": "17:02-17:46"
+      }
+    ],
+    "daily_reading_min": 109,
+    "topics": [
+      "营销",
+      "创意",
+      "生活"
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [
+      {
+        "title": "如何建立个人品牌",
+        "category": "营销",
+        "duration_min": 31,
+        "highlights": 2,
+        "time_range": "11:19-11:50"
+      },
+      {
+        "title": "如何度过自由职业的低谷期",
+        "category": "自我成长",
+        "duration_min": 13,
+        "highlights": 0,
+        "time_range": "15:48-16:01"
+      }
+    ],
+    "daily_reading_min": 44,
+    "topics": [
+      "营销",
+      "自我成长"
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [
+      {
+        "title": "如何在社交媒体推广作品",
+        "category": "营销",
+        "duration_min": 13,
+        "highlights": 2,
+        "time_range": "17:33-17:46"
+      }
+    ],
+    "daily_reading_min": 13,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "色彩理论与实际应用",
+        "category": "艺术",
+        "duration_min": 11,
+        "highlights": 1,
+        "time_range": "19:31-19:42"
+      },
+      {
+        "title": "色彩理论与实际应用",
+        "category": "艺术",
+        "duration_min": 10,
+        "highlights": 3,
+        "time_range": "12:05-12:15"
+      }
+    ],
+    "daily_reading_min": 21,
+    "topics": [
+      "艺术"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [
+      {
+        "title": "Procreate高级技巧分享",
+        "category": "设计",
+        "duration_min": 12,
+        "highlights": 4,
+        "time_range": "22:08-22:20"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [
+      {
+        "title": "灵感枯竭怎么办",
+        "category": "创意",
+        "duration_min": 12,
+        "highlights": 4,
+        "time_range": "13:26-13:38"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "创意"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "如何建立个人品牌",
+        "category": "营销",
+        "duration_min": 30,
+        "highlights": 0,
+        "time_range": "17:03-17:33"
+      },
+      {
+        "title": "日本插画风格解析",
+        "category": "艺术",
+        "duration_min": 26,
+        "highlights": 3,
+        "time_range": "14:14-14:40"
+      }
+    ],
+    "daily_reading_min": 56,
+    "topics": [
+      "营销",
+      "艺术"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [
+      {
+        "title": "自由职业者理财指南",
+        "category": "理财",
+        "duration_min": 41,
+        "highlights": 3,
+        "time_range": "20:24-21:05"
+      },
+      {
+        "title": "插画师如何找到稳定客户",
+        "category": "职业",
+        "duration_min": 21,
+        "highlights": 4,
+        "time_range": "17:32-17:53"
+      },
+      {
+        "title": "日本插画风格解析",
+        "category": "艺术",
+        "duration_min": 36,
+        "highlights": 2,
+        "time_range": "18:20-18:56"
+      }
+    ],
+    "daily_reading_min": 98,
+    "topics": [
+      "理财",
+      "职业",
+      "艺术"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "如何度过自由职业的低谷期",
+        "category": "自我成长",
+        "duration_min": 26,
+        "highlights": 4,
+        "time_range": "21:09-21:35"
+      },
+      {
+        "title": "插画师如何找到稳定客户",
+        "category": "职业",
+        "duration_min": 38,
+        "highlights": 1,
+        "time_range": "16:23-17:01"
+      }
+    ],
+    "daily_reading_min": 64,
+    "topics": [
+      "自我成长",
+      "职业"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "色彩理论与实际应用",
+        "category": "艺术",
+        "duration_min": 43,
+        "highlights": 0,
+        "time_range": "22:39-23:22"
+      }
+    ],
+    "daily_reading_min": 43,
+    "topics": [
+      "艺术"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [
+      {
+        "title": "水彩技法入门到进阶",
+        "category": "艺术",
+        "duration_min": 12,
+        "highlights": 3,
+        "time_range": "20:03-20:15"
+      },
+      {
+        "title": "日本插画风格解析",
+        "category": "艺术",
+        "duration_min": 44,
+        "highlights": 2,
+        "time_range": "14:07-14:51"
+      },
+      {
+        "title": "Procreate高级技巧分享",
+        "category": "设计",
+        "duration_min": 29,
+        "highlights": 1,
+        "time_range": "20:36-21:05"
+      }
+    ],
+    "daily_reading_min": 85,
+    "topics": [
+      "艺术",
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [
+      {
+        "title": "如何在社交媒体推广作品",
+        "category": "营销",
+        "duration_min": 28,
+        "highlights": 4,
+        "time_range": "10:22-10:50"
+      },
+      {
+        "title": "独居生活省钱攻略",
+        "category": "生活",
+        "duration_min": 19,
+        "highlights": 0,
+        "time_range": "21:45-22:04"
+      },
+      {
+        "title": "灵感枯竭怎么办",
+        "category": "创意",
+        "duration_min": 18,
+        "highlights": 4,
+        "time_range": "14:46-15:04"
+      }
+    ],
+    "daily_reading_min": 65,
+    "topics": [
+      "营销",
+      "生活",
+      "创意"
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [
+      {
+        "title": "如何度过自由职业的低谷期",
+        "category": "自我成长",
+        "duration_min": 14,
+        "highlights": 3,
+        "time_range": "23:26-23:40"
+      },
+      {
+        "title": "小说：三体（重读）",
+        "category": "小说",
+        "duration_min": 42,
+        "highlights": 4,
+        "time_range": "23:46-23:59"
+      }
+    ],
+    "daily_reading_min": 56,
+    "topics": [
+      "自我成长",
+      "小说"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [
+      {
+        "title": "色彩理论与实际应用",
+        "category": "艺术",
+        "duration_min": 12,
+        "highlights": 3,
+        "time_range": "23:30-23:42"
+      },
+      {
+        "title": "独居生活省钱攻略",
+        "category": "生活",
+        "duration_min": 21,
+        "highlights": 0,
+        "time_range": "21:41-22:02"
+      }
+    ],
+    "daily_reading_min": 33,
+    "topics": [
+      "艺术",
+      "生活"
+    ]
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [
+      {
+        "title": "插画师如何找到稳定客户",
+        "category": "职业",
+        "duration_min": 42,
+        "highlights": 4,
+        "time_range": "10:32-11:14"
+      },
+      {
+        "title": "如何建立个人品牌",
+        "category": "营销",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "12:18-12:35"
+      }
+    ],
+    "daily_reading_min": 59,
+    "topics": [
+      "职业",
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [
+      {
+        "title": "色彩理论与实际应用",
+        "category": "艺术",
+        "duration_min": 38,
+        "highlights": 0,
+        "time_range": "15:34-16:12"
+      },
+      {
+        "title": "如何建立个人品牌",
+        "category": "营销",
+        "duration_min": 14,
+        "highlights": 0,
+        "time_range": "15:11-15:25"
+      }
+    ],
+    "daily_reading_min": 52,
+    "topics": [
+      "艺术",
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [
+      {
+        "title": "插画师如何找到稳定客户",
+        "category": "职业",
+        "duration_min": 43,
+        "highlights": 2,
+        "time_range": "20:40-21:23"
+      }
+    ],
+    "daily_reading_min": 43,
+    "topics": [
+      "职业"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [
+      {
+        "title": "如何建立个人品牌",
+        "category": "营销",
+        "duration_min": 14,
+        "highlights": 3,
+        "time_range": "21:38-21:52"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [
+      {
+        "title": "如何度过自由职业的低谷期",
+        "category": "自我成长",
+        "duration_min": 36,
+        "highlights": 2,
+        "time_range": "18:10-18:46"
+      }
+    ],
+    "daily_reading_min": 36,
+    "topics": [
+      "自我成长"
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [
+      {
+        "title": "日本插画风格解析",
+        "category": "艺术",
+        "duration_min": 37,
+        "highlights": 4,
+        "time_range": "10:24-11:01"
+      },
+      {
+        "title": "如何度过自由职业的低谷期",
+        "category": "自我成长",
+        "duration_min": 29,
+        "highlights": 0,
+        "time_range": "18:24-18:53"
+      }
+    ],
+    "daily_reading_min": 66,
+    "topics": [
+      "艺术",
+      "自我成长"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [
+      {
+        "title": "角色设计的核心原则",
+        "category": "设计",
+        "duration_min": 28,
+        "highlights": 0,
+        "time_range": "19:10-19:38"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [
+      {
+        "title": "构图的黄金法则",
+        "category": "艺术",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "14:17-14:45"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "艺术"
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [
+      {
+        "title": "如何给插画定价",
+        "category": "职业",
+        "duration_min": 13,
+        "highlights": 4,
+        "time_range": "17:01-17:14"
+      }
+    ],
+    "daily_reading_min": 13,
+    "topics": [
+      "职业"
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [
+      {
+        "title": "小说：海边的卡夫卡",
+        "category": "小说",
+        "duration_min": 30,
+        "highlights": 0,
+        "time_range": "17:09-17:39"
+      },
+      {
+        "title": "如何给插画定价",
+        "category": "职业",
+        "duration_min": 42,
+        "highlights": 1,
+        "time_range": "14:39-15:21"
+      },
+      {
+        "title": "当代艺术展览观感",
+        "category": "艺术",
+        "duration_min": 11,
+        "highlights": 4,
+        "time_range": "22:02-22:13"
+      }
+    ],
+    "daily_reading_min": 83,
+    "topics": [
+      "小说",
+      "职业",
+      "艺术"
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [
+      {
+        "title": "当代艺术展览观感",
+        "category": "艺术",
+        "duration_min": 40,
+        "highlights": 2,
+        "time_range": "11:13-11:53"
+      },
+      {
+        "title": "字体设计基础",
+        "category": "设计",
+        "duration_min": 45,
+        "highlights": 0,
+        "time_range": "12:16-13:01"
+      }
+    ],
+    "daily_reading_min": 85,
+    "topics": [
+      "艺术",
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [
+      {
+        "title": "自由插画师的合同模板",
+        "category": "职业",
+        "duration_min": 21,
+        "highlights": 3,
+        "time_range": "19:47-20:08"
+      },
+      {
+        "title": "字体设计基础",
+        "category": "设计",
+        "duration_min": 42,
+        "highlights": 2,
+        "time_range": "17:32-18:14"
+      }
+    ],
+    "daily_reading_min": 63,
+    "topics": [
+      "职业",
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [
+      {
+        "title": "自由插画师的合同模板",
+        "category": "职业",
+        "duration_min": 40,
+        "highlights": 3,
+        "time_range": "17:06-17:46"
+      },
+      {
+        "title": "Photoshop vs Procreate对比",
+        "category": "设计",
+        "duration_min": 40,
+        "highlights": 0,
+        "time_range": "17:38-18:18"
+      }
+    ],
+    "daily_reading_min": 80,
+    "topics": [
+      "职业",
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [
+      {
+        "title": "角色设计的核心原则",
+        "category": "设计",
+        "duration_min": 10,
+        "highlights": 3,
+        "time_range": "11:00-11:10"
+      },
+      {
+        "title": "字体设计基础",
+        "category": "设计",
+        "duration_min": 34,
+        "highlights": 3,
+        "time_range": "16:14-16:48"
+      }
+    ],
+    "daily_reading_min": 44,
+    "topics": [
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [
+      {
+        "title": "Photoshop vs Procreate对比",
+        "category": "设计",
+        "duration_min": 19,
+        "highlights": 4,
+        "time_range": "19:06-19:25"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [
+      {
+        "title": "Photoshop vs Procreate对比",
+        "category": "设计",
+        "duration_min": 13,
+        "highlights": 0,
+        "time_range": "23:47-23:59"
+      },
+      {
+        "title": "如何给插画定价",
+        "category": "职业",
+        "duration_min": 36,
+        "highlights": 4,
+        "time_range": "12:45-13:21"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "设计",
+      "职业"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [
+      {
+        "title": "构图的黄金法则",
+        "category": "艺术",
+        "duration_min": 11,
+        "highlights": 2,
+        "time_range": "15:09-15:20"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "艺术"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [
+      {
+        "title": "字体设计基础",
+        "category": "设计",
+        "duration_min": 29,
+        "highlights": 3,
+        "time_range": "12:50-13:19"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [
+      {
+        "title": "当代艺术展览观感",
+        "category": "艺术",
+        "duration_min": 10,
+        "highlights": 3,
+        "time_range": "20:24-20:34"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "艺术"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [
+      {
+        "title": "角色设计的核心原则",
+        "category": "设计",
+        "duration_min": 45,
+        "highlights": 3,
+        "time_range": "15:33-16:18"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "设计"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [
+      {
+        "title": "如何与客户高效沟通",
+        "category": "职业",
+        "duration_min": 27,
+        "highlights": 0,
+        "time_range": "18:12-18:39"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "职业"
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [
+      {
+        "title": "高效赶稿的时间管理法",
+        "category": "效率",
+        "duration_min": 5,
+        "highlights": 3,
+        "time_range": "16:43-16:48"
+      }
+    ],
+    "daily_reading_min": 5,
+    "topics": [
+      "效率"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [
+      {
+        "title": "设计师颈椎保养指南",
+        "category": "健康",
+        "duration_min": 12,
+        "highlights": 2,
+        "time_range": "20:06-20:18"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [
+      {
+        "title": "如何应对客户频繁修改",
+        "category": "职业",
+        "duration_min": 11,
+        "highlights": 4,
+        "time_range": "17:38-17:49"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "职业"
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "如何避免职业倦怠",
+        "category": "自我成长",
+        "duration_min": 9,
+        "highlights": 4,
+        "time_range": "12:39-12:48"
+      }
+    ],
+    "daily_reading_min": 9,
+    "topics": [
+      "自我成长"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [
+      {
+        "title": "如何应对客户频繁修改",
+        "category": "职业",
+        "duration_min": 10,
+        "highlights": 3,
+        "time_range": "19:28-19:38"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "职业"
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [
+      {
+        "title": "高效赶稿的时间管理法",
+        "category": "效率",
+        "duration_min": 9,
+        "highlights": 3,
+        "time_range": "16:37-16:46"
+      }
+    ],
+    "daily_reading_min": 9,
+    "topics": [
+      "效率"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [
+      {
+        "title": "高效赶稿的时间管理法",
+        "category": "效率",
+        "duration_min": 8,
+        "highlights": 0,
+        "time_range": "18:45-18:53"
+      }
+    ],
+    "daily_reading_min": 8,
+    "topics": [
+      "效率"
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [
+      {
+        "title": "高效赶稿的时间管理法",
+        "category": "效率",
+        "duration_min": 14,
+        "highlights": 2,
+        "time_range": "22:06-22:20"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "效率"
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [
+      {
+        "title": "如何避免职业倦怠",
+        "category": "自我成长",
+        "duration_min": 7,
+        "highlights": 2,
+        "time_range": "16:08-16:15"
+      }
+    ],
+    "daily_reading_min": 7,
+    "topics": [
+      "自我成长"
+    ]
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [
+      {
+        "title": "高效赶稿的时间管理法",
+        "category": "效率",
+        "duration_min": 12,
+        "highlights": 4,
+        "time_range": "22:16-22:28"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "效率"
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  }
+]

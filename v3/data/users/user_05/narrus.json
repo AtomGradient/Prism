@@ -1,0 +1,1078 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [
+      {
+        "title": "直播带货数据复盘方法论",
+        "category": "营销",
+        "duration_min": 27,
+        "highlights": 1,
+        "time_range": "23:47-24:14"
+      },
+      {
+        "title": "消费者心理学基础",
+        "category": "商业",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "23:24-23:52"
+      }
+    ],
+    "daily_reading_min": 55,
+    "topics": [
+      "营销",
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [
+      {
+        "title": "消费者心理学基础",
+        "category": "商业",
+        "duration_min": 17,
+        "highlights": 0,
+        "time_range": "23:42-23:59"
+      },
+      {
+        "title": "私域流量运营实战",
+        "category": "营销",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "22:50-23:10"
+      }
+    ],
+    "daily_reading_min": 37,
+    "topics": [
+      "商业",
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [
+      {
+        "title": "小红书种草策略全解",
+        "category": "营销",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "22:14-22:41"
+      },
+      {
+        "title": "如何写出高转化的文案",
+        "category": "营销",
+        "duration_min": 26,
+        "highlights": 1,
+        "time_range": "23:47-24:13"
+      }
+    ],
+    "daily_reading_min": 53,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [
+      {
+        "title": "供应链管理入门",
+        "category": "商业",
+        "duration_min": 10,
+        "highlights": 0,
+        "time_range": "21:11-21:21"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [
+      {
+        "title": "短视频带货的底层逻辑",
+        "category": "营销",
+        "duration_min": 16,
+        "highlights": 2,
+        "time_range": "21:10-21:26"
+      }
+    ],
+    "daily_reading_min": 16,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [
+      {
+        "title": "抖音算法最新变化解读",
+        "category": "营销",
+        "duration_min": 9,
+        "highlights": 0,
+        "time_range": "21:20-21:29"
+      }
+    ],
+    "daily_reading_min": 9,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "短视频带货的底层逻辑",
+        "category": "营销",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "21:50-22:09"
+      },
+      {
+        "title": "短视频带货的底层逻辑",
+        "category": "营销",
+        "duration_min": 15,
+        "highlights": 0,
+        "time_range": "21:33-21:48"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [
+      {
+        "title": "私域流量运营实战",
+        "category": "营销",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "22:14-22:24"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "如何写出高转化的文案",
+        "category": "营销",
+        "duration_min": 27,
+        "highlights": 0,
+        "time_range": "23:30-23:57"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [
+      {
+        "title": "小红书种草策略全解",
+        "category": "营销",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "23:39-24:07"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [
+      {
+        "title": "直播带货数据复盘方法论",
+        "category": "营销",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "22:34-22:54"
+      },
+      {
+        "title": "2026年电商运营趋势分析",
+        "category": "商业",
+        "duration_min": 24,
+        "highlights": 3,
+        "time_range": "22:32-22:56"
+      }
+    ],
+    "daily_reading_min": 44,
+    "topics": [
+      "营销",
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [
+      {
+        "title": "供应链管理入门",
+        "category": "商业",
+        "duration_min": 14,
+        "highlights": 0,
+        "time_range": "22:32-22:46"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [
+      {
+        "title": "短视频带货的底层逻辑",
+        "category": "营销",
+        "duration_min": 25,
+        "highlights": 0,
+        "time_range": "21:40-22:05"
+      },
+      {
+        "title": "小红书种草策略全解",
+        "category": "营销",
+        "duration_min": 29,
+        "highlights": 1,
+        "time_range": "23:49-24:18"
+      }
+    ],
+    "daily_reading_min": 54,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [
+      {
+        "title": "短视频带货的底层逻辑",
+        "category": "营销",
+        "duration_min": 34,
+        "highlights": 3,
+        "time_range": "23:47-24:21"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "营销"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [
+      {
+        "title": "如何做好绩效面谈",
+        "category": "管理",
+        "duration_min": 9,
+        "highlights": 0,
+        "time_range": "21:04-21:13"
+      }
+    ],
+    "daily_reading_min": 9,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [
+      {
+        "title": "如何带好一个小团队",
+        "category": "管理",
+        "duration_min": 26,
+        "highlights": 3,
+        "time_range": "21:16-21:42"
+      }
+    ],
+    "daily_reading_min": 26,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [
+      {
+        "title": "团队激励的7种方法",
+        "category": "管理",
+        "duration_min": 18,
+        "highlights": 0,
+        "time_range": "21:24-21:42"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [
+      {
+        "title": "如何带好一个小团队",
+        "category": "管理",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "23:06-23:25"
+      },
+      {
+        "title": "酒桌文化与职场关系",
+        "category": "社交",
+        "duration_min": 29,
+        "highlights": 0,
+        "time_range": "22:38-23:07"
+      }
+    ],
+    "daily_reading_min": 48,
+    "topics": [
+      "管理",
+      "社交"
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [
+      {
+        "title": "团队激励的7种方法",
+        "category": "管理",
+        "duration_min": 20,
+        "highlights": 3,
+        "time_range": "23:01-23:21"
+      },
+      {
+        "title": "向上管理的艺术",
+        "category": "管理",
+        "duration_min": 25,
+        "highlights": 3,
+        "time_range": "21:08-21:33"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [
+      {
+        "title": "领导力入门：从执行到管理",
+        "category": "管理",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "23:41-24:10"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [
+      {
+        "title": "向上管理的艺术",
+        "category": "管理",
+        "duration_min": 11,
+        "highlights": 3,
+        "time_range": "21:00-21:11"
+      },
+      {
+        "title": "中层管理者的时间分配",
+        "category": "管理",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "21:19-21:44"
+      }
+    ],
+    "daily_reading_min": 36,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [
+      {
+        "title": "电商团队KPI设计方案",
+        "category": "商业",
+        "duration_min": 35,
+        "highlights": 1,
+        "time_range": "23:09-23:44"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [
+      {
+        "title": "领导力入门：从执行到管理",
+        "category": "管理",
+        "duration_min": 14,
+        "highlights": 0,
+        "time_range": "21:11-21:25"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [
+      {
+        "title": "领导力入门：从执行到管理",
+        "category": "管理",
+        "duration_min": 29,
+        "highlights": 0,
+        "time_range": "21:16-21:45"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [
+      {
+        "title": "如何做好绩效面谈",
+        "category": "管理",
+        "duration_min": 19,
+        "highlights": 1,
+        "time_range": "21:42-22:01"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [
+      {
+        "title": "职场社交技巧",
+        "category": "社交",
+        "duration_min": 18,
+        "highlights": 2,
+        "time_range": "22:28-22:46"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "社交"
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [
+      {
+        "title": "如何处理团队冲突",
+        "category": "管理",
+        "duration_min": 26,
+        "highlights": 3,
+        "time_range": "22:20-22:46"
+      }
+    ],
+    "daily_reading_min": 26,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [
+      {
+        "title": "酒桌文化与职场关系",
+        "category": "社交",
+        "duration_min": 15,
+        "highlights": 3,
+        "time_range": "23:47-24:02"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "社交"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [
+      {
+        "title": "电商团队KPI设计方案",
+        "category": "商业",
+        "duration_min": 31,
+        "highlights": 3,
+        "time_range": "22:30-23:01"
+      }
+    ],
+    "daily_reading_min": 31,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [
+      {
+        "title": "职场应酬生存指南",
+        "category": "社交",
+        "duration_min": 25,
+        "highlights": 0,
+        "time_range": "21:11-21:36"
+      },
+      {
+        "title": "如何平衡工作与生活",
+        "category": "效率",
+        "duration_min": 16,
+        "highlights": 1,
+        "time_range": "21:34-21:50"
+      }
+    ],
+    "daily_reading_min": 41,
+    "topics": [
+      "社交",
+      "效率"
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [
+      {
+        "title": "如何带好一个小团队",
+        "category": "管理",
+        "duration_min": 31,
+        "highlights": 0,
+        "time_range": "21:01-21:32"
+      },
+      {
+        "title": "如何平衡工作与生活",
+        "category": "效率",
+        "duration_min": 26,
+        "highlights": 1,
+        "time_range": "23:25-23:51"
+      }
+    ],
+    "daily_reading_min": 57,
+    "topics": [
+      "管理",
+      "效率"
+    ]
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [
+      {
+        "title": "酒桌文化与职场关系",
+        "category": "社交",
+        "duration_min": 26,
+        "highlights": 1,
+        "time_range": "23:18-23:44"
+      }
+    ],
+    "daily_reading_min": 26,
+    "topics": [
+      "社交"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [
+      {
+        "title": "电商团队KPI设计方案",
+        "category": "商业",
+        "duration_min": 15,
+        "highlights": 1,
+        "time_range": "23:43-23:58"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [
+      {
+        "title": "如何处理团队冲突",
+        "category": "管理",
+        "duration_min": 26,
+        "highlights": 3,
+        "time_range": "23:09-23:35"
+      }
+    ],
+    "daily_reading_min": 26,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [
+      {
+        "title": "职场社交技巧",
+        "category": "社交",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "22:23-22:33"
+      },
+      {
+        "title": "新手管理者的10个常见错误",
+        "category": "管理",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "21:33-22:02"
+      }
+    ],
+    "daily_reading_min": 39,
+    "topics": [
+      "社交",
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [
+      {
+        "title": "新手管理者的10个常见错误",
+        "category": "管理",
+        "duration_min": 9,
+        "highlights": 0,
+        "time_range": "23:20-23:29"
+      },
+      {
+        "title": "管理者的沟通技巧",
+        "category": "管理",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "23:17-23:41"
+      }
+    ],
+    "daily_reading_min": 33,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [
+      {
+        "title": "如何处理团队冲突",
+        "category": "管理",
+        "duration_min": 28,
+        "highlights": 2,
+        "time_range": "21:33-22:01"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [
+      {
+        "title": "中层管理者的时间分配",
+        "category": "管理",
+        "duration_min": 20,
+        "highlights": 3,
+        "time_range": "22:22-22:42"
+      },
+      {
+        "title": "酒桌文化与职场关系",
+        "category": "社交",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "23:00-23:23"
+      }
+    ],
+    "daily_reading_min": 43,
+    "topics": [
+      "管理",
+      "社交"
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "中层管理者的时间分配",
+        "category": "管理",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "22:13-22:41"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [
+      {
+        "title": "管理者的沟通技巧",
+        "category": "管理",
+        "duration_min": 34,
+        "highlights": 1,
+        "time_range": "21:42-22:16"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [
+      {
+        "title": "电商团队KPI设计方案",
+        "category": "商业",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "22:13-22:36"
+      }
+    ],
+    "daily_reading_min": 23,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [
+      {
+        "title": "如何处理团队冲突",
+        "category": "管理",
+        "duration_min": 13,
+        "highlights": 0,
+        "time_range": "21:40-21:53"
+      }
+    ],
+    "daily_reading_min": 13,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [
+      {
+        "title": "向上管理的艺术",
+        "category": "管理",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "22:38-23:02"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  }
+]

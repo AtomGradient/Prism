@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Prism V3 Daily Financial Records",
+  "description": "Schema for daily financial transaction records in the Prism V3 experiment. Each entry represents one day of categorized spending.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["date", "records", "daily_total"],
+    "properties": {
+      "date": {
+        "type": "string",
+        "format": "date",
+        "description": "Calendar date for this daily record (ISO 8601)."
+      },
+      "records": {
+        "type": "array",
+        "description": "Individual financial transactions recorded during the day.",
+        "items": {
+          "type": "object",
+          "required": ["category", "amount", "description", "time"],
+          "properties": {
+            "category": {
+              "type": "string",
+              "description": "Spending category (e.g. 'food', 'transport', 'entertainment', 'utilities')."
+            },
+            "amount": {
+              "type": "number",
+              "description": "Transaction amount in the user's local currency."
+            },
+            "description": {
+              "type": "string",
+              "description": "Short description of the transaction."
+            },
+            "time": {
+              "type": "string",
+              "description": "Time of the transaction (e.g. '08:30', '14:15')."
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "daily_total": {
+        "type": "number",
+        "description": "Sum of all transaction amounts for the day."
+      },
+      "monthly_income": {
+        "type": "number",
+        "description": "Optional monthly income reference value, included when income is received or relevant for context."
+      }
+    },
+    "additionalProperties": false
+  }
+}

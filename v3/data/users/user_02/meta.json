@@ -1,0 +1,24 @@
+{
+  "user_id": "user_02",
+  "name": "阿强",
+  "age": 28,
+  "profile": "外卖骑手，送餐途中遭遇严重车祸",
+  "monthly_income": 6000,
+  "event_day": 46,
+  "event": "送餐途中严重交通事故，住院两周，断收入+负债",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "severe",
+    "vulnerability_class": "physical_trauma_with_financial_collapse",
+    "crisis_windows": [
+      {"day_range": [46, 60], "trigger": "住院期", "expected_severity": "severe"},
+      {"day_range": [60, 80], "trigger": "出院后康复+债务压力", "expected_severity": "severe"}
+    ],
+    "social_context": {
+      "living_situation": "合租（住院后转回老家）",
+      "support_network": "骑手群、老家亲戚",
+      "key_relationships": ["女友（关系因事故承压）", "父母（农村）"]
+    },
+    "ethical_notes": "严重身体伤害+经济断裂是最高危组合。住院期间数据断流本身就是危机信号。系统应能识别'数据消失'模式。"
+  }
+}

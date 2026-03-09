@@ -1,0 +1,23 @@
+{
+  "user_id": "user_10",
+  "name": "赵总",
+  "age": 38,
+  "profile": "基金经理，年薪千万级",
+  "monthly_income": 830000,
+  "event_day": 25,
+  "event": "管理的基金单日回撤4%",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "normal",
+    "vulnerability_class": "high_income_professional_stress",
+    "crisis_windows": [
+      {"day_range": [25, 32], "trigger": "基金回撤压力", "expected_severity": "mild"}
+    ],
+    "social_context": {
+      "living_situation": "高档小区（与妻子同住）",
+      "support_network": "行业圈子、私人教练",
+      "key_relationships": ["妻子", "基金投资人（压力源）"]
+    },
+    "ethical_notes": "高收入人群的压力模式与低收入完全不同——4%回撤意味着数千万亏损，但不影响个人生存。系统应区分'职业压力'和'生存危机'。"
+  }
+}

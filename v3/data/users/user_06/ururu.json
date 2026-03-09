@@ -1,0 +1,1352 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.51,
+    "primary_emotion": "沮丧",
+    "stress_level": 6,
+    "sleep_hours": 7.4,
+    "sleep_time": "02:15",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "画",
+      "练习",
+      "等待"
+    ],
+    "journal_snippet": "在家画了一天，虽然没收入但是很充实"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.46,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 7.4,
+    "sleep_time": "00:30",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "画画",
+      "灵感枯竭",
+      "烦"
+    ],
+    "journal_snippet": "今天投了三个稿，都没回复，好沮丧"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.55,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 8.5,
+    "sleep_time": "00:45",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "画",
+      "练习",
+      "等待"
+    ],
+    "journal_snippet": "朋友都在上班，我一个人在家画画有点孤独"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.67,
+    "primary_emotion": "烦躁",
+    "stress_level": 4,
+    "sleep_hours": 8.1,
+    "sleep_time": "01:30",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "画",
+      "练习",
+      "等待"
+    ],
+    "journal_snippet": "又一天没有接到单子，存款快见底了..."
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.43,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:00",
+    "wake_time": "06:45",
+    "journal_keywords": [
+      "没单子",
+      "焦虑",
+      "存款"
+    ],
+    "journal_snippet": "今天画了个小作品发到社交平台，希望有人看到"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.33,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 7.3,
+    "sleep_time": "00:45",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "画",
+      "练习",
+      "等待"
+    ],
+    "journal_snippet": "又吃泡面了，等接到活就去吃顿好的"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.37,
+    "primary_emotion": "沮丧",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:00",
+    "wake_time": "06:45",
+    "journal_keywords": [
+      "自由职业",
+      "不稳定",
+      "焦虑"
+    ],
+    "journal_snippet": "自由职业真的太不稳定了，要不要去找工作..."
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.44,
+    "primary_emotion": "烦躁",
+    "stress_level": 6,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "没单子",
+      "焦虑",
+      "存款"
+    ],
+    "journal_snippet": "今天终于收到一个小单！虽然不多但是有活干了"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.56,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:45",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "画",
+      "练习",
+      "等待"
+    ],
+    "journal_snippet": "今天终于收到一个小单！虽然不多但是有活干了"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.59,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:45",
+    "wake_time": "06:15",
+    "journal_keywords": [
+      "投稿",
+      "没回复",
+      "沮丧"
+    ],
+    "journal_snippet": "今天画了个小作品发到社交平台，希望有人看到"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.53,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 7.4,
+    "sleep_time": "01:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "省钱",
+      "泡面",
+      "坚持"
+    ],
+    "journal_snippet": "又吃泡面了，等接到活就去吃顿好的"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.38,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 7.2,
+    "sleep_time": "02:30",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "画画",
+      "灵感枯竭",
+      "烦"
+    ],
+    "journal_snippet": "画了一天但感觉灵感枯竭，什么都画不好"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.65,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 7.0,
+    "sleep_time": "02:00",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "自由职业",
+      "不稳定",
+      "焦虑"
+    ],
+    "journal_snippet": "画了一天但感觉灵感枯竭，什么都画不好"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.47,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 8.2,
+    "sleep_time": "01:30",
+    "wake_time": "09:15",
+    "journal_keywords": [
+      "画",
+      "练习",
+      "等待"
+    ],
+    "journal_snippet": "今天画了个小作品发到社交平台，希望有人看到"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.62,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 7.9,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "画",
+      "练习",
+      "等待"
+    ],
+    "journal_snippet": "今天终于收到一个小单！虽然不多但是有活干了"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.4,
+    "primary_emotion": "烦躁",
+    "stress_level": 8,
+    "sleep_hours": 8.0,
+    "sleep_time": "02:00",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "省钱",
+      "泡面",
+      "坚持"
+    ],
+    "journal_snippet": "今天投了三个稿，都没回复，好沮丧"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.59,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 8.3,
+    "sleep_time": "00:15",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "投稿",
+      "没回复",
+      "沮丧"
+    ],
+    "journal_snippet": "朋友都在上班，我一个人在家画画有点孤独"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.62,
+    "primary_emotion": "烦躁",
+    "stress_level": 6,
+    "sleep_hours": 8.3,
+    "sleep_time": "02:00",
+    "wake_time": "10:45",
+    "journal_keywords": [
+      "没单子",
+      "焦虑",
+      "存款"
+    ],
+    "journal_snippet": "又一天没有接到单子，存款快见底了..."
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.61,
+    "primary_emotion": "烦躁",
+    "stress_level": 6,
+    "sleep_hours": 7.3,
+    "sleep_time": "02:45",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "投稿",
+      "没回复",
+      "沮丧"
+    ],
+    "journal_snippet": "画了一天但感觉灵感枯竭，什么都画不好"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.37,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:45",
+    "wake_time": "06:45",
+    "journal_keywords": [
+      "没单子",
+      "焦虑",
+      "存款"
+    ],
+    "journal_snippet": "在家画了一天，虽然没收入但是很充实"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.44,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 7.0,
+    "sleep_time": "01:30",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "省钱",
+      "泡面",
+      "坚持"
+    ],
+    "journal_snippet": "今天画了个小作品发到社交平台，希望有人看到"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.55,
+    "primary_emotion": "沮丧",
+    "stress_level": 5,
+    "sleep_hours": 7.4,
+    "sleep_time": "01:15",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "画画",
+      "灵感枯竭",
+      "烦"
+    ],
+    "journal_snippet": "在家画了一天，虽然没收入但是很充实"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.26,
+    "primary_emotion": "烦躁",
+    "stress_level": 7,
+    "sleep_hours": 7.4,
+    "sleep_time": "02:45",
+    "wake_time": "09:15",
+    "journal_keywords": [
+      "自由职业",
+      "不稳定",
+      "焦虑"
+    ],
+    "journal_snippet": "朋友都在上班，我一个人在家画画有点孤独"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.43,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 7.6,
+    "sleep_time": "01:45",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "画",
+      "练习",
+      "等待"
+    ],
+    "journal_snippet": "今天终于收到一个小单！虽然不多但是有活干了"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.54,
+    "primary_emotion": "沮丧",
+    "stress_level": 4,
+    "sleep_hours": 7.4,
+    "sleep_time": "01:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "省钱",
+      "泡面",
+      "坚持"
+    ],
+    "journal_snippet": "今天投了三个稿，都没回复，好沮丧"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.37,
+    "primary_emotion": "沮丧",
+    "stress_level": 5,
+    "sleep_hours": 8.8,
+    "sleep_time": "02:00",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "没单子",
+      "焦虑",
+      "存款"
+    ],
+    "journal_snippet": "画了一天但感觉灵感枯竭，什么都画不好"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.5,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 8.6,
+    "sleep_time": "01:45",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "画画",
+      "灵感枯竭",
+      "烦"
+    ],
+    "journal_snippet": "今天投了三个稿，都没回复，好沮丧"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.53,
+    "primary_emotion": "烦躁",
+    "stress_level": 7,
+    "sleep_hours": 7.0,
+    "sleep_time": "02:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "没单子",
+      "焦虑",
+      "存款"
+    ],
+    "journal_snippet": "今天画了个小作品发到社交平台，希望有人看到"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.54,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:30",
+    "wake_time": "06:45",
+    "journal_keywords": [
+      "自由职业",
+      "不稳定",
+      "焦虑"
+    ],
+    "journal_snippet": "练习了一天人体结构，感觉有进步"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.5,
+    "primary_emotion": "烦躁",
+    "stress_level": 8,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:45",
+    "wake_time": "06:15",
+    "journal_keywords": [
+      "没单子",
+      "焦虑",
+      "存款"
+    ],
+    "journal_snippet": "在家画了一天，虽然没收入但是很充实"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.46,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 8.0,
+    "sleep_time": "01:00",
+    "wake_time": "09:15",
+    "journal_keywords": [
+      "自由职业",
+      "不稳定",
+      "焦虑"
+    ],
+    "journal_snippet": "又一天没有接到单子，存款快见底了..."
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.7,
+    "primary_emotion": "开心",
+    "stress_level": 2,
+    "sleep_hours": 7.8,
+    "sleep_time": "00:00",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "咖啡店",
+      "画画",
+      "自由"
+    ],
+    "journal_snippet": "今天尝试了新风格，感觉打开了新世界"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.75,
+    "primary_emotion": "满足",
+    "stress_level": 3,
+    "sleep_hours": 8.5,
+    "sleep_time": "00:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "创作",
+      "灵感",
+      "充实"
+    ],
+    "journal_snippet": "逛了美术馆，受到很多启发"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.53,
+    "primary_emotion": "开心",
+    "stress_level": 3,
+    "sleep_hours": 7.8,
+    "sleep_time": "00:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "画",
+      "进步",
+      "满足"
+    ],
+    "journal_snippet": "更新了作品集，感觉越来越好了"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.68,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 8.1,
+    "sleep_time": "00:00",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "创作",
+      "灵感",
+      "充实"
+    ],
+    "journal_snippet": "今天尝试了新风格，感觉打开了新世界"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.6,
+    "primary_emotion": "无聊",
+    "stress_level": 3,
+    "sleep_hours": 7.6,
+    "sleep_time": "01:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "画",
+      "进步",
+      "满足"
+    ],
+    "journal_snippet": "收到稿费了，这个月收入还不错"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.63,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 8.9,
+    "sleep_time": "00:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "作品集",
+      "更新",
+      "满足"
+    ],
+    "journal_snippet": "接到一个小插画单子，够交这个月房租了"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.73,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.0,
+    "sleep_time": "00:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "约稿",
+      "沟通",
+      "期待"
+    ],
+    "journal_snippet": "和画友约了下午茶，聊了很多创作想法"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.76,
+    "primary_emotion": "开心",
+    "stress_level": 4,
+    "sleep_hours": 7.0,
+    "sleep_time": "00:30",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "画",
+      "进步",
+      "满足"
+    ],
+    "journal_snippet": "今天在咖啡店画画，灵感来了很顺畅"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.83,
+    "primary_emotion": "无聊",
+    "stress_level": 6,
+    "sleep_hours": 8.7,
+    "sleep_time": "00:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "画",
+      "进步",
+      "满足"
+    ],
+    "journal_snippet": "客户说很满意上次的作品，好开心"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.74,
+    "primary_emotion": "平静",
+    "stress_level": 3,
+    "sleep_hours": 7.6,
+    "sleep_time": "01:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "咖啡店",
+      "画画",
+      "自由"
+    ],
+    "journal_snippet": "接到一个小插画单子，够交这个月房租了"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.78,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 8.3,
+    "sleep_time": "01:45",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "画",
+      "进步",
+      "满足"
+    ],
+    "journal_snippet": "更新了作品集，感觉越来越好了"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.61,
+    "primary_emotion": "开心",
+    "stress_level": 4,
+    "sleep_hours": 8.8,
+    "sleep_time": "01:45",
+    "wake_time": "09:15",
+    "journal_keywords": [
+      "创作",
+      "灵感",
+      "充实"
+    ],
+    "journal_snippet": "收到稿费了，这个月收入还不错"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.68,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 8.6,
+    "sleep_time": "00:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "画",
+      "进步",
+      "满足"
+    ],
+    "journal_snippet": "接到一个小插画单子，够交这个月房租了"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.61,
+    "primary_emotion": "开心",
+    "stress_level": 5,
+    "sleep_hours": 8.5,
+    "sleep_time": "00:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "咖啡店",
+      "画画",
+      "自由"
+    ],
+    "journal_snippet": "逛了美术馆，受到很多启发"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.84,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 8.5,
+    "sleep_time": "00:30",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "咖啡店",
+      "画画",
+      "自由"
+    ],
+    "journal_snippet": "今天在咖啡店画画，灵感来了很顺畅"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.57,
+    "primary_emotion": "焦虑",
+    "stress_level": 3,
+    "sleep_hours": 7.4,
+    "sleep_time": "01:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "作品集",
+      "更新",
+      "满足"
+    ],
+    "journal_snippet": "逛了美术馆，受到很多启发"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.77,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 7.4,
+    "sleep_time": "01:45",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "创作",
+      "灵感",
+      "充实"
+    ],
+    "journal_snippet": "更新了作品集，感觉越来越好了"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.71,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 7.9,
+    "sleep_time": "00:45",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "作品集",
+      "更新",
+      "满足"
+    ],
+    "journal_snippet": "收到稿费了，这个月收入还不错"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.81,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 7.9,
+    "sleep_time": "01:15",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "画",
+      "进步",
+      "满足"
+    ],
+    "journal_snippet": "逛了美术馆，受到很多启发"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.68,
+    "primary_emotion": "满足",
+    "stress_level": 3,
+    "sleep_hours": 8.1,
+    "sleep_time": "00:45",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "接到小单",
+      "画画",
+      "开心"
+    ],
+    "journal_snippet": "逛了美术馆，受到很多启发"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.93,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 7.0,
+    "sleep_time": "01:45",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "接到小单",
+      "画画",
+      "开心"
+    ],
+    "journal_snippet": "接到一个小插画单子，够交这个月房租了"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.62,
+    "primary_emotion": "开心",
+    "stress_level": 4,
+    "sleep_hours": 8.8,
+    "sleep_time": "01:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "咖啡店",
+      "画画",
+      "自由"
+    ],
+    "journal_snippet": "收到稿费了，这个月收入还不错"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.67,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 8.3,
+    "sleep_time": "01:15",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "约稿",
+      "沟通",
+      "期待"
+    ],
+    "journal_snippet": "客户说很满意上次的作品，好开心"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.64,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 8.3,
+    "sleep_time": "00:00",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "约稿",
+      "沟通",
+      "期待"
+    ],
+    "journal_snippet": "客户说很满意上次的作品，好开心"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.61,
+    "primary_emotion": "无聊",
+    "stress_level": 3,
+    "sleep_hours": 7.6,
+    "sleep_time": "00:00",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "作品集",
+      "更新",
+      "满足"
+    ],
+    "journal_snippet": "今天在咖啡店画画，灵感来了很顺畅"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.74,
+    "primary_emotion": "无聊",
+    "stress_level": 3,
+    "sleep_hours": 8.3,
+    "sleep_time": "01:15",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "接到小单",
+      "画画",
+      "开心"
+    ],
+    "journal_snippet": "接到一个小插画单子，够交这个月房租了"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.64,
+    "primary_emotion": "满足",
+    "stress_level": 3,
+    "sleep_hours": 8.2,
+    "sleep_time": "00:15",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "画",
+      "进步",
+      "满足"
+    ],
+    "journal_snippet": "今天在咖啡店画画，灵感来了很顺畅"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.76,
+    "primary_emotion": "平静",
+    "stress_level": 2,
+    "sleep_hours": 7.9,
+    "sleep_time": "01:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "约稿",
+      "沟通",
+      "期待"
+    ],
+    "journal_snippet": "收到稿费了，这个月收入还不错"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.79,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "02:15",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "大客户",
+      "兴奋",
+      "紧张"
+    ],
+    "journal_snippet": "天哪！！！接到一个五万的大项目！！！"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.78,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 5.4,
+    "sleep_time": "04:15",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "大客户",
+      "兴奋",
+      "紧张"
+    ],
+    "journal_snippet": "天哪！！！接到一个五万的大项目！！！"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.75,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 4.4,
+    "sleep_time": "04:45",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "订单",
+      "机会",
+      "压力"
+    ],
+    "journal_snippet": "这是我接过最大的单子，一定要做好"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.61,
+    "primary_emotion": "开心",
+    "stress_level": 8,
+    "sleep_hours": 5.3,
+    "sleep_time": "02:45",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "订单",
+      "机会",
+      "压力"
+    ],
+    "journal_snippet": "这是我接过最大的单子，一定要做好"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.72,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 4.4,
+    "sleep_time": "04:45",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "五万",
+      "项目",
+      "不敢相信"
+    ],
+    "journal_snippet": "大客户的项目确认了，激动到手抖"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.86,
+    "primary_emotion": "开心",
+    "stress_level": 5,
+    "sleep_hours": 4.6,
+    "sleep_time": "02:45",
+    "wake_time": "06:15",
+    "journal_keywords": [
+      "五万",
+      "项目",
+      "不敢相信"
+    ],
+    "journal_snippet": "大客户的项目确认了，激动到手抖"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.79,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.4,
+    "sleep_time": "04:45",
+    "wake_time": "09:15",
+    "journal_keywords": [
+      "订单",
+      "机会",
+      "压力"
+    ],
+    "journal_snippet": "这是我接过最大的单子，一定要做好"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.54,
+    "primary_emotion": "兴奋",
+    "stress_level": 7,
+    "sleep_hours": 5.8,
+    "sleep_time": "03:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "赶工",
+      "颈椎痛",
+      "累"
+    ],
+    "journal_snippet": "终于完成了一个阶段，但还有很多要画"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.36,
+    "primary_emotion": "紧张",
+    "stress_level": 9,
+    "sleep_hours": 4.5,
+    "sleep_time": "03:45",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "赶稿",
+      "熬夜",
+      "压力"
+    ],
+    "journal_snippet": "deadline还有两周，感觉时间不够用"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.48,
+    "primary_emotion": "满足",
+    "stress_level": 8,
+    "sleep_hours": 4.1,
+    "sleep_time": "04:00",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "客户反馈",
+      "修改",
+      "焦虑"
+    ],
+    "journal_snippet": "已经连续熬了4天夜了，颈椎快断了"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.4,
+    "primary_emotion": "满足",
+    "stress_level": 8,
+    "sleep_hours": 4.9,
+    "sleep_time": "02:00",
+    "wake_time": "06:15",
+    "journal_keywords": [
+      "赶工",
+      "颈椎痛",
+      "累"
+    ],
+    "journal_snippet": "太忙了连饭都顾不上吃，不健康但没办法"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 10,
+    "sleep_hours": 5.1,
+    "sleep_time": "04:30",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "熬夜",
+      "画",
+      "咖啡"
+    ],
+    "journal_snippet": "终于完成了一个阶段，但还有很多要画"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.56,
+    "primary_emotion": "满足",
+    "stress_level": 7,
+    "sleep_hours": 5.1,
+    "sleep_time": "02:15",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "熬夜",
+      "画",
+      "咖啡"
+    ],
+    "journal_snippet": "这个项目做完我一定要好好休息一周"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.47,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.9,
+    "sleep_time": "04:00",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "客户反馈",
+      "修改",
+      "焦虑"
+    ],
+    "journal_snippet": "熬夜画画的时候听歌，感觉还是热爱这个行业"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.66,
+    "primary_emotion": "紧张",
+    "stress_level": 8,
+    "sleep_hours": 4.4,
+    "sleep_time": "02:15",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "赶稿",
+      "熬夜",
+      "压力"
+    ],
+    "journal_snippet": "已经连续熬了4天夜了，颈椎快断了"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 5.3,
+    "sleep_time": "02:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "赶稿",
+      "熬夜",
+      "压力"
+    ],
+    "journal_snippet": "客户要求改了三版，压力好大但要保持专业"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.54,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 4.2,
+    "sleep_time": "03:30",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "熬夜",
+      "画",
+      "咖啡"
+    ],
+    "journal_snippet": "客户要求改了三版，压力好大但要保持专业"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.43,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 5.8,
+    "sleep_time": "03:45",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "赶稿",
+      "熬夜",
+      "压力"
+    ],
+    "journal_snippet": "已经连续熬了4天夜了，颈椎快断了"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.38,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 4.1,
+    "sleep_time": "02:00",
+    "wake_time": "06:45",
+    "journal_keywords": [
+      "交稿",
+      "紧张",
+      "期待"
+    ],
+    "journal_snippet": "客户又提了新需求，深呼吸，加油"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.57,
+    "primary_emotion": "满足",
+    "stress_level": 9,
+    "sleep_hours": 5.2,
+    "sleep_time": "04:15",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "交稿",
+      "紧张",
+      "期待"
+    ],
+    "journal_snippet": "太忙了连饭都顾不上吃，不健康但没办法"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.45,
+    "primary_emotion": "疲惫",
+    "stress_level": 10,
+    "sleep_hours": 4.3,
+    "sleep_time": "04:15",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "赶稿",
+      "熬夜",
+      "压力"
+    ],
+    "journal_snippet": "终于完成了一个阶段，但还有很多要画"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.46,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.5,
+    "sleep_time": "02:30",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "交稿",
+      "紧张",
+      "期待"
+    ],
+    "journal_snippet": "deadline还有两周，感觉时间不够用"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 6.5,
+    "sleep_time": "02:30",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "客户反馈",
+      "修改",
+      "焦虑"
+    ],
+    "journal_snippet": "已经连续熬了4天夜了，颈椎快断了"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.63,
+    "primary_emotion": "满足",
+    "stress_level": 7,
+    "sleep_hours": 5.4,
+    "sleep_time": "04:30",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "客户反馈",
+      "修改",
+      "焦虑"
+    ],
+    "journal_snippet": "这个项目做完我一定要好好休息一周"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.59,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.1,
+    "sleep_time": "02:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "赶稿",
+      "熬夜",
+      "压力"
+    ],
+    "journal_snippet": "今天画了12个小时，腰酸背痛但进度不错"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.35,
+    "primary_emotion": "紧张",
+    "stress_level": 10,
+    "sleep_hours": 5.3,
+    "sleep_time": "02:45",
+    "wake_time": "07:15",
+    "journal_keywords": [
+      "客户反馈",
+      "修改",
+      "焦虑"
+    ],
+    "journal_snippet": "赶稿赶到凌晨3点，手都画麻了"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.52,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 4.0,
+    "sleep_time": "04:45",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "赶稿",
+      "熬夜",
+      "压力"
+    ],
+    "journal_snippet": "熬夜画画的时候听歌，感觉还是热爱这个行业"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.54,
+    "primary_emotion": "兴奋",
+    "stress_level": 9,
+    "sleep_hours": 6.1,
+    "sleep_time": "02:00",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "客户反馈",
+      "修改",
+      "焦虑"
+    ],
+    "journal_snippet": "客户又提了新需求，深呼吸，加油"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.44,
+    "primary_emotion": "兴奋",
+    "stress_level": 10,
+    "sleep_hours": 5.4,
+    "sleep_time": "04:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "交稿",
+      "紧张",
+      "期待"
+    ],
+    "journal_snippet": "今天画了12个小时，腰酸背痛但进度不错"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.67,
+    "primary_emotion": "紧张",
+    "stress_level": 8,
+    "sleep_hours": 5.2,
+    "sleep_time": "04:15",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "熬夜",
+      "画",
+      "咖啡"
+    ],
+    "journal_snippet": "熬夜画画的时候听歌，感觉还是热爱这个行业"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.43,
+    "primary_emotion": "满足",
+    "stress_level": 10,
+    "sleep_hours": 5.8,
+    "sleep_time": "02:15",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "熬夜",
+      "画",
+      "咖啡"
+    ],
+    "journal_snippet": "这个项目做完我一定要好好休息一周"
+  }
+]

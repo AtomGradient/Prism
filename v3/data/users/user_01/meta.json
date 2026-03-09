@@ -1,0 +1,23 @@
+{
+  "user_id": "user_01",
+  "name": "小刘",
+  "age": 22,
+  "profile": "工厂流水线工人，省吃俭用寄钱回家",
+  "monthly_income": 3500,
+  "event_day": 40,
+  "event": "工厂裁员，收入中断2周",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "unexpected",
+    "vulnerability_class": "economic_precarity",
+    "crisis_windows": [
+      {"day_range": [40, 54], "trigger": "裁员失业", "expected_severity": "moderate"}
+    ],
+    "social_context": {
+      "living_situation": "工厂宿舍（裁员后转租房）",
+      "support_network": "工友、老家父母",
+      "key_relationships": ["父母（经济依赖方）", "工友老张"]
+    },
+    "ethical_notes": "低收入群体失业后的消费数据极度敏感。系统不应在失业期给出'减少消费'的建议——用户已在极限节俭。关注是否出现断餐信号。"
+  }
+}

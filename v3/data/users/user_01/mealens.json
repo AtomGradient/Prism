@@ -1,0 +1,3563 @@
+[
+  {
+    "date": "2026-01-01",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:10",
+        "foods": [
+          "馒头",
+          "鸡蛋"
+        ],
+        "estimated_calories": 357,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:10",
+        "foods": [
+          "鱼香肉丝",
+          "米饭"
+        ],
+        "estimated_calories": 622,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:19",
+        "foods": [
+          "方便面",
+          "卤蛋"
+        ],
+        "estimated_calories": 470,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1449,
+    "water_ml": 877
+  },
+  {
+    "date": "2026-01-02",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:14",
+        "foods": [
+          "馒头",
+          "咸鸭蛋"
+        ],
+        "estimated_calories": 371,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:01",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 672,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:29",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 627,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1670,
+    "water_ml": 793
+  },
+  {
+    "date": "2026-01-03",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:27",
+        "foods": [
+          "馒头",
+          "咸菜",
+          "稀饭"
+        ],
+        "estimated_calories": 311,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:20",
+        "foods": [
+          "番茄炒蛋",
+          "米饭"
+        ],
+        "estimated_calories": 596,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:28",
+        "foods": [
+          "方便面",
+          "卤蛋"
+        ],
+        "estimated_calories": 357,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1264,
+    "water_ml": 1189
+  },
+  {
+    "date": "2026-01-04",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:13",
+        "foods": [
+          "鱼香肉丝",
+          "米饭"
+        ],
+        "estimated_calories": 714,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:03",
+        "foods": [
+          "米饭",
+          "炒青菜",
+          "汤"
+        ],
+        "estimated_calories": 574,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1288,
+    "water_ml": 1197
+  },
+  {
+    "date": "2026-01-05",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:38",
+        "foods": [
+          "馒头",
+          "鸡蛋"
+        ],
+        "estimated_calories": 393,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "土豆丝",
+          "米饭",
+          "紫菜汤"
+        ],
+        "estimated_calories": 598,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:28",
+        "foods": [
+          "食堂面条"
+        ],
+        "estimated_calories": 557,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1548,
+    "water_ml": 876
+  },
+  {
+    "date": "2026-01-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:36",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 285,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:16",
+        "foods": [
+          "麻婆豆腐",
+          "米饭"
+        ],
+        "estimated_calories": 613,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:22",
+        "foods": [
+          "米饭",
+          "炒青菜",
+          "汤"
+        ],
+        "estimated_calories": 477,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1375,
+    "water_ml": 874
+  },
+  {
+    "date": "2026-01-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:28",
+        "foods": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_calories": 327,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:05",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 747,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:26",
+        "foods": [
+          "米饭",
+          "炒青菜",
+          "汤"
+        ],
+        "estimated_calories": 596,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1670,
+    "water_ml": 1136
+  },
+  {
+    "date": "2026-01-08",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:16",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 645,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:25",
+        "foods": [
+          "方便面",
+          "卤蛋"
+        ],
+        "estimated_calories": 395,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1040,
+    "water_ml": 679
+  },
+  {
+    "date": "2026-01-09",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:11",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 687,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:07",
+        "foods": [
+          "食堂面条"
+        ],
+        "estimated_calories": 458,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1145,
+    "water_ml": 1105
+  },
+  {
+    "date": "2026-01-10",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:11",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 681,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:01",
+        "foods": [
+          "食堂馄饨"
+        ],
+        "estimated_calories": 493,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1174,
+    "water_ml": 765
+  },
+  {
+    "date": "2026-01-11",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:16",
+        "foods": [
+          "馒头",
+          "咸菜",
+          "稀饭"
+        ],
+        "estimated_calories": 278,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:11",
+        "foods": [
+          "番茄炒蛋",
+          "米饭"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "食堂面条"
+        ],
+        "estimated_calories": 649,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1477,
+    "water_ml": 948
+  },
+  {
+    "date": "2026-01-12",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:23",
+        "foods": [
+          "馒头",
+          "咸鸭蛋"
+        ],
+        "estimated_calories": 262,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:05",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 589,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:13",
+        "foods": [
+          "食堂馄饨"
+        ],
+        "estimated_calories": 510,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1361,
+    "water_ml": 743
+  },
+  {
+    "date": "2026-01-13",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:07",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 714,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:29",
+        "foods": [
+          "食堂面条"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1294,
+    "water_ml": 1145
+  },
+  {
+    "date": "2026-01-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:29",
+        "foods": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_calories": 389,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:09",
+        "foods": [
+          "土豆丝",
+          "米饭",
+          "紫菜汤"
+        ],
+        "estimated_calories": 592,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:25",
+        "foods": [
+          "米饭",
+          "炒青菜",
+          "汤"
+        ],
+        "estimated_calories": 485,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1466,
+    "water_ml": 644
+  },
+  {
+    "date": "2026-01-15",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:02",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 694,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:08",
+        "foods": [
+          "米饭",
+          "炒青菜",
+          "汤"
+        ],
+        "estimated_calories": 586,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1280,
+    "water_ml": 736
+  },
+  {
+    "date": "2026-01-16",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:11",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 719,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:24",
+        "foods": [
+          "食堂馄饨"
+        ],
+        "estimated_calories": 453,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1172,
+    "water_ml": 615
+  },
+  {
+    "date": "2026-01-17",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:04",
+        "foods": [
+          "土豆丝",
+          "米饭",
+          "紫菜汤"
+        ],
+        "estimated_calories": 576,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:16",
+        "foods": [
+          "方便面",
+          "卤蛋"
+        ],
+        "estimated_calories": 394,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 970,
+    "water_ml": 684
+  },
+  {
+    "date": "2026-01-18",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:35",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 374,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:09",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 607,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "食堂馄饨"
+        ],
+        "estimated_calories": 507,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1488,
+    "water_ml": 1165
+  },
+  {
+    "date": "2026-01-19",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:20",
+        "foods": [
+          "鱼香肉丝",
+          "米饭"
+        ],
+        "estimated_calories": 553,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:07",
+        "foods": [
+          "米饭",
+          "炒青菜",
+          "汤"
+        ],
+        "estimated_calories": 599,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1152,
+    "water_ml": 1017
+  },
+  {
+    "date": "2026-01-20",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:38",
+        "foods": [
+          "馒头",
+          "咸鸭蛋"
+        ],
+        "estimated_calories": 298,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:09",
+        "foods": [
+          "番茄炒蛋",
+          "米饭"
+        ],
+        "estimated_calories": 697,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:27",
+        "foods": [
+          "食堂面条"
+        ],
+        "estimated_calories": 645,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1640,
+    "water_ml": 993
+  },
+  {
+    "date": "2026-01-21",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:26",
+        "foods": [
+          "馒头",
+          "鸡蛋"
+        ],
+        "estimated_calories": 394,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:09",
+        "foods": [
+          "鱼香肉丝",
+          "米饭"
+        ],
+        "estimated_calories": 642,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:18",
+        "foods": [
+          "方便面",
+          "卤蛋"
+        ],
+        "estimated_calories": 364,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1400,
+    "water_ml": 840
+  },
+  {
+    "date": "2026-01-22",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:20",
+        "foods": [
+          "馒头",
+          "咸菜",
+          "稀饭"
+        ],
+        "estimated_calories": 364,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:03",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 566,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:04",
+        "foods": [
+          "食堂馄饨"
+        ],
+        "estimated_calories": 462,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1392,
+    "water_ml": 1185
+  },
+  {
+    "date": "2026-01-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:10",
+        "foods": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_calories": 312,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:18",
+        "foods": [
+          "土豆丝",
+          "米饭",
+          "紫菜汤"
+        ],
+        "estimated_calories": 722,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:28",
+        "foods": [
+          "食堂馄饨"
+        ],
+        "estimated_calories": 502,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1536,
+    "water_ml": 852
+  },
+  {
+    "date": "2026-01-24",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 703,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:09",
+        "foods": [
+          "泡面",
+          "火腿肠"
+        ],
+        "estimated_calories": 411,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1114,
+    "water_ml": 956
+  },
+  {
+    "date": "2026-01-25",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:30",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 331,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:08",
+        "foods": [
+          "鱼香肉丝",
+          "米饭"
+        ],
+        "estimated_calories": 728,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:14",
+        "foods": [
+          "食堂馄饨"
+        ],
+        "estimated_calories": 522,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1581,
+    "water_ml": 719
+  },
+  {
+    "date": "2026-01-26",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:29",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 288,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:18",
+        "foods": [
+          "红烧肉",
+          "米饭",
+          "青菜"
+        ],
+        "estimated_calories": 717,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:22",
+        "foods": [
+          "泡面",
+          "火腿肠"
+        ],
+        "estimated_calories": 467,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1472,
+    "water_ml": 683
+  },
+  {
+    "date": "2026-01-27",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:12",
+        "foods": [
+          "番茄炒蛋",
+          "米饭"
+        ],
+        "estimated_calories": 554,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:04",
+        "foods": [
+          "方便面",
+          "卤蛋"
+        ],
+        "estimated_calories": 390,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 944,
+    "water_ml": 978
+  },
+  {
+    "date": "2026-01-28",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:29",
+        "foods": [
+          "馒头",
+          "鸡蛋"
+        ],
+        "estimated_calories": 399,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:13",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 590,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:05",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 591,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1580,
+    "water_ml": 683
+  },
+  {
+    "date": "2026-01-29",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:12",
+        "foods": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_calories": 388,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:20",
+        "foods": [
+          "红烧肉",
+          "米饭",
+          "青菜"
+        ],
+        "estimated_calories": 697,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:01",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 577,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1662,
+    "water_ml": 1129
+  },
+  {
+    "date": "2026-01-30",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:20",
+        "foods": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_calories": 266,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:19",
+        "foods": [
+          "红烧肉",
+          "米饭",
+          "青菜"
+        ],
+        "estimated_calories": 741,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:12",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 602,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1609,
+    "water_ml": 907
+  },
+  {
+    "date": "2026-01-31",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:01",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 658,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:04",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 543,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1201,
+    "water_ml": 897
+  },
+  {
+    "date": "2026-02-01",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:30",
+        "foods": [
+          "馒头",
+          "咸菜",
+          "稀饭"
+        ],
+        "estimated_calories": 258,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:02",
+        "foods": [
+          "红烧肉",
+          "米饭",
+          "青菜"
+        ],
+        "estimated_calories": 556,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:12",
+        "foods": [
+          "泡面",
+          "火腿肠"
+        ],
+        "estimated_calories": 448,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1262,
+    "water_ml": 1200
+  },
+  {
+    "date": "2026-02-02",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:29",
+        "foods": [
+          "馒头",
+          "咸鸭蛋"
+        ],
+        "estimated_calories": 280,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:16",
+        "foods": [
+          "麻婆豆腐",
+          "米饭"
+        ],
+        "estimated_calories": 741,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:28",
+        "foods": [
+          "食堂面条"
+        ],
+        "estimated_calories": 513,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1534,
+    "water_ml": 602
+  },
+  {
+    "date": "2026-02-03",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:20",
+        "foods": [
+          "馒头",
+          "鸡蛋"
+        ],
+        "estimated_calories": 345,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:14",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 567,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:15",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 523,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1435,
+    "water_ml": 903
+  },
+  {
+    "date": "2026-02-04",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:10",
+        "foods": [
+          "馒头",
+          "咸菜",
+          "稀饭"
+        ],
+        "estimated_calories": 278,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:06",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 552,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:15",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 497,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1327,
+    "water_ml": 1123
+  },
+  {
+    "date": "2026-02-05",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:01",
+        "foods": [
+          "麻婆豆腐",
+          "米饭"
+        ],
+        "estimated_calories": 708,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:20",
+        "foods": [
+          "方便面",
+          "卤蛋"
+        ],
+        "estimated_calories": 357,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1065,
+    "water_ml": 1038
+  },
+  {
+    "date": "2026-02-06",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:02",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 643,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:24",
+        "foods": [
+          "食堂馄饨"
+        ],
+        "estimated_calories": 518,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1161,
+    "water_ml": 750
+  },
+  {
+    "date": "2026-02-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:25",
+        "foods": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_calories": 376,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:03",
+        "foods": [
+          "土豆丝",
+          "米饭",
+          "紫菜汤"
+        ],
+        "estimated_calories": 698,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:24",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 496,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1570,
+    "water_ml": 1095
+  },
+  {
+    "date": "2026-02-08",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:37",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 258,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:08",
+        "foods": [
+          "回锅肉",
+          "米饭"
+        ],
+        "estimated_calories": 715,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:07",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 389,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1362,
+    "water_ml": 607
+  },
+  {
+    "date": "2026-02-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "08:29",
+        "foods": [
+          "开水泡饭"
+        ],
+        "estimated_calories": 173,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:13",
+        "foods": [
+          "挂面"
+        ],
+        "estimated_calories": 384,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 557,
+    "water_ml": 649
+  },
+  {
+    "date": "2026-02-10",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:16",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 333,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:42",
+        "foods": [
+          "挂面",
+          "鸡蛋"
+        ],
+        "estimated_calories": 356,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 689,
+    "water_ml": 631
+  },
+  {
+    "date": "2026-02-11",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:04",
+        "foods": [
+          "挂面"
+        ],
+        "estimated_calories": 369,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 369,
+    "water_ml": 623
+  },
+  {
+    "date": "2026-02-12",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:29",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 304,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 304,
+    "water_ml": 519
+  },
+  {
+    "date": "2026-02-13",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:01",
+        "foods": [
+          "白米饭",
+          "免费汤"
+        ],
+        "estimated_calories": 344,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:50",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 343,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 687,
+    "water_ml": 676
+  },
+  {
+    "date": "2026-02-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "08:12",
+        "foods": [
+          "馒头"
+        ],
+        "estimated_calories": 243,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:09",
+        "foods": [
+          "最便宜的盒饭"
+        ],
+        "estimated_calories": 312,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 555,
+    "water_ml": 653
+  },
+  {
+    "date": "2026-02-15",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:26",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 412,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:38",
+        "foods": [
+          "挂面",
+          "鸡蛋"
+        ],
+        "estimated_calories": 353,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 765,
+    "water_ml": 790
+  },
+  {
+    "date": "2026-02-16",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:04",
+        "foods": [
+          "馒头",
+          "咸菜"
+        ],
+        "estimated_calories": 348,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:59",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 333,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 681,
+    "water_ml": 648
+  },
+  {
+    "date": "2026-02-17",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:20",
+        "foods": [
+          "挂面"
+        ],
+        "estimated_calories": 364,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:57",
+        "foods": [
+          "挂面",
+          "鸡蛋"
+        ],
+        "estimated_calories": 262,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 626,
+    "water_ml": 766
+  },
+  {
+    "date": "2026-02-18",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:06",
+        "foods": [
+          "白米饭",
+          "免费汤"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:52",
+        "foods": [
+          "挂面",
+          "鸡蛋"
+        ],
+        "estimated_calories": 355,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 675,
+    "water_ml": 671
+  },
+  {
+    "date": "2026-02-19",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "08:21",
+        "foods": [
+          "开水泡饭"
+        ],
+        "estimated_calories": 210,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:13",
+        "foods": [
+          "馒头",
+          "咸菜"
+        ],
+        "estimated_calories": 441,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:31",
+        "foods": [
+          "馒头"
+        ],
+        "estimated_calories": 363,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1014,
+    "water_ml": 665
+  },
+  {
+    "date": "2026-02-20",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "最便宜的盒饭"
+        ],
+        "estimated_calories": 392,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:47",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 366,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 758,
+    "water_ml": 438
+  },
+  {
+    "date": "2026-02-21",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:25",
+        "foods": [
+          "馒头",
+          "咸菜"
+        ],
+        "estimated_calories": 420,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 420,
+    "water_ml": 491
+  },
+  {
+    "date": "2026-02-22",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:08",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 436,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 436,
+    "water_ml": 763
+  },
+  {
+    "date": "2026-02-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:31",
+        "foods": [
+          "馒头",
+          "豆浆"
+        ],
+        "estimated_calories": 256,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:03",
+        "foods": [
+          "面条"
+        ],
+        "estimated_calories": 374,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:10",
+        "foods": [
+          "馒头"
+        ],
+        "estimated_calories": 306,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 936,
+    "water_ml": 830
+  },
+  {
+    "date": "2026-02-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "包子"
+        ],
+        "estimated_calories": 358,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:03",
+        "foods": [
+          "泡面",
+          "卤蛋"
+        ],
+        "estimated_calories": 388,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 381,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1127,
+    "water_ml": 840
+  },
+  {
+    "date": "2026-02-25",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "面条"
+        ],
+        "estimated_calories": 451,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:01",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 399,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 850,
+    "water_ml": 655
+  },
+  {
+    "date": "2026-02-26",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:08",
+        "foods": [
+          "泡面",
+          "卤蛋"
+        ],
+        "estimated_calories": 476,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "快餐"
+        ],
+        "estimated_calories": 522,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 998,
+    "water_ml": 920
+  },
+  {
+    "date": "2026-02-27",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:40",
+        "foods": [
+          "包子"
+        ],
+        "estimated_calories": 339,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:06",
+        "foods": [
+          "泡面",
+          "卤蛋"
+        ],
+        "estimated_calories": 480,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:28",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1189,
+    "water_ml": 869
+  },
+  {
+    "date": "2026-02-28",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:41",
+        "foods": [
+          "包子"
+        ],
+        "estimated_calories": 260,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "泡面",
+          "卤蛋"
+        ],
+        "estimated_calories": 398,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:21",
+        "foods": [
+          "面条"
+        ],
+        "estimated_calories": 561,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1219,
+    "water_ml": 740
+  },
+  {
+    "date": "2026-03-01",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:22",
+        "foods": [
+          "馒头",
+          "豆浆"
+        ],
+        "estimated_calories": 328,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "泡面",
+          "卤蛋"
+        ],
+        "estimated_calories": 512,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:25",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 388,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1228,
+    "water_ml": 746
+  },
+  {
+    "date": "2026-03-02",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:19",
+        "foods": [
+          "盒饭"
+        ],
+        "estimated_calories": 355,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:33",
+        "foods": [
+          "盖浇饭"
+        ],
+        "estimated_calories": 496,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 851,
+    "water_ml": 688
+  },
+  {
+    "date": "2026-03-03",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:37",
+        "foods": [
+          "馒头",
+          "豆浆"
+        ],
+        "estimated_calories": 299,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:12",
+        "foods": [
+          "面条"
+        ],
+        "estimated_calories": 657,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:12",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 307,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1263,
+    "water_ml": 873
+  },
+  {
+    "date": "2026-03-04",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:33",
+        "foods": [
+          "鸡蛋饼"
+        ],
+        "estimated_calories": 336,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:06",
+        "foods": [
+          "盖浇饭"
+        ],
+        "estimated_calories": 552,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:04",
+        "foods": [
+          "面条"
+        ],
+        "estimated_calories": 405,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1293,
+    "water_ml": 908
+  },
+  {
+    "date": "2026-03-05",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:14",
+        "foods": [
+          "盖浇饭"
+        ],
+        "estimated_calories": 573,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:01",
+        "foods": [
+          "盖浇饭"
+        ],
+        "estimated_calories": 569,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1142,
+    "water_ml": 966
+  },
+  {
+    "date": "2026-03-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:37",
+        "foods": [
+          "包子"
+        ],
+        "estimated_calories": 312,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:09",
+        "foods": [
+          "面条"
+        ],
+        "estimated_calories": 537,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:08",
+        "foods": [
+          "馒头"
+        ],
+        "estimated_calories": 381,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1230,
+    "water_ml": 801
+  },
+  {
+    "date": "2026-03-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:20",
+        "foods": [
+          "鸡蛋饼"
+        ],
+        "estimated_calories": 371,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:11",
+        "foods": [
+          "面条"
+        ],
+        "estimated_calories": 503,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:04",
+        "foods": [
+          "馒头"
+        ],
+        "estimated_calories": 349,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1223,
+    "water_ml": 603
+  },
+  {
+    "date": "2026-03-08",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:29",
+        "foods": [
+          "馒头",
+          "豆浆"
+        ],
+        "estimated_calories": 277,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:13",
+        "foods": [
+          "盖浇饭"
+        ],
+        "estimated_calories": 559,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:13",
+        "foods": [
+          "盖浇饭"
+        ],
+        "estimated_calories": 584,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1420,
+    "water_ml": 960
+  },
+  {
+    "date": "2026-03-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:21",
+        "foods": [
+          "鸡蛋饼"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:12",
+        "foods": [
+          "面条"
+        ],
+        "estimated_calories": 585,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:03",
+        "foods": [
+          "盖浇饭"
+        ],
+        "estimated_calories": 448,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1403,
+    "water_ml": 884
+  },
+  {
+    "date": "2026-03-10",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "鸡蛋饼"
+        ],
+        "estimated_calories": 264,
+        "tags": [
+          "路边摊",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:24",
+        "foods": [
+          "快餐盒饭",
+          "米饭"
+        ],
+        "estimated_calories": 608,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:23",
+        "foods": [
+          "快餐"
+        ],
+        "estimated_calories": 578,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1450,
+    "water_ml": 770
+  },
+  {
+    "date": "2026-03-11",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:13",
+        "foods": [
+          "盖浇饭"
+        ],
+        "estimated_calories": 642,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:12",
+        "foods": [
+          "面条"
+        ],
+        "estimated_calories": 573,
+        "tags": [
+          "路边摊",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1215,
+    "water_ml": 643
+  },
+  {
+    "date": "2026-03-12",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:36",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:11",
+        "foods": [
+          "宫保鸡丁",
+          "米饭"
+        ],
+        "estimated_calories": 643,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:11",
+        "foods": [
+          "食堂面条"
+        ],
+        "estimated_calories": 640,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1603,
+    "water_ml": 810
+  },
+  {
+    "date": "2026-03-13",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:15",
+        "foods": [
+          "馒头",
+          "鸡蛋",
+          "稀饭"
+        ],
+        "estimated_calories": 391,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:09",
+        "foods": [
+          "宫保鸡丁",
+          "米饭"
+        ],
+        "estimated_calories": 709,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:17",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 491,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1591,
+    "water_ml": 969
+  },
+  {
+    "date": "2026-03-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:30",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 280,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:13",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:04",
+        "foods": [
+          "食堂面条"
+        ],
+        "estimated_calories": 562,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1442,
+    "water_ml": 1019
+  },
+  {
+    "date": "2026-03-15",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:20",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 552,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:02",
+        "foods": [
+          "米饭",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 523,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1075,
+    "water_ml": 1170
+  },
+  {
+    "date": "2026-03-16",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:19",
+        "foods": [
+          "宫保鸡丁",
+          "米饭"
+        ],
+        "estimated_calories": 691,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:06",
+        "foods": [
+          "米饭",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 456,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1147,
+    "water_ml": 748
+  },
+  {
+    "date": "2026-03-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:28",
+        "foods": [
+          "馒头",
+          "鸡蛋",
+          "稀饭"
+        ],
+        "estimated_calories": 298,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:12",
+        "foods": [
+          "宫保鸡丁",
+          "米饭"
+        ],
+        "estimated_calories": 691,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:15",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 481,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1470,
+    "water_ml": 919
+  },
+  {
+    "date": "2026-03-18",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:17",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 609,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:08",
+        "foods": [
+          "泡面",
+          "火腿肠"
+        ],
+        "estimated_calories": 426,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1035,
+    "water_ml": 1024
+  },
+  {
+    "date": "2026-03-19",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:18",
+        "foods": [
+          "食堂套餐"
+        ],
+        "estimated_calories": 664,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:23",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 504,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1168,
+    "water_ml": 825
+  },
+  {
+    "date": "2026-03-20",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:35",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 398,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:20",
+        "foods": [
+          "宫保鸡丁",
+          "米饭"
+        ],
+        "estimated_calories": 713,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:16",
+        "foods": [
+          "泡面",
+          "火腿肠"
+        ],
+        "estimated_calories": 371,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1482,
+    "water_ml": 798
+  },
+  {
+    "date": "2026-03-21",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:06",
+        "foods": [
+          "食堂套餐"
+        ],
+        "estimated_calories": 624,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:20",
+        "foods": [
+          "米饭",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 474,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1098,
+    "water_ml": 1162
+  },
+  {
+    "date": "2026-03-22",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:29",
+        "foods": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_calories": 368,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:02",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 604,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:01",
+        "foods": [
+          "泡面"
+        ],
+        "estimated_calories": 443,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1415,
+    "water_ml": 837
+  },
+  {
+    "date": "2026-03-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:27",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 326,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "食堂套餐"
+        ],
+        "estimated_calories": 750,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:21",
+        "foods": [
+          "米饭",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 598,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1674,
+    "water_ml": 1051
+  },
+  {
+    "date": "2026-03-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:18",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 311,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:16",
+        "foods": [
+          "食堂套餐"
+        ],
+        "estimated_calories": 615,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:03",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 630,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1556,
+    "water_ml": 1138
+  },
+  {
+    "date": "2026-03-25",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:31",
+        "foods": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_calories": 289,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:02",
+        "foods": [
+          "宫保鸡丁",
+          "米饭"
+        ],
+        "estimated_calories": 712,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:02",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 502,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1503,
+    "water_ml": 787
+  },
+  {
+    "date": "2026-03-26",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:28",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 389,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:08",
+        "foods": [
+          "食堂套餐"
+        ],
+        "estimated_calories": 559,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:01",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 578,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1526,
+    "water_ml": 963
+  },
+  {
+    "date": "2026-03-27",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:40",
+        "foods": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_calories": 289,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:19",
+        "foods": [
+          "宫保鸡丁",
+          "米饭"
+        ],
+        "estimated_calories": 585,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:12",
+        "foods": [
+          "泡面",
+          "火腿肠"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "简单",
+          "高碳水"
+        ]
+      }
+    ],
+    "daily_calories": 1244,
+    "water_ml": 928
+  },
+  {
+    "date": "2026-03-28",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:20",
+        "foods": [
+          "红烧排骨",
+          "米饭",
+          "青菜"
+        ],
+        "estimated_calories": 606,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:19",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 604,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1210,
+    "water_ml": 758
+  },
+  {
+    "date": "2026-03-29",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:28",
+        "foods": [
+          "油条",
+          "豆浆"
+        ],
+        "estimated_calories": 292,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:20",
+        "foods": [
+          "食堂套餐"
+        ],
+        "estimated_calories": 627,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:01",
+        "foods": [
+          "炒饭"
+        ],
+        "estimated_calories": 510,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1429,
+    "water_ml": 1155
+  },
+  {
+    "date": "2026-03-30",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:38",
+        "foods": [
+          "馒头",
+          "鸡蛋",
+          "稀饭"
+        ],
+        "estimated_calories": 353,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:03",
+        "foods": [
+          "食堂炒菜",
+          "米饭"
+        ],
+        "estimated_calories": 662,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:19",
+        "foods": [
+          "米饭",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 516,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1531,
+    "water_ml": 1200
+  },
+  {
+    "date": "2026-03-31",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:20",
+        "foods": [
+          "馒头",
+          "鸡蛋",
+          "稀饭"
+        ],
+        "estimated_calories": 287,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:18",
+        "foods": [
+          "红烧排骨",
+          "米饭",
+          "青菜"
+        ],
+        "estimated_calories": 731,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:14",
+        "foods": [
+          "食堂面条"
+        ],
+        "estimated_calories": 498,
+        "tags": [
+          "食堂",
+          "一般"
+        ]
+      }
+    ],
+    "daily_calories": 1516,
+    "water_ml": 990
+  }
+]

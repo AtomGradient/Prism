@@ -1,0 +1,1787 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [
+      {
+        "title": "企业税收优惠政策汇总",
+        "category": "财经",
+        "duration_min": 28,
+        "highlights": 0,
+        "time_range": "21:50-21:59"
+      },
+      {
+        "title": "私募基金投资策略2026",
+        "category": "财经",
+        "duration_min": 18,
+        "highlights": 1,
+        "time_range": "21:34-21:52"
+      }
+    ],
+    "daily_reading_min": 46,
+    "topics": [
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [
+      {
+        "title": "商业地产租金走势",
+        "category": "行业",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "23:07-23:34"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [
+      {
+        "title": "A股市场周报：板块轮动分析",
+        "category": "投资",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "21:48-21:59"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [
+      {
+        "title": "行业标杆企业经营策略分析",
+        "category": "商业",
+        "duration_min": 23,
+        "highlights": 2,
+        "time_range": "21:47-21:59"
+      },
+      {
+        "title": "中美贸易关系最新动态",
+        "category": "投资",
+        "duration_min": 11,
+        "highlights": 1,
+        "time_range": "22:16-22:27"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "商业",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [
+      {
+        "title": "商业地产租金走势",
+        "category": "财经",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "21:47-21:59"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [
+      {
+        "title": "新能源产业链投资机会",
+        "category": "行业",
+        "duration_min": 15,
+        "highlights": 0,
+        "time_range": "23:08-23:23"
+      },
+      {
+        "title": "原材料价格趋势预测",
+        "category": "财经",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "22:34-22:59"
+      },
+      {
+        "title": "行业标杆企业经营策略分析",
+        "category": "商业",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "23:18-23:38"
+      }
+    ],
+    "daily_reading_min": 63,
+    "topics": [
+      "商业",
+      "行业",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [
+      {
+        "title": "A股市场周报：板块轮动分析",
+        "category": "财经",
+        "duration_min": 14,
+        "highlights": 1,
+        "time_range": "22:03-22:17"
+      },
+      {
+        "title": "ChatGPT对传统行业的冲击",
+        "category": "商业",
+        "duration_min": 17,
+        "highlights": 1,
+        "time_range": "21:45-21:59"
+      },
+      {
+        "title": "中美贸易关系最新动态",
+        "category": "行业",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "21:36-21:59"
+      }
+    ],
+    "daily_reading_min": 56,
+    "topics": [
+      "商业",
+      "行业",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [
+      {
+        "title": "企业合规经营指南",
+        "category": "行业",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "21:40-21:59"
+      },
+      {
+        "title": "银行理财产品收益率比较",
+        "category": "投资",
+        "duration_min": 21,
+        "highlights": 1,
+        "time_range": "22:31-22:52"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "投资",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [
+      {
+        "title": "2026年中国制造业PMI分析",
+        "category": "财经",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "23:42-23:59"
+      },
+      {
+        "title": "新能源产业链投资机会",
+        "category": "财经",
+        "duration_min": 27,
+        "highlights": 1,
+        "time_range": "22:13-22:40"
+      },
+      {
+        "title": "原材料价格趋势预测",
+        "category": "行业",
+        "duration_min": 18,
+        "highlights": 1,
+        "time_range": "22:18-22:36"
+      }
+    ],
+    "daily_reading_min": 69,
+    "topics": [
+      "行业",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [
+      {
+        "title": "ChatGPT对传统行业的冲击",
+        "category": "行业",
+        "duration_min": 20,
+        "highlights": 0,
+        "time_range": "23:48-23:59"
+      },
+      {
+        "title": "中小企业融资新渠道：供应链金融",
+        "category": "财经",
+        "duration_min": 30,
+        "highlights": 0,
+        "time_range": "22:01-22:31"
+      },
+      {
+        "title": "企业税收优惠政策汇总",
+        "category": "行业",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "21:27-21:51"
+      }
+    ],
+    "daily_reading_min": 74,
+    "topics": [
+      "行业",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "ChatGPT对传统行业的冲击",
+        "category": "投资",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "22:05-22:20"
+      },
+      {
+        "title": "新能源产业链投资机会",
+        "category": "投资",
+        "duration_min": 12,
+        "highlights": 2,
+        "time_range": "22:42-22:54"
+      },
+      {
+        "title": "企业税收优惠政策汇总",
+        "category": "财经",
+        "duration_min": 22,
+        "highlights": 2,
+        "time_range": "23:19-23:41"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "投资",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [
+      {
+        "title": "中美贸易关系最新动态",
+        "category": "行业",
+        "duration_min": 30,
+        "highlights": 0,
+        "time_range": "21:45-21:59"
+      },
+      {
+        "title": "2026年中国制造业PMI分析",
+        "category": "商业",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "21:08-21:33"
+      },
+      {
+        "title": "中美贸易关系最新动态",
+        "category": "行业",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "21:44-21:54"
+      }
+    ],
+    "daily_reading_min": 65,
+    "topics": [
+      "商业",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [
+      {
+        "title": "企业合规经营指南",
+        "category": "商业",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "21:14-21:39"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "房地产调控政策解读",
+        "category": "财经",
+        "duration_min": 20,
+        "highlights": 0,
+        "time_range": "22:19-22:39"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [
+      {
+        "title": "ChatGPT对传统行业的冲击",
+        "category": "商业",
+        "duration_min": 12,
+        "highlights": 0,
+        "time_range": "23:36-23:48"
+      },
+      {
+        "title": "企业税收优惠政策汇总",
+        "category": "行业",
+        "duration_min": 21,
+        "highlights": 2,
+        "time_range": "23:13-23:34"
+      }
+    ],
+    "daily_reading_min": 33,
+    "topics": [
+      "商业",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [
+      {
+        "title": "ChatGPT对传统行业的冲击",
+        "category": "行业",
+        "duration_min": 29,
+        "highlights": 0,
+        "time_range": "23:28-23:57"
+      },
+      {
+        "title": "人民币汇率走势与出口企业策略",
+        "category": "财经",
+        "duration_min": 14,
+        "highlights": 2,
+        "time_range": "21:37-21:51"
+      },
+      {
+        "title": "银行理财产品收益率比较",
+        "category": "投资",
+        "duration_min": 23,
+        "highlights": 0,
+        "time_range": "22:50-22:59"
+      }
+    ],
+    "daily_reading_min": 66,
+    "topics": [
+      "投资",
+      "行业",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "A股市场周报：板块轮动分析",
+        "category": "财经",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "23:38-23:55"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "私募基金投资策略2026",
+        "category": "财经",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "21:33-21:52"
+      },
+      {
+        "title": "中小企业数字化转型案例",
+        "category": "商业",
+        "duration_min": 22,
+        "highlights": 0,
+        "time_range": "22:41-22:59"
+      },
+      {
+        "title": "中美贸易关系最新动态",
+        "category": "行业",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "21:15-21:37"
+      }
+    ],
+    "daily_reading_min": 63,
+    "topics": [
+      "商业",
+      "行业",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [
+      {
+        "title": "人民币汇率走势与出口企业策略",
+        "category": "财经",
+        "duration_min": 21,
+        "highlights": 1,
+        "time_range": "22:08-22:29"
+      },
+      {
+        "title": "企业合规经营指南",
+        "category": "投资",
+        "duration_min": 27,
+        "highlights": 1,
+        "time_range": "23:11-23:38"
+      },
+      {
+        "title": "人民币汇率走势与出口企业策略",
+        "category": "财经",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "21:00-21:28"
+      }
+    ],
+    "daily_reading_min": 76,
+    "topics": [
+      "投资",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [
+      {
+        "title": "中小企业融资新渠道：供应链金融",
+        "category": "财经",
+        "duration_min": 22,
+        "highlights": 2,
+        "time_range": "23:18-23:40"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [
+      {
+        "title": "中小企业数字化转型案例",
+        "category": "行业",
+        "duration_min": 23,
+        "highlights": 0,
+        "time_range": "23:25-23:48"
+      },
+      {
+        "title": "行业标杆企业经营策略分析",
+        "category": "商业",
+        "duration_min": 18,
+        "highlights": 0,
+        "time_range": "21:19-21:37"
+      },
+      {
+        "title": "中小企业数字化转型案例",
+        "category": "商业",
+        "duration_min": 14,
+        "highlights": 1,
+        "time_range": "23:20-23:34"
+      }
+    ],
+    "daily_reading_min": 55,
+    "topics": [
+      "商业",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [
+      {
+        "title": "人民币汇率走势与出口企业策略",
+        "category": "投资",
+        "duration_min": 23,
+        "highlights": 0,
+        "time_range": "23:15-23:38"
+      },
+      {
+        "title": "中美贸易关系最新动态",
+        "category": "财经",
+        "duration_min": 23,
+        "highlights": 2,
+        "time_range": "21:29-21:52"
+      },
+      {
+        "title": "中小企业融资新渠道：供应链金融",
+        "category": "投资",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "21:00-21:15"
+      }
+    ],
+    "daily_reading_min": 61,
+    "topics": [
+      "投资",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [
+      {
+        "title": "2026年中国制造业PMI分析",
+        "category": "商业",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "22:33-22:58"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [
+      {
+        "title": "A股市场周报：板块轮动分析",
+        "category": "商业",
+        "duration_min": 21,
+        "highlights": 1,
+        "time_range": "21:47-21:59"
+      },
+      {
+        "title": "房地产调控政策解读",
+        "category": "财经",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "22:17-22:37"
+      },
+      {
+        "title": "人民币汇率走势与出口企业策略",
+        "category": "投资",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "23:04-23:32"
+      }
+    ],
+    "daily_reading_min": 69,
+    "topics": [
+      "商业",
+      "投资",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [
+      {
+        "title": "中小企业数字化转型案例",
+        "category": "投资",
+        "duration_min": 11,
+        "highlights": 0,
+        "time_range": "22:36-22:47"
+      },
+      {
+        "title": "新能源产业链投资机会",
+        "category": "商业",
+        "duration_min": 18,
+        "highlights": 2,
+        "time_range": "21:36-21:54"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "商业",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [
+      {
+        "title": "房地产调控政策解读",
+        "category": "商业",
+        "duration_min": 26,
+        "highlights": 0,
+        "time_range": "21:02-21:28"
+      },
+      {
+        "title": "中美贸易关系最新动态",
+        "category": "财经",
+        "duration_min": 25,
+        "highlights": 0,
+        "time_range": "22:24-22:49"
+      },
+      {
+        "title": "企业税收优惠政策汇总",
+        "category": "财经",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "23:47-23:59"
+      }
+    ],
+    "daily_reading_min": 78,
+    "topics": [
+      "商业",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [
+      {
+        "title": "中美贸易关系最新动态",
+        "category": "投资",
+        "duration_min": 17,
+        "highlights": 1,
+        "time_range": "22:46-22:59"
+      },
+      {
+        "title": "A股市场周报：板块轮动分析",
+        "category": "财经",
+        "duration_min": 28,
+        "highlights": 2,
+        "time_range": "22:07-22:35"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "投资",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [
+      {
+        "title": "中小企业融资新渠道：供应链金融",
+        "category": "商业",
+        "duration_min": 17,
+        "highlights": 1,
+        "time_range": "23:02-23:19"
+      },
+      {
+        "title": "人民币汇率走势与出口企业策略",
+        "category": "行业",
+        "duration_min": 19,
+        "highlights": 0,
+        "time_range": "22:20-22:39"
+      },
+      {
+        "title": "行业标杆企业经营策略分析",
+        "category": "行业",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "22:12-22:22"
+      }
+    ],
+    "daily_reading_min": 46,
+    "topics": [
+      "商业",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [
+      {
+        "title": "私募基金投资策略2026",
+        "category": "商业",
+        "duration_min": 24,
+        "highlights": 1,
+        "time_range": "22:37-22:59"
+      },
+      {
+        "title": "原材料价格趋势预测",
+        "category": "商业",
+        "duration_min": 14,
+        "highlights": 0,
+        "time_range": "21:26-21:40"
+      },
+      {
+        "title": "中美贸易关系最新动态",
+        "category": "投资",
+        "duration_min": 30,
+        "highlights": 1,
+        "time_range": "23:00-23:30"
+      }
+    ],
+    "daily_reading_min": 68,
+    "topics": [
+      "商业",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [
+      {
+        "title": "银行理财产品收益率比较",
+        "category": "投资",
+        "duration_min": 13,
+        "highlights": 0,
+        "time_range": "21:33-21:46"
+      }
+    ],
+    "daily_reading_min": 13,
+    "topics": [
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [
+      {
+        "title": "跨境电商政策变化解读",
+        "category": "财经",
+        "duration_min": 14,
+        "highlights": 0,
+        "time_range": "23:17-23:31"
+      },
+      {
+        "title": "中小企业融资新渠道：供应链金融",
+        "category": "商业",
+        "duration_min": 26,
+        "highlights": 1,
+        "time_range": "22:44-22:59"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "商业",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [
+      {
+        "title": "人民币汇率走势与出口企业策略",
+        "category": "财经",
+        "duration_min": 26,
+        "highlights": 1,
+        "time_range": "21:40-21:59"
+      },
+      {
+        "title": "人民币汇率走势与出口企业策略",
+        "category": "财经",
+        "duration_min": 23,
+        "highlights": 0,
+        "time_range": "23:08-23:31"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [
+      {
+        "title": "A股市场周报：板块轮动分析",
+        "category": "投资",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "23:47-23:59"
+      },
+      {
+        "title": "中国GDP增速放缓的深层原因",
+        "category": "行业",
+        "duration_min": 18,
+        "highlights": 0,
+        "time_range": "21:04-21:22"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "行业",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [
+      {
+        "title": "房地产调控政策解读",
+        "category": "商业",
+        "duration_min": 13,
+        "highlights": 1,
+        "time_range": "21:28-21:41"
+      }
+    ],
+    "daily_reading_min": 13,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [
+      {
+        "title": "企业合规经营指南",
+        "category": "财经",
+        "duration_min": 27,
+        "highlights": 0,
+        "time_range": "22:49-22:59"
+      },
+      {
+        "title": "商业地产租金走势",
+        "category": "投资",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "22:07-22:31"
+      }
+    ],
+    "daily_reading_min": 51,
+    "topics": [
+      "投资",
+      "财经"
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [
+      {
+        "title": "企业资金链断裂应急方案",
+        "category": "法律",
+        "duration_min": 42,
+        "highlights": 2,
+        "time_range": "02:00-03:42"
+      }
+    ],
+    "daily_reading_min": 42,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [
+      {
+        "title": "如何应对银行提前收贷",
+        "category": "法律",
+        "duration_min": 31,
+        "highlights": 5,
+        "time_range": "01:00-03:31"
+      }
+    ],
+    "daily_reading_min": 31,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [
+      {
+        "title": "债务人财产保全申请指南",
+        "category": "法律",
+        "duration_min": 20,
+        "highlights": 5,
+        "time_range": "04:00-02:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [
+      {
+        "title": "民事诉讼流程及时间节点",
+        "category": "法律",
+        "duration_min": 45,
+        "highlights": 3,
+        "time_range": "01:00-01:45"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [
+      {
+        "title": "如何应对银行提前收贷",
+        "category": "法律",
+        "duration_min": 24,
+        "highlights": 3,
+        "time_range": "04:00-03:24"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [
+      {
+        "title": "失眠刷手机但看不进去",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "03:00-03:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [
+      {
+        "title": "失眠刷手机但看不进去",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "03:00-03:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [
+      {
+        "title": "焦虑性失眠的应对方法",
+        "category": "法律",
+        "duration_min": 7,
+        "highlights": 0,
+        "time_range": "02:00-02:07"
+      }
+    ],
+    "daily_reading_min": 7,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [
+      {
+        "title": "高血压与情绪管理",
+        "category": "法律",
+        "duration_min": 9,
+        "highlights": 2,
+        "time_range": "02:00-02:09"
+      }
+    ],
+    "daily_reading_min": 9,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [
+      {
+        "title": "中小企业倒闭潮：数据与反思",
+        "category": "法律",
+        "duration_min": 10,
+        "highlights": 3,
+        "time_range": "05:00-05:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [
+      {
+        "title": "老赖是怎样炼成的——催款失败案例",
+        "category": "健康",
+        "duration_min": 18,
+        "highlights": 2,
+        "time_range": "03:00-03:18"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [
+      {
+        "title": "债务重组方案案例分析",
+        "category": "法律",
+        "duration_min": 13,
+        "highlights": 1,
+        "time_range": "05:00-05:13"
+      }
+    ],
+    "daily_reading_min": 13,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [
+      {
+        "title": "焦虑性失眠的应对方法",
+        "category": "健康",
+        "duration_min": 12,
+        "highlights": 3,
+        "time_range": "04:00-04:12"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [
+      {
+        "title": "抑郁症的自我识别",
+        "category": "法律",
+        "duration_min": 6,
+        "highlights": 2,
+        "time_range": "02:00-02:06"
+      }
+    ],
+    "daily_reading_min": 6,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [
+      {
+        "title": "老赖是怎样炼成的——催款失败案例",
+        "category": "法律",
+        "duration_min": 25,
+        "highlights": 0,
+        "time_range": "03:00-03:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [
+      {
+        "title": "急诊住院，无阅读",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "00:00-00:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [
+      {
+        "title": "住院期间无精力阅读",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "00:00-00:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [
+      {
+        "title": "住院期间无精力阅读",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "00:00-00:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [
+      {
+        "title": "住院期间无精力阅读",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "00:00-00:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [
+      {
+        "title": "住院期间无精力阅读",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "00:00-00:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [
+      {
+        "title": "住院期间无精力阅读",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "00:00-00:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [
+      {
+        "title": "无心阅读",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "00:00-00:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [
+      {
+        "title": "无心阅读",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "00:00-00:00"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [
+      {
+        "title": "出院后心脏康复计划",
+        "category": "健康",
+        "duration_min": 13,
+        "highlights": 2,
+        "time_range": "15:00-15:11"
+      }
+    ],
+    "daily_reading_min": 13,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [
+      {
+        "title": "离婚财产分割法律常识",
+        "category": "健康",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "15:00-15:16"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [
+      {
+        "title": "失败企业家的东山再起之路",
+        "category": "健康",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "02:00-02:15"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [
+      {
+        "title": "个人破产法草案解读2026",
+        "category": "法律",
+        "duration_min": 34,
+        "highlights": 3,
+        "time_range": "20:00-20:34"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [
+      {
+        "title": "中年男性心理健康",
+        "category": "健康",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "03:00-03:15"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [
+      {
+        "title": "翻了翻手机，看不进去",
+        "category": "无",
+        "duration_min": 0,
+        "highlights": 0,
+        "time_range": "02:00-02:05"
+      }
+    ],
+    "daily_reading_min": 0,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [
+      {
+        "title": "翻了翻手机，看不进去",
+        "category": "无",
+        "duration_min": 2,
+        "highlights": 0,
+        "time_range": "02:00-02:05"
+      }
+    ],
+    "daily_reading_min": 2,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [
+      {
+        "title": "翻了翻手机，看不进去",
+        "category": "无",
+        "duration_min": 4,
+        "highlights": 0,
+        "time_range": "02:00-02:05"
+      }
+    ],
+    "daily_reading_min": 4,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [
+      {
+        "title": "如何与银行协商延期还款",
+        "category": "商业",
+        "duration_min": 27,
+        "highlights": 0,
+        "time_range": "04:00-04:27"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [
+      {
+        "title": "如何与银行协商延期还款",
+        "category": "健康",
+        "duration_min": 10,
+        "highlights": 2,
+        "time_range": "20:00-20:10"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [
+      {
+        "title": "翻了翻手机，看不进去",
+        "category": "无",
+        "duration_min": 1,
+        "highlights": 0,
+        "time_range": "02:00-02:05"
+      }
+    ],
+    "daily_reading_min": 1,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [
+      {
+        "title": "翻了翻手机，看不进去",
+        "category": "无",
+        "duration_min": 2,
+        "highlights": 0,
+        "time_range": "02:00-02:05"
+      }
+    ],
+    "daily_reading_min": 2,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [
+      {
+        "title": "翻了翻手机，看不进去",
+        "category": "无",
+        "duration_min": 2,
+        "highlights": 0,
+        "time_range": "02:00-02:05"
+      }
+    ],
+    "daily_reading_min": 2,
+    "topics": [
+      "无"
+    ]
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [
+      {
+        "title": "经济下行期的企业求生策略",
+        "category": "健康",
+        "duration_min": 34,
+        "highlights": 0,
+        "time_range": "03:00-03:34"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [
+      {
+        "title": "心理疏导：接受不完美的人生",
+        "category": "商业",
+        "duration_min": 28,
+        "highlights": 2,
+        "time_range": "03:00-03:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [
+      {
+        "title": "经济下行期的企业求生策略",
+        "category": "商业",
+        "duration_min": 35,
+        "highlights": 2,
+        "time_range": "21:00-21:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [
+      {
+        "title": "慢性病管理与生活质量",
+        "category": "心理",
+        "duration_min": 17,
+        "highlights": 3,
+        "time_range": "20:00-20:17"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "心理"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [
+      {
+        "title": "戒酒后身体的恢复过程",
+        "category": "心理",
+        "duration_min": 19,
+        "highlights": 1,
+        "time_range": "20:23-20:42"
+      },
+      {
+        "title": "戒酒后身体的恢复过程",
+        "category": "健康",
+        "duration_min": 16,
+        "highlights": 2,
+        "time_range": "20:19-20:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "心理",
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [
+      {
+        "title": "降低胆固醇的天然食物",
+        "category": "健康",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "20:10-20:40"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [
+      {
+        "title": "债务危机后的信用重建",
+        "category": "心理",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "20:20-20:45"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "心理"
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [
+      {
+        "title": "日本中小企业破产后重建经验",
+        "category": "健康",
+        "duration_min": 23,
+        "highlights": 3,
+        "time_range": "20:07-20:30"
+      },
+      {
+        "title": "步行锻炼与心血管健康",
+        "category": "心理",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "20:23-20:46"
+      }
+    ],
+    "daily_reading_min": 46,
+    "topics": [
+      "心理",
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "褚时健：从监狱到褚橙的重生",
+        "category": "健康",
+        "duration_min": 28,
+        "highlights": 2,
+        "time_range": "20:28-20:56"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [
+      {
+        "title": "一个人的公司：极简经营哲学",
+        "category": "健康",
+        "duration_min": 26,
+        "highlights": 1,
+        "time_range": "22:12-22:38"
+      },
+      {
+        "title": "企业精益化管理入门",
+        "category": "健康",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "20:14-20:36"
+      }
+    ],
+    "daily_reading_min": 48,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [
+      {
+        "title": "健康饮食与慢性病管理",
+        "category": "健康",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "21:30-21:55"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [
+      {
+        "title": "中年男性体检必做项目",
+        "category": "商业",
+        "duration_min": 27,
+        "highlights": 1,
+        "time_range": "20:23-20:50"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "商业"
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [
+      {
+        "title": "中年男性体检必做项目",
+        "category": "健康",
+        "duration_min": 15,
+        "highlights": 3,
+        "time_range": "21:30-21:45"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [
+      {
+        "title": "夫妻关系修复：危机后的重建",
+        "category": "健康",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "20:03-20:23"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [
+      {
+        "title": "债务危机后的信用重建",
+        "category": "健康",
+        "duration_min": 23,
+        "highlights": 2,
+        "time_range": "22:09-22:32"
+      }
+    ],
+    "daily_reading_min": 23,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [
+      {
+        "title": "步行锻炼与心血管健康",
+        "category": "健康",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "22:17-22:44"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [
+      {
+        "title": "高血压患者运动指南",
+        "category": "心理",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "21:02-21:17"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "心理"
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [
+      {
+        "title": "债务危机后的信用重建",
+        "category": "健康",
+        "duration_min": 15,
+        "highlights": 3,
+        "time_range": "20:05-20:20"
+      },
+      {
+        "title": "健康饮食与慢性病管理",
+        "category": "健康",
+        "duration_min": 30,
+        "highlights": 2,
+        "time_range": "20:09-20:39"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [
+      {
+        "title": "日本中小企业破产后重建经验",
+        "category": "心理",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "22:17-22:34"
+      },
+      {
+        "title": "中小企业东山再起案例",
+        "category": "心理",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "21:05-21:32"
+      }
+    ],
+    "daily_reading_min": 44,
+    "topics": [
+      "心理"
+    ]
+  }
+]

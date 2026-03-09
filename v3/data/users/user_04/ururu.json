@@ -1,0 +1,1266 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.5,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.0,
+    "sleep_time": "00:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "代码",
+      "bug"
+    ],
+    "journal_snippet": "感觉自己和同级比进度太慢了，有点焦虑。"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.56,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 5.5,
+    "sleep_time": "23:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "代码",
+      "bug"
+    ],
+    "journal_snippet": "组会汇报还行，导师没怎么批评，但也没什么建设性意见。"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.59,
+    "primary_emotion": "紧张",
+    "stress_level": 8,
+    "sleep_hours": 6.7,
+    "sleep_time": "01:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "模型",
+      "调参"
+    ],
+    "journal_snippet": "GPU排队排了两天了，实验还没开始跑。"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "模型",
+      "调参"
+    ],
+    "journal_snippet": "GPU排队排了两天了，实验还没开始跑。"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.57,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.0,
+    "sleep_time": "23:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "师兄",
+      "讨论"
+    ],
+    "journal_snippet": "组会汇报还行，导师没怎么批评，但也没什么建设性意见。"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.51,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.1,
+    "sleep_time": "00:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "焦虑",
+      "进展慢"
+    ],
+    "journal_snippet": "今天在实验室待到很晚，模型训练还没跑完。"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.4,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 5.9,
+    "sleep_time": "23:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "GPU",
+      "排队"
+    ],
+    "journal_snippet": "组会汇报还行，导师没怎么批评，但也没什么建设性意见。"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.47,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.9,
+    "sleep_time": "01:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "文献",
+      "阅读"
+    ],
+    "journal_snippet": "看了一天论文，感觉自己的方向越来越不确定。"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.55,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 5.8,
+    "sleep_time": "00:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "文献",
+      "阅读"
+    ],
+    "journal_snippet": "师兄帮我看了下实验设计，指出了几个问题，要改。"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 4.9,
+    "sleep_time": "02:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "模型",
+      "调参"
+    ],
+    "journal_snippet": "导师催论文初稿了，还差不少，压力好大。"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.59,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 4.5,
+    "sleep_time": "00:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "文献",
+      "阅读"
+    ],
+    "journal_snippet": "看了一天论文，感觉自己的方向越来越不确定。"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.56,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "00:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "综述",
+      "写作"
+    ],
+    "journal_snippet": "感觉自己和同级比进度太慢了，有点焦虑。"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.54,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 5.8,
+    "sleep_time": "23:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "焦虑",
+      "进展慢"
+    ],
+    "journal_snippet": "难得早睡一次，最近实在太累了。"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.41,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 7.2,
+    "sleep_time": "01:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "代码",
+      "bug"
+    ],
+    "journal_snippet": "难得早睡一次，最近实在太累了。"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.64,
+    "primary_emotion": "满足",
+    "stress_level": 8,
+    "sleep_hours": 5.8,
+    "sleep_time": "23:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "综述",
+      "写作"
+    ],
+    "journal_snippet": "看了一天论文，感觉自己的方向越来越不确定。"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.35,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 5.7,
+    "sleep_time": "02:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "焦虑",
+      "进展慢"
+    ],
+    "journal_snippet": "今天把实验框架搭好了，明天开始跑baseline。"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.47,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.1,
+    "sleep_time": "00:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "数据集",
+      "训练"
+    ],
+    "journal_snippet": "代码又出bug了，调了一下午才发现是数据预处理的问题。"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.65,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 4.7,
+    "sleep_time": "23:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "数据集",
+      "训练"
+    ],
+    "journal_snippet": "组会汇报还行，导师没怎么批评，但也没什么建设性意见。"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.52,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 6.3,
+    "sleep_time": "02:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "模型",
+      "调参"
+    ],
+    "journal_snippet": "今天在实验室待到很晚，模型训练还没跑完。"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.79,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 7.2,
+    "sleep_time": "01:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "师兄",
+      "讨论"
+    ],
+    "journal_snippet": "导师催论文初稿了，还差不少，压力好大。"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.49,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "文献",
+      "阅读"
+    ],
+    "journal_snippet": "导师催论文初稿了，还差不少，压力好大。"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.52,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.0,
+    "sleep_time": "01:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "实验室",
+      "加班"
+    ],
+    "journal_snippet": "导师催论文初稿了，还差不少，压力好大。"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.66,
+    "primary_emotion": "满足",
+    "stress_level": 7,
+    "sleep_hours": 4.7,
+    "sleep_time": "00:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "模型",
+      "调参"
+    ],
+    "journal_snippet": "今天把实验框架搭好了，明天开始跑baseline。"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.6,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.1,
+    "sleep_time": "01:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "师兄",
+      "讨论"
+    ],
+    "journal_snippet": "师兄帮我看了下实验设计，指出了几个问题，要改。"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.29,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 5.2,
+    "sleep_time": "01:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "文献",
+      "阅读"
+    ],
+    "journal_snippet": "师兄帮我看了下实验设计，指出了几个问题，要改。"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.49,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.0,
+    "sleep_time": "00:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "焦虑",
+      "进展慢"
+    ],
+    "journal_snippet": "难得早睡一次，最近实在太累了。"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.5,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.4,
+    "sleep_time": "00:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "焦虑",
+      "进展慢"
+    ],
+    "journal_snippet": "和同学打了会球，出了一身汗，心情好了一点。"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.63,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 7.2,
+    "sleep_time": "01:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "导师",
+      "组会"
+    ],
+    "journal_snippet": "今天在实验室待到很晚，模型训练还没跑完。"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.57,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 7.3,
+    "sleep_time": "02:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "模型",
+      "调参"
+    ],
+    "journal_snippet": "代码又出bug了，调了一下午才发现是数据预处理的问题。"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.42,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "数据集",
+      "训练"
+    ],
+    "journal_snippet": "导师催论文初稿了，还差不少，压力好大。"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.42,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 4.8,
+    "sleep_time": "01:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "综述",
+      "写作"
+    ],
+    "journal_snippet": "组会汇报还行，导师没怎么批评，但也没什么建设性意见。"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.44,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "01:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "综述",
+      "写作"
+    ],
+    "journal_snippet": "感觉自己和同级比进度太慢了，有点焦虑。"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.58,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 7.3,
+    "sleep_time": "00:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "文献",
+      "阅读"
+    ],
+    "journal_snippet": "师兄帮我看了下实验设计，指出了几个问题，要改。"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.49,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "01:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "论文",
+      "实验"
+    ],
+    "journal_snippet": "今天在实验室待到很晚，模型训练还没跑完。"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.5,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.9,
+    "sleep_time": "23:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "导师",
+      "组会"
+    ],
+    "journal_snippet": "导师催论文初稿了，还差不少，压力好大。"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.66,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.8,
+    "sleep_time": "02:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "GPU",
+      "排队"
+    ],
+    "journal_snippet": "今天把实验框架搭好了，明天开始跑baseline。"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.49,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 7.1,
+    "sleep_time": "01:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "师兄",
+      "讨论"
+    ],
+    "journal_snippet": "导师催论文初稿了，还差不少，压力好大。"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.49,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 7.3,
+    "sleep_time": "01:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "实验室",
+      "加班"
+    ],
+    "journal_snippet": "今天把实验框架搭好了，明天开始跑baseline。"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 4.7,
+    "sleep_time": "00:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "论文",
+      "实验"
+    ],
+    "journal_snippet": "导师催论文初稿了，还差不少，压力好大。"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.62,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.0,
+    "sleep_time": "02:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "代码",
+      "bug"
+    ],
+    "journal_snippet": "今天在实验室待到很晚，模型训练还没跑完。"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.67,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "导师",
+      "组会"
+    ],
+    "journal_snippet": "今天在实验室待到很晚，模型训练还没跑完。"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "01:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "论文",
+      "实验"
+    ],
+    "journal_snippet": "今天效率不错，写了两千字的related work。"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.47,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.7,
+    "sleep_time": "01:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "代码",
+      "bug"
+    ],
+    "journal_snippet": "今天在实验室待到很晚，模型训练还没跑完。"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.58,
+    "primary_emotion": "紧张",
+    "stress_level": 8,
+    "sleep_hours": 4.3,
+    "sleep_time": "01:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "paper",
+      "deadline"
+    ],
+    "journal_snippet": "GPU排队排了两天了，实验还没开始跑。"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.44,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 6.0,
+    "sleep_time": "00:30",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "师兄",
+      "讨论"
+    ],
+    "journal_snippet": "和同学打了会球，出了一身汗，心情好了一点。"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.15,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 3.0,
+    "sleep_time": "03:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "论文",
+      "否定",
+      "导师",
+      "绝望"
+    ],
+    "journal_snippet": "导师今天直接说我的论文方向有根本性问题，之前三个月的工作基本白做了。他说让我换方向重新来。脑子一片空白，不知道该怎么办。晚上喝了几瓶啤酒，一个人在天台坐了很久。"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.12,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 3.5,
+    "sleep_time": "04:00",
+    "wake_time": "11:00",
+    "journal_keywords": [
+      "失眠",
+      "迷茫",
+      "论文"
+    ],
+    "journal_snippet": "一整天没去实验室。躺在床上刷手机，什么也看不进去。不想见任何人。"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.18,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 4.0,
+    "sleep_time": "03:30",
+    "wake_time": "10:30",
+    "journal_keywords": [
+      "逃避",
+      "焦虑",
+      "压力"
+    ],
+    "journal_snippet": "还是不想去实验室。师兄发消息问我怎么了，我说身体不舒服。其实就是不想面对。"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.1,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 4.6,
+    "sleep_time": "04:30",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "焦虑",
+      "未来"
+    ],
+    "journal_snippet": "给妈妈打了电话，没敢说论文的事。听到她的声音差点哭了。"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.31,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 5.5,
+    "sleep_time": "04:30",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "焦虑",
+      "未来"
+    ],
+    "journal_snippet": "刷了一天手机，看别人都在发论文，更焦虑了。"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.26,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 4.3,
+    "sleep_time": "03:30",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "迷茫",
+      "压力"
+    ],
+    "journal_snippet": "刷了一天手机，看别人都在发论文，更焦虑了。"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.21,
+    "primary_emotion": "焦虑",
+    "stress_level": 10,
+    "sleep_hours": 4.7,
+    "sleep_time": "04:00",
+    "wake_time": "10:30",
+    "journal_keywords": [
+      "迷茫",
+      "压力"
+    ],
+    "journal_snippet": "给妈妈打了电话，没敢说论文的事。听到她的声音差点哭了。"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.23,
+    "primary_emotion": "焦虑",
+    "stress_level": 10,
+    "sleep_hours": 2.7,
+    "sleep_time": "03:00",
+    "wake_time": "11:00",
+    "journal_keywords": [
+      "焦虑",
+      "未来"
+    ],
+    "journal_snippet": "给妈妈打了电话，没敢说论文的事。听到她的声音差点哭了。"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.24,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.4,
+    "sleep_time": "03:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "焦虑",
+      "时间"
+    ],
+    "journal_snippet": "试着列了一个新的研究计划，写了又删删了又写。"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.21,
+    "primary_emotion": "烦躁",
+    "stress_level": 9,
+    "sleep_hours": 5.9,
+    "sleep_time": "02:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "压力",
+      "毕业"
+    ],
+    "journal_snippet": "睡眠还是很差，白天昏昏沉沉的。"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.27,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 4.1,
+    "sleep_time": "03:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "新方向",
+      "迷茫"
+    ],
+    "journal_snippet": "开始看新方向的论文了，但完全提不起兴趣。"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.32,
+    "primary_emotion": "烦躁",
+    "stress_level": 8,
+    "sleep_hours": 5.4,
+    "sleep_time": "02:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "压力",
+      "毕业"
+    ],
+    "journal_snippet": "看到同学在朋友圈晒论文录用，内心复杂。"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.21,
+    "primary_emotion": "烦躁",
+    "stress_level": 9,
+    "sleep_hours": 5.2,
+    "sleep_time": "02:30",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "文献",
+      "重新开始"
+    ],
+    "journal_snippet": "开始看新方向的论文了，但完全提不起兴趣。"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.19,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 4.2,
+    "sleep_time": "02:00",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "自我怀疑",
+      "坚持"
+    ],
+    "journal_snippet": "开始看新方向的论文了，但完全提不起兴趣。"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.32,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 4.8,
+    "sleep_time": "03:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "压力",
+      "毕业"
+    ],
+    "journal_snippet": "试着列了一个新的研究计划，写了又删删了又写。"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.37,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "01:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "文献综述",
+      "新领域"
+    ],
+    "journal_snippet": "睡眠在慢慢恢复，但还是会半夜醒来。"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.38,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 6.0,
+    "sleep_time": "01:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "新方向",
+      "论文"
+    ],
+    "journal_snippet": "效率还是不如以前，但至少能坐在电脑前了。"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.56,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 6.7,
+    "sleep_time": "02:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "新方向",
+      "论文"
+    ],
+    "journal_snippet": "效率还是不如以前，但至少能坐在电脑前了。"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "02:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "文献综述",
+      "新领域"
+    ],
+    "journal_snippet": "效率还是不如以前，但至少能坐在电脑前了。"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.39,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 4.8,
+    "sleep_time": "00:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "新方向",
+      "论文"
+    ],
+    "journal_snippet": "今天写了几百行代码，虽然进度慢但在动了。"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.31,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 5.6,
+    "sleep_time": "02:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "新方向",
+      "论文"
+    ],
+    "journal_snippet": "睡眠在慢慢恢复，但还是会半夜醒来。"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.33,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.9,
+    "sleep_time": "01:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "进展",
+      "慢"
+    ],
+    "journal_snippet": "今天写了几百行代码，虽然进度慢但在动了。"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.31,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 6.1,
+    "sleep_time": "02:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "实验",
+      "重新开始"
+    ],
+    "journal_snippet": "新方向的论文终于看出一点门道了，有个idea可以试试。"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.45,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "00:30",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "实验",
+      "重新开始"
+    ],
+    "journal_snippet": "和导师讨论了新方向，他居然觉得不错。稍微有点信心了。"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.46,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "02:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "实验",
+      "重新开始"
+    ],
+    "journal_snippet": "今天写了几百行代码，虽然进度慢但在动了。"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.33,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.8,
+    "sleep_time": "01:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "代码",
+      "新框架"
+    ],
+    "journal_snippet": "新方向的论文终于看出一点门道了，有个idea可以试试。"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.56,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "02:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "代码",
+      "新框架"
+    ],
+    "journal_snippet": "新方向的论文终于看出一点门道了，有个idea可以试试。"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.28,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.9,
+    "sleep_time": "02:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "文献综述",
+      "新领域"
+    ],
+    "journal_snippet": "和导师讨论了新方向，他居然觉得不错。稍微有点信心了。"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 6.2,
+    "sleep_time": "01:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "进展",
+      "慢"
+    ],
+    "journal_snippet": "新方向的论文终于看出一点门道了，有个idea可以试试。"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.63,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.8,
+    "sleep_time": "01:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "模型",
+      "训练"
+    ],
+    "journal_snippet": "组会上分享了新的实验结果，导师说方向对了。"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.52,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.2,
+    "sleep_time": "01:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "写作",
+      "初稿"
+    ],
+    "journal_snippet": "新的baseline跑完了，结果不错，有信心了一点。"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.43,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "01:30",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "进展",
+      "代码"
+    ],
+    "journal_snippet": "新的baseline跑完了，结果不错，有信心了一点。"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.48,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "00:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "导师",
+      "反馈"
+    ],
+    "journal_snippet": "和师弟讨论了一下实验设计，帮他也帮了自己理清思路。"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "新论文",
+      "实验"
+    ],
+    "journal_snippet": "感觉自己在慢慢恢复，虽然还是会想起之前被否的事。"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 5.8,
+    "sleep_time": "01:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "模型",
+      "训练"
+    ],
+    "journal_snippet": "新方向的实验跑出了一些初步结果，比预期的好。"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.48,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "01:30",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "模型",
+      "训练"
+    ],
+    "journal_snippet": "感觉自己在慢慢恢复，虽然还是会想起之前被否的事。"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.58,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.0,
+    "sleep_time": "01:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "baseline",
+      "对比"
+    ],
+    "journal_snippet": "今天效率还行，写了一小节的方法论。"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.46,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "baseline",
+      "对比"
+    ],
+    "journal_snippet": "感觉自己在慢慢恢复，虽然还是会想起之前被否的事。"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "导师",
+      "反馈"
+    ],
+    "journal_snippet": "今天效率还行，写了一小节的方法论。"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.54,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "01:30",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "导师",
+      "反馈"
+    ],
+    "journal_snippet": "今天效率还行，写了一小节的方法论。"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.49,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "写作",
+      "初稿"
+    ],
+    "journal_snippet": "和师弟讨论了一下实验设计，帮他也帮了自己理清思路。"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.45,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:00",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "模型",
+      "训练"
+    ],
+    "journal_snippet": "新方向的实验跑出了一些初步结果，比预期的好。"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.53,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 6.6,
+    "sleep_time": "01:00",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "写作",
+      "初稿"
+    ],
+    "journal_snippet": "感觉自己在慢慢恢复，虽然还是会想起之前被否的事。"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.53,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:30",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "导师",
+      "反馈"
+    ],
+    "journal_snippet": "今天效率还行，写了一小节的方法论。"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.46,
+    "primary_emotion": "满足",
+    "stress_level": 7,
+    "sleep_hours": 6.5,
+    "sleep_time": "01:30",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "模型",
+      "训练"
+    ],
+    "journal_snippet": "感觉自己在慢慢恢复，虽然还是会想起之前被否的事。"
+  }
+]

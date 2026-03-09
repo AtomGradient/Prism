@@ -1,0 +1,5208 @@
+[
+  {
+    "date": "2026-01-01",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "馒头",
+          "豆浆",
+          "鸡蛋"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "盖浇饭",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "米饭",
+          "红烧豆腐",
+          "炒青菜",
+          "鸡蛋汤"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "自制",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1510,
+    "water_ml": 1358
+  },
+  {
+    "date": "2026-01-02",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "面条",
+          "青菜"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鱼香肉丝",
+          "冬瓜汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "红烧豆腐",
+          "炒青菜",
+          "鸡蛋汤"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "自制",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1520,
+    "water_ml": 1351
+  },
+  {
+    "date": "2026-01-03",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "粥",
+          "鸡蛋",
+          "咸菜"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鱼香肉丝",
+          "冬瓜汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "红烧豆腐",
+          "炒青菜",
+          "鸡蛋汤"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "自制",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1490,
+    "water_ml": 1180
+  },
+  {
+    "date": "2026-01-04",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "馒头",
+          "豆浆",
+          "鸡蛋"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡腿",
+          "土豆丝"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "炒豆角"
+        ],
+        "estimated_calories": 500,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1480,
+    "water_ml": 1369
+  },
+  {
+    "date": "2026-01-05",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "馒头",
+          "豆浆",
+          "鸡蛋"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "红烧肉",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 650,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "饺子",
+          "紫菜汤"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "饼干",
+          "茶"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1700,
+    "water_ml": 1296
+  },
+  {
+    "date": "2026-01-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "面条",
+          "青菜"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡腿",
+          "土豆丝"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "番茄炒蛋",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1470,
+    "water_ml": 1212
+  },
+  {
+    "date": "2026-01-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "馒头",
+          "豆浆",
+          "鸡蛋"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡腿",
+          "土豆丝"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "炒豆角"
+        ],
+        "estimated_calories": 500,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1480,
+    "water_ml": 1467
+  },
+  {
+    "date": "2026-01-08",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "面条",
+          "青菜"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "牛肉",
+          "青菜"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "粥",
+          "凉拌黄瓜",
+          "馒头"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1280,
+    "water_ml": 1173
+  },
+  {
+    "date": "2026-01-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "粥",
+          "鸡蛋",
+          "咸菜"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "红烧肉",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 650,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "面条",
+          "酸辣白菜"
+        ],
+        "estimated_calories": 450,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1420,
+    "water_ml": 1370
+  },
+  {
+    "date": "2026-01-10",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "牛奶",
+          "面包"
+        ],
+        "estimated_calories": 300,
+        "tags": [
+          "便利店",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "牛肉",
+          "青菜"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "番茄炒蛋",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "酸奶"
+        ],
+        "estimated_calories": 120,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1490,
+    "water_ml": 1232
+  },
+  {
+    "date": "2026-01-11",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "面条",
+          "青菜"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "牛肉",
+          "青菜"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "炒豆角"
+        ],
+        "estimated_calories": 500,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1400,
+    "water_ml": 1481
+  },
+  {
+    "date": "2026-01-12",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "面条",
+          "青菜"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡腿",
+          "土豆丝"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "粥",
+          "凉拌黄瓜",
+          "馒头"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1330,
+    "water_ml": 1482
+  },
+  {
+    "date": "2026-01-13",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "豆浆",
+          "油条"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "路边摊",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "盖浇饭",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "面条",
+          "酸辣白菜"
+        ],
+        "estimated_calories": 450,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "饼干",
+          "茶"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1580,
+    "water_ml": 1154
+  },
+  {
+    "date": "2026-01-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "牛奶",
+          "面包"
+        ],
+        "estimated_calories": 300,
+        "tags": [
+          "便利店",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡腿",
+          "土豆丝"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "番茄炒蛋",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1420,
+    "water_ml": 1252
+  },
+  {
+    "date": "2026-01-15",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "粥",
+          "鸡蛋",
+          "咸菜"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡腿",
+          "土豆丝"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "炒豆角"
+        ],
+        "estimated_calories": 500,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1420,
+    "water_ml": 1189
+  },
+  {
+    "date": "2026-01-16",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "豆浆",
+          "油条"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "路边摊",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "盖浇饭",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "饺子",
+          "紫菜汤"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "饼干",
+          "茶"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1650,
+    "water_ml": 1050
+  },
+  {
+    "date": "2026-01-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "牛奶",
+          "面包"
+        ],
+        "estimated_calories": 300,
+        "tags": [
+          "便利店",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鱼香肉丝",
+          "冬瓜汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "红烧豆腐",
+          "炒青菜",
+          "鸡蛋汤"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "自制",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1470,
+    "water_ml": 1111
+  },
+  {
+    "date": "2026-01-18",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "牛奶",
+          "面包"
+        ],
+        "estimated_calories": 300,
+        "tags": [
+          "便利店",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡腿",
+          "土豆丝"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "红烧豆腐",
+          "炒青菜",
+          "鸡蛋汤"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "自制",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1450,
+    "water_ml": 1188
+  },
+  {
+    "date": "2026-01-19",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "豆浆",
+          "油条"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "路边摊",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "牛肉",
+          "青菜"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "番茄炒蛋",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1470,
+    "water_ml": 1495
+  },
+  {
+    "date": "2026-01-20",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "粥",
+          "鸡蛋",
+          "咸菜"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "红烧肉",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 650,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "饺子",
+          "紫菜汤"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1490,
+    "water_ml": 1305
+  },
+  {
+    "date": "2026-01-21",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "粥",
+          "鸡蛋",
+          "咸菜"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "牛肉",
+          "青菜"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "面条",
+          "酸辣白菜"
+        ],
+        "estimated_calories": 450,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1320,
+    "water_ml": 1105
+  },
+  {
+    "date": "2026-01-22",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "粥",
+          "鸡蛋",
+          "咸菜"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡腿",
+          "土豆丝"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "炒豆角"
+        ],
+        "estimated_calories": 500,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1420,
+    "water_ml": 1119
+  },
+  {
+    "date": "2026-01-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "面条",
+          "青菜"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "盖浇饭",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "番茄炒蛋",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1450,
+    "water_ml": 1074
+  },
+  {
+    "date": "2026-01-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "馒头",
+          "豆浆",
+          "鸡蛋"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "牛肉",
+          "青菜"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "面条",
+          "酸辣白菜"
+        ],
+        "estimated_calories": 450,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1380,
+    "water_ml": 1013
+  },
+  {
+    "date": "2026-01-25",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "馒头",
+          "豆浆",
+          "鸡蛋"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "牛肉",
+          "青菜"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "面条",
+          "酸辣白菜"
+        ],
+        "estimated_calories": 450,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1380,
+    "water_ml": 1089
+  },
+  {
+    "date": "2026-01-26",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "面条",
+          "青菜"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡腿",
+          "土豆丝"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "饺子",
+          "紫菜汤"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1470,
+    "water_ml": 1381
+  },
+  {
+    "date": "2026-01-27",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "粥",
+          "鸡蛋",
+          "咸菜"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鱼香肉丝",
+          "冬瓜汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "米饭",
+          "红烧豆腐",
+          "炒青菜",
+          "鸡蛋汤"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "自制",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1490,
+    "water_ml": 1231
+  },
+  {
+    "date": "2026-01-28",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "豆浆",
+          "油条"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "路边摊",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "盖浇饭",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "米饭",
+          "番茄炒蛋",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1500,
+    "water_ml": 1443
+  },
+  {
+    "date": "2026-01-29",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "豆浆",
+          "油条"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "路边摊",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鱼香肉丝",
+          "冬瓜汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "饺子",
+          "紫菜汤"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:30",
+        "foods": [
+          "饼干",
+          "茶"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1690,
+    "water_ml": 1218
+  },
+  {
+    "date": "2026-01-30",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "粥",
+          "鸡蛋",
+          "咸菜"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鱼香肉丝",
+          "冬瓜汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "番茄炒蛋",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1460,
+    "water_ml": 1075
+  },
+  {
+    "date": "2026-01-31",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "粥",
+          "鸡蛋",
+          "咸菜"
+        ],
+        "estimated_calories": 320,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "牛肉",
+          "青菜"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "食堂",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "炒豆角"
+        ],
+        "estimated_calories": 500,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1370,
+    "water_ml": 1364
+  },
+  {
+    "date": "2026-02-01",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "面条",
+          "青菜"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "盖浇饭",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "高碳水"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "炒豆角"
+        ],
+        "estimated_calories": 500,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1430,
+    "water_ml": 1309
+  },
+  {
+    "date": "2026-02-02",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "牛奶",
+          "面包"
+        ],
+        "estimated_calories": 300,
+        "tags": [
+          "便利店",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "红烧肉",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 650,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "饺子",
+          "紫菜汤"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1470,
+    "water_ml": 1282
+  },
+  {
+    "date": "2026-02-03",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "馒头",
+          "豆浆",
+          "鸡蛋"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鱼香肉丝",
+          "冬瓜汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "面条",
+          "酸辣白菜"
+        ],
+        "estimated_calories": 450,
+        "tags": [
+          "自制",
+          "简单"
+        ]
+      }
+    ],
+    "daily_calories": 1450,
+    "water_ml": 1232
+  },
+  {
+    "date": "2026-02-04",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "牛奶",
+          "面包"
+        ],
+        "estimated_calories": 300,
+        "tags": [
+          "便利店",
+          "简单"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "红烧肉",
+          "青菜",
+          "汤"
+        ],
+        "estimated_calories": 650,
+        "tags": [
+          "食堂",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "红烧豆腐",
+          "炒青菜",
+          "鸡蛋汤"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "自制",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1500,
+    "water_ml": 1130
+  },
+  {
+    "date": "2026-02-05",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "豆腐",
+          "青菜",
+          "排骨汤"
+        ],
+        "estimated_calories": 640,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "橙子"
+        ],
+        "estimated_calories": 60,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1700,
+    "water_ml": 1881
+  },
+  {
+    "date": "2026-02-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1610,
+    "water_ml": 2181
+  },
+  {
+    "date": "2026-02-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "糙米饭",
+          "清蒸鲈鱼",
+          "时蔬"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "牛奶",
+          "全麦饼干"
+        ],
+        "estimated_calories": 200,
+        "tags": [
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "坚果混合"
+        ],
+        "estimated_calories": 180,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1890,
+    "water_ml": 1993
+  },
+  {
+    "date": "2026-02-08",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "番茄鸡蛋",
+          "菠菜"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "香蕉"
+        ],
+        "estimated_calories": 90,
+        "tags": [
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "牛奶"
+        ],
+        "estimated_calories": 120,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1720,
+    "water_ml": 2074
+  },
+  {
+    "date": "2026-02-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "香蕉"
+        ],
+        "estimated_calories": 90,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1680,
+    "water_ml": 1847
+  },
+  {
+    "date": "2026-02-10",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡胸肉",
+          "菠菜",
+          "紫菜汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "排骨炖萝卜",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "苹果",
+          "核桃"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1750,
+    "water_ml": 1720
+  },
+  {
+    "date": "2026-02-11",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "豆腐",
+          "青菜",
+          "排骨汤"
+        ],
+        "estimated_calories": 640,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "香蕉"
+        ],
+        "estimated_calories": 90,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1660,
+    "water_ml": 1553
+  },
+  {
+    "date": "2026-02-12",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "红枣",
+          "枸杞茶"
+        ],
+        "estimated_calories": 80,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1680,
+    "water_ml": 1924
+  },
+  {
+    "date": "2026-02-13",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "牛奶",
+          "全麦饼干"
+        ],
+        "estimated_calories": 200,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1780,
+    "water_ml": 1815
+  },
+  {
+    "date": "2026-02-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "鸡蛋",
+          "全麦面包",
+          "牛奶",
+          "核桃"
+        ],
+        "estimated_calories": 420,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "番茄鸡蛋",
+          "菠菜"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "香蕉"
+        ],
+        "estimated_calories": 90,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1640,
+    "water_ml": 1761
+  },
+  {
+    "date": "2026-02-15",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "糙米饭",
+          "清蒸鲈鱼",
+          "时蔬"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "牛奶"
+        ],
+        "estimated_calories": 120,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1700,
+    "water_ml": 2045
+  },
+  {
+    "date": "2026-02-16",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "橙子"
+        ],
+        "estimated_calories": 60,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1640,
+    "water_ml": 1970
+  },
+  {
+    "date": "2026-02-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "鸡蛋",
+          "全麦面包",
+          "牛奶",
+          "核桃"
+        ],
+        "estimated_calories": 420,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "豆腐",
+          "青菜",
+          "排骨汤"
+        ],
+        "estimated_calories": 640,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1670,
+    "water_ml": 1617
+  },
+  {
+    "date": "2026-02-18",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "排骨炖萝卜",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1590,
+    "water_ml": 1590
+  },
+  {
+    "date": "2026-02-19",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡胸肉",
+          "菠菜",
+          "紫菜汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "红枣",
+          "枸杞茶"
+        ],
+        "estimated_calories": 80,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1610,
+    "water_ml": 1726
+  },
+  {
+    "date": "2026-02-20",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "酸奶",
+          "蓝莓"
+        ],
+        "estimated_calories": 160,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1790,
+    "water_ml": 2160
+  },
+  {
+    "date": "2026-02-21",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "糙米饭",
+          "清蒸鲈鱼",
+          "时蔬"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "排骨炖萝卜",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "牛奶",
+          "全麦饼干"
+        ],
+        "estimated_calories": 200,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1780,
+    "water_ml": 2171
+  },
+  {
+    "date": "2026-02-22",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "鸡蛋",
+          "全麦面包",
+          "牛奶",
+          "核桃"
+        ],
+        "estimated_calories": 420,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "番茄鸡蛋",
+          "菠菜"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1520,
+    "water_ml": 2158
+  },
+  {
+    "date": "2026-02-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "排骨炖萝卜",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "红枣",
+          "枸杞茶"
+        ],
+        "estimated_calories": 80,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1660,
+    "water_ml": 1781
+  },
+  {
+    "date": "2026-02-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "红枣",
+          "枸杞茶"
+        ],
+        "estimated_calories": 80,
+        "tags": [
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "牛奶"
+        ],
+        "estimated_calories": 120,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1770,
+    "water_ml": 1578
+  },
+  {
+    "date": "2026-02-25",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "鸡蛋",
+          "全麦面包",
+          "牛奶",
+          "核桃"
+        ],
+        "estimated_calories": 420,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "豆腐",
+          "青菜",
+          "排骨汤"
+        ],
+        "estimated_calories": 640,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "牛奶",
+          "全麦饼干"
+        ],
+        "estimated_calories": 200,
+        "tags": [
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "坚果混合"
+        ],
+        "estimated_calories": 180,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 2020,
+    "water_ml": 1987
+  },
+  {
+    "date": "2026-02-26",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1560,
+    "water_ml": 1586
+  },
+  {
+    "date": "2026-02-27",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡胸肉",
+          "菠菜",
+          "紫菜汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1540,
+    "water_ml": 2036
+  },
+  {
+    "date": "2026-02-28",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "糙米饭",
+          "清蒸鲈鱼",
+          "时蔬"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1500,
+    "water_ml": 1846
+  },
+  {
+    "date": "2026-03-01",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "番茄鸡蛋",
+          "菠菜"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "红枣",
+          "枸杞茶"
+        ],
+        "estimated_calories": 80,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1560,
+    "water_ml": 2172
+  },
+  {
+    "date": "2026-03-02",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1560,
+    "water_ml": 2171
+  },
+  {
+    "date": "2026-03-03",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1550,
+    "water_ml": 1630
+  },
+  {
+    "date": "2026-03-04",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "豆腐",
+          "青菜",
+          "排骨汤"
+        ],
+        "estimated_calories": 640,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "香蕉"
+        ],
+        "estimated_calories": 90,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1700,
+    "water_ml": 1849
+  },
+  {
+    "date": "2026-03-05",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡胸肉",
+          "菠菜",
+          "紫菜汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "排骨炖萝卜",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "苹果",
+          "核桃"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1720,
+    "water_ml": 2039
+  },
+  {
+    "date": "2026-03-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "鸡蛋",
+          "全麦面包",
+          "牛奶",
+          "核桃"
+        ],
+        "estimated_calories": 420,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "酸奶",
+          "蓝莓"
+        ],
+        "estimated_calories": 160,
+        "tags": [
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "坚果混合"
+        ],
+        "estimated_calories": 180,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1970,
+    "water_ml": 2139
+  },
+  {
+    "date": "2026-03-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "番茄鸡蛋",
+          "菠菜"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "酸奶",
+          "蓝莓"
+        ],
+        "estimated_calories": 160,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1660,
+    "water_ml": 1959
+  },
+  {
+    "date": "2026-03-08",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "糙米饭",
+          "清蒸鲈鱼",
+          "时蔬"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "坚果混合"
+        ],
+        "estimated_calories": 180,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1700,
+    "water_ml": 2084
+  },
+  {
+    "date": "2026-03-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1550,
+    "water_ml": 2119
+  },
+  {
+    "date": "2026-03-10",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "苹果",
+          "核桃"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1730,
+    "water_ml": 1627
+  },
+  {
+    "date": "2026-03-11",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "鸡胸肉",
+          "菠菜",
+          "紫菜汤"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "食堂",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "牛奶"
+        ],
+        "estimated_calories": 120,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1660,
+    "water_ml": 1593
+  },
+  {
+    "date": "2026-03-12",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "牛奶",
+          "全麦饼干"
+        ],
+        "estimated_calories": 200,
+        "tags": [
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "橙子"
+        ],
+        "estimated_calories": 60,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1840,
+    "water_ml": 1883
+  },
+  {
+    "date": "2026-03-13",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "牛奶"
+        ],
+        "estimated_calories": 120,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1700,
+    "water_ml": 1983
+  },
+  {
+    "date": "2026-03-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "番茄鸡蛋",
+          "菠菜"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "橙子"
+        ],
+        "estimated_calories": 60,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1540,
+    "water_ml": 1653
+  },
+  {
+    "date": "2026-03-15",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "面条",
+          "番茄鸡蛋",
+          "菠菜"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "苹果",
+          "核桃"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "坚果混合"
+        ],
+        "estimated_calories": 180,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1810,
+    "water_ml": 2137
+  },
+  {
+    "date": "2026-03-16",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1570,
+    "water_ml": 1647
+  },
+  {
+    "date": "2026-03-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "红枣",
+          "枸杞茶"
+        ],
+        "estimated_calories": 80,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1710,
+    "water_ml": 1587
+  },
+  {
+    "date": "2026-03-18",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "红枣",
+          "枸杞茶"
+        ],
+        "estimated_calories": 80,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1670,
+    "water_ml": 1882
+  },
+  {
+    "date": "2026-03-19",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "苹果",
+          "核桃"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1730,
+    "water_ml": 1840
+  },
+  {
+    "date": "2026-03-20",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "小米粥",
+          "鸡蛋",
+          "红枣"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "红烧带鱼",
+          "蒜蓉生菜",
+          "紫菜蛋花汤"
+        ],
+        "estimated_calories": 610,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "坚果混合"
+        ],
+        "estimated_calories": 180,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1770,
+    "water_ml": 1975
+  },
+  {
+    "date": "2026-03-21",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "糙米饭",
+          "清蒸鲈鱼",
+          "时蔬"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "排骨炖萝卜",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1570,
+    "water_ml": 1537
+  },
+  {
+    "date": "2026-03-22",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "糙米饭",
+          "清蒸鲈鱼",
+          "时蔬"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "米饭",
+          "排骨炖萝卜",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "香蕉"
+        ],
+        "estimated_calories": 90,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1690,
+    "water_ml": 2056
+  },
+  {
+    "date": "2026-03-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "排骨炖萝卜",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "苹果",
+          "核桃"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1760,
+    "water_ml": 1627
+  },
+  {
+    "date": "2026-03-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "豆腐",
+          "青菜",
+          "排骨汤"
+        ],
+        "estimated_calories": 640,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "酸奶",
+          "蓝莓"
+        ],
+        "estimated_calories": 160,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1780,
+    "water_ml": 1876
+  },
+  {
+    "date": "2026-03-25",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "杂粮粥",
+          "鸡蛋",
+          "小番茄"
+        ],
+        "estimated_calories": 360,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "酸奶",
+          "蓝莓"
+        ],
+        "estimated_calories": 160,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1720,
+    "water_ml": 1605
+  },
+  {
+    "date": "2026-03-26",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "鸡蛋",
+          "全麦面包",
+          "牛奶",
+          "核桃"
+        ],
+        "estimated_calories": 420,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1580,
+    "water_ml": 1954
+  },
+  {
+    "date": "2026-03-27",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "小米粥",
+          "清蒸虾",
+          "凉拌木耳",
+          "鸡蛋"
+        ],
+        "estimated_calories": 560,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "苹果",
+          "核桃"
+        ],
+        "estimated_calories": 150,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1730,
+    "water_ml": 1915
+  },
+  {
+    "date": "2026-03-28",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "糙米饭",
+          "清蒸鲈鱼",
+          "时蔬"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      }
+    ],
+    "daily_calories": 1580,
+    "water_ml": 1948
+  },
+  {
+    "date": "2026-03-29",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "鸡蛋",
+          "全麦面包",
+          "牛奶",
+          "核桃"
+        ],
+        "estimated_calories": 420,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "糙米饭",
+          "清蒸鲈鱼",
+          "时蔬"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:30",
+        "foods": [
+          "米饭",
+          "排骨炖萝卜",
+          "清炒时蔬"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "10:00",
+        "foods": [
+          "牛奶",
+          "全麦饼干"
+        ],
+        "estimated_calories": 200,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1820,
+    "water_ml": 2195
+  },
+  {
+    "date": "2026-03-30",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "豆浆",
+          "全麦馒头",
+          "水煮蛋"
+        ],
+        "estimated_calories": 370,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "自带便当",
+          "糙米",
+          "牛肉",
+          "胡萝卜"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "面条",
+          "番茄牛腩",
+          "炒西兰花"
+        ],
+        "estimated_calories": 580,
+        "tags": [
+          "自制",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "15:00",
+        "foods": [
+          "牛奶",
+          "全麦饼干"
+        ],
+        "estimated_calories": 200,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1750,
+    "water_ml": 2165
+  },
+  {
+    "date": "2026-03-31",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:45",
+        "foods": [
+          "燕麦",
+          "牛奶",
+          "蓝莓",
+          "坚果"
+        ],
+        "estimated_calories": 400,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "米饭",
+          "清蒸鱼",
+          "西兰花",
+          "汤"
+        ],
+        "estimated_calories": 620,
+        "tags": [
+          "食堂",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "18:00",
+        "foods": [
+          "糙米",
+          "鲫鱼汤",
+          "炒菠菜",
+          "豆腐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "自制",
+          "健康",
+          "营养均衡"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "20:30",
+        "foods": [
+          "红枣",
+          "枸杞茶"
+        ],
+        "estimated_calories": 80,
+        "tags": [
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "21:00",
+        "foods": [
+          "牛奶"
+        ],
+        "estimated_calories": 120,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1820,
+    "water_ml": 1956
+  }
+]

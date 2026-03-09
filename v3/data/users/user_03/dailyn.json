@@ -1,0 +1,2366 @@
+[
+  {
+    "date": "2026-01-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.1,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.5,
+        "description": "菜市场买菜",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "住房",
+        "amount": 1500.0,
+        "description": "房租",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 1539.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.1,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.5,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 23.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.4,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 37.4,
+        "description": "菜市场买菜",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 48.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.5,
+        "description": "包子豆浆",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.2,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.1,
+        "description": "菜市场买菜",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 51.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.5,
+        "description": "包子豆浆",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.9,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.9,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "通讯",
+        "amount": 49.0,
+        "description": "手机话费",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 85.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.9,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.2,
+        "description": "买了点青菜豆腐",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 27.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.4,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.7,
+        "description": "菜市场蔬菜肉类",
+        "time": "18:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 47.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.1,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.3,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "购物",
+        "amount": 38.9,
+        "description": "批改红笔",
+        "time": "16:30"
+      }
+    ],
+    "daily_total": 64.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.6,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.5,
+        "description": "买了点青菜豆腐",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 27.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.2,
+        "description": "包子豆浆",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.7,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.6,
+        "description": "菜市场蔬菜肉类",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 48.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.3,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.1,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 41.4,
+        "description": "和朋友喝奶茶",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 64.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.3,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.1,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 26.4,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.7,
+        "description": "包子豆浆",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 34.4,
+        "description": "菜市场蔬菜肉类",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 54.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.2,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.6,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 29.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.3,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "日用",
+        "amount": 27.7,
+        "description": "牙膏洗发水",
+        "time": "19:00"
+      },
+      {
+        "category": "购物",
+        "amount": 72.7,
+        "description": "教学用品",
+        "time": "16:30"
+      }
+    ],
+    "daily_total": 124.7,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.0,
+        "description": "豆浆油条",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.6,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.5,
+        "description": "菜市场蔬菜肉类",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 51.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.6,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.0,
+        "description": "超市食材采购",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 37.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.9,
+        "description": "包子豆浆",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.1,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.9,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "日用",
+        "amount": 39.8,
+        "description": "洗衣液",
+        "time": "19:00"
+      },
+      {
+        "category": "购物",
+        "amount": 21.9,
+        "description": "批改红笔",
+        "time": "16:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 37.1,
+        "description": "书店",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 125.7,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.6,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 37.6,
+        "description": "菜市场蔬菜肉类",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 55.2,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.8,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.9,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 26.7,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.3,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.7,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 28.0,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.4,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 36.2,
+        "description": "菜市场蔬菜肉类",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "日用",
+        "amount": 50.0,
+        "description": "洗衣液",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 100.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.1,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.8,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "购物",
+        "amount": 43.4,
+        "description": "文具",
+        "time": "16:30"
+      }
+    ],
+    "daily_total": 69.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.9,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 33.2,
+        "description": "超市食材采购",
+        "time": "17:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 52.1,
+        "description": "电影票",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 99.2,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.3,
+        "description": "煎饼果子",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.6,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 30.6,
+        "description": "菜市场买菜",
+        "time": "18:00"
+      },
+      {
+        "category": "日用",
+        "amount": 21.5,
+        "description": "洗衣液",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 73.0,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.2,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.6,
+        "description": "买了点青菜豆腐",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 22.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.4,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.1,
+        "description": "买了点青菜豆腐",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 27.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.5,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 30.8,
+        "description": "菜市场蔬菜肉类",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "日用",
+        "amount": 27.2,
+        "description": "洗衣液",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 72.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.1,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.9,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 32.0,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.3,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.2,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 29.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-01-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.3,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.8,
+        "description": "菜市场买菜",
+        "time": "17:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 40.0,
+        "description": "电影票",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 81.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.0,
+        "description": "煎饼果子",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.5,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.9,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "日用",
+        "amount": 45.9,
+        "description": "纸巾",
+        "time": "19:00"
+      },
+      {
+        "category": "住房",
+        "amount": 1500.0,
+        "description": "房租",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 1578.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.2,
+        "description": "豆浆油条",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.5,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.5,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 33.2,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.7,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 38.5,
+        "description": "菜市场买菜",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "社交",
+        "amount": 42.1,
+        "description": "朋友生日礼物",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 98.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.1,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.7,
+        "description": "晚餐食材补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 28.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-05",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 280.0,
+        "description": "妇产科检查+验血",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.3,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.2,
+        "description": "晚餐食材",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "通讯",
+        "amount": 49.0,
+        "description": "手机话费",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 366.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-06",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 127.3,
+        "description": "维生素补充",
+        "time": "18:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.4,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 44.9,
+        "description": "菜市场买鱼虾",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 190.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-07",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 109.7,
+        "description": "维生素补充",
+        "time": "18:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 44.4,
+        "description": "排骨鲫鱼蔬菜",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 154.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-08",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 142.6,
+        "description": "孕妇钙片",
+        "time": "18:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 63.2,
+        "description": "超市买牛肉蔬菜",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 205.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.5,
+        "description": "坚果零食",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.9,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.9,
+        "description": "蔬菜水果补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 47.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.7,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 47.2,
+        "description": "菜市场买鱼虾",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 66.9,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.3,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.9,
+        "description": "蔬菜水果补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "日用",
+        "amount": 38.2,
+        "description": "温和洗护用品",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 82.4,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-12",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 350.0,
+        "description": "B超检查",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.9,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 39.4,
+        "description": "菜市场买鱼虾",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 407.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.3,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22.4,
+        "description": "晚餐食材",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 42.7,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 41.6,
+        "description": "排骨鲫鱼蔬菜",
+        "time": "17:30"
+      },
+      {
+        "category": "购物",
+        "amount": 87.4,
+        "description": "孕妇维生素",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 129.0,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 29.3,
+        "description": "买了核桃和红枣",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 29.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.5,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 48.5,
+        "description": "超市买牛肉蔬菜",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 69.0,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-17",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 78.6,
+        "description": "维生素补充",
+        "time": "18:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.4,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.1,
+        "description": "晚餐食材",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 117.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.4,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 46.7,
+        "description": "排骨鲫鱼蔬菜",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "教育",
+        "amount": 37.3,
+        "description": "胎教音乐app",
+        "time": "20:30"
+      }
+    ],
+    "daily_total": 100.4,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.5,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.0,
+        "description": "蔬菜水果补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 44.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.8,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 40.0,
+        "description": "新鲜水果蔬菜",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 60.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.1,
+        "description": "孕妇奶粉",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 40.5,
+        "description": "买了有机蔬菜和鸡蛋",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 47.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 47.6,
+        "description": "菜市场买鱼虾",
+        "time": "17:30"
+      },
+      {
+        "category": "购物",
+        "amount": 130.9,
+        "description": "DHA鱼油",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 178.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-23",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 53.1,
+        "description": "药房买叶酸",
+        "time": "18:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.1,
+        "description": "鲜牛奶",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.4,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.0,
+        "description": "蔬菜水果补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 100.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.3,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 63.9,
+        "description": "菜市场买鱼虾",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 84.2,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "坚果零食",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.5,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.6,
+        "description": "蔬菜水果补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 52.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-26",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 450.0,
+        "description": "产检+NT检查",
+        "time": "09:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.6,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 37.1,
+        "description": "买了有机蔬菜和鸡蛋",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 505.7,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.2,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.6,
+        "description": "蔬菜水果补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 37.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-02-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 56.9,
+        "description": "买了有机蔬菜和鸡蛋",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 56.9,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.2,
+        "description": "买了核桃和红枣",
+        "time": "17:30"
+      },
+      {
+        "category": "住房",
+        "amount": 1500.0,
+        "description": "房租",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 1524.2,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.7,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 56.0,
+        "description": "买了有机蔬菜和鸡蛋",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 73.7,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.9,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22.4,
+        "description": "晚餐食材",
+        "time": "17:30"
+      },
+      {
+        "category": "购物",
+        "amount": 83.2,
+        "description": "防辐射服",
+        "time": "20:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 124.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18.0,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 44.9,
+        "description": "新鲜水果蔬菜",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 66.9,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.1,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.2,
+        "description": "买了核桃和红枣",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "通讯",
+        "amount": 49.0,
+        "description": "手机话费",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 87.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.8,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 40.4,
+        "description": "菜市场买鱼虾",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 58.2,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 49.7,
+        "description": "菜市场买鱼虾",
+        "time": "17:30"
+      },
+      {
+        "category": "教育",
+        "amount": 57.9,
+        "description": "胎教音乐app",
+        "time": "20:30"
+      }
+    ],
+    "daily_total": 107.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.5,
+        "description": "坚果零食",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 53.9,
+        "description": "菜市场买鱼虾",
+        "time": "17:00"
+      },
+      {
+        "category": "购物",
+        "amount": 134.4,
+        "description": "DHA鱼油",
+        "time": "20:00"
+      },
+      {
+        "category": "日用",
+        "amount": 26.2,
+        "description": "孕妇护肤品",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 222.0,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.7,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.5,
+        "description": "蔬菜水果补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 38.2,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.2,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 42.9,
+        "description": "菜市场买鱼虾",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 60.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.2,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.6,
+        "description": "蔬菜水果补充",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "日用",
+        "amount": 25.5,
+        "description": "温和洗护用品",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 67.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.6,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 41.7,
+        "description": "超市买牛肉蔬菜",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "日用",
+        "amount": 22.5,
+        "description": "温和洗护用品",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 82.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.8,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.5,
+        "description": "买了核桃和红枣",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "教育",
+        "amount": 40.1,
+        "description": "胎教音乐app",
+        "time": "20:30"
+      }
+    ],
+    "daily_total": 84.4,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.1,
+        "description": "坚果零食",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 60.1,
+        "description": "排骨鲫鱼蔬菜",
+        "time": "17:00"
+      },
+      {
+        "category": "教育",
+        "amount": 51.5,
+        "description": "胎教音乐app",
+        "time": "20:30"
+      }
+    ],
+    "daily_total": 117.7,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 19.2,
+        "description": "蔬菜水果补充",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 19.2,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.6,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 44.9,
+        "description": "新鲜水果蔬菜",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      },
+      {
+        "category": "教育",
+        "amount": 28.1,
+        "description": "胎教音乐app",
+        "time": "20:30"
+      }
+    ],
+    "daily_total": 89.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.4,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 27.4,
+        "description": "晚餐食材",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 45.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.8,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 41.1,
+        "description": "排骨鲫鱼蔬菜",
+        "time": "17:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 60.9,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-19",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 320.0,
+        "description": "常规产检",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.7,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.6,
+        "description": "买了核桃和红枣",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 365.3,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.7,
+        "description": "学校食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 50.0,
+        "description": "买了有机蔬菜和鸡蛋",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 66.7,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "坚果零食",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 61.4,
+        "description": "菜市场买鱼虾",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 69.4,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.6,
+        "description": "坚果零食",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 52.4,
+        "description": "新鲜水果蔬菜",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 61.0,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.2,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.6,
+        "description": "买了核桃和红枣",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 39.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.3,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 58.8,
+        "description": "超市买牛肉蔬菜",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 77.1,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.6,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.2,
+        "description": "晚餐食材",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 31.8,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.2,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 37.4,
+        "description": "买了有机蔬菜和鸡蛋",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 57.6,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.4,
+        "description": "食堂+水果",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.8,
+        "description": "晚餐食材",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 46.2,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 55.8,
+        "description": "菜市场买鱼虾",
+        "time": "17:00"
+      },
+      {
+        "category": "日用",
+        "amount": 31.1,
+        "description": "孕妇护肤品",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 86.9,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.5,
+        "description": "晚餐食材",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 17.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.8,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 42.7,
+        "description": "菜市场买鱼虾",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 62.5,
+    "monthly_income": 5500
+  },
+  {
+    "date": "2026-03-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.8,
+        "description": "自带便当食材",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.4,
+        "description": "买了核桃和红枣",
+        "time": "17:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "公交往返",
+        "time": "07:30"
+      }
+    ],
+    "daily_total": 45.2,
+    "monthly_income": 5500
+  }
+]

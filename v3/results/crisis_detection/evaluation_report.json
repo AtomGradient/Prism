@@ -1,0 +1,127 @@
+{
+  "overall": {
+    "precision": 0.2673,
+    "recall": 0.9608,
+    "f1": 0.4182,
+    "tp": 147,
+    "fp": 403,
+    "fn": 6
+  },
+  "by_level": {
+    "L1": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "L2": {
+      "precision": 0.166,
+      "recall": 1.0,
+      "f1": 0.2847
+    },
+    "L3": {
+      "precision": 0.4038,
+      "recall": 1.0,
+      "f1": 0.5753
+    }
+  },
+  "user_reports": {
+    "user_01": {
+      "gt_windows": 1,
+      "detected_events": 66,
+      "tp": 15,
+      "fp": 51,
+      "fn": 0
+    },
+    "user_02": {
+      "gt_windows": 2,
+      "detected_events": 34,
+      "tp": 26,
+      "fp": 8,
+      "fn": 0
+    },
+    "user_03": {
+      "gt_windows": 0,
+      "detected_events": 44,
+      "tp": 0,
+      "fp": 44,
+      "fn": 0
+    },
+    "user_04": {
+      "gt_windows": 1,
+      "detected_events": 50,
+      "tp": 11,
+      "fp": 39,
+      "fn": 0
+    },
+    "user_05": {
+      "gt_windows": 0,
+      "detected_events": 57,
+      "tp": 0,
+      "fp": 57,
+      "fn": 0
+    },
+    "user_06": {
+      "gt_windows": 0,
+      "detected_events": 53,
+      "tp": 0,
+      "fp": 53,
+      "fn": 0
+    },
+    "user_07": {
+      "gt_windows": 2,
+      "detected_events": 59,
+      "tp": 22,
+      "fp": 37,
+      "fn": 0
+    },
+    "user_08": {
+      "gt_windows": 3,
+      "detected_events": 71,
+      "tp": 33,
+      "fp": 38,
+      "fn": 0
+    },
+    "user_09": {
+      "gt_windows": 3,
+      "detected_events": 56,
+      "tp": 33,
+      "fp": 23,
+      "fn": 0
+    },
+    "user_10": {
+      "gt_windows": 1,
+      "detected_events": 60,
+      "tp": 7,
+      "fp": 53,
+      "fn": 0
+    },
+    "lixiang": {
+      "gt_windows": 1,
+      "detected_events": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 1
+    },
+    "wangguilan": {
+      "gt_windows": 2,
+      "detected_events": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 2
+    },
+    "zhangxiuying": {
+      "gt_windows": 2,
+      "detected_events": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 2
+    },
+    "chenmo": {
+      "gt_windows": 1,
+      "detected_events": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 1
+    }
+  }
+}

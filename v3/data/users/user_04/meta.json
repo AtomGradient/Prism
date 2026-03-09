@@ -1,0 +1,23 @@
+{
+  "user_id": "user_04",
+  "name": "小林",
+  "age": 26,
+  "profile": "研究生，论文压力大",
+  "monthly_income": 2000,
+  "event_day": 45,
+  "event": "论文需要大修改，答辩推迟一个月",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "normal",
+    "vulnerability_class": "academic_setback",
+    "crisis_windows": [
+      {"day_range": [45, 55], "trigger": "论文大修通知", "expected_severity": "mild"}
+    ],
+    "social_context": {
+      "living_situation": "学校宿舍",
+      "support_network": "同门师兄妹、导师",
+      "key_relationships": ["导师（学术权威）", "同门师姐（情感支持）"]
+    },
+    "ethical_notes": "学术挫折常见且可恢复。系统应提供情绪支持而非学术建议。关注是否出现连续失眠+饮食紊乱的叠加信号。"
+  }
+}

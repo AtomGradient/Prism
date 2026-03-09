@@ -1,0 +1,2966 @@
+[
+  {
+    "date": "2026-01-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 136.0,
+        "description": "酒店早餐自助",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 302.0,
+        "description": "法式餐厅午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 956.0,
+        "description": "和同事吃饭",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 133.0,
+        "description": "停车费",
+        "time": "08:30"
+      },
+      {
+        "category": "通讯",
+        "amount": 399.0,
+        "description": "手机话费",
+        "time": "10:00"
+      },
+      {
+        "category": "住房",
+        "amount": 25000.0,
+        "description": "房贷",
+        "time": "09:00"
+      },
+      {
+        "category": "社交",
+        "amount": 1694.0,
+        "description": "聚会AA",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 28620.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 102.0,
+        "description": "精品烘焙坊",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 202.0,
+        "description": "精品中餐",
+        "time": "12:00"
+      },
+      {
+        "category": "交通",
+        "amount": 129.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "购物",
+        "amount": 4033.0,
+        "description": "机械键盘",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 4466.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 55.0,
+        "description": "手冲咖啡+可颂",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 548.0,
+        "description": "精品咖啡厅",
+        "time": "11:30"
+      },
+      {
+        "category": "交通",
+        "amount": 73.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 242.0,
+        "description": "游泳",
+        "time": "6:00"
+      }
+    ],
+    "daily_total": 918.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 87.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 464.0,
+        "description": "日式居酒屋",
+        "time": "11:30"
+      },
+      {
+        "category": "交通",
+        "amount": 52.0,
+        "description": "专车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 2666.0,
+        "description": "spa按摩",
+        "time": "11:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 482.0,
+        "description": "瑜伽课",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 3751.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 149.0,
+        "description": "手冲咖啡+可颂",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 415.0,
+        "description": "精品中餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 873.0,
+        "description": "商务晚餐",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 74.0,
+        "description": "专车",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 320.0,
+        "description": "瑜伽课",
+        "time": "6:00"
+      }
+    ],
+    "daily_total": 1831.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 95.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 410.0,
+        "description": "日料omakase",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 810.0,
+        "description": "和同事吃饭",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 75.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "购物",
+        "amount": 7778.0,
+        "description": "机械键盘",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 9168.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 118.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 341.0,
+        "description": "高端商务午餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 723.0,
+        "description": "日料",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 110.0,
+        "description": "打车",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 1292.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 383.0,
+        "description": "日料omakase",
+        "time": "12:00"
+      },
+      {
+        "category": "交通",
+        "amount": 124.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "购物",
+        "amount": 4219.0,
+        "description": "机械键盘",
+        "time": "16:00"
+      }
+    ],
+    "daily_total": 4726.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-09",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 146.0,
+        "description": "打车",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 146.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 1304.0,
+        "description": "红酒晚宴",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 66.0,
+        "description": "专车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 1370.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 128.0,
+        "description": "手冲咖啡+可颂",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2014.0,
+        "description": "私房菜",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 69.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "购物",
+        "amount": 2581.0,
+        "description": "手表表带",
+        "time": "17:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 1791.0,
+        "description": "红酒品鉴",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 6583.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 118.0,
+        "description": "酒店早餐自助",
+        "time": "07:00"
+      },
+      {
+        "category": "交通",
+        "amount": 147.0,
+        "description": "专车",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 265.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 120.0,
+        "description": "手冲咖啡+可颂",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 464.0,
+        "description": "精品中餐",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 718.0,
+        "description": "商务晚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 80.0,
+        "description": "停车费",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 1382.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 139.0,
+        "description": "精品烘焙坊",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 482.0,
+        "description": "米其林套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "交通",
+        "amount": 105.0,
+        "description": "停车费",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 726.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 120.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 491.0,
+        "description": "精品中餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 799.0,
+        "description": "商务晚餐",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 143.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 225.0,
+        "description": "健身房私教",
+        "time": "7:00"
+      },
+      {
+        "category": "日用",
+        "amount": 164.0,
+        "description": "高端纸巾",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1942.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 418.0,
+        "description": "精品中餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 472.0,
+        "description": "商务晚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 122.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "购物",
+        "amount": 4163.0,
+        "description": "定制西装",
+        "time": "17:00"
+      },
+      {
+        "category": "社交",
+        "amount": 2805.0,
+        "description": "送同事礼物",
+        "time": "17:00"
+      },
+      {
+        "category": "日用",
+        "amount": 153.0,
+        "description": "进口水果",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 8133.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 507.0,
+        "description": "有机餐厅",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1097.0,
+        "description": "米其林晚餐",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 109.0,
+        "description": "专车",
+        "time": "08:30"
+      },
+      {
+        "category": "购物",
+        "amount": 4706.0,
+        "description": "定制西装",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 6419.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 150.0,
+        "description": "酒店早餐自助",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 342.0,
+        "description": "brunch",
+        "time": "11:30"
+      },
+      {
+        "category": "交通",
+        "amount": 51.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 483.0,
+        "description": "瑜伽课",
+        "time": "7:00"
+      },
+      {
+        "category": "日用",
+        "amount": 259.0,
+        "description": "进口水果",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1285.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 584.0,
+        "description": "和同事吃饭",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 138.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "社交",
+        "amount": 1251.0,
+        "description": "红包",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 1973.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 129.0,
+        "description": "精品烘焙坊",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 498.0,
+        "description": "高端商务午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 685.0,
+        "description": "私房菜",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 125.0,
+        "description": "停车费",
+        "time": "08:30"
+      },
+      {
+        "category": "日用",
+        "amount": 243.0,
+        "description": "有机蔬菜",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1680.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 121.0,
+        "description": "酒店早餐自助",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 421.0,
+        "description": "精品中餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 306.0,
+        "description": "日料",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 77.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "购物",
+        "amount": 2592.0,
+        "description": "护肤品",
+        "time": "15:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 412.0,
+        "description": "瑜伽课",
+        "time": "6:00"
+      }
+    ],
+    "daily_total": 3929.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 91.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 163.0,
+        "description": "米其林套餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1050.0,
+        "description": "和同事吃饭",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 82.0,
+        "description": "专车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 328.0,
+        "description": "健身房私教",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 1714.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 128.0,
+        "description": "手冲咖啡+可颂",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 211.0,
+        "description": "精品中餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 339.0,
+        "description": "日料",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 92.0,
+        "description": "停车费",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 770.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 107.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 487.0,
+        "description": "日式居酒屋",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 2309.0,
+        "description": "私房菜",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 82.0,
+        "description": "打车",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 2985.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 469.0,
+        "description": "精品咖啡厅",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1002.0,
+        "description": "红酒晚宴",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 100.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 1212.0,
+        "description": "健身私教",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 2783.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 27.0,
+        "description": "便利店三明治",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 39.0,
+        "description": "外卖随便点",
+        "time": "13:00"
+      },
+      {
+        "category": "交通",
+        "amount": 67.0,
+        "description": "专车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 133.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 355.0,
+        "description": "压力下暴食",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 381.0,
+        "description": "压力大，暴食",
+        "time": "21:00"
+      },
+      {
+        "category": "交通",
+        "amount": 64.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "日用",
+        "amount": 101.0,
+        "description": "高端纸巾",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 221.0,
+        "description": "精酿啤酒",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 1122.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 28.0,
+        "description": "便利店三明治",
+        "time": "06:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 33.0,
+        "description": "外卖随便点",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 78.0,
+        "description": "随便吃了点",
+        "time": "20:00"
+      },
+      {
+        "category": "交通",
+        "amount": 114.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 414.0,
+        "description": "红酒",
+        "time": "23:30"
+      }
+    ],
+    "daily_total": 667.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 21.0,
+        "description": "没怎么吃",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 43.0,
+        "description": "泡面",
+        "time": "20:00"
+      },
+      {
+        "category": "交通",
+        "amount": 137.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 641.0,
+        "description": "红酒",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 842.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 48.0,
+        "description": "便利店便当",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 372.0,
+        "description": "一个人喝酒",
+        "time": "21:00"
+      },
+      {
+        "category": "交通",
+        "amount": 122.0,
+        "description": "打车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 542.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-01-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 372.0,
+        "description": "精品咖啡厅",
+        "time": "11:30"
+      },
+      {
+        "category": "交通",
+        "amount": 103.0,
+        "description": "停车费",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 475.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 571.0,
+        "description": "日式居酒屋",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 37.0,
+        "description": "泡面",
+        "time": "20:00"
+      },
+      {
+        "category": "交通",
+        "amount": 126.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "通讯",
+        "amount": 399.0,
+        "description": "手机话费",
+        "time": "10:00"
+      },
+      {
+        "category": "住房",
+        "amount": 25000.0,
+        "description": "房贷",
+        "time": "09:00"
+      },
+      {
+        "category": "日用",
+        "amount": 251.0,
+        "description": "进口水果",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 555.0,
+        "description": "深夜酒吧",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 26939.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 77.0,
+        "description": "酒店早餐自助",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 492.0,
+        "description": "米其林套餐",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1127.0,
+        "description": "日料",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 73.0,
+        "description": "专车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 1769.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 119.0,
+        "description": "精品烘焙坊",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 455.0,
+        "description": "米其林套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 475.0,
+        "description": "日料",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 131.0,
+        "description": "打车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 1180.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 78.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 357.0,
+        "description": "私房菜",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 76.0,
+        "description": "专车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 462.0,
+        "description": "游泳",
+        "time": "6:00"
+      }
+    ],
+    "daily_total": 973.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 111.0,
+        "description": "手冲咖啡+可颂",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 221.0,
+        "description": "精品中餐",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 878.0,
+        "description": "商务晚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 61.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 392.0,
+        "description": "游泳",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 1663.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 97.0,
+        "description": "酒店早餐自助",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 313.0,
+        "description": "日料omakase",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 450.0,
+        "description": "西餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 139.0,
+        "description": "专车",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 999.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 138.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 537.0,
+        "description": "私房菜",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 120.0,
+        "description": "打车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 795.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 55.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 286.0,
+        "description": "日式居酒屋",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 972.0,
+        "description": "西餐厅",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 87.0,
+        "description": "停车费",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 393.0,
+        "description": "健身房私教",
+        "time": "7:00"
+      },
+      {
+        "category": "日用",
+        "amount": 215.0,
+        "description": "有机蔬菜",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 2008.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 131.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 281.0,
+        "description": "日料omakase",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 525.0,
+        "description": "私房菜",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 71.0,
+        "description": "停车费",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 1008.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 495.0,
+        "description": "意大利餐厅",
+        "time": "12:30"
+      },
+      {
+        "category": "交通",
+        "amount": 109.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "社交",
+        "amount": 1355.0,
+        "description": "送花",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 1959.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 322.0,
+        "description": "法式餐厅午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 622.0,
+        "description": "日料",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 120.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 417.0,
+        "description": "健身房私教",
+        "time": "6:00"
+      }
+    ],
+    "daily_total": 1481.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 497.0,
+        "description": "意大利餐厅",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 417.0,
+        "description": "商务晚餐",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 95.0,
+        "description": "打车",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 1009.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 83.0,
+        "description": "精品烘焙坊",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 223.0,
+        "description": "米其林套餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 384.0,
+        "description": "商务晚餐",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 132.0,
+        "description": "打车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 822.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 241.0,
+        "description": "brunch",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 691.0,
+        "description": "和同事吃饭",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 107.0,
+        "description": "专车",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 379.0,
+        "description": "健身房私教",
+        "time": "7:00"
+      },
+      {
+        "category": "日用",
+        "amount": 287.0,
+        "description": "净水滤芯",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1705.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 70.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 348.0,
+        "description": "西餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 78.0,
+        "description": "打车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 496.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 489.0,
+        "description": "高端商务午餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 671.0,
+        "description": "商务晚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 134.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 477.0,
+        "description": "健身房私教",
+        "time": "6:00"
+      }
+    ],
+    "daily_total": 1771.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 143.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 268.0,
+        "description": "日料omakase",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 330.0,
+        "description": "商务晚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 95.0,
+        "description": "停车费",
+        "time": "08:30"
+      },
+      {
+        "category": "日用",
+        "amount": 88.0,
+        "description": "高端纸巾",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 924.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 433.0,
+        "description": "法式餐厅午餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 387.0,
+        "description": "日料",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 90.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "日用",
+        "amount": 199.0,
+        "description": "净水滤芯",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1109.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 109.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 454.0,
+        "description": "精品中餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 452.0,
+        "description": "商务晚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 137.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 500.0,
+        "description": "健身房私教",
+        "time": "6:00"
+      }
+    ],
+    "daily_total": 1652.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 66.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 230.0,
+        "description": "意大利餐厅",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1088.0,
+        "description": "西餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 123.0,
+        "description": "停车费",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 1507.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 394.0,
+        "description": "brunch",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1192.0,
+        "description": "精品餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 113.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "购物",
+        "amount": 1672.0,
+        "description": "书",
+        "time": "18:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 413.0,
+        "description": "瑜伽课",
+        "time": "6:00"
+      }
+    ],
+    "daily_total": 3784.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 135.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 290.0,
+        "description": "brunch",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 945.0,
+        "description": "精品餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 121.0,
+        "description": "停车费",
+        "time": "08:30"
+      },
+      {
+        "category": "购物",
+        "amount": 1950.0,
+        "description": "护肤品",
+        "time": "18:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 2961.0,
+        "description": "spa按摩",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 6402.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 110.0,
+        "description": "手冲咖啡+可颂",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 453.0,
+        "description": "意大利餐厅",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 488.0,
+        "description": "西餐厅",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 94.0,
+        "description": "专车",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 408.0,
+        "description": "瑜伽课",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 1553.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 71.0,
+        "description": "手冲咖啡+可颂",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 196.0,
+        "description": "日料omakase",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 837.0,
+        "description": "和同事吃饭",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 140.0,
+        "description": "停车费",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 466.0,
+        "description": "游泳",
+        "time": "7:00"
+      },
+      {
+        "category": "日用",
+        "amount": 127.0,
+        "description": "进口水果",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1837.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 483.0,
+        "description": "精品中餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 839.0,
+        "description": "日料",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 96.0,
+        "description": "专车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 482.0,
+        "description": "瑜伽课",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 1900.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 61.0,
+        "description": "酒店早餐自助",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 458.0,
+        "description": "意大利餐厅",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 957.0,
+        "description": "私房菜",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 145.0,
+        "description": "专车",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 259.0,
+        "description": "瑜伽课",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 1880.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 82.0,
+        "description": "精品烘焙坊",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 224.0,
+        "description": "法式餐厅午餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1141.0,
+        "description": "和同事吃饭",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 85.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "社交",
+        "amount": 1203.0,
+        "description": "红包",
+        "time": "17:00"
+      },
+      {
+        "category": "日用",
+        "amount": 104.0,
+        "description": "净水滤芯",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 2839.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-02-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 443.0,
+        "description": "brunch",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1033.0,
+        "description": "精品餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 125.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "日用",
+        "amount": 205.0,
+        "description": "净水滤芯",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1806.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 310.0,
+        "description": "brunch",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 620.0,
+        "description": "还是去吃点好的",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 115.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 1666.0,
+        "description": "私人影院",
+        "time": "15:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 309.0,
+        "description": "瑜伽课",
+        "time": "7:00"
+      },
+      {
+        "category": "通讯",
+        "amount": 399.0,
+        "description": "手机话费",
+        "time": "10:00"
+      },
+      {
+        "category": "住房",
+        "amount": 25000.0,
+        "description": "房贷",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 28419.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 149.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 268.0,
+        "description": "精品中餐",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 477.0,
+        "description": "日料",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 85.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 280.0,
+        "description": "游泳",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 1259.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 79.0,
+        "description": "酒店早餐自助",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 324.0,
+        "description": "意大利餐厅",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 491.0,
+        "description": "西餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 89.0,
+        "description": "专车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 983.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 141.0,
+        "description": "酒店早餐自助",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 255.0,
+        "description": "意大利餐厅",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 868.0,
+        "description": "商务晚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 109.0,
+        "description": "停车费",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 1373.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 128.0,
+        "description": "精品烘焙坊",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 283.0,
+        "description": "日料omakase",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 894.0,
+        "description": "日料",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 56.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "购物",
+        "amount": 745.0,
+        "description": "书",
+        "time": "18:00"
+      },
+      {
+        "category": "日用",
+        "amount": 244.0,
+        "description": "有机蔬菜",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 2350.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 54.0,
+        "description": "精品烘焙坊",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 334.0,
+        "description": "日料omakase",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1154.0,
+        "description": "商务晚餐",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 90.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "日用",
+        "amount": 77.0,
+        "description": "有机蔬菜",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1709.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 73.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 232.0,
+        "description": "日式居酒屋",
+        "time": "11:30"
+      },
+      {
+        "category": "交通",
+        "amount": 97.0,
+        "description": "停车费",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 287.0,
+        "description": "游泳",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 689.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 440.0,
+        "description": "日式居酒屋",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 458.0,
+        "description": "精品餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 128.0,
+        "description": "专车",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 2825.0,
+        "description": "帆船俱乐部",
+        "time": "12:00"
+      }
+    ],
+    "daily_total": 3851.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 58.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 328.0,
+        "description": "米其林套餐",
+        "time": "12:15"
+      },
+      {
+        "category": "交通",
+        "amount": 129.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "购物",
+        "amount": 2129.0,
+        "description": "护肤品",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 2644.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 50.0,
+        "description": "精品烘焙坊",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 430.0,
+        "description": "高端商务午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 774.0,
+        "description": "和同事吃饭",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 135.0,
+        "description": "打车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 1389.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 100.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 456.0,
+        "description": "法式餐厅午餐",
+        "time": "12:15"
+      },
+      {
+        "category": "交通",
+        "amount": 52.0,
+        "description": "专车",
+        "time": "08:00"
+      },
+      {
+        "category": "日用",
+        "amount": 141.0,
+        "description": "有机蔬菜",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 749.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 148.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 301.0,
+        "description": "意大利餐厅",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 645.0,
+        "description": "商务晚餐",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 52.0,
+        "description": "专车",
+        "time": "08:30"
+      },
+      {
+        "category": "社交",
+        "amount": 774.0,
+        "description": "红包",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 1920.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 62.0,
+        "description": "酒店早餐自助",
+        "time": "07:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 183.0,
+        "description": "高端商务午餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1054.0,
+        "description": "西餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 54.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 361.0,
+        "description": "瑜伽课",
+        "time": "6:00"
+      },
+      {
+        "category": "社交",
+        "amount": 1570.0,
+        "description": "红包",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 3284.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 1291.0,
+        "description": "精品餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 50.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 1647.0,
+        "description": "spa按摩",
+        "time": "10:00"
+      },
+      {
+        "category": "社交",
+        "amount": 1313.0,
+        "description": "聚会AA",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 4301.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 85.0,
+        "description": "精品烘焙坊",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 527.0,
+        "description": "有机餐厅",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 482.0,
+        "description": "还是去吃点好的",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 144.0,
+        "description": "打车",
+        "time": "08:00"
+      },
+      {
+        "category": "社交",
+        "amount": 2763.0,
+        "description": "红包",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 4001.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 425.0,
+        "description": "法式餐厅午餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1042.0,
+        "description": "西餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 131.0,
+        "description": "专车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 289.0,
+        "description": "游泳",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 1887.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 480.0,
+        "description": "精品中餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 875.0,
+        "description": "日料",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 112.0,
+        "description": "停车费",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 1467.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 52.0,
+        "description": "星巴克精品咖啡+早餐",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 465.0,
+        "description": "米其林套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1034.0,
+        "description": "和同事吃饭",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 60.0,
+        "description": "停车费",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 1611.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 348.0,
+        "description": "高端商务午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 368.0,
+        "description": "日料",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 93.0,
+        "description": "打车",
+        "time": "08:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 351.0,
+        "description": "健身房私教",
+        "time": "6:00"
+      }
+    ],
+    "daily_total": 1160.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 62.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 353.0,
+        "description": "精品中餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 460.0,
+        "description": "日料",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 108.0,
+        "description": "专车",
+        "time": "08:30"
+      },
+      {
+        "category": "日用",
+        "amount": 249.0,
+        "description": "有机蔬菜",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1232.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 78.0,
+        "description": "酒店早餐自助",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 589.0,
+        "description": "精品餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 84.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 910.0,
+        "description": "spa按摩",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 1661.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 118.0,
+        "description": "精品烘焙坊",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 308.0,
+        "description": "日式居酒屋",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 1025.0,
+        "description": "还是去吃点好的",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 142.0,
+        "description": "停车费",
+        "time": "08:30"
+      },
+      {
+        "category": "日用",
+        "amount": 291.0,
+        "description": "高端纸巾",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1884.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 107.0,
+        "description": "有机果汁+牛油果吐司",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 384.0,
+        "description": "高端商务午餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 988.0,
+        "description": "商务晚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 69.0,
+        "description": "专车",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 1548.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 116.0,
+        "description": "酒店早餐自助",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 446.0,
+        "description": "日料omakase",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 818.0,
+        "description": "日料",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 96.0,
+        "description": "专车",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 1476.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 362.0,
+        "description": "法式餐厅午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "交通",
+        "amount": 133.0,
+        "description": "停车费",
+        "time": "08:30"
+      }
+    ],
+    "daily_total": 495.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 438.0,
+        "description": "法式餐厅午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 748.0,
+        "description": "私房菜",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 104.0,
+        "description": "停车费",
+        "time": "08:30"
+      },
+      {
+        "category": "日用",
+        "amount": 245.0,
+        "description": "高端纸巾",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1535.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 65.0,
+        "description": "酒店早餐自助",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 339.0,
+        "description": "私房菜",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 67.0,
+        "description": "专车",
+        "time": "08:00"
+      },
+      {
+        "category": "日用",
+        "amount": 238.0,
+        "description": "高端纸巾",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 709.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 376.0,
+        "description": "精品咖啡厅",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 521.0,
+        "description": "和朋友聚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 87.0,
+        "description": "专车",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 396.0,
+        "description": "游泳",
+        "time": "7:00"
+      }
+    ],
+    "daily_total": 1380.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 110.0,
+        "description": "精品烘焙坊",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 243.0,
+        "description": "精品咖啡厅",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 783.0,
+        "description": "精品餐厅",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 115.0,
+        "description": "专车",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 1251.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 178.0,
+        "description": "日料omakase",
+        "time": "12:30"
+      },
+      {
+        "category": "交通",
+        "amount": 55.0,
+        "description": "停车费",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 233.0,
+    "monthly_income": 830000
+  },
+  {
+    "date": "2026-03-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 72.0,
+        "description": "酒店早餐自助",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 236.0,
+        "description": "日料omakase",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 572.0,
+        "description": "日料",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 112.0,
+        "description": "停车费",
+        "time": "08:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 331.0,
+        "description": "游泳",
+        "time": "6:00"
+      },
+      {
+        "category": "社交",
+        "amount": 1690.0,
+        "description": "送花",
+        "time": "17:00"
+      },
+      {
+        "category": "日用",
+        "amount": 161.0,
+        "description": "净水滤芯",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 3174.0,
+    "monthly_income": 830000
+  }
+]

@@ -1,0 +1,1286 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.52,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "手术",
+      "顺利"
+    ],
+    "journal_snippet": "和女朋友吃了晚饭，她说我最近瘦了，让我注意休息。"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "读文献",
+      "休息"
+    ],
+    "journal_snippet": "今天相对轻松，终于可以准时下班了。去超市买了点水果。"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.57,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "23:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "科室会",
+      "学习"
+    ],
+    "journal_snippet": "科室讨论了一个疑难病例，感觉自己还有好多要学的。"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.45,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 3.6,
+    "sleep_time": "08:00",
+    "wake_time": "13:00",
+    "journal_keywords": [
+      "值班",
+      "抢救"
+    ],
+    "journal_snippet": "夜班还好，就是永远睡不够。"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.55,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "科室会",
+      "学习"
+    ],
+    "journal_snippet": "今天查房还算顺利，下午写了两份病历。晚上看了会文献。"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.55,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "女朋友",
+      "周末"
+    ],
+    "journal_snippet": "和女朋友吃了晚饭，她说我最近瘦了，让我注意休息。"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.58,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "读文献",
+      "休息"
+    ],
+    "journal_snippet": "门诊量太大了，中午都没休息。晚上和女朋友视频了一会。"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.48,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 3.8,
+    "sleep_time": "09:00",
+    "wake_time": "14:00",
+    "journal_keywords": [
+      "值班",
+      "抢救"
+    ],
+    "journal_snippet": "夜班还好，就是永远睡不够。"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.57,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "23:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "手术",
+      "顺利"
+    ],
+    "journal_snippet": "和女朋友吃了晚饭，她说我最近瘦了，让我注意休息。"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.53,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.0,
+    "sleep_time": "23:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "手术",
+      "顺利"
+    ],
+    "journal_snippet": "今天相对轻松，终于可以准时下班了。去超市买了点水果。"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "手术",
+      "顺利"
+    ],
+    "journal_snippet": "科室讨论了一个疑难病例，感觉自己还有好多要学的。"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.46,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 4.2,
+    "sleep_time": "09:00",
+    "wake_time": "12:30",
+    "journal_keywords": [
+      "夜班",
+      "累"
+    ],
+    "journal_snippet": "ICU那个病人情况稳定了，松了口气。但是真的困。"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.56,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.2,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "读文献",
+      "休息"
+    ],
+    "journal_snippet": "和女朋友吃了晚饭，她说我最近瘦了，让我注意休息。"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 7.0,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "门诊",
+      "患者"
+    ],
+    "journal_snippet": "主任带教的手术很精彩，学到很多。但是回来还要写病历到深夜。"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.54,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "门诊",
+      "患者"
+    ],
+    "journal_snippet": "今天查房还算顺利，下午写了两份病历。晚上看了会文献。"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.46,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 3.9,
+    "sleep_time": "09:00",
+    "wake_time": "12:30",
+    "journal_keywords": [
+      "夜班",
+      "累"
+    ],
+    "journal_snippet": "ICU那个病人情况稳定了，松了口气。但是真的困。"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.51,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.0,
+    "sleep_time": "01:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "读文献",
+      "休息"
+    ],
+    "journal_snippet": "和女朋友吃了晚饭，她说我最近瘦了，让我注意休息。"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.59,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "女朋友",
+      "周末"
+    ],
+    "journal_snippet": "和女朋友吃了晚饭，她说我最近瘦了，让我注意休息。"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.48,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 4.5,
+    "sleep_time": "08:30",
+    "wake_time": "12:30",
+    "journal_keywords": [
+      "值班",
+      "抢救"
+    ],
+    "journal_snippet": "连续手术到凌晨四点，腿都站不住了。"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.4,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 4.0,
+    "sleep_time": "08:30",
+    "wake_time": "12:30",
+    "journal_keywords": [
+      "连续夜班",
+      "第一天"
+    ],
+    "journal_snippet": "第一个连续夜班。还扛得住，但已经有点恍惚了。"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.3,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 3.0,
+    "sleep_time": "09:00",
+    "wake_time": "12:00",
+    "journal_keywords": [
+      "连续夜班",
+      "第二天",
+      "恍惚"
+    ],
+    "journal_snippet": "第二个夜班。脑子开始不清楚了，看医嘱的时候字都在跳。中午只睡了三小时又要上班。"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.1,
+    "primary_emotion": "恐惧",
+    "stress_level": 10,
+    "sleep_hours": 1.5,
+    "sleep_time": "10:00",
+    "wake_time": "11:30",
+    "journal_keywords": [
+      "医疗事故",
+      "开错药",
+      "ICU",
+      "转科"
+    ],
+    "journal_snippet": "完了。我开错了剂量。万古霉素给了双倍。患者肾功能急转直下，转ICU了。主任的脸色我这辈子忘不了。我怎么会犯这种错误。我对不起那个患者。我的手一直在抖。"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.08,
+    "primary_emotion": "恐惧",
+    "stress_level": 10,
+    "sleep_hours": 0.5,
+    "sleep_time": "05:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "失眠",
+      "停职",
+      "调查"
+    ],
+    "journal_snippet": "一夜没睡。早上接到通知停职接受调查。护士长的眼神让我想死。患者家属在走廊哭，我不敢走出值班室。"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.05,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 2.0,
+    "sleep_time": "04:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "调查",
+      "写报告",
+      "内疚"
+    ],
+    "journal_snippet": "要写事故报告。手在抖，写了改，改了写。我反复回想那个晚上，如果我再仔细看一眼医嘱……如果我不是那么困……"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.07,
+    "primary_emotion": "自责",
+    "stress_level": 10,
+    "sleep_hours": 2.5,
+    "sleep_time": "03:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "自责",
+      "患者情况",
+      "打听"
+    ],
+    "journal_snippet": "偷偷问了ICU的同事，患者暂时脱离危险了，但肾功能指标还是很差。都是我的错。我配当医生吗？"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.1,
+    "primary_emotion": "内疚",
+    "stress_level": 10,
+    "sleep_hours": 3.0,
+    "sleep_time": "02:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "内疚",
+      "睡不着",
+      "噩梦"
+    ],
+    "journal_snippet": "终于睡着了两三个小时，但梦到患者在ICU的样子就惊醒了。女朋友打电话来，我什么都说不出口。她问我怎么了，我说没事。"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.12,
+    "primary_emotion": "内疚",
+    "stress_level": 9,
+    "sleep_hours": 3.5,
+    "sleep_time": "02:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "安眠药",
+      "失眠",
+      "医疗事故法"
+    ],
+    "journal_snippet": "让同事帮开了安眠药。吃了以后能睡几个小时了，但醒来的瞬间就想起那件事，比不睡还难受。开始查医疗事故相关的法律。"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.13,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 4.0,
+    "sleep_time": "01:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "法律",
+      "处分",
+      "前途"
+    ],
+    "journal_snippet": "查了一天的医疗事故处理条例。最坏的情况是吊销执照。天塌了。这六年的书、三年的规培、无数个夜班……可能全没了。"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.15,
+    "primary_emotion": "麻木",
+    "stress_level": 9,
+    "sleep_hours": 3.5,
+    "sleep_time": "02:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "麻木",
+      "不想动"
+    ],
+    "journal_snippet": "在家躺了一天。不想吃饭不想动不想看手机。把所有医学群都设了免打扰。妈妈打电话来我装作一切正常。"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.18,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 4.0,
+    "sleep_time": "01:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "患者好转",
+      "一点点安慰"
+    ],
+    "journal_snippet": "ICU同事说患者肾功能在恢复了，应该能转出ICU。稍微松了一口气，但内疚感没有减少。"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.2,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 4.0,
+    "sleep_time": "01:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "等结果",
+      "调查结论"
+    ],
+    "journal_snippet": "明天出调查结论。今晚肯定又睡不着了。如果是严重处分怎么办？如果吊销执照怎么办？我这辈子就完了。"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.22,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 2.0,
+    "sleep_time": "04:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "正式警告",
+      "保留执照",
+      "劫后余生"
+    ],
+    "journal_snippet": "调查结论出来了：正式书面警告，记入档案，但保留执照。科主任谈话时说'年轻人要引以为戒'。我应该感到庆幸，但我只感到空洞。走出办公室的时候腿是软的。"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.2,
+    "primary_emotion": "紧张",
+    "stress_level": 9,
+    "sleep_hours": 3.0,
+    "sleep_time": "02:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "回科室",
+      "同事眼光",
+      "恐惧"
+    ],
+    "journal_snippet": "第一天回科室。感觉所有人都在看我，护士站的对话一看到我就停了。开医嘱的时候手一直在抖，反复核对了五六遍才敢签字。"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.18,
+    "primary_emotion": "紧张",
+    "stress_level": 9,
+    "sleep_hours": 3.5,
+    "sleep_time": "01:00",
+    "wake_time": "04:30",
+    "journal_keywords": [
+      "不敢开医嘱",
+      "PTSD"
+    ],
+    "journal_snippet": "开每一条医嘱都像在拆炸弹。万古霉素这三个字我现在看到就想吐。手抖的问题越来越严重了。"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.22,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 4.0,
+    "sleep_time": "01:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "女朋友",
+      "争吵",
+      "不理解"
+    ],
+    "journal_snippet": "和女朋友吵架了。她说我整个人变了，每天阴沉沉的什么都不说。我说我没事。她说'你从来不跟我说真话'。我该怎么说？说我差点害死一个人？"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.12,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 1.0,
+    "sleep_time": "04:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "分手",
+      "女朋友",
+      "崩溃"
+    ],
+    "journal_snippet": "她提分手了。在西餐厅。她说她也很痛苦，但她帮不了一个不愿意打开自己的人。我看着她哭，什么都说不出来。三年。就这样结束了。我打车回家，在车上哭了一路。司机什么都没说。"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.1,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 2.0,
+    "sleep_time": "03:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "喝酒",
+      "一个人",
+      "酒吧"
+    ],
+    "journal_snippet": "请了一天假。去酒吧坐了一晚上。以前从不喝酒的人现在觉得酒精是唯一能让脑子安静下来的东西。想给她发消息，打了删，删了打。最后什么都没发。"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.15,
+    "primary_emotion": "麻木",
+    "stress_level": 9,
+    "sleep_hours": 3.0,
+    "sleep_time": "02:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "宿醉",
+      "上班",
+      "行尸走肉"
+    ],
+    "journal_snippet": "宿醉去上班。主任看了我一眼什么都没说。我像个机器人一样查房、写病历、开医嘱。回到家就躺着发呆。"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.17,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 3.5,
+    "sleep_time": "02:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "失眠",
+      "冲动消费"
+    ],
+    "journal_snippet": "又失眠了。半夜三点刷淘宝，买了一堆不需要的东西。买完的瞬间觉得好了一点，然后更空虚。"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.15,
+    "primary_emotion": "麻木",
+    "stress_level": 8,
+    "sleep_hours": 3.8,
+    "sleep_time": "02:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "空虚",
+      "买东西"
+    ],
+    "journal_snippet": "又失眠了。半夜三点刷淘宝，买了一堆不需要的东西。买完的瞬间觉得好了一点，然后更空虚。"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.2,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 3.9,
+    "sleep_time": "01:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "失眠",
+      "冲动消费"
+    ],
+    "journal_snippet": "晚上一个人在家实在受不了安静，开了外卖吃了一大堆垃圾食品。吃完又后悔。循环往复。"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.29,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 3.6,
+    "sleep_time": "01:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "心理",
+      "要不要看"
+    ],
+    "journal_snippet": "科室的小张偷偷问我要不要一起吃饭。他是好意，但我不想面对任何人。说了句'改天吧'。"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.33,
+    "primary_emotion": "内疚",
+    "stress_level": 8,
+    "sleep_hours": 4.6,
+    "sleep_time": "01:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "心理",
+      "要不要看"
+    ],
+    "journal_snippet": "科室的小张偷偷问我要不要一起吃饭。他是好意，但我不想面对任何人。说了句'改天吧'。"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.22,
+    "primary_emotion": "沮丧",
+    "stress_level": 7,
+    "sleep_hours": 4.1,
+    "sleep_time": "02:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "噩梦",
+      "夜班"
+    ],
+    "journal_snippet": "又做噩梦了。梦到我在ICU，患者心电监护仪一直在响，但我的手冻住了动不了。"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.3,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 4.5,
+    "sleep_time": "01:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "心理咨询",
+      "考虑",
+      "同事建议"
+    ],
+    "journal_snippet": "今天在厕所里突然哭了。自己都没预料到。擦干眼泪出去继续上班。回来以后认真查了心理咨询的信息。也许真的该去了。"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.28,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 4.0,
+    "sleep_time": "01:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "预约",
+      "心理咨询",
+      "第一步"
+    ],
+    "journal_snippet": "约了后天的心理咨询。选了一个离医院远的咨询室，不想被同事看到。预约的时候手都在抖。但至少这是一步。"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.25,
+    "primary_emotion": "紧张",
+    "stress_level": 8,
+    "sleep_hours": 3.5,
+    "sleep_time": "02:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "第一次咨询",
+      "心理治疗"
+    ],
+    "journal_snippet": "第一次心理咨询。在等候室坐了半小时才敢进去。一进去就哭了。把那件事从头到尾说了一遍。咨询师说这不全是我的错——制度让住院医连续值夜班本身就是系统性风险。我知道她是对的，但感觉不到。"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.28,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.1,
+    "sleep_time": "01:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "咨询",
+      "情绪"
+    ],
+    "journal_snippet": "今天讨论了要不要继续做医生。她没给答案，但问了很好的问题。"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.22,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 5.2,
+    "sleep_time": "00:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "上班",
+      "挺过去"
+    ],
+    "journal_snippet": "夜里又醒了。盯着天花板到四点。"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.28,
+    "primary_emotion": "沮丧",
+    "stress_level": 7,
+    "sleep_hours": 4.0,
+    "sleep_time": "01:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "咨询",
+      "PTSD",
+      "创伤"
+    ],
+    "journal_snippet": "第二次咨询。咨询师说我的症状像PTSD——闪回、噩梦、回避、过度警觉。听到这个诊断反而有种被理解的感觉。至少有个名字来形容我正在经历的。"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.24,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 3.8,
+    "sleep_time": "02:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "咨询",
+      "创伤"
+    ],
+    "journal_snippet": "咨询师让我写'自我宽恕信'。写了三个字就写不下去了。"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.33,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 4.3,
+    "sleep_time": "02:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "运动",
+      "尝试"
+    ],
+    "journal_snippet": "同事叫我一起吃午饭，我去了。聊了些不相关的，感觉还行。"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.28,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 3.6,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "运动",
+      "尝试"
+    ],
+    "journal_snippet": "上班的时候尽量让自己正常。下班回来就瘫在床上。"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.3,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 4.5,
+    "sleep_time": "01:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "咨询",
+      "正念",
+      "呼吸练习"
+    ],
+    "journal_snippet": "咨询师教了呼吸练习。说当闪回出现的时候用4-7-8呼吸法。今天在科里试了一次，开医嘱手抖的时候做了几组，好了一点。"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.32,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.3,
+    "sleep_time": "02:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "咨询",
+      "情绪"
+    ],
+    "journal_snippet": "今天聊了小时候的事。原来我一直对'犯错'有病态的恐惧。"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.35,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 3.5,
+    "sleep_time": "01:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "上班",
+      "挺过去"
+    ],
+    "journal_snippet": "同事叫我一起吃午饭，我去了。聊了些不相关的，感觉还行。"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.33,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.0,
+    "sleep_time": "00:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "好转",
+      "第一次平静"
+    ],
+    "journal_snippet": "今天是事故以来第一次感觉到片刻的平静。下午阳光照进值班室，我坐在那里什么都没想。只是坐着。可能也就持续了两分钟，但那两分钟很珍贵。"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.33,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 4.0,
+    "sleep_time": "00:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "咨询",
+      "情绪"
+    ],
+    "journal_snippet": "今天讨论了要不要继续做医生。她没给答案，但问了很好的问题。"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.31,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 4.7,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "上班",
+      "挺过去"
+    ],
+    "journal_snippet": "上班的时候尽量让自己正常。下班回来就瘫在床上。"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.34,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 3.5,
+    "sleep_time": "01:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "运动",
+      "尝试"
+    ],
+    "journal_snippet": "今天查房没手抖。小进步。"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.35,
+    "primary_emotion": "沮丧",
+    "stress_level": 7,
+    "sleep_hours": 4.5,
+    "sleep_time": "01:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "反复",
+      "噩梦又来了"
+    ],
+    "journal_snippet": "以为好转了，昨晚又做噩梦了。咨询师说恢复不是线性的，会有反复。知道归知道，反复的时候还是很绝望。"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.36,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.1,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "咨询",
+      "职业方向"
+    ],
+    "journal_snippet": "咨询师建议我考虑叙事疗法，把这段经历写下来。我还没准备好。"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.36,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.3,
+    "sleep_time": "23:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "做饭",
+      "自己"
+    ],
+    "journal_snippet": "和妈妈打了电话。她还是不知道那件事。以后也不会告诉她。"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.38,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "上班",
+      "正常"
+    ],
+    "journal_snippet": "跑步了三十分钟。身体在恢复，虽然精神还时好时坏。"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.39,
+    "primary_emotion": "沮丧",
+    "stress_level": 4,
+    "sleep_hours": 5.7,
+    "sleep_time": "23:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "咨询",
+      "创伤处理"
+    ],
+    "journal_snippet": "咨询师说我在进步。但我还是会在某些时刻突然想起那件事。"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.45,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "周末出游",
+      "湖边",
+      "放松"
+    ],
+    "journal_snippet": "咨询师建议周末去大自然走走。去了西湖边。坐在湖边的长椅上看了一下午的水。第一次觉得世界可能还是好的。"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.4,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 5.4,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "同事",
+      "吃饭"
+    ],
+    "journal_snippet": "和妈妈打了电话。她还是不知道那件事。以后也不会告诉她。"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.4,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 5.1,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "上班",
+      "正常"
+    ],
+    "journal_snippet": "跑步了三十分钟。身体在恢复，虽然精神还时好时坏。"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.37,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 5.5,
+    "sleep_time": "00:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "咨询",
+      "人际关系"
+    ],
+    "journal_snippet": "咨询师建议我考虑叙事疗法，把这段经历写下来。我还没准备好。"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.37,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.2,
+    "sleep_time": "23:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "同事",
+      "吃饭"
+    ],
+    "journal_snippet": "跑步了三十分钟。身体在恢复，虽然精神还时好时坏。"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.4,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 5.0,
+    "sleep_time": "01:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "考虑转行",
+      "非临床",
+      "科研"
+    ],
+    "journal_snippet": "和咨询师讨论了职业方向。她问我'你还想做临床吗？'我第一次认真思考这个问题。也许转去做科研或者公共卫生？不用直接面对患者？"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.42,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.4,
+    "sleep_time": "23:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "咨询",
+      "创伤处理"
+    ],
+    "journal_snippet": "咨询师说我在进步。但我还是会在某些时刻突然想起那件事。"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.39,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 5.9,
+    "sleep_time": "23:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "同事",
+      "吃饭"
+    ],
+    "journal_snippet": "和妈妈打了电话。她还是不知道那件事。以后也不会告诉她。"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.39,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "上班",
+      "正常"
+    ],
+    "journal_snippet": "跑步了三十分钟。身体在恢复，虽然精神还时好时坏。"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.43,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "同事",
+      "吃饭"
+    ],
+    "journal_snippet": "和妈妈打了电话。她还是不知道那件事。以后也不会告诉她。"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.42,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.0,
+    "sleep_time": "23:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "患者出院",
+      "释然"
+    ],
+    "journal_snippet": "听说那个患者出院了。肾功能恢复了大部分。听到消息的时候在值班室站了很久。没有如释重负的感觉，只有一种很深的悲伤和感恩交织在一起。"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.42,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.8,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "上班",
+      "正常"
+    ],
+    "journal_snippet": "今天有一个患者痊愈出院，跟我说了谢谢。我差点又哭了。"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.44,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.6,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "冥想",
+      "早起"
+    ],
+    "journal_snippet": "在阳台上看了一小时的夕阳。以前觉得这种事很无聊，现在觉得很珍贵。"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.4,
+    "primary_emotion": "沮丧",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "咨询",
+      "创伤处理"
+    ],
+    "journal_snippet": "讨论了和同事关系的重建。试着接受不是每个人都在审判我。"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.41,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "读书",
+      "晚上"
+    ],
+    "journal_snippet": "跑步了三十分钟。身体在恢复，虽然精神还时好时坏。"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.45,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.0,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "瑜伽",
+      "冥想",
+      "新习惯"
+    ],
+    "journal_snippet": "开始每天做十分钟冥想。咨询师说这对PTSD恢复很有帮助。今天冥想的时候没有闪回出现。"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.44,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "冥想",
+      "早起"
+    ],
+    "journal_snippet": "今天工作还算顺利。开医嘱的时候不抖了。但还是会多检查几遍。"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.45,
+    "primary_emotion": "沮丧",
+    "stress_level": 5,
+    "sleep_hours": 6.4,
+    "sleep_time": "23:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "咨询",
+      "职业方向"
+    ],
+    "journal_snippet": "讨论了和同事关系的重建。试着接受不是每个人都在审判我。"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.44,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 6.7,
+    "sleep_time": "23:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "冥想",
+      "早起"
+    ],
+    "journal_snippet": "今天工作还算顺利。开医嘱的时候不抖了。但还是会多检查几遍。"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.5,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "上班",
+      "正常"
+    ],
+    "journal_snippet": "今天有一个患者痊愈出院，跟我说了谢谢。我差点又哭了。"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.48,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "爬山",
+      "同事",
+      "重建关系"
+    ],
+    "journal_snippet": "和科室的小张、小王一起去爬山了。他们从来没问过那件事。爬到山顶的时候，我觉得自己还活着。这件事会跟我一辈子，但也许我能带着它继续走。"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.46,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "冥想",
+      "早起"
+    ],
+    "journal_snippet": "今天有一个患者痊愈出院，跟我说了谢谢。我差点又哭了。"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 5.5,
+    "sleep_time": "23:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "上班",
+      "正常"
+    ],
+    "journal_snippet": "晚上自己做了饭。以前从来不下厨。咨询师说'照顾自己从小事开始'。"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.47,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.2,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "做饭",
+      "自己"
+    ],
+    "journal_snippet": "在阳台上看了一小时的夕阳。以前觉得这种事很无聊，现在觉得很珍贵。"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "三个月",
+      "回顾",
+      "新的开始"
+    ],
+    "journal_snippet": "事故过去快三个月了。我不是原来的我了。那个自信满满的住院医已经不存在了。现在的我更脆弱，但也许也更小心、更谦卑。咨询师说这叫'创伤后成长'。我不确定这算不算成长，但我还在这里。"
+  }
+]

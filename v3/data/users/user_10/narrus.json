@@ -1,0 +1,2185 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [
+      {
+        "title": "芒格的智慧：穷查理宝典",
+        "category": "投资",
+        "duration_min": 20,
+        "highlights": 5,
+        "time_range": "21:13-21:33"
+      },
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 13,
+        "highlights": 3,
+        "time_range": "20:38-20:51"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "22:05-22:25"
+      }
+    ],
+    "daily_reading_min": 53,
+    "topics": [
+      "投资",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 31,
+        "highlights": 3,
+        "time_range": "20:38-21:09"
+      }
+    ],
+    "daily_reading_min": 31,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [
+      {
+        "title": "半导体产业链分析",
+        "category": "行业",
+        "duration_min": 30,
+        "highlights": 5,
+        "time_range": "22:08-22:38"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 25,
+        "highlights": 3,
+        "time_range": "20:07-20:32"
+      },
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 22,
+        "highlights": 5,
+        "time_range": "21:06-21:28"
+      }
+    ],
+    "daily_reading_min": 77,
+    "topics": [
+      "行业",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 23,
+        "highlights": 3,
+        "time_range": "23:10-23:33"
+      },
+      {
+        "title": "半导体产业链分析",
+        "category": "行业",
+        "duration_min": 15,
+        "highlights": 4,
+        "time_range": "20:33-20:48"
+      }
+    ],
+    "daily_reading_min": 38,
+    "topics": [
+      "投资",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 25,
+        "highlights": 4,
+        "time_range": "23:16-23:41"
+      },
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 35,
+        "highlights": 4,
+        "time_range": "21:38-22:13"
+      }
+    ],
+    "daily_reading_min": 60,
+    "topics": [
+      "金融",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 36,
+        "highlights": 0,
+        "time_range": "23:01-23:37"
+      },
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 21,
+        "highlights": 0,
+        "time_range": "23:23-23:44"
+      },
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 22,
+        "highlights": 5,
+        "time_range": "20:10-20:32"
+      }
+    ],
+    "daily_reading_min": 79,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 31,
+        "highlights": 2,
+        "time_range": "20:33-21:04"
+      },
+      {
+        "title": "芒格的智慧：穷查理宝典",
+        "category": "投资",
+        "duration_min": 24,
+        "highlights": 5,
+        "time_range": "22:40-23:04"
+      },
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 16,
+        "highlights": 0,
+        "time_range": "22:35-22:51"
+      }
+    ],
+    "daily_reading_min": 71,
+    "topics": [
+      "金融",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [
+      {
+        "title": "尼采：权力意志",
+        "category": "哲学",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "23:38-24:05"
+      },
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 25,
+        "highlights": 1,
+        "time_range": "21:04-21:29"
+      }
+    ],
+    "daily_reading_min": 52,
+    "topics": [
+      "哲学",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 16,
+        "highlights": 0,
+        "time_range": "21:33-21:49"
+      },
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 22,
+        "highlights": 3,
+        "time_range": "23:33-23:55"
+      },
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 32,
+        "highlights": 3,
+        "time_range": "22:21-22:53"
+      }
+    ],
+    "daily_reading_min": 70,
+    "topics": [
+      "金融",
+      "哲学",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 24,
+        "highlights": 5,
+        "time_range": "21:38-22:02"
+      },
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 32,
+        "highlights": 0,
+        "time_range": "23:32-24:04"
+      }
+    ],
+    "daily_reading_min": 56,
+    "topics": [
+      "金融",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 27,
+        "highlights": 5,
+        "time_range": "21:07-21:34"
+      },
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 45,
+        "highlights": 2,
+        "time_range": "22:06-22:51"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 18,
+        "highlights": 2,
+        "time_range": "20:34-20:52"
+      }
+    ],
+    "daily_reading_min": 90,
+    "topics": [
+      "金融",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 28,
+        "highlights": 0,
+        "time_range": "23:14-23:42"
+      },
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 36,
+        "highlights": 2,
+        "time_range": "23:38-24:14"
+      }
+    ],
+    "daily_reading_min": 64,
+    "topics": [
+      "哲学",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [
+      {
+        "title": "半导体产业链分析",
+        "category": "行业",
+        "duration_min": 24,
+        "highlights": 5,
+        "time_range": "23:04-23:28"
+      },
+      {
+        "title": "芒格的智慧：穷查理宝典",
+        "category": "投资",
+        "duration_min": 21,
+        "highlights": 2,
+        "time_range": "22:22-22:43"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "行业",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 40,
+        "highlights": 1,
+        "time_range": "22:38-23:18"
+      },
+      {
+        "title": "尼采：权力意志",
+        "category": "哲学",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "23:00-23:23"
+      }
+    ],
+    "daily_reading_min": 63,
+    "topics": [
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [
+      {
+        "title": "半导体产业链分析",
+        "category": "行业",
+        "duration_min": 27,
+        "highlights": 0,
+        "time_range": "22:08-22:35"
+      },
+      {
+        "title": "尼采：权力意志",
+        "category": "哲学",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "22:30-22:53"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 24,
+        "highlights": 3,
+        "time_range": "20:08-20:32"
+      }
+    ],
+    "daily_reading_min": 74,
+    "topics": [
+      "行业",
+      "哲学",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 4,
+        "time_range": "23:37-23:57"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 26,
+        "highlights": 4,
+        "time_range": "20:06-20:32"
+      },
+      {
+        "title": "半导体产业链分析",
+        "category": "行业",
+        "duration_min": 27,
+        "highlights": 0,
+        "time_range": "21:37-22:04"
+      }
+    ],
+    "daily_reading_min": 53,
+    "topics": [
+      "哲学",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "芒格的智慧：穷查理宝典",
+        "category": "投资",
+        "duration_min": 26,
+        "highlights": 4,
+        "time_range": "22:37-23:03"
+      },
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 31,
+        "highlights": 5,
+        "time_range": "21:18-21:49"
+      },
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 34,
+        "highlights": 0,
+        "time_range": "23:24-23:58"
+      }
+    ],
+    "daily_reading_min": 91,
+    "topics": [
+      "投资",
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 29,
+        "highlights": 0,
+        "time_range": "20:26-20:55"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 21,
+        "highlights": 1,
+        "time_range": "20:30-20:51"
+      },
+      {
+        "title": "尼采：权力意志",
+        "category": "哲学",
+        "duration_min": 23,
+        "highlights": 2,
+        "time_range": "23:23-23:46"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 23,
+        "highlights": 5,
+        "time_range": "22:00-22:23"
+      }
+    ],
+    "daily_reading_min": 67,
+    "topics": [
+      "哲学",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "22:36-23:01"
+      },
+      {
+        "title": "半导体产业链分析",
+        "category": "行业",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "23:29-23:49"
+      },
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 36,
+        "highlights": 3,
+        "time_range": "20:07-20:43"
+      }
+    ],
+    "daily_reading_min": 81,
+    "topics": [
+      "哲学",
+      "行业",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 31,
+        "highlights": 1,
+        "time_range": "23:31-24:02"
+      },
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 33,
+        "highlights": 4,
+        "time_range": "21:18-21:51"
+      }
+    ],
+    "daily_reading_min": 64,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 38,
+        "highlights": 1,
+        "time_range": "23:00-23:38"
+      },
+      {
+        "title": "半导体产业链分析",
+        "category": "行业",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "21:06-21:29"
+      }
+    ],
+    "daily_reading_min": 61,
+    "topics": [
+      "金融",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 34,
+        "highlights": 2,
+        "time_range": "20:36-21:10"
+      },
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 21,
+        "highlights": 3,
+        "time_range": "21:14-21:35"
+      }
+    ],
+    "daily_reading_min": 55,
+    "topics": [
+      "投资",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 34,
+        "highlights": 2,
+        "time_range": "23:07-23:41"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [
+      {
+        "title": "市场恐慌心理学",
+        "category": "心理",
+        "duration_min": 23,
+        "highlights": 1,
+        "time_range": "22:27-22:50"
+      },
+      {
+        "title": "2008金融危机复盘",
+        "category": "金融",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "21:27-21:52"
+      }
+    ],
+    "daily_reading_min": 48,
+    "topics": [
+      "心理",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [
+      {
+        "title": "基金回撤后的客户沟通策略",
+        "category": "管理",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "23:06-23:25"
+      },
+      {
+        "title": "2008金融危机复盘",
+        "category": "金融",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "21:37-22:06"
+      },
+      {
+        "title": "实时市场数据分析",
+        "category": "金融",
+        "duration_min": 55,
+        "highlights": 2,
+        "time_range": "20:34-21:29"
+      }
+    ],
+    "daily_reading_min": 103,
+    "topics": [
+      "管理",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [
+      {
+        "title": "实时市场数据分析",
+        "category": "金融",
+        "duration_min": 51,
+        "highlights": 5,
+        "time_range": "20:24-21:15"
+      },
+      {
+        "title": "极端风险管理：尾部对冲策略",
+        "category": "金融",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "20:26-20:55"
+      },
+      {
+        "title": "基金回撤后的客户沟通策略",
+        "category": "管理",
+        "duration_min": 19,
+        "highlights": 3,
+        "time_range": "22:38-22:57"
+      },
+      {
+        "title": "VaR模型的局限性",
+        "category": "金融",
+        "duration_min": 36,
+        "highlights": 3,
+        "time_range": "21:15-21:51"
+      }
+    ],
+    "daily_reading_min": 135,
+    "topics": [
+      "金融",
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [
+      {
+        "title": "市场恐慌心理学",
+        "category": "心理",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "21:30-21:49"
+      },
+      {
+        "title": "实时市场数据分析",
+        "category": "金融",
+        "duration_min": 40,
+        "highlights": 4,
+        "time_range": "21:29-22:09"
+      },
+      {
+        "title": "黑天鹅事件应对指南",
+        "category": "金融",
+        "duration_min": 19,
+        "highlights": 5,
+        "time_range": "21:15-21:34"
+      }
+    ],
+    "daily_reading_min": 78,
+    "topics": [
+      "心理",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [
+      {
+        "title": "2008金融危机复盘",
+        "category": "金融",
+        "duration_min": 42,
+        "highlights": 4,
+        "time_range": "23:35-24:17"
+      },
+      {
+        "title": "极端风险管理：尾部对冲策略",
+        "category": "金融",
+        "duration_min": 37,
+        "highlights": 2,
+        "time_range": "23:26-24:03"
+      },
+      {
+        "title": "黑天鹅事件应对指南",
+        "category": "金融",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "20:28-21:03"
+      }
+    ],
+    "daily_reading_min": 114,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [
+      {
+        "title": "极端风险管理：尾部对冲策略",
+        "category": "金融",
+        "duration_min": 29,
+        "highlights": 4,
+        "time_range": "21:25-21:54"
+      },
+      {
+        "title": "实时市场数据分析",
+        "category": "金融",
+        "duration_min": 58,
+        "highlights": 5,
+        "time_range": "21:15-22:13"
+      },
+      {
+        "title": "市场恐慌心理学",
+        "category": "心理",
+        "duration_min": 20,
+        "highlights": 5,
+        "time_range": "23:03-23:23"
+      },
+      {
+        "title": "基金回撤后的客户沟通策略",
+        "category": "管理",
+        "duration_min": 14,
+        "highlights": 4,
+        "time_range": "23:07-23:21"
+      }
+    ],
+    "daily_reading_min": 121,
+    "topics": [
+      "金融",
+      "心理",
+      "管理"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [
+      {
+        "title": "基金回撤后的客户沟通策略",
+        "category": "管理",
+        "duration_min": 18,
+        "highlights": 0,
+        "time_range": "21:05-21:23"
+      },
+      {
+        "title": "市场恐慌心理学",
+        "category": "心理",
+        "duration_min": 18,
+        "highlights": 4,
+        "time_range": "21:39-21:57"
+      },
+      {
+        "title": "实时市场数据分析",
+        "category": "金融",
+        "duration_min": 45,
+        "highlights": 1,
+        "time_range": "21:10-21:55"
+      },
+      {
+        "title": "黑天鹅事件应对指南",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "22:35-22:55"
+      }
+    ],
+    "daily_reading_min": 101,
+    "topics": [
+      "管理",
+      "心理",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 4,
+        "time_range": "23:32-23:52"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [
+      {
+        "title": "正念冥想与高压工作",
+        "category": "健康",
+        "duration_min": 18,
+        "highlights": 0,
+        "time_range": "23:27-23:45"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [
+      {
+        "title": "斯多葛哲学与投资心态",
+        "category": "哲学",
+        "duration_min": 21,
+        "highlights": 0,
+        "time_range": "20:05-20:26"
+      },
+      {
+        "title": "正念冥想与高压工作",
+        "category": "健康",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "21:30-21:47"
+      }
+    ],
+    "daily_reading_min": 38,
+    "topics": [
+      "哲学",
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "21:00-21:24"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 26,
+        "highlights": 4,
+        "time_range": "23:28-23:54"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [
+      {
+        "title": "行为金融学：认知偏差与决策",
+        "category": "金融",
+        "duration_min": 26,
+        "highlights": 5,
+        "time_range": "21:30-21:56"
+      },
+      {
+        "title": "正念冥想与高压工作",
+        "category": "健康",
+        "duration_min": 14,
+        "highlights": 0,
+        "time_range": "21:37-21:51"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "金融",
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 24,
+        "highlights": 1,
+        "time_range": "22:11-22:35"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [
+      {
+        "title": "斯多葛哲学与投资心态",
+        "category": "哲学",
+        "duration_min": 21,
+        "highlights": 4,
+        "time_range": "23:22-23:43"
+      },
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 22,
+        "highlights": 4,
+        "time_range": "22:39-23:01"
+      }
+    ],
+    "daily_reading_min": 43,
+    "topics": [
+      "哲学",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [
+      {
+        "title": "正念冥想与高压工作",
+        "category": "健康",
+        "duration_min": 17,
+        "highlights": 4,
+        "time_range": "21:37-21:54"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 15,
+        "highlights": 1,
+        "time_range": "22:17-22:32"
+      }
+    ],
+    "daily_reading_min": 32,
+    "topics": [
+      "健康",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 29,
+        "highlights": 5,
+        "time_range": "21:39-22:08"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [
+      {
+        "title": "桥水基金全天候策略详解",
+        "category": "金融",
+        "duration_min": 26,
+        "highlights": 4,
+        "time_range": "20:24-20:50"
+      }
+    ],
+    "daily_reading_min": 26,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 30,
+        "highlights": 5,
+        "time_range": "22:28-22:58"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [
+      {
+        "title": "斯多葛哲学与投资心态",
+        "category": "哲学",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "20:34-20:51"
+      },
+      {
+        "title": "正念冥想与高压工作",
+        "category": "健康",
+        "duration_min": 16,
+        "highlights": 5,
+        "time_range": "22:35-22:51"
+      },
+      {
+        "title": "桥水基金全天候策略详解",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 0,
+        "time_range": "23:24-23:44"
+      }
+    ],
+    "daily_reading_min": 53,
+    "topics": [
+      "哲学",
+      "健康",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [
+      {
+        "title": "行为金融学：认知偏差与决策",
+        "category": "金融",
+        "duration_min": 26,
+        "highlights": 1,
+        "time_range": "22:11-22:37"
+      },
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 40,
+        "highlights": 2,
+        "time_range": "21:16-21:56"
+      }
+    ],
+    "daily_reading_min": 66,
+    "topics": [
+      "金融",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [
+      {
+        "title": "风控体系重建：从回撤中学习",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 4,
+        "time_range": "21:19-21:39"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 5,
+        "time_range": "20:15-20:35"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 3,
+        "time_range": "22:28-22:48"
+      },
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "23:27-23:52"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 22,
+        "highlights": 1,
+        "time_range": "23:12-23:34"
+      },
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 21,
+        "highlights": 4,
+        "time_range": "21:19-21:40"
+      }
+    ],
+    "daily_reading_min": 43,
+    "topics": [
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [
+      {
+        "title": "桥水基金全天候策略详解",
+        "category": "金融",
+        "duration_min": 35,
+        "highlights": 1,
+        "time_range": "20:40-21:15"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "23:38-24:05"
+      },
+      {
+        "title": "正念冥想与高压工作",
+        "category": "健康",
+        "duration_min": 11,
+        "highlights": 4,
+        "time_range": "20:37-20:48"
+      }
+    ],
+    "daily_reading_min": 38,
+    "topics": [
+      "金融",
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [
+      {
+        "title": "正念冥想与高压工作",
+        "category": "健康",
+        "duration_min": 16,
+        "highlights": 3,
+        "time_range": "22:32-22:48"
+      },
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 35,
+        "highlights": 4,
+        "time_range": "23:26-24:01"
+      },
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 32,
+        "highlights": 1,
+        "time_range": "22:11-22:43"
+      }
+    ],
+    "daily_reading_min": 83,
+    "topics": [
+      "健康",
+      "投资",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 38,
+        "highlights": 3,
+        "time_range": "21:26-22:04"
+      },
+      {
+        "title": "斯多葛哲学与投资心态",
+        "category": "哲学",
+        "duration_min": 24,
+        "highlights": 3,
+        "time_range": "23:23-23:47"
+      }
+    ],
+    "daily_reading_min": 62,
+    "topics": [
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [
+      {
+        "title": "芒格的智慧：穷查理宝典",
+        "category": "投资",
+        "duration_min": 20,
+        "highlights": 3,
+        "time_range": "22:19-22:39"
+      },
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "21:18-21:47"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 22,
+        "highlights": 2,
+        "time_range": "22:28-22:50"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 44,
+        "highlights": 0,
+        "time_range": "20:23-21:07"
+      }
+    ],
+    "daily_reading_min": 44,
+    "topics": [
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "23:18-23:38"
+      },
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 32,
+        "highlights": 3,
+        "time_range": "22:20-22:52"
+      }
+    ],
+    "daily_reading_min": 52,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 23,
+        "highlights": 5,
+        "time_range": "22:30-22:53"
+      },
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 36,
+        "highlights": 5,
+        "time_range": "22:15-22:51"
+      },
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 26,
+        "highlights": 0,
+        "time_range": "21:28-21:54"
+      }
+    ],
+    "daily_reading_min": 85,
+    "topics": [
+      "哲学",
+      "行业",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [
+      {
+        "title": "尼采：权力意志",
+        "category": "哲学",
+        "duration_min": 21,
+        "highlights": 5,
+        "time_range": "20:34-20:55"
+      },
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 17,
+        "highlights": 0,
+        "time_range": "20:12-20:29"
+      },
+      {
+        "title": "半导体产业链分析",
+        "category": "行业",
+        "duration_min": 20,
+        "highlights": 4,
+        "time_range": "23:40-24:00"
+      }
+    ],
+    "daily_reading_min": 58,
+    "topics": [
+      "哲学",
+      "金融",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 29,
+        "highlights": 3,
+        "time_range": "21:26-21:55"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 26,
+        "highlights": 4,
+        "time_range": "21:03-21:29"
+      },
+      {
+        "title": "芒格的智慧：穷查理宝典",
+        "category": "投资",
+        "duration_min": 25,
+        "highlights": 5,
+        "time_range": "22:17-22:42"
+      }
+    ],
+    "daily_reading_min": 51,
+    "topics": [
+      "金融",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 18,
+        "highlights": 1,
+        "time_range": "22:26-22:44"
+      },
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 31,
+        "highlights": 5,
+        "time_range": "20:30-21:01"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [
+      {
+        "title": "芒格的智慧：穷查理宝典",
+        "category": "投资",
+        "duration_min": 23,
+        "highlights": 2,
+        "time_range": "21:35-21:58"
+      },
+      {
+        "title": "尼采：权力意志",
+        "category": "哲学",
+        "duration_min": 17,
+        "highlights": 2,
+        "time_range": "21:15-21:32"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "投资",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 26,
+        "highlights": 4,
+        "time_range": "20:26-20:52"
+      },
+      {
+        "title": "桥水基金全天候策略详解",
+        "category": "金融",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "22:27-22:57"
+      },
+      {
+        "title": "尼采：权力意志",
+        "category": "哲学",
+        "duration_min": 19,
+        "highlights": 4,
+        "time_range": "20:07-20:26"
+      }
+    ],
+    "daily_reading_min": 75,
+    "topics": [
+      "行业",
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 16,
+        "highlights": 1,
+        "time_range": "21:15-21:31"
+      },
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 17,
+        "highlights": 4,
+        "time_range": "23:34-23:51"
+      }
+    ],
+    "daily_reading_min": 33,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 14,
+        "highlights": 2,
+        "time_range": "22:16-22:30"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 22,
+        "highlights": 0,
+        "time_range": "21:37-21:59"
+      },
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 21,
+        "highlights": 4,
+        "time_range": "22:11-22:32"
+      }
+    ],
+    "daily_reading_min": 43,
+    "topics": [
+      "金融",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 16,
+        "highlights": 1,
+        "time_range": "20:34-20:50"
+      },
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 25,
+        "highlights": 5,
+        "time_range": "22:18-22:43"
+      }
+    ],
+    "daily_reading_min": 41,
+    "topics": [
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 45,
+        "highlights": 3,
+        "time_range": "22:18-23:03"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [
+      {
+        "title": "正念冥想与高压工作",
+        "category": "健康",
+        "duration_min": 12,
+        "highlights": 1,
+        "time_range": "23:31-23:43"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 24,
+        "highlights": 2,
+        "time_range": "22:02-22:26"
+      },
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 18,
+        "highlights": 2,
+        "time_range": "22:36-22:54"
+      }
+    ],
+    "daily_reading_min": 42,
+    "topics": [
+      "哲学",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "22:08-22:32"
+      },
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 25,
+        "highlights": 4,
+        "time_range": "22:14-22:39"
+      },
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 34,
+        "highlights": 4,
+        "time_range": "21:35-22:09"
+      }
+    ],
+    "daily_reading_min": 83,
+    "topics": [
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "22:17-22:41"
+      },
+      {
+        "title": "斯多葛哲学与投资心态",
+        "category": "哲学",
+        "duration_min": 25,
+        "highlights": 5,
+        "time_range": "23:13-23:38"
+      },
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 39,
+        "highlights": 4,
+        "time_range": "21:15-21:54"
+      }
+    ],
+    "daily_reading_min": 88,
+    "topics": [
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 25,
+        "highlights": 4,
+        "time_range": "20:39-21:04"
+      },
+      {
+        "title": "尼采：权力意志",
+        "category": "哲学",
+        "duration_min": 19,
+        "highlights": 3,
+        "time_range": "21:14-21:33"
+      }
+    ],
+    "daily_reading_min": 44,
+    "topics": [
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "20:05-20:33"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "23:08-23:43"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 21,
+        "highlights": 3,
+        "time_range": "20:18-20:39"
+      },
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "20:22-20:47"
+      }
+    ],
+    "daily_reading_min": 81,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 23,
+        "highlights": 5,
+        "time_range": "20:40-21:03"
+      },
+      {
+        "title": "斯多葛哲学与投资心态",
+        "category": "哲学",
+        "duration_min": 15,
+        "highlights": 5,
+        "time_range": "20:34-20:49"
+      },
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 29,
+        "highlights": 1,
+        "time_range": "22:05-22:34"
+      }
+    ],
+    "daily_reading_min": 67,
+    "topics": [
+      "金融",
+      "哲学",
+      "行业"
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [
+      {
+        "title": "对冲基金策略年鉴",
+        "category": "金融",
+        "duration_min": 26,
+        "highlights": 5,
+        "time_range": "23:25-23:51"
+      },
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 21,
+        "highlights": 5,
+        "time_range": "21:24-21:45"
+      },
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 32,
+        "highlights": 5,
+        "time_range": "22:05-22:37"
+      }
+    ],
+    "daily_reading_min": 79,
+    "topics": [
+      "金融",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 23,
+        "highlights": 5,
+        "time_range": "22:10-22:33"
+      }
+    ],
+    "daily_reading_min": 23,
+    "topics": [
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [
+      {
+        "title": "斯多葛哲学与投资心态",
+        "category": "哲学",
+        "duration_min": 25,
+        "highlights": 3,
+        "time_range": "20:15-20:40"
+      },
+      {
+        "title": "芒格的智慧：穷查理宝典",
+        "category": "投资",
+        "duration_min": 15,
+        "highlights": 5,
+        "time_range": "20:30-20:45"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "哲学",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "22:15-22:44"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [
+      {
+        "title": "A股市场结构性机会分析",
+        "category": "金融",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "20:27-21:02"
+      },
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "23:35-24:04"
+      },
+      {
+        "title": "桥水基金全天候策略详解",
+        "category": "金融",
+        "duration_min": 21,
+        "highlights": 1,
+        "time_range": "22:05-22:26"
+      }
+    ],
+    "daily_reading_min": 85,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 35,
+        "highlights": 5,
+        "time_range": "23:02-23:37"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 11,
+        "highlights": 3,
+        "time_range": "23:36-23:47"
+      },
+      {
+        "title": "尼采：权力意志",
+        "category": "哲学",
+        "duration_min": 25,
+        "highlights": 5,
+        "time_range": "21:15-21:40"
+      }
+    ],
+    "daily_reading_min": 36,
+    "topics": [
+      "金融",
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [
+      {
+        "title": "央行货币政策解读",
+        "category": "金融",
+        "duration_min": 20,
+        "highlights": 5,
+        "time_range": "22:19-22:39"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [
+      {
+        "title": "塔勒布：反脆弱",
+        "category": "哲学",
+        "duration_min": 32,
+        "highlights": 1,
+        "time_range": "21:29-22:01"
+      }
+    ],
+    "daily_reading_min": 32,
+    "topics": [
+      "哲学"
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [
+      {
+        "title": "新能源行业深度研报",
+        "category": "行业",
+        "duration_min": 20,
+        "highlights": 5,
+        "time_range": "23:30-23:50"
+      },
+      {
+        "title": "芒格的智慧：穷查理宝典",
+        "category": "投资",
+        "duration_min": 30,
+        "highlights": 2,
+        "time_range": "21:01-21:31"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "行业",
+      "投资"
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [
+      {
+        "title": "半导体产业链分析",
+        "category": "行业",
+        "duration_min": 27,
+        "highlights": 3,
+        "time_range": "21:17-21:44"
+      },
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 38,
+        "highlights": 1,
+        "time_range": "21:29-22:07"
+      }
+    ],
+    "daily_reading_min": 65,
+    "topics": [
+      "行业",
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 34,
+        "highlights": 3,
+        "time_range": "20:34-21:08"
+      },
+      {
+        "title": "巴菲特致股东信2025",
+        "category": "金融",
+        "duration_min": 38,
+        "highlights": 0,
+        "time_range": "22:16-22:54"
+      },
+      {
+        "title": "桥水基金全天候策略详解",
+        "category": "金融",
+        "duration_min": 21,
+        "highlights": 2,
+        "time_range": "21:28-21:49"
+      }
+    ],
+    "daily_reading_min": 93,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [
+      {
+        "title": "全球宏观经济月报",
+        "category": "金融",
+        "duration_min": 32,
+        "highlights": 5,
+        "time_range": "20:10-20:42"
+      },
+      {
+        "title": "量化投资策略前沿",
+        "category": "金融",
+        "duration_min": 17,
+        "highlights": 4,
+        "time_range": "20:40-20:57"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "金融"
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [
+      {
+        "title": "Ray Dalio: Principles",
+        "category": "投资",
+        "duration_min": 20,
+        "highlights": 3,
+        "time_range": "20:21-20:41"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "投资"
+    ]
+  }
+]

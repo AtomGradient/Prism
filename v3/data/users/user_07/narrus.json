@@ -1,0 +1,1199 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [
+      {
+        "title": "NEJM: 肿瘤免疫治疗突破",
+        "category": "肿瘤学",
+        "duration_min": 27,
+        "highlights": 2,
+        "time_range": "22:10-22:37"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "肿瘤学"
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [
+      {
+        "title": "心电图异常判读要点",
+        "category": "心内科",
+        "duration_min": 14,
+        "highlights": 3,
+        "time_range": "22:24-22:38"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "心内科"
+    ]
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [
+      {
+        "title": "万古霉素治疗指南更新2025",
+        "category": "药理学",
+        "duration_min": 29,
+        "highlights": 3,
+        "time_range": "23:05-23:34"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "药理学"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [
+      {
+        "title": "急诊医学病例讨论",
+        "category": "急诊医学",
+        "duration_min": 23,
+        "highlights": 4,
+        "time_range": "22:20-22:43"
+      }
+    ],
+    "daily_reading_min": 23,
+    "topics": [
+      "急诊医学"
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [
+      {
+        "title": "ICU感染控制最新进展",
+        "category": "重症医学",
+        "duration_min": 19,
+        "highlights": 6,
+        "time_range": "22:21-22:40"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "重症医学"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "药物不良反应数据库更新",
+        "category": "药理学",
+        "duration_min": 11,
+        "highlights": 2,
+        "time_range": "22:02-22:13"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "药理学"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [
+      {
+        "title": "抗生素耐药性趋势分析",
+        "category": "感染科",
+        "duration_min": 43,
+        "highlights": 6,
+        "time_range": "22:15-22:58"
+      }
+    ],
+    "daily_reading_min": 43,
+    "topics": [
+      "感染科"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "急性肾损伤的早期识别与干预",
+        "category": "临床医学",
+        "duration_min": 25,
+        "highlights": 5,
+        "time_range": "23:13-23:38"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "临床医学"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "ICU感染控制最新进展",
+        "category": "重症医学",
+        "duration_min": 25,
+        "highlights": 4,
+        "time_range": "23:23-23:48"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "重症医学"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [
+      {
+        "title": "心电图异常判读要点",
+        "category": "心内科",
+        "duration_min": 18,
+        "highlights": 3,
+        "time_range": "12:00-12:20"
+      }
+    ],
+    "daily_reading_min": 18,
+    "topics": [
+      "心内科"
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [
+      {
+        "title": "知乎：医生犯了医疗事故怎么办",
+        "category": "社区讨论",
+        "duration_min": 67,
+        "highlights": 6,
+        "time_range": "14:00-14:59"
+      }
+    ],
+    "daily_reading_min": 67,
+    "topics": [
+      "社区讨论"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [
+      {
+        "title": "医师执照吊销的条件和案例",
+        "category": "法律",
+        "duration_min": 47,
+        "highlights": 6,
+        "time_range": "02:00-02:47"
+      },
+      {
+        "title": "医疗事故处理条例全文",
+        "category": "法律",
+        "duration_min": 54,
+        "highlights": 11,
+        "time_range": "14:00-14:54"
+      }
+    ],
+    "daily_reading_min": 101,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [
+      {
+        "title": "医生执业风险与法律保障",
+        "category": "法律",
+        "duration_min": 61,
+        "highlights": 10,
+        "time_range": "03:00-03:59"
+      }
+    ],
+    "daily_reading_min": 61,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [
+      {
+        "title": "医生执业风险与法律保障",
+        "category": "法律",
+        "duration_min": 50,
+        "highlights": 12,
+        "time_range": "15:00-15:50"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [
+      {
+        "title": "住院医犯错后的法律后果",
+        "category": "法律",
+        "duration_min": 45,
+        "highlights": 6,
+        "time_range": "01:00-01:45"
+      },
+      {
+        "title": "医疗事故鉴定流程详解",
+        "category": "法律",
+        "duration_min": 41,
+        "highlights": 8,
+        "time_range": "14:00-14:41"
+      }
+    ],
+    "daily_reading_min": 86,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [
+      {
+        "title": "知乎：医生犯了医疗事故怎么办",
+        "category": "社区讨论",
+        "duration_min": 61,
+        "highlights": 9,
+        "time_range": "01:00-01:59"
+      }
+    ],
+    "daily_reading_min": 61,
+    "topics": [
+      "社区讨论"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [
+      {
+        "title": "医师执照吊销的条件和案例",
+        "category": "法律",
+        "duration_min": 49,
+        "highlights": 5,
+        "time_range": "15:00-15:49"
+      },
+      {
+        "title": "医疗纠纷预防和处理条例解读",
+        "category": "法律",
+        "duration_min": 53,
+        "highlights": 9,
+        "time_range": "02:00-02:53"
+      }
+    ],
+    "daily_reading_min": 102,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [
+      {
+        "title": "医疗事故鉴定流程详解",
+        "category": "法律",
+        "duration_min": 25,
+        "highlights": 3,
+        "time_range": "23:00-23:45"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [
+      {
+        "title": "住院医犯错后的法律后果",
+        "category": "法律",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "23:00-23:45"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [
+      {
+        "title": "PTSD的自我识别与应对",
+        "category": "心理学",
+        "duration_min": 16,
+        "highlights": 1,
+        "time_range": "02:00-02:20"
+      }
+    ],
+    "daily_reading_min": 16,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [
+      {
+        "title": "被讨厌的勇气",
+        "category": "心理学",
+        "duration_min": 42,
+        "highlights": 6,
+        "time_range": "22:00-22:42"
+      }
+    ],
+    "daily_reading_min": 42,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [
+      {
+        "title": "PTSD的自我识别与应对",
+        "category": "心理学",
+        "duration_min": 29,
+        "highlights": 4,
+        "time_range": "22:00-22:29"
+      }
+    ],
+    "daily_reading_min": 29,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [
+      {
+        "title": "被讨厌的勇气",
+        "category": "心理学",
+        "duration_min": 34,
+        "highlights": 5,
+        "time_range": "22:00-22:34"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [
+      {
+        "title": "当下的力量",
+        "category": "心理学",
+        "duration_min": 34,
+        "highlights": 7,
+        "time_range": "22:00-22:34"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [
+      {
+        "title": "当下的力量",
+        "category": "心理学",
+        "duration_min": 34,
+        "highlights": 6,
+        "time_range": "22:00-22:34"
+      }
+    ],
+    "daily_reading_min": 34,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [
+      {
+        "title": "自我关怀的力量",
+        "category": "心理学",
+        "duration_min": 28,
+        "highlights": 8,
+        "time_range": "22:00-22:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [
+      {
+        "title": "PTSD的自我识别与应对",
+        "category": "心理学",
+        "duration_min": 40,
+        "highlights": 4,
+        "time_range": "22:00-22:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [
+      {
+        "title": "当下的力量",
+        "category": "心理学",
+        "duration_min": 28,
+        "highlights": 4,
+        "time_range": "22:00-22:28"
+      },
+      {
+        "title": "医生的职业倦怠与出路",
+        "category": "职业规划",
+        "duration_min": 21,
+        "highlights": 2,
+        "time_range": "23:00-23:25"
+      }
+    ],
+    "daily_reading_min": 49,
+    "topics": [
+      "心理学",
+      "职业规划"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [
+      {
+        "title": "被讨厌的勇气",
+        "category": "心理学",
+        "duration_min": 45,
+        "highlights": 8,
+        "time_range": "22:00-22:45"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [
+      {
+        "title": "被讨厌的勇气",
+        "category": "心理学",
+        "duration_min": 40,
+        "highlights": 8,
+        "time_range": "22:00-22:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [
+      {
+        "title": "身体从未忘记——创伤与恢复",
+        "category": "心理学",
+        "duration_min": 50,
+        "highlights": 4,
+        "time_range": "22:00-22:50"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [
+      {
+        "title": "身体从未忘记——创伤与恢复",
+        "category": "心理学",
+        "duration_min": 44,
+        "highlights": 8,
+        "time_range": "22:00-22:44"
+      }
+    ],
+    "daily_reading_min": 44,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [
+      {
+        "title": "正念减压法",
+        "category": "心理学",
+        "duration_min": 33,
+        "highlights": 5,
+        "time_range": "22:00-22:33"
+      },
+      {
+        "title": "医疗AI行业入门",
+        "category": "科技",
+        "duration_min": 21,
+        "highlights": 3,
+        "time_range": "23:00-23:25"
+      }
+    ],
+    "daily_reading_min": 54,
+    "topics": [
+      "心理学",
+      "科技"
+    ]
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [
+      {
+        "title": "非临床医学职业路径",
+        "category": "职业规划",
+        "duration_min": 27,
+        "highlights": 4,
+        "time_range": "21:00-21:27"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "职业规划"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [
+      {
+        "title": "医学教育改革方向",
+        "category": "教育",
+        "duration_min": 33,
+        "highlights": 3,
+        "time_range": "21:00-21:33"
+      },
+      {
+        "title": "患者安全与系统性思维",
+        "category": "医疗管理",
+        "duration_min": 30,
+        "highlights": 4,
+        "time_range": "12:00-12:30"
+      }
+    ],
+    "daily_reading_min": 63,
+    "topics": [
+      "医疗管理",
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [
+      {
+        "title": "被讨厌的勇气",
+        "category": "心理学",
+        "duration_min": 37,
+        "highlights": 3,
+        "time_range": "22:00-22:37"
+      },
+      {
+        "title": "Work-Life Balance for Healthcare Workers",
+        "category": "职业规划",
+        "duration_min": 40,
+        "highlights": 5,
+        "time_range": "21:00-21:40"
+      },
+      {
+        "title": "患者安全与系统性思维",
+        "category": "医疗管理",
+        "duration_min": 30,
+        "highlights": 3,
+        "time_range": "12:00-12:30"
+      }
+    ],
+    "daily_reading_min": 107,
+    "topics": [
+      "心理学",
+      "医疗管理",
+      "职业规划"
+    ]
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [
+      {
+        "title": "从错误中学习——医疗质量改进",
+        "category": "医疗管理",
+        "duration_min": 25,
+        "highlights": 6,
+        "time_range": "12:00-12:30"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "医疗管理"
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [
+      {
+        "title": "PTSD的自我识别与应对",
+        "category": "心理学",
+        "duration_min": 27,
+        "highlights": 6,
+        "time_range": "22:00-22:27"
+      },
+      {
+        "title": "从临床到科研：一位医生的转型之路",
+        "category": "职业规划",
+        "duration_min": 30,
+        "highlights": 5,
+        "time_range": "21:00-21:30"
+      }
+    ],
+    "daily_reading_min": 57,
+    "topics": [
+      "心理学",
+      "职业规划"
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [
+      {
+        "title": "PTSD的自我识别与应对",
+        "category": "心理学",
+        "duration_min": 37,
+        "highlights": 5,
+        "time_range": "22:00-22:37"
+      },
+      {
+        "title": "非临床医学职业路径",
+        "category": "职业规划",
+        "duration_min": 26,
+        "highlights": 2,
+        "time_range": "21:00-21:26"
+      }
+    ],
+    "daily_reading_min": 63,
+    "topics": [
+      "心理学",
+      "职业规划"
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [
+      {
+        "title": "被讨厌的勇气",
+        "category": "心理学",
+        "duration_min": 45,
+        "highlights": 3,
+        "time_range": "22:00-22:45"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [
+      {
+        "title": "当身体说不——情绪与疾病",
+        "category": "心理学",
+        "duration_min": 40,
+        "highlights": 3,
+        "time_range": "22:00-22:40"
+      }
+    ],
+    "daily_reading_min": 40,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [
+      {
+        "title": "医学写作与编辑工作指南",
+        "category": "职业规划",
+        "duration_min": 29,
+        "highlights": 3,
+        "time_range": "21:00-21:29"
+      },
+      {
+        "title": "从错误中学习——医疗质量改进",
+        "category": "医疗管理",
+        "duration_min": 25,
+        "highlights": 6,
+        "time_range": "12:00-12:30"
+      }
+    ],
+    "daily_reading_min": 54,
+    "topics": [
+      "职业规划",
+      "医疗管理"
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [
+      {
+        "title": "公共卫生硕士申请指南",
+        "category": "教育",
+        "duration_min": 25,
+        "highlights": 3,
+        "time_range": "21:00-21:25"
+      }
+    ],
+    "daily_reading_min": 25,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [
+      {
+        "title": "Work-Life Balance for Healthcare Workers",
+        "category": "职业规划",
+        "duration_min": 37,
+        "highlights": 5,
+        "time_range": "21:00-21:37"
+      }
+    ],
+    "daily_reading_min": 37,
+    "topics": [
+      "职业规划"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [
+      {
+        "title": "远程医疗的未来",
+        "category": "科技",
+        "duration_min": 20,
+        "highlights": 4,
+        "time_range": "21:00-21:20"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "科技"
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [
+      {
+        "title": "公共卫生硕士申请指南",
+        "category": "教育",
+        "duration_min": 34,
+        "highlights": 4,
+        "time_range": "21:00-21:34"
+      },
+      {
+        "title": "医疗差错的系统分析方法",
+        "category": "医疗管理",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "12:00-12:30"
+      }
+    ],
+    "daily_reading_min": 69,
+    "topics": [
+      "医疗管理",
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [
+      {
+        "title": "也许你该找个人聊聊",
+        "category": "心理学",
+        "duration_min": 55,
+        "highlights": 3,
+        "time_range": "22:00-22:55"
+      }
+    ],
+    "daily_reading_min": 55,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "被讨厌的勇气",
+        "category": "心理学",
+        "duration_min": 45,
+        "highlights": 6,
+        "time_range": "22:00-22:45"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [
+      {
+        "title": "当下的力量",
+        "category": "心理学",
+        "duration_min": 28,
+        "highlights": 2,
+        "time_range": "22:00-22:28"
+      }
+    ],
+    "daily_reading_min": 28,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [
+      {
+        "title": "被讨厌的勇气",
+        "category": "心理学",
+        "duration_min": 34,
+        "highlights": 3,
+        "time_range": "22:00-22:34"
+      },
+      {
+        "title": "医学教育改革方向",
+        "category": "教育",
+        "duration_min": 39,
+        "highlights": 2,
+        "time_range": "21:00-21:39"
+      }
+    ],
+    "daily_reading_min": 73,
+    "topics": [
+      "心理学",
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [
+      {
+        "title": "PTSD的自我识别与应对",
+        "category": "心理学",
+        "duration_min": 39,
+        "highlights": 3,
+        "time_range": "22:00-22:39"
+      }
+    ],
+    "daily_reading_min": 39,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [
+      {
+        "title": "自我关怀的力量",
+        "category": "心理学",
+        "duration_min": 29,
+        "highlights": 2,
+        "time_range": "22:00-22:29"
+      },
+      {
+        "title": "从临床到科研：一位医生的转型之路",
+        "category": "职业规划",
+        "duration_min": 31,
+        "highlights": 2,
+        "time_range": "21:00-21:31"
+      },
+      {
+        "title": "医疗差错的系统分析方法",
+        "category": "医疗管理",
+        "duration_min": 35,
+        "highlights": 3,
+        "time_range": "12:00-12:30"
+      }
+    ],
+    "daily_reading_min": 95,
+    "topics": [
+      "心理学",
+      "医疗管理",
+      "职业规划"
+    ]
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [
+      {
+        "title": "公共卫生硕士申请指南",
+        "category": "教育",
+        "duration_min": 35,
+        "highlights": 2,
+        "time_range": "21:00-21:35"
+      }
+    ],
+    "daily_reading_min": 35,
+    "topics": [
+      "教育"
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [
+      {
+        "title": "也许你该找个人聊聊",
+        "category": "心理学",
+        "duration_min": 53,
+        "highlights": 4,
+        "time_range": "22:00-22:53"
+      }
+    ],
+    "daily_reading_min": 53,
+    "topics": [
+      "心理学"
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  }
+]

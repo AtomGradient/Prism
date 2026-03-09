@@ -1,0 +1,24 @@
+{
+  "user_id": "wangguilan",
+  "name": "王桂兰",
+  "age": 71,
+  "profile": "独居退休教师，子女在外地，日常靠买菜散步维持社交",
+  "monthly_income": 4500,
+  "event_day": 55,
+  "event": "浴室摔倒→隐瞒子女→停止外出→社交归零",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "unexpected",
+    "vulnerability_class": "elderly_isolation",
+    "crisis_windows": [
+      {"day_range": [55, 75], "trigger": "浴室摔倒后隐瞒", "expected_severity": "moderate"},
+      {"day_range": [65, 80], "trigger": "社交完全中断", "expected_severity": "severe"}
+    ],
+    "social_context": {
+      "living_situation": "独居（老伴已故）",
+      "support_network": "邻居张阿姨、社区志愿者",
+      "key_relationships": ["儿子（北京）", "女儿（上海）", "邻居张阿姨"]
+    },
+    "ethical_notes": "独居老人摔倒后主动隐瞒是高危模式。系统检测到外出频率骤降+饮食简化时应触发预警。需平衡隐私与安全——老人有权不告知子女，但系统应建议就医。"
+  }
+}

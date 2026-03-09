@@ -1,0 +1,1769 @@
+{
+  "user_id": "user_01",
+  "name": "小刘",
+  "drift_class": "unexpected",
+  "signals": [
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 16,
+      "date": "2026-01-16",
+      "detail": "daily_total=15 (baseline=54, 下降72%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 17,
+      "date": "2026-01-17",
+      "detail": "daily_total=12 (baseline=54, 下降79%)",
+      "consecutive": 2
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 18,
+      "date": "2026-01-18",
+      "detail": "daily_total=23 (baseline=54, 下降58%)",
+      "consecutive": 3
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 19,
+      "date": "2026-01-19",
+      "detail": "daily_total=22 (baseline=54, 下降60%)",
+      "consecutive": 4
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 20,
+      "date": "2026-01-20",
+      "detail": "daily_total=20 (baseline=54, 下降63%)",
+      "consecutive": 5
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 21,
+      "date": "2026-01-21",
+      "detail": "daily_total=25 (baseline=54, 下降54%)",
+      "consecutive": 6
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 22,
+      "date": "2026-01-22",
+      "detail": "daily_total=27 (baseline=54, 下降50%)",
+      "consecutive": 7
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 23,
+      "date": "2026-01-23",
+      "detail": "daily_total=26 (baseline=54, 下降52%)",
+      "consecutive": 8
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 26,
+      "date": "2026-01-26",
+      "detail": "daily_total=18 (baseline=54, 下降67%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 28,
+      "date": "2026-01-28",
+      "detail": "daily_total=21 (baseline=54, 下降61%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 30,
+      "date": "2026-01-30",
+      "detail": "daily_total=20 (baseline=54, 下降63%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 31,
+      "date": "2026-01-31",
+      "detail": "daily_total=16 (baseline=54, 下降70%)",
+      "consecutive": 2
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 33,
+      "date": "2026-02-02",
+      "detail": "daily_total=24 (baseline=54, 下降56%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 35,
+      "date": "2026-02-04",
+      "detail": "daily_total=17 (baseline=54, 下降69%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 37,
+      "date": "2026-02-06",
+      "detail": "daily_total=20 (baseline=54, 下降62%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 39,
+      "date": "2026-02-08",
+      "detail": "daily_total=20 (baseline=54, 下降63%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 40,
+      "date": "2026-02-09",
+      "detail": "daily_total=8 (baseline=54, 下降86%)",
+      "consecutive": 2
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 41,
+      "date": "2026-02-10",
+      "detail": "daily_total=7 (baseline=54, 下降87%)",
+      "consecutive": 3
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 42,
+      "date": "2026-02-11",
+      "detail": "daily_total=4 (baseline=54, 下降94%)",
+      "consecutive": 4
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 43,
+      "date": "2026-02-12",
+      "detail": "daily_total=8 (baseline=54, 下降85%)",
+      "consecutive": 5
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 44,
+      "date": "2026-02-13",
+      "detail": "daily_total=8 (baseline=54, 下降86%)",
+      "consecutive": 6
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 45,
+      "date": "2026-02-14",
+      "detail": "daily_total=5 (baseline=54, 下降91%)",
+      "consecutive": 7
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 46,
+      "date": "2026-02-15",
+      "detail": "daily_total=8 (baseline=54, 下降85%)",
+      "consecutive": 8
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 47,
+      "date": "2026-02-16",
+      "detail": "daily_total=8 (baseline=54, 下降85%)",
+      "consecutive": 9
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 48,
+      "date": "2026-02-17",
+      "detail": "daily_total=6 (baseline=54, 下降90%)",
+      "consecutive": 10
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 49,
+      "date": "2026-02-18",
+      "detail": "daily_total=4 (baseline=54, 下降94%)",
+      "consecutive": 11
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 50,
+      "date": "2026-02-19",
+      "detail": "daily_total=9 (baseline=54, 下降83%)",
+      "consecutive": 12
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 51,
+      "date": "2026-02-20",
+      "detail": "daily_total=11 (baseline=54, 下降80%)",
+      "consecutive": 13
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 52,
+      "date": "2026-02-21",
+      "detail": "daily_total=12 (baseline=54, 下降77%)",
+      "consecutive": 14
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 53,
+      "date": "2026-02-22",
+      "detail": "daily_total=9 (baseline=54, 下降83%)",
+      "consecutive": 15
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 54,
+      "date": "2026-02-23",
+      "detail": "daily_total=17 (baseline=54, 下降69%)",
+      "consecutive": 16
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 55,
+      "date": "2026-02-24",
+      "detail": "daily_total=20 (baseline=54, 下降63%)",
+      "consecutive": 17
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 56,
+      "date": "2026-02-25",
+      "detail": "daily_total=18 (baseline=54, 下降67%)",
+      "consecutive": 18
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 57,
+      "date": "2026-02-26",
+      "detail": "daily_total=25 (baseline=54, 下降54%)",
+      "consecutive": 19
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 58,
+      "date": "2026-02-27",
+      "detail": "daily_total=18 (baseline=54, 下降67%)",
+      "consecutive": 20
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 59,
+      "date": "2026-02-28",
+      "detail": "daily_total=21 (baseline=54, 下降61%)",
+      "consecutive": 21
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 61,
+      "date": "2026-03-02",
+      "detail": "daily_total=18 (baseline=54, 下降67%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 62,
+      "date": "2026-03-03",
+      "detail": "daily_total=20 (baseline=54, 下降63%)",
+      "consecutive": 2
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 63,
+      "date": "2026-03-04",
+      "detail": "daily_total=14 (baseline=54, 下降74%)",
+      "consecutive": 3
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 65,
+      "date": "2026-03-06",
+      "detail": "daily_total=18 (baseline=54, 下降66%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 66,
+      "date": "2026-03-07",
+      "detail": "daily_total=21 (baseline=54, 下降61%)",
+      "consecutive": 2
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 67,
+      "date": "2026-03-08",
+      "detail": "daily_total=22 (baseline=54, 下降60%)",
+      "consecutive": 3
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 68,
+      "date": "2026-03-09",
+      "detail": "daily_total=21 (baseline=54, 下降61%)",
+      "consecutive": 4
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 69,
+      "date": "2026-03-10",
+      "detail": "daily_total=22 (baseline=54, 下降60%)",
+      "consecutive": 5
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 70,
+      "date": "2026-03-11",
+      "detail": "daily_total=14 (baseline=54, 下降74%)",
+      "consecutive": 6
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 71,
+      "date": "2026-03-12",
+      "detail": "daily_total=20 (baseline=54, 下降62%)",
+      "consecutive": 7
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 73,
+      "date": "2026-03-14",
+      "detail": "daily_total=17 (baseline=54, 下降69%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 75,
+      "date": "2026-03-16",
+      "detail": "daily_total=24 (baseline=54, 下降56%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 76,
+      "date": "2026-03-17",
+      "detail": "daily_total=22 (baseline=54, 下降60%)",
+      "consecutive": 2
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 77,
+      "date": "2026-03-18",
+      "detail": "daily_total=26 (baseline=54, 下降52%)",
+      "consecutive": 3
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 79,
+      "date": "2026-03-20",
+      "detail": "daily_total=25 (baseline=54, 下降54%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 80,
+      "date": "2026-03-21",
+      "detail": "daily_total=21 (baseline=54, 下降61%)",
+      "consecutive": 2
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 81,
+      "date": "2026-03-22",
+      "detail": "daily_total=20 (baseline=54, 下降63%)",
+      "consecutive": 3
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 82,
+      "date": "2026-03-23",
+      "detail": "daily_total=24 (baseline=54, 下降57%)",
+      "consecutive": 4
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 83,
+      "date": "2026-03-24",
+      "detail": "daily_total=20 (baseline=54, 下降64%)",
+      "consecutive": 5
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 84,
+      "date": "2026-03-25",
+      "detail": "daily_total=27 (baseline=54, 下降50%)",
+      "consecutive": 6
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 85,
+      "date": "2026-03-26",
+      "detail": "daily_total=17 (baseline=54, 下降69%)",
+      "consecutive": 7
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 87,
+      "date": "2026-03-28",
+      "detail": "daily_total=16 (baseline=54, 下降71%)",
+      "consecutive": 1
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 88,
+      "date": "2026-03-29",
+      "detail": "daily_total=24 (baseline=54, 下降56%)",
+      "consecutive": 2
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 89,
+      "date": "2026-03-30",
+      "detail": "daily_total=22 (baseline=54, 下降60%)",
+      "consecutive": 3
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 90,
+      "date": "2026-03-31",
+      "detail": "daily_total=20 (baseline=54, 下降63%)",
+      "consecutive": 4
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 42,
+      "date": "2026-02-11",
+      "detail": "连续3天热量<800kcal (当日369kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 43,
+      "date": "2026-02-12",
+      "detail": "连续4天热量<800kcal (当日304kcal)",
+      "consecutive": 4
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 44,
+      "date": "2026-02-13",
+      "detail": "连续5天热量<800kcal (当日687kcal)",
+      "consecutive": 5
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 45,
+      "date": "2026-02-14",
+      "detail": "连续6天热量<800kcal (当日555kcal)",
+      "consecutive": 6
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 46,
+      "date": "2026-02-15",
+      "detail": "连续7天热量<800kcal (当日765kcal)",
+      "consecutive": 7
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 47,
+      "date": "2026-02-16",
+      "detail": "连续8天热量<800kcal (当日681kcal)",
+      "consecutive": 8
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 48,
+      "date": "2026-02-17",
+      "detail": "连续9天热量<800kcal (当日626kcal)",
+      "consecutive": 9
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 49,
+      "date": "2026-02-18",
+      "detail": "连续10天热量<800kcal (当日675kcal)",
+      "consecutive": 10
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 53,
+      "date": "2026-02-22",
+      "detail": "连续3天热量<800kcal (当日436kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "ururu",
+      "type": "low_mood",
+      "day_index": 53,
+      "date": "2026-02-22",
+      "detail": "连续3天 mood_score<0.25 (当日0.17)",
+      "consecutive": 3
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 5,
+      "date": "2026-01-05",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 6,
+      "date": "2026-01-06",
+      "detail": "连续6天阅读归零",
+      "consecutive": 6
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 7,
+      "date": "2026-01-07",
+      "detail": "连续7天阅读归零",
+      "consecutive": 7
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 31,
+      "date": "2026-01-31",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 32,
+      "date": "2026-02-01",
+      "detail": "连续6天阅读归零",
+      "consecutive": 6
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 38,
+      "date": "2026-02-07",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 39,
+      "date": "2026-02-08",
+      "detail": "连续6天阅读归零",
+      "consecutive": 6
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 75,
+      "date": "2026-03-16",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 76,
+      "date": "2026-03-17",
+      "detail": "连续6天阅读归零",
+      "consecutive": 6
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 77,
+      "date": "2026-03-18",
+      "detail": "连续7天阅读归零",
+      "consecutive": 7
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 88,
+      "date": "2026-03-29",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 89,
+      "date": "2026-03-30",
+      "detail": "连续6天阅读归零",
+      "consecutive": 6
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 90,
+      "date": "2026-03-31",
+      "detail": "连续7天阅读归零",
+      "consecutive": 7
+    }
+  ],
+  "crisis_events": [
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 5,
+      "date": "2026-01-05",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 5"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 6,
+      "date": "2026-01-06",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 6"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 7,
+      "date": "2026-01-07",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 7"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 16,
+      "date": "2026-01-16",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 16"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 17,
+      "date": "2026-01-17",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 17"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 18,
+      "date": "2026-01-18",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 18"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 19,
+      "date": "2026-01-19",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 19"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 20,
+      "date": "2026-01-20",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 20"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 21,
+      "date": "2026-01-21",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 21"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 22,
+      "date": "2026-01-22",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 22"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 23,
+      "date": "2026-01-23",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 23"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 26,
+      "date": "2026-01-26",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 26"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 28,
+      "date": "2026-01-28",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 28"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 30,
+      "date": "2026-01-30",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 30"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 31,
+      "date": "2026-01-31",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "spending_drop",
+        "reading_cessation"
+      ],
+      "window": "day 29-31"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 32,
+      "date": "2026-02-01",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "spending_drop",
+        "reading_cessation",
+        "reading_cessation"
+      ],
+      "window": "day 30-32"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 33,
+      "date": "2026-02-02",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "reading_cessation",
+        "reading_cessation",
+        "spending_drop"
+      ],
+      "window": "day 31-33"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 35,
+      "date": "2026-02-04",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 35"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 37,
+      "date": "2026-02-06",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 37"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 38,
+      "date": "2026-02-07",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "reading_cessation"
+      ],
+      "window": "day 36-38"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 39,
+      "date": "2026-02-08",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "reading_cessation"
+      ],
+      "window": "day 37-39"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 40,
+      "date": "2026-02-09",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "reading_cessation",
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop"
+      ],
+      "window": "day 38-40"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 41,
+      "date": "2026-02-10",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "spending_drop"
+      ],
+      "window": "day 39-41"
+    },
+    {
+      "level": 3,
+      "level_label": "危机",
+      "day_index": 42,
+      "date": "2026-02-11",
+      "domains": [
+        "dailyn",
+        "mealens",
+        "narrus"
+      ],
+      "num_domains": 3,
+      "signals": [
+        "reading_cessation",
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "spending_drop",
+        "spending_drop",
+        "low_calories"
+      ],
+      "window": "day 38-42"
+    },
+    {
+      "level": 3,
+      "level_label": "危机",
+      "day_index": 43,
+      "date": "2026-02-12",
+      "domains": [
+        "dailyn",
+        "mealens",
+        "narrus"
+      ],
+      "num_domains": 3,
+      "signals": [
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "spending_drop",
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories"
+      ],
+      "window": "day 39-43"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 44,
+      "date": "2026-02-13",
+      "domains": [
+        "dailyn",
+        "mealens"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories"
+      ],
+      "window": "day 42-44"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 45,
+      "date": "2026-02-14",
+      "domains": [
+        "dailyn",
+        "mealens"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories"
+      ],
+      "window": "day 43-45"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 46,
+      "date": "2026-02-15",
+      "domains": [
+        "dailyn",
+        "mealens"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories"
+      ],
+      "window": "day 44-46"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 47,
+      "date": "2026-02-16",
+      "domains": [
+        "dailyn",
+        "mealens"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories"
+      ],
+      "window": "day 45-47"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 48,
+      "date": "2026-02-17",
+      "domains": [
+        "dailyn",
+        "mealens"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories"
+      ],
+      "window": "day 46-48"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 49,
+      "date": "2026-02-18",
+      "domains": [
+        "dailyn",
+        "mealens"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories"
+      ],
+      "window": "day 47-49"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 50,
+      "date": "2026-02-19",
+      "domains": [
+        "dailyn",
+        "mealens"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "low_calories",
+        "spending_drop"
+      ],
+      "window": "day 48-50"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 51,
+      "date": "2026-02-20",
+      "domains": [
+        "dailyn",
+        "mealens"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "spending_drop"
+      ],
+      "window": "day 49-51"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 52,
+      "date": "2026-02-21",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 52"
+    },
+    {
+      "level": 3,
+      "level_label": "危机",
+      "day_index": 53,
+      "date": "2026-02-22",
+      "domains": [
+        "dailyn",
+        "mealens",
+        "ururu"
+      ],
+      "num_domains": 3,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "spending_drop",
+        "spending_drop",
+        "spending_drop",
+        "spending_drop",
+        "low_calories",
+        "low_mood"
+      ],
+      "window": "day 49-53"
+    },
+    {
+      "level": 3,
+      "level_label": "危机",
+      "day_index": 54,
+      "date": "2026-02-23",
+      "domains": [
+        "dailyn",
+        "mealens",
+        "ururu"
+      ],
+      "num_domains": 3,
+      "signals": [
+        "spending_drop",
+        "spending_drop",
+        "spending_drop",
+        "spending_drop",
+        "low_calories",
+        "low_mood",
+        "spending_drop"
+      ],
+      "window": "day 50-54"
+    },
+    {
+      "level": 3,
+      "level_label": "危机",
+      "day_index": 55,
+      "date": "2026-02-24",
+      "domains": [
+        "dailyn",
+        "mealens",
+        "ururu"
+      ],
+      "num_domains": 3,
+      "signals": [
+        "spending_drop",
+        "spending_drop",
+        "spending_drop",
+        "low_calories",
+        "low_mood",
+        "spending_drop",
+        "spending_drop"
+      ],
+      "window": "day 51-55"
+    },
+    {
+      "level": 3,
+      "level_label": "危机",
+      "day_index": 56,
+      "date": "2026-02-25",
+      "domains": [
+        "dailyn",
+        "mealens",
+        "ururu"
+      ],
+      "num_domains": 3,
+      "signals": [
+        "spending_drop",
+        "spending_drop",
+        "low_calories",
+        "low_mood",
+        "spending_drop",
+        "spending_drop",
+        "spending_drop"
+      ],
+      "window": "day 52-56"
+    },
+    {
+      "level": 3,
+      "level_label": "危机",
+      "day_index": 57,
+      "date": "2026-02-26",
+      "domains": [
+        "dailyn",
+        "mealens",
+        "ururu"
+      ],
+      "num_domains": 3,
+      "signals": [
+        "spending_drop",
+        "low_calories",
+        "low_mood",
+        "spending_drop",
+        "spending_drop",
+        "spending_drop",
+        "spending_drop"
+      ],
+      "window": "day 53-57"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 58,
+      "date": "2026-02-27",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 58"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 59,
+      "date": "2026-02-28",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 59"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 61,
+      "date": "2026-03-02",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 61"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 62,
+      "date": "2026-03-03",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 62"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 63,
+      "date": "2026-03-04",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 63"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 65,
+      "date": "2026-03-06",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 65"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 66,
+      "date": "2026-03-07",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 66"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 67,
+      "date": "2026-03-08",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 67"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 68,
+      "date": "2026-03-09",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 68"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 69,
+      "date": "2026-03-10",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 69"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 70,
+      "date": "2026-03-11",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 70"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 71,
+      "date": "2026-03-12",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 71"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 73,
+      "date": "2026-03-14",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 73"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 75,
+      "date": "2026-03-16",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "spending_drop",
+        "reading_cessation"
+      ],
+      "window": "day 73-75"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 76,
+      "date": "2026-03-17",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "reading_cessation"
+      ],
+      "window": "day 74-76"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 77,
+      "date": "2026-03-18",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "reading_cessation"
+      ],
+      "window": "day 75-77"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 79,
+      "date": "2026-03-20",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop"
+      ],
+      "window": "day 77-79"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 80,
+      "date": "2026-03-21",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 80"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 81,
+      "date": "2026-03-22",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 81"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 82,
+      "date": "2026-03-23",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 82"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 83,
+      "date": "2026-03-24",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 83"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 84,
+      "date": "2026-03-25",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 84"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 85,
+      "date": "2026-03-26",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 85"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 87,
+      "date": "2026-03-28",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 87"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 88,
+      "date": "2026-03-29",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "spending_drop",
+        "reading_cessation"
+      ],
+      "window": "day 86-88"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 89,
+      "date": "2026-03-30",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "reading_cessation"
+      ],
+      "window": "day 87-89"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 90,
+      "date": "2026-03-31",
+      "domains": [
+        "dailyn",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "reading_cessation",
+        "spending_drop",
+        "reading_cessation"
+      ],
+      "window": "day 88-90"
+    }
+  ],
+  "signal_count": 84,
+  "crisis_count_by_level": {
+    "1": 37,
+    "2": 22,
+    "3": 7
+  }
+}

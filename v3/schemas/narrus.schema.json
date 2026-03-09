@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Prism V3 Reading and Content Consumption Records",
+  "description": "Schema for daily reading and content consumption session records in the Prism V3 experiment. Each entry captures one day of reading sessions, durations, and topic coverage.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["date", "sessions", "daily_reading_min", "topics"],
+    "properties": {
+      "date": {
+        "type": "string",
+        "format": "date",
+        "description": "Calendar date for this daily reading record (ISO 8601)."
+      },
+      "sessions": {
+        "type": "array",
+        "description": "Individual reading or content consumption sessions during the day.",
+        "items": {
+          "type": "object",
+          "required": ["title", "category", "duration_min", "highlights", "time_range"],
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Title of the content consumed (article, book chapter, video, etc.)."
+            },
+            "category": {
+              "type": "string",
+              "description": "Category of the content (e.g. 'news', 'self_help', 'fiction', 'technical', 'social_media')."
+            },
+            "duration_min": {
+              "type": "number",
+              "description": "Duration of the reading/consumption session in minutes."
+            },
+            "highlights": {
+              "type": "integer",
+              "description": "Number of highlights or bookmarks made during the session."
+            },
+            "time_range": {
+              "type": "string",
+              "description": "Time range of the session (e.g. '09:00-09:45', '21:30-22:15')."
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "daily_reading_min": {
+        "type": "number",
+        "description": "Total reading/consumption time for the day in minutes."
+      },
+      "topics": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Aggregated list of topic tags covered across all sessions for the day."
+      }
+    },
+    "additionalProperties": false
+  }
+}

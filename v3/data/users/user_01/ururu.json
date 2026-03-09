@@ -1,0 +1,1263 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.53,
+    "primary_emotion": "烦躁",
+    "stress_level": 6,
+    "sleep_hours": 6.6,
+    "sleep_time": "22:41",
+    "wake_time": "05:27",
+    "journal_keywords": [
+      "周末",
+      "睡觉"
+    ],
+    "journal_snippet": "工友要走了，说去南方找工作，有点羡慕。"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.51,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 5.7,
+    "sleep_time": "22:28",
+    "wake_time": "05:37",
+    "journal_keywords": [
+      "发工资",
+      "开心"
+    ],
+    "journal_snippet": "今天流水线出了点问题，被线长骂了一顿。"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.66,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 9.1,
+    "sleep_time": "23:11",
+    "wake_time": "09:52",
+    "journal_keywords": [
+      "食堂",
+      "难吃"
+    ],
+    "journal_snippet": "今天加班两小时，多挣了点钱，值了。"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.67,
+    "primary_emotion": "烦躁",
+    "stress_level": 4,
+    "sleep_hours": 7.0,
+    "sleep_time": "23:01",
+    "wake_time": "08:52",
+    "journal_keywords": [
+      "站了一天",
+      "腰疼"
+    ],
+    "journal_snippet": "想家了，妈打电话问我吃得好不好，我说挺好的。"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 7.0,
+    "sleep_time": "22:36",
+    "wake_time": "05:39",
+    "journal_keywords": [
+      "宿舍",
+      "吵"
+    ],
+    "journal_snippet": "今天又是重复的一天，流水线上站了10个小时，腿都麻了。"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.61,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.6,
+    "sleep_time": "22:22",
+    "wake_time": "05:25",
+    "journal_keywords": [
+      "无聊",
+      "手机"
+    ],
+    "journal_snippet": "下班回宿舍就想躺着，刷了会儿手机就睡了。"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.48,
+    "primary_emotion": "无聊",
+    "stress_level": 6,
+    "sleep_hours": 7.0,
+    "sleep_time": "22:24",
+    "wake_time": "05:44",
+    "journal_keywords": [
+      "流水线",
+      "重复"
+    ],
+    "journal_snippet": "今天流水线出了点问题，被线长骂了一顿。"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.47,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "22:27",
+    "wake_time": "05:44",
+    "journal_keywords": [
+      "流水线",
+      "重复"
+    ],
+    "journal_snippet": "工友要走了，说去南方找工作，有点羡慕。"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.52,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 6.6,
+    "sleep_time": "22:26",
+    "wake_time": "05:29",
+    "journal_keywords": [
+      "周末",
+      "睡觉"
+    ],
+    "journal_snippet": "食堂的菜越来越难吃了，但便宜，忍了。"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.66,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.9,
+    "sleep_time": "23:15",
+    "wake_time": "08:29",
+    "journal_keywords": [
+      "流水线",
+      "重复"
+    ],
+    "journal_snippet": "下班回宿舍就想躺着，刷了会儿手机就睡了。"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.62,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 9.0,
+    "sleep_time": "23:45",
+    "wake_time": "09:01",
+    "journal_keywords": [
+      "宿舍",
+      "吵"
+    ],
+    "journal_snippet": "周末终于能睡个懒觉，一觉睡到十点。"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.56,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "22:10",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "工资",
+      "攒钱"
+    ],
+    "journal_snippet": "食堂的菜越来越难吃了，但便宜，忍了。"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.52,
+    "primary_emotion": "烦躁",
+    "stress_level": 4,
+    "sleep_hours": 5.8,
+    "sleep_time": "22:44",
+    "wake_time": "05:27",
+    "journal_keywords": [
+      "无聊",
+      "手机"
+    ],
+    "journal_snippet": "今天流水线出了点问题，被线长骂了一顿。"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.55,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 5.8,
+    "sleep_time": "22:58",
+    "wake_time": "05:20",
+    "journal_keywords": [
+      "宿舍",
+      "吵"
+    ],
+    "journal_snippet": "周末终于能睡个懒觉，一觉睡到十点。"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.66,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 7.3,
+    "sleep_time": "22:32",
+    "wake_time": "05:43",
+    "journal_keywords": [
+      "工资",
+      "攒钱"
+    ],
+    "journal_snippet": "周末终于能睡个懒觉，一觉睡到十点。"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.51,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "22:22",
+    "wake_time": "05:36",
+    "journal_keywords": [
+      "无聊",
+      "手机"
+    ],
+    "journal_snippet": "下班回宿舍就想躺着，刷了会儿手机就睡了。"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 8.3,
+    "sleep_time": "23:24",
+    "wake_time": "09:39",
+    "journal_keywords": [
+      "流水线",
+      "重复"
+    ],
+    "journal_snippet": "发工资了，扣掉房租和生活费，能寄回去1500。"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.61,
+    "primary_emotion": "无聊",
+    "stress_level": 6,
+    "sleep_hours": 7.3,
+    "sleep_time": "23:29",
+    "wake_time": "09:25",
+    "journal_keywords": [
+      "工资",
+      "攒钱"
+    ],
+    "journal_snippet": "今天流水线出了点问题，被线长骂了一顿。"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 5.9,
+    "sleep_time": "22:13",
+    "wake_time": "05:43",
+    "journal_keywords": [
+      "工资",
+      "攒钱"
+    ],
+    "journal_snippet": "食堂的菜越来越难吃了，但便宜，忍了。"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 6.9,
+    "sleep_time": "22:19",
+    "wake_time": "05:20",
+    "journal_keywords": [
+      "想家",
+      "爸妈"
+    ],
+    "journal_snippet": "和工友打了会儿牌，算是今天唯一的娱乐。"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "22:13",
+    "wake_time": "05:35",
+    "journal_keywords": [
+      "流水线",
+      "重复"
+    ],
+    "journal_snippet": "腰有点疼，站太久了，但不敢请假。"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.48,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "22:12",
+    "wake_time": "05:26",
+    "journal_keywords": [
+      "流水线",
+      "重复"
+    ],
+    "journal_snippet": "晚上宿舍太吵睡不着，戴耳机听歌。"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.56,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 7.5,
+    "sleep_time": "22:58",
+    "wake_time": "05:50",
+    "journal_keywords": [
+      "周末",
+      "睡觉"
+    ],
+    "journal_snippet": "今天又是重复的一天，流水线上站了10个小时，腿都麻了。"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.66,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 8.3,
+    "sleep_time": "23:39",
+    "wake_time": "09:01",
+    "journal_keywords": [
+      "想家",
+      "爸妈"
+    ],
+    "journal_snippet": "腰有点疼，站太久了，但不敢请假。"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.57,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 8.5,
+    "sleep_time": "23:11",
+    "wake_time": "08:20",
+    "journal_keywords": [
+      "工资",
+      "攒钱"
+    ],
+    "journal_snippet": "周末终于能睡个懒觉，一觉睡到十点。"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.6,
+    "primary_emotion": "烦躁",
+    "stress_level": 5,
+    "sleep_hours": 5.5,
+    "sleep_time": "22:31",
+    "wake_time": "05:38",
+    "journal_keywords": [
+      "上班",
+      "累"
+    ],
+    "journal_snippet": "晚上宿舍太吵睡不着，戴耳机听歌。"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.48,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.5,
+    "sleep_time": "22:13",
+    "wake_time": "05:26",
+    "journal_keywords": [
+      "宿舍",
+      "吵"
+    ],
+    "journal_snippet": "今天加班两小时，多挣了点钱，值了。"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.56,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 5.7,
+    "sleep_time": "22:59",
+    "wake_time": "05:45",
+    "journal_keywords": [
+      "无聊",
+      "手机"
+    ],
+    "journal_snippet": "腰有点疼，站太久了，但不敢请假。"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.52,
+    "primary_emotion": "无聊",
+    "stress_level": 4,
+    "sleep_hours": 7.2,
+    "sleep_time": "22:23",
+    "wake_time": "05:48",
+    "journal_keywords": [
+      "食堂",
+      "难吃"
+    ],
+    "journal_snippet": "今天加班两小时，多挣了点钱，值了。"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.52,
+    "primary_emotion": "无聊",
+    "stress_level": 6,
+    "sleep_hours": 6.2,
+    "sleep_time": "22:18",
+    "wake_time": "05:40",
+    "journal_keywords": [
+      "流水线",
+      "重复"
+    ],
+    "journal_snippet": "想家了，妈打电话问我吃得好不好，我说挺好的。"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.64,
+    "primary_emotion": "烦躁",
+    "stress_level": 4,
+    "sleep_hours": 7.6,
+    "sleep_time": "23:42",
+    "wake_time": "09:28",
+    "journal_keywords": [
+      "上班",
+      "累"
+    ],
+    "journal_snippet": "食堂的菜越来越难吃了，但便宜，忍了。"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.54,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 8.9,
+    "sleep_time": "23:25",
+    "wake_time": "09:34",
+    "journal_keywords": [
+      "宿舍",
+      "吵"
+    ],
+    "journal_snippet": "食堂的菜越来越难吃了，但便宜，忍了。"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.58,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.8,
+    "sleep_time": "22:48",
+    "wake_time": "05:36",
+    "journal_keywords": [
+      "发工资",
+      "开心"
+    ],
+    "journal_snippet": "今天又是重复的一天，流水线上站了10个小时，腿都麻了。"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.57,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 7.0,
+    "sleep_time": "22:11",
+    "wake_time": "05:50",
+    "journal_keywords": [
+      "宿舍",
+      "吵"
+    ],
+    "journal_snippet": "今天流水线出了点问题，被线长骂了一顿。"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "22:32",
+    "wake_time": "05:45",
+    "journal_keywords": [
+      "工友",
+      "聊天"
+    ],
+    "journal_snippet": "发工资了，扣掉房租和生活费，能寄回去1500。"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.51,
+    "primary_emotion": "烦躁",
+    "stress_level": 4,
+    "sleep_hours": 6.1,
+    "sleep_time": "22:31",
+    "wake_time": "05:39",
+    "journal_keywords": [
+      "宿舍",
+      "吵"
+    ],
+    "journal_snippet": "下班回宿舍就想躺着，刷了会儿手机就睡了。"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.49,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "22:37",
+    "wake_time": "05:28",
+    "journal_keywords": [
+      "流水线",
+      "重复"
+    ],
+    "journal_snippet": "腰有点疼，站太久了，但不敢请假。"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.64,
+    "primary_emotion": "无聊",
+    "stress_level": 6,
+    "sleep_hours": 8.7,
+    "sleep_time": "23:27",
+    "wake_time": "09:01",
+    "journal_keywords": [
+      "工友",
+      "聊天"
+    ],
+    "journal_snippet": "想家了，妈打电话问我吃得好不好，我说挺好的。"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.53,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 9.0,
+    "sleep_time": "23:05",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "工资",
+      "攒钱"
+    ],
+    "journal_snippet": "下班回宿舍就想躺着，刷了会儿手机就睡了。"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.15,
+    "primary_emotion": "焦虑",
+    "stress_level": 10,
+    "sleep_hours": 5.3,
+    "sleep_time": "00:35",
+    "wake_time": "09:29",
+    "journal_keywords": [
+      "裁员",
+      "恐慌",
+      "失业"
+    ],
+    "journal_snippet": "今天被通知裁员了，整个车间都关了。脑子一片空白，不知道接下来该怎么办。这个月的工资还没发，房租马上要交了。"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.45,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.1,
+    "sleep_time": "00:14",
+    "wake_time": "07:55",
+    "journal_keywords": [
+      "裁员",
+      "恐慌"
+    ],
+    "journal_snippet": "又是没有进展的一天，感觉自己很没用。"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.43,
+    "primary_emotion": "愤怒",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:52",
+    "wake_time": "09:13",
+    "journal_keywords": [
+      "未来",
+      "迷茫"
+    ],
+    "journal_snippet": "同一批被裁的工友说去送外卖了，我考虑要不要也去。"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.36,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "02:41",
+    "wake_time": "09:26",
+    "journal_keywords": [
+      "未来",
+      "迷茫"
+    ],
+    "journal_snippet": "去劳动局咨询了，说可以申请失业补助，要很多材料。"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.33,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 5.7,
+    "sleep_time": "01:04",
+    "wake_time": "07:10",
+    "journal_keywords": [
+      "工厂",
+      "倒闭"
+    ],
+    "journal_snippet": "借了室友200块交水电费，说下个月还，但不知道有没有下个月的收入。"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.3,
+    "primary_emotion": "愤怒",
+    "stress_level": 8,
+    "sleep_hours": 4.2,
+    "sleep_time": "00:35",
+    "wake_time": "09:08",
+    "journal_keywords": [
+      "找工作",
+      "迷茫"
+    ],
+    "journal_snippet": "今天只吃了一顿饭，馒头加咸菜。不是不饿，是省钱。"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.25,
+    "primary_emotion": "沮丧",
+    "stress_level": 7,
+    "sleep_hours": 5.2,
+    "sleep_time": "01:09",
+    "wake_time": "08:51",
+    "journal_keywords": [
+      "工厂",
+      "倒闭"
+    ],
+    "journal_snippet": "又是没有进展的一天，感觉自己很没用。"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.29,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 4.1,
+    "sleep_time": "01:01",
+    "wake_time": "07:42",
+    "journal_keywords": [
+      "爸妈",
+      "不敢说"
+    ],
+    "journal_snippet": "躺在床上一整天没出门，不知道干什么。"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.22,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 6.0,
+    "sleep_time": "02:33",
+    "wake_time": "09:49",
+    "journal_keywords": [
+      "面试",
+      "紧张"
+    ],
+    "journal_snippet": "去面试了一个工厂，说要等通知，不知道有没有戏。"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.21,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 3.6,
+    "sleep_time": "01:29",
+    "wake_time": "08:41",
+    "journal_keywords": [
+      "泡面",
+      "省钱"
+    ],
+    "journal_snippet": "爸妈打电话我没敢接，不知道怎么说失业的事。"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.29,
+    "primary_emotion": "孤独",
+    "stress_level": 7,
+    "sleep_hours": 4.7,
+    "sleep_time": "02:21",
+    "wake_time": "08:52",
+    "journal_keywords": [
+      "爸妈",
+      "不敢说"
+    ],
+    "journal_snippet": "借了室友200块交水电费，说下个月还，但不知道有没有下个月的收入。"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.24,
+    "primary_emotion": "沮丧",
+    "stress_level": 7,
+    "sleep_hours": 4.9,
+    "sleep_time": "00:40",
+    "wake_time": "07:43",
+    "journal_keywords": [
+      "房租",
+      "压力"
+    ],
+    "journal_snippet": "半夜醒来睡不着，想了很多，越想越慌。"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.23,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.7,
+    "sleep_time": "02:54",
+    "wake_time": "09:11",
+    "journal_keywords": [
+      "失业",
+      "焦虑"
+    ],
+    "journal_snippet": "去劳动局咨询了，说可以申请失业补助，要很多材料。"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.17,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 4.2,
+    "sleep_time": "02:13",
+    "wake_time": "09:37",
+    "journal_keywords": [
+      "未来",
+      "迷茫"
+    ],
+    "journal_snippet": "终于收到一个面试通知了，是个临时工，先去看看。"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.29,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 5.5,
+    "sleep_time": "23:59",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "找工作",
+      "希望"
+    ],
+    "journal_snippet": "终于给家里打了电话，说了裁员的事，妈哭了。"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.4,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:58",
+    "wake_time": "06:10",
+    "journal_keywords": [
+      "新工作",
+      "试试"
+    ],
+    "journal_snippet": "慢慢在恢复了，至少不用天天吃泡面了。"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.32,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "23:33",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "面试",
+      "还行"
+    ],
+    "journal_snippet": "打零工挣了80块，够吃两三天了。"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.35,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:12",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "临时工",
+      "凑合"
+    ],
+    "journal_snippet": "今天投了几份简历，有一个工厂说可以过去看看。"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.36,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.9,
+    "sleep_time": "23:29",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "新工作",
+      "试试"
+    ],
+    "journal_snippet": "面试了一个新工厂，待遇还行，等结果。"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.41,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:10",
+    "wake_time": "06:29",
+    "journal_keywords": [
+      "慢慢来",
+      "会好的"
+    ],
+    "journal_snippet": "找到一个临时工的活，虽然工资低但总算有收入了。"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.41,
+    "primary_emotion": "释然",
+    "stress_level": 7,
+    "sleep_hours": 5.2,
+    "sleep_time": "23:56",
+    "wake_time": "06:25",
+    "journal_keywords": [
+      "临时工",
+      "凑合"
+    ],
+    "journal_snippet": "今天投了几份简历，有一个工厂说可以过去看看。"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.43,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:30",
+    "wake_time": "06:20",
+    "journal_keywords": [
+      "找工作",
+      "希望"
+    ],
+    "journal_snippet": "面试了一个新工厂，待遇还行，等结果。"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.38,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.2,
+    "sleep_time": "23:41",
+    "wake_time": "06:05",
+    "journal_keywords": [
+      "投简历",
+      "等通知"
+    ],
+    "journal_snippet": "找到一个临时工的活，虽然工资低但总算有收入了。"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.44,
+    "primary_emotion": "紧张",
+    "stress_level": 4,
+    "sleep_hours": 5.4,
+    "sleep_time": "23:40",
+    "wake_time": "06:16",
+    "journal_keywords": [
+      "新工作",
+      "试试"
+    ],
+    "journal_snippet": "面试了一个新工厂，待遇还行，等结果。"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.48,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 5.8,
+    "sleep_time": "23:06",
+    "wake_time": "06:19",
+    "journal_keywords": [
+      "临时工",
+      "凑合"
+    ],
+    "journal_snippet": "终于给家里打了电话，说了裁员的事，妈哭了。"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.4,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "23:52",
+    "wake_time": "06:23",
+    "journal_keywords": [
+      "新工作",
+      "试试"
+    ],
+    "journal_snippet": "打零工挣了80块，够吃两三天了。"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.39,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:50",
+    "wake_time": "06:15",
+    "journal_keywords": [
+      "找工作",
+      "希望"
+    ],
+    "journal_snippet": "打零工挣了80块，够吃两三天了。"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.49,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:03",
+    "wake_time": "06:20",
+    "journal_keywords": [
+      "投简历",
+      "等通知"
+    ],
+    "journal_snippet": "打零工挣了80块，够吃两三天了。"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.43,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.2,
+    "sleep_time": "23:51",
+    "wake_time": "06:08",
+    "journal_keywords": [
+      "打零工",
+      "辛苦"
+    ],
+    "journal_snippet": "打零工挣了80块，够吃两三天了。"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.46,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.4,
+    "sleep_time": "23:55",
+    "wake_time": "06:06",
+    "journal_keywords": [
+      "面试",
+      "还行"
+    ],
+    "journal_snippet": "今天心情好了一点，觉得总会过去的。"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.53,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 5.0,
+    "sleep_time": "23:57",
+    "wake_time": "06:25",
+    "journal_keywords": [
+      "新工作",
+      "试试"
+    ],
+    "journal_snippet": "在新地方干了一天，虽然累但心里踏实多了。"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.56,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.4,
+    "sleep_time": "22:30",
+    "wake_time": "05:41",
+    "journal_keywords": [
+      "周末",
+      "休息"
+    ],
+    "journal_snippet": "发了第一个月工资，虽然少了点但够用。"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.53,
+    "primary_emotion": "感恩",
+    "stress_level": 5,
+    "sleep_hours": 7.2,
+    "sleep_time": "22:22",
+    "wake_time": "05:47",
+    "journal_keywords": [
+      "新工厂",
+      "适应"
+    ],
+    "journal_snippet": "发了第一个月工资，虽然少了点但够用。"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.58,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 8.3,
+    "sleep_time": "23:40",
+    "wake_time": "08:06",
+    "journal_keywords": [
+      "寄钱",
+      "回家"
+    ],
+    "journal_snippet": "新工厂的活不算太重，同事也还行。"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.57,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 8.8,
+    "sleep_time": "23:55",
+    "wake_time": "08:24",
+    "journal_keywords": [
+      "上班",
+      "稳定"
+    ],
+    "journal_snippet": "新食堂的饭比以前那家好吃一点。"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.59,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 7.2,
+    "sleep_time": "22:05",
+    "wake_time": "05:46",
+    "journal_keywords": [
+      "上班",
+      "稳定"
+    ],
+    "journal_snippet": "经历了裁员才知道有份稳定工作多重要。"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 6.8,
+    "sleep_time": "22:18",
+    "wake_time": "05:35",
+    "journal_keywords": [
+      "周末",
+      "休息"
+    ],
+    "journal_snippet": "今天加班了，但有加班费，还行。"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.52,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 7.5,
+    "sleep_time": "22:37",
+    "wake_time": "05:48",
+    "journal_keywords": [
+      "寄钱",
+      "回家"
+    ],
+    "journal_snippet": "今天加班了，但有加班费，还行。"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.59,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 6.0,
+    "sleep_time": "22:51",
+    "wake_time": "05:39",
+    "journal_keywords": [
+      "上班",
+      "稳定"
+    ],
+    "journal_snippet": "经历了裁员才知道有份稳定工作多重要。"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.51,
+    "primary_emotion": "感恩",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "22:16",
+    "wake_time": "05:34",
+    "journal_keywords": [
+      "攒钱",
+      "目标"
+    ],
+    "journal_snippet": "新工厂的活不算太重，同事也还行。"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.59,
+    "primary_emotion": "感恩",
+    "stress_level": 4,
+    "sleep_hours": 7.6,
+    "sleep_time": "23:03",
+    "wake_time": "08:08",
+    "journal_keywords": [
+      "周末",
+      "休息"
+    ],
+    "journal_snippet": "经历了裁员才知道有份稳定工作多重要。"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.66,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 7.7,
+    "sleep_time": "23:00",
+    "wake_time": "08:06",
+    "journal_keywords": [
+      "新工厂",
+      "适应"
+    ],
+    "journal_snippet": "慢慢适应了新环境，流水线的节奏和以前差不多。"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.52,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.3,
+    "sleep_time": "22:40",
+    "wake_time": "05:45",
+    "journal_keywords": [
+      "新工厂",
+      "适应"
+    ],
+    "journal_snippet": "新食堂的饭比以前那家好吃一点。"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.55,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 7.2,
+    "sleep_time": "22:17",
+    "wake_time": "05:38",
+    "journal_keywords": [
+      "上班",
+      "稳定"
+    ],
+    "journal_snippet": "发了第一个月工资，虽然少了点但够用。"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.59,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 6.1,
+    "sleep_time": "22:17",
+    "wake_time": "05:45",
+    "journal_keywords": [
+      "流水线",
+      "习惯了"
+    ],
+    "journal_snippet": "今天加班了，但有加班费，还行。"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.56,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "22:20",
+    "wake_time": "05:38",
+    "journal_keywords": [
+      "上班",
+      "稳定"
+    ],
+    "journal_snippet": "新工厂的活不算太重，同事也还行。"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.49,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 7.2,
+    "sleep_time": "22:30",
+    "wake_time": "05:49",
+    "journal_keywords": [
+      "攒钱",
+      "目标"
+    ],
+    "journal_snippet": "新食堂的饭比以前那家好吃一点。"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.65,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 8.3,
+    "sleep_time": "23:03",
+    "wake_time": "08:11",
+    "journal_keywords": [
+      "寄钱",
+      "回家"
+    ],
+    "journal_snippet": "新工厂的活不算太重，同事也还行。"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.56,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 8.9,
+    "sleep_time": "23:50",
+    "wake_time": "08:33",
+    "journal_keywords": [
+      "寄钱",
+      "回家"
+    ],
+    "journal_snippet": "慢慢适应了新环境，流水线的节奏和以前差不多。"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.47,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 7.5,
+    "sleep_time": "22:09",
+    "wake_time": "05:31",
+    "journal_keywords": [
+      "寄钱",
+      "回家"
+    ],
+    "journal_snippet": "今天加班了，但有加班费，还行。"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.61,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.3,
+    "sleep_time": "22:47",
+    "wake_time": "05:37",
+    "journal_keywords": [
+      "周末",
+      "休息"
+    ],
+    "journal_snippet": "新工厂的活不算太重，同事也还行。"
+  }
+]

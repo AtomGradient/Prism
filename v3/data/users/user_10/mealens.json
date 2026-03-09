@@ -1,0 +1,3677 @@
+[
+  {
+    "date": "2026-01-01",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 350,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "法式鹅肝",
+          "沙拉",
+          "面包"
+        ],
+        "estimated_calories": 709,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 808,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1867,
+    "water_ml": 1935
+  },
+  {
+    "date": "2026-01-02",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 535,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "日料omakase",
+          "味噌汤"
+        ],
+        "estimated_calories": 599,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 667,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1801,
+    "water_ml": 1817
+  },
+  {
+    "date": "2026-01-03",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 398,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "精品咖啡",
+          "三明治",
+          "蛋糕"
+        ],
+        "estimated_calories": 508,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "和牛西冷",
+          "红酒",
+          "沙拉",
+          "甜点"
+        ],
+        "estimated_calories": 1578,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "22:00",
+        "foods": [
+          "精品甜点"
+        ],
+        "estimated_calories": 326,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      }
+    ],
+    "daily_calories": 2810,
+    "water_ml": 1904
+  },
+  {
+    "date": "2026-01-04",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 421,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "brunch",
+          "班尼迪克蛋",
+          "鲜榨果汁"
+        ],
+        "estimated_calories": 774,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "22:00",
+        "foods": [
+          "水果拼盘"
+        ],
+        "estimated_calories": 213,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      }
+    ],
+    "daily_calories": 1408,
+    "water_ml": 1964
+  },
+  {
+    "date": "2026-01-05",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "全麦面包",
+          "有机鸡蛋",
+          "蔬果昔"
+        ],
+        "estimated_calories": 317,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 588,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 905,
+    "water_ml": 1335
+  },
+  {
+    "date": "2026-01-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 376,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 634,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 973,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1983,
+    "water_ml": 1221
+  },
+  {
+    "date": "2026-01-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 489,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 613,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 938,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 2040,
+    "water_ml": 2120
+  },
+  {
+    "date": "2026-01-08",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 316,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 741,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "商务晚餐",
+          "西餐"
+        ],
+        "estimated_calories": 841,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1898,
+    "water_ml": 1328
+  },
+  {
+    "date": "2026-01-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 533,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "法式鹅肝",
+          "沙拉",
+          "面包"
+        ],
+        "estimated_calories": 561,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "商务晚餐",
+          "西餐"
+        ],
+        "estimated_calories": 1084,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 2178,
+    "water_ml": 1918
+  },
+  {
+    "date": "2026-01-10",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 469,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "brunch",
+          "班尼迪克蛋",
+          "鲜榨果汁"
+        ],
+        "estimated_calories": 738,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "日式怀石料理"
+        ],
+        "estimated_calories": 1320,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2527,
+    "water_ml": 1751
+  },
+  {
+    "date": "2026-01-11",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 520,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "有机沙拉",
+          "烤鸡胸",
+          "果汁"
+        ],
+        "estimated_calories": 582,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "意大利黑松露pasta",
+          "提拉米苏",
+          "红酒"
+        ],
+        "estimated_calories": 996,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2098,
+    "water_ml": 1823
+  },
+  {
+    "date": "2026-01-12",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "日料omakase",
+          "味噌汤"
+        ],
+        "estimated_calories": 631,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 913,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1544,
+    "water_ml": 1615
+  },
+  {
+    "date": "2026-01-13",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 494,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "寿司拼盘",
+          "清酒"
+        ],
+        "estimated_calories": 876,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 1076,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 2446,
+    "water_ml": 1605
+  },
+  {
+    "date": "2026-01-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 395,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "日料omakase",
+          "味噌汤"
+        ],
+        "estimated_calories": 529,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 855,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1779,
+    "water_ml": 1954
+  },
+  {
+    "date": "2026-01-15",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 322,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 794,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 980,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 2096,
+    "water_ml": 1437
+  },
+  {
+    "date": "2026-01-16",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 437,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "寿司拼盘",
+          "清酒"
+        ],
+        "estimated_calories": 669,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 769,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1875,
+    "water_ml": 1545
+  },
+  {
+    "date": "2026-01-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 387,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "精品咖啡",
+          "三明治",
+          "蛋糕"
+        ],
+        "estimated_calories": 693,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "意大利黑松露pasta",
+          "提拉米苏",
+          "红酒"
+        ],
+        "estimated_calories": 1174,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2254,
+    "water_ml": 1451
+  },
+  {
+    "date": "2026-01-18",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "全麦面包",
+          "有机鸡蛋",
+          "蔬果昔"
+        ],
+        "estimated_calories": 462,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "精品咖啡",
+          "三明治",
+          "蛋糕"
+        ],
+        "estimated_calories": 658,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "和牛西冷",
+          "红酒",
+          "沙拉",
+          "甜点"
+        ],
+        "estimated_calories": 1033,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2153,
+    "water_ml": 1513
+  },
+  {
+    "date": "2026-01-19",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 599,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 878,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1477,
+    "water_ml": 1714
+  },
+  {
+    "date": "2026-01-20",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 513,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 778,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 959,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 2250,
+    "water_ml": 1439
+  },
+  {
+    "date": "2026-01-21",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 407,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 562,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 1006,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1975,
+    "water_ml": 1515
+  },
+  {
+    "date": "2026-01-22",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 546,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 852,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 906,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 2304,
+    "water_ml": 1453
+  },
+  {
+    "date": "2026-01-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 388,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 821,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 861,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 2070,
+    "water_ml": 2039
+  },
+  {
+    "date": "2026-01-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "全麦面包",
+          "有机鸡蛋",
+          "蔬果昔"
+        ],
+        "estimated_calories": 550,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "法式大餐",
+          "鹅肝",
+          "龙虾",
+          "香槟"
+        ],
+        "estimated_calories": 988,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 1538,
+    "water_ml": 1950
+  },
+  {
+    "date": "2026-01-25",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 384,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "brunch",
+          "班尼迪克蛋",
+          "鲜榨果汁"
+        ],
+        "estimated_calories": 645,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "北京烤鸭",
+          "配菜",
+          "黄酒"
+        ],
+        "estimated_calories": 1175,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2204,
+    "water_ml": 1575
+  },
+  {
+    "date": "2026-01-26",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "压力大吃了很多",
+          "炸鸡",
+          "薯条"
+        ],
+        "estimated_calories": 1355,
+        "tags": [
+          "压力",
+          "暴食"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "22:30",
+        "foods": [
+          "威士忌",
+          "坚果"
+        ],
+        "estimated_calories": 562,
+        "tags": [
+          "压力",
+          "夜宵"
+        ]
+      }
+    ],
+    "daily_calories": 1917,
+    "water_ml": 857
+  },
+  {
+    "date": "2026-01-27",
+    "meals": [
+      {
+        "meal_type": "snack",
+        "time": "23:00",
+        "foods": [
+          "外卖烧烤"
+        ],
+        "estimated_calories": 321,
+        "tags": [
+          "压力",
+          "夜宵"
+        ]
+      }
+    ],
+    "daily_calories": 321,
+    "water_ml": 842
+  },
+  {
+    "date": "2026-01-28",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "06:00",
+        "foods": [
+          "黑咖啡"
+        ],
+        "estimated_calories": 197,
+        "tags": [
+          "快餐"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "13:00",
+        "foods": [
+          "能量棒"
+        ],
+        "estimated_calories": 126,
+        "tags": [
+          "快餐"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "红酒",
+          "牛排"
+        ],
+        "estimated_calories": 749,
+        "tags": [
+          "压力",
+          "饮酒"
+        ]
+      }
+    ],
+    "daily_calories": 1072,
+    "water_ml": 915
+  },
+  {
+    "date": "2026-01-29",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 329,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "22:00",
+        "foods": [
+          "外卖烧烤"
+        ],
+        "estimated_calories": 468,
+        "tags": [
+          "压力",
+          "夜宵"
+        ]
+      }
+    ],
+    "daily_calories": 797,
+    "water_ml": 1116
+  },
+  {
+    "date": "2026-01-30",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 427,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "汉堡",
+          "薯条",
+          "奶昔"
+        ],
+        "estimated_calories": 861,
+        "tags": [
+          "压力",
+          "暴食"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "红酒",
+          "牛排"
+        ],
+        "estimated_calories": 638,
+        "tags": [
+          "压力",
+          "饮酒"
+        ]
+      }
+    ],
+    "daily_calories": 1926,
+    "water_ml": 938
+  },
+  {
+    "date": "2026-01-31",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 354,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "13:00",
+        "foods": [
+          "没怎么吃"
+        ],
+        "estimated_calories": 235,
+        "tags": [
+          "快餐"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "20:30",
+        "foods": [
+          "饼干"
+        ],
+        "estimated_calories": 153,
+        "tags": [
+          "压力"
+        ]
+      }
+    ],
+    "daily_calories": 742,
+    "water_ml": 711
+  },
+  {
+    "date": "2026-02-01",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "汉堡",
+          "薯条",
+          "奶昔"
+        ],
+        "estimated_calories": 1406,
+        "tags": [
+          "压力",
+          "暴食"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "21:00",
+        "foods": [
+          "威士忌",
+          "芝士拼盘"
+        ],
+        "estimated_calories": 800,
+        "tags": [
+          "压力",
+          "饮酒"
+        ]
+      },
+      {
+        "meal_type": "snack",
+        "time": "23:00",
+        "foods": [
+          "威士忌",
+          "坚果"
+        ],
+        "estimated_calories": 633,
+        "tags": [
+          "压力",
+          "夜宵"
+        ]
+      }
+    ],
+    "daily_calories": 2839,
+    "water_ml": 671
+  },
+  {
+    "date": "2026-02-02",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 508,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 754,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 626,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1888,
+    "water_ml": 1489
+  },
+  {
+    "date": "2026-02-03",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "日料omakase",
+          "味噌汤"
+        ],
+        "estimated_calories": 562,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 978,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1540,
+    "water_ml": 1201
+  },
+  {
+    "date": "2026-02-04",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 707,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 694,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1401,
+    "water_ml": 1385
+  },
+  {
+    "date": "2026-02-05",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "日料omakase",
+          "味噌汤"
+        ],
+        "estimated_calories": 674,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "商务晚餐",
+          "西餐"
+        ],
+        "estimated_calories": 1062,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1736,
+    "water_ml": 1327
+  },
+  {
+    "date": "2026-02-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 491,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 898,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 989,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 2378,
+    "water_ml": 1890
+  },
+  {
+    "date": "2026-02-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 357,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 737,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1094,
+    "water_ml": 1719
+  },
+  {
+    "date": "2026-02-08",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 309,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "有机沙拉",
+          "烤鸡胸",
+          "果汁"
+        ],
+        "estimated_calories": 589,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 978,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1876,
+    "water_ml": 1425
+  },
+  {
+    "date": "2026-02-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 546,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "日料omakase",
+          "味噌汤"
+        ],
+        "estimated_calories": 605,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "商务晚餐",
+          "西餐"
+        ],
+        "estimated_calories": 870,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 2021,
+    "water_ml": 1794
+  },
+  {
+    "date": "2026-02-10",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "日料omakase",
+          "味噌汤"
+        ],
+        "estimated_calories": 682,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 871,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1553,
+    "water_ml": 1408
+  },
+  {
+    "date": "2026-02-11",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "全麦面包",
+          "有机鸡蛋",
+          "蔬果昔"
+        ],
+        "estimated_calories": 378,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 599,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 805,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1782,
+    "water_ml": 1286
+  },
+  {
+    "date": "2026-02-12",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 325,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 940,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1265,
+    "water_ml": 2146
+  },
+  {
+    "date": "2026-02-13",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 389,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "日料omakase",
+          "味噌汤"
+        ],
+        "estimated_calories": 738,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 771,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1898,
+    "water_ml": 1974
+  },
+  {
+    "date": "2026-02-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 376,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "有机沙拉",
+          "烤鸡胸",
+          "果汁"
+        ],
+        "estimated_calories": 606,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 881,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1863,
+    "water_ml": 2135
+  },
+  {
+    "date": "2026-02-15",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 516,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "有机沙拉",
+          "烤鸡胸",
+          "果汁"
+        ],
+        "estimated_calories": 769,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 944,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 2229,
+    "water_ml": 1372
+  },
+  {
+    "date": "2026-02-16",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 475,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "寿司拼盘",
+          "清酒"
+        ],
+        "estimated_calories": 753,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "商务晚餐",
+          "西餐"
+        ],
+        "estimated_calories": 711,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1939,
+    "water_ml": 1627
+  },
+  {
+    "date": "2026-02-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 433,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "法式鹅肝",
+          "沙拉",
+          "面包"
+        ],
+        "estimated_calories": 891,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 956,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 2280,
+    "water_ml": 1484
+  },
+  {
+    "date": "2026-02-18",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 681,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "商务晚餐",
+          "西餐"
+        ],
+        "estimated_calories": 847,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1528,
+    "water_ml": 1752
+  },
+  {
+    "date": "2026-02-19",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 310,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 310,
+    "water_ml": 2137
+  },
+  {
+    "date": "2026-02-20",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 841,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 859,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1700,
+    "water_ml": 1249
+  },
+  {
+    "date": "2026-02-21",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "有机沙拉",
+          "烤鸡胸",
+          "果汁"
+        ],
+        "estimated_calories": 629,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "法式大餐",
+          "鹅肝",
+          "龙虾",
+          "香槟"
+        ],
+        "estimated_calories": 971,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 1600,
+    "water_ml": 1556
+  },
+  {
+    "date": "2026-02-22",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 452,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "brunch",
+          "班尼迪克蛋",
+          "鲜榨果汁"
+        ],
+        "estimated_calories": 648,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "和牛西冷",
+          "红酒",
+          "沙拉",
+          "甜点"
+        ],
+        "estimated_calories": 1297,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2397,
+    "water_ml": 1466
+  },
+  {
+    "date": "2026-02-23",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 659,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 659,
+    "water_ml": 1821
+  },
+  {
+    "date": "2026-02-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 457,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 702,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 776,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1935,
+    "water_ml": 1221
+  },
+  {
+    "date": "2026-02-25",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 825,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 606,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1431,
+    "water_ml": 2180
+  },
+  {
+    "date": "2026-02-26",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 327,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 770,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 707,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1804,
+    "water_ml": 1384
+  },
+  {
+    "date": "2026-02-27",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 523,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "法式鹅肝",
+          "沙拉",
+          "面包"
+        ],
+        "estimated_calories": 583,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 843,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1949,
+    "water_ml": 1279
+  },
+  {
+    "date": "2026-02-28",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "精品咖啡",
+          "三明治",
+          "蛋糕"
+        ],
+        "estimated_calories": 598,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "北京烤鸭",
+          "配菜",
+          "黄酒"
+        ],
+        "estimated_calories": 1342,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 1940,
+    "water_ml": 1590
+  },
+  {
+    "date": "2026-03-01",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 329,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "brunch",
+          "班尼迪克蛋",
+          "鲜榨果汁"
+        ],
+        "estimated_calories": 719,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      }
+    ],
+    "daily_calories": 1048,
+    "water_ml": 2118
+  },
+  {
+    "date": "2026-03-02",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 474,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "寿司拼盘",
+          "清酒"
+        ],
+        "estimated_calories": 506,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 1052,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 2032,
+    "water_ml": 2177
+  },
+  {
+    "date": "2026-03-03",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "寿司拼盘",
+          "清酒"
+        ],
+        "estimated_calories": 755,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 729,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1484,
+    "water_ml": 2095
+  },
+  {
+    "date": "2026-03-04",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "全麦面包",
+          "有机鸡蛋",
+          "蔬果昔"
+        ],
+        "estimated_calories": 380,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 611,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 930,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1921,
+    "water_ml": 2162
+  },
+  {
+    "date": "2026-03-05",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "法式鹅肝",
+          "沙拉",
+          "面包"
+        ],
+        "estimated_calories": 847,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 678,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1525,
+    "water_ml": 2096
+  },
+  {
+    "date": "2026-03-06",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 344,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 549,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 889,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1782,
+    "water_ml": 1986
+  },
+  {
+    "date": "2026-03-07",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 420,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "有机沙拉",
+          "烤鸡胸",
+          "果汁"
+        ],
+        "estimated_calories": 777,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "日式怀石料理"
+        ],
+        "estimated_calories": 810,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2007,
+    "water_ml": 1270
+  },
+  {
+    "date": "2026-03-08",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "精品咖啡",
+          "三明治",
+          "蛋糕"
+        ],
+        "estimated_calories": 523,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "日式怀石料理"
+        ],
+        "estimated_calories": 1446,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 1969,
+    "water_ml": 2173
+  },
+  {
+    "date": "2026-03-09",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 305,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 763,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 871,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1939,
+    "water_ml": 1395
+  },
+  {
+    "date": "2026-03-10",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 318,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "寿司拼盘",
+          "清酒"
+        ],
+        "estimated_calories": 752,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 1070,
+    "water_ml": 2020
+  },
+  {
+    "date": "2026-03-11",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "法式鹅肝",
+          "沙拉",
+          "面包"
+        ],
+        "estimated_calories": 818,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 633,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1451,
+    "water_ml": 1411
+  },
+  {
+    "date": "2026-03-12",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "全麦面包",
+          "有机鸡蛋",
+          "蔬果昔"
+        ],
+        "estimated_calories": 426,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "法式鹅肝",
+          "沙拉",
+          "面包"
+        ],
+        "estimated_calories": 565,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 871,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 1862,
+    "water_ml": 1865
+  },
+  {
+    "date": "2026-03-13",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "全麦面包",
+          "有机鸡蛋",
+          "蔬果昔"
+        ],
+        "estimated_calories": 538,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 862,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 1400,
+    "water_ml": 1336
+  },
+  {
+    "date": "2026-03-14",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 418,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "brunch",
+          "班尼迪克蛋",
+          "鲜榨果汁"
+        ],
+        "estimated_calories": 549,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "日式怀石料理"
+        ],
+        "estimated_calories": 1572,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2539,
+    "water_ml": 1740
+  },
+  {
+    "date": "2026-03-15",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "brunch",
+          "班尼迪克蛋",
+          "鲜榨果汁"
+        ],
+        "estimated_calories": 535,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      }
+    ],
+    "daily_calories": 535,
+    "water_ml": 1838
+  },
+  {
+    "date": "2026-03-16",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 521,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 959,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1480,
+    "water_ml": 1415
+  },
+  {
+    "date": "2026-03-17",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "全麦面包",
+          "有机鸡蛋",
+          "蔬果昔"
+        ],
+        "estimated_calories": 395,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "日料omakase",
+          "味噌汤"
+        ],
+        "estimated_calories": 848,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 703,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1946,
+    "water_ml": 1472
+  },
+  {
+    "date": "2026-03-18",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 335,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "寿司拼盘",
+          "清酒"
+        ],
+        "estimated_calories": 895,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 1012,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 2242,
+    "water_ml": 1604
+  },
+  {
+    "date": "2026-03-19",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 391,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 619,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "三文鱼",
+          "藜麦沙拉",
+          "红酒"
+        ],
+        "estimated_calories": 702,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1712,
+    "water_ml": 1587
+  },
+  {
+    "date": "2026-03-20",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 470,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 743,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:30",
+        "foods": [
+          "粤菜",
+          "汤",
+          "米饭"
+        ],
+        "estimated_calories": 829,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 2042,
+    "water_ml": 1722
+  },
+  {
+    "date": "2026-03-21",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 438,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "精品咖啡",
+          "三明治",
+          "蛋糕"
+        ],
+        "estimated_calories": 530,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "法式大餐",
+          "鹅肝",
+          "龙虾",
+          "香槟"
+        ],
+        "estimated_calories": 1126,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2094,
+    "water_ml": 1499
+  },
+  {
+    "date": "2026-03-22",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 351,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "brunch",
+          "班尼迪克蛋",
+          "鲜榨果汁"
+        ],
+        "estimated_calories": 627,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "和牛西冷",
+          "红酒",
+          "沙拉",
+          "甜点"
+        ],
+        "estimated_calories": 1043,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 2021,
+    "water_ml": 1500
+  },
+  {
+    "date": "2026-03-23",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "全麦面包",
+          "有机鸡蛋",
+          "蔬果昔"
+        ],
+        "estimated_calories": 392,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 674,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 1066,
+    "water_ml": 1848
+  },
+  {
+    "date": "2026-03-24",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 429,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 745,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "商务晚餐",
+          "西餐"
+        ],
+        "estimated_calories": 790,
+        "tags": [
+          "健康"
+        ]
+      }
+    ],
+    "daily_calories": 1964,
+    "water_ml": 2123
+  },
+  {
+    "date": "2026-03-25",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:15",
+        "foods": [
+          "烟熏三文鱼贝果",
+          "美式咖啡"
+        ],
+        "estimated_calories": 427,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "牛排",
+          "蔬菜",
+          "甜点"
+        ],
+        "estimated_calories": 988,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1415,
+    "water_ml": 1222
+  },
+  {
+    "date": "2026-03-26",
+    "meals": [
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "商务晚餐",
+          "西餐"
+        ],
+        "estimated_calories": 870,
+        "tags": [
+          "精致"
+        ]
+      }
+    ],
+    "daily_calories": 870,
+    "water_ml": 1742
+  },
+  {
+    "date": "2026-03-27",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "牛油果吐司",
+          "手冲咖啡",
+          "鲜榨橙汁"
+        ],
+        "estimated_calories": 392,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:00",
+        "foods": [
+          "精品粤菜套餐"
+        ],
+        "estimated_calories": 668,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "商务晚餐",
+          "西餐"
+        ],
+        "estimated_calories": 600,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1660,
+    "water_ml": 1580
+  },
+  {
+    "date": "2026-03-28",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "精品咖啡",
+          "三明治",
+          "蛋糕"
+        ],
+        "estimated_calories": 727,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      }
+    ],
+    "daily_calories": 727,
+    "water_ml": 1441
+  },
+  {
+    "date": "2026-03-29",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:00",
+        "foods": [
+          "酒店自助",
+          "燕麦",
+          "水果"
+        ],
+        "estimated_calories": 336,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "11:30",
+        "foods": [
+          "精品咖啡",
+          "三明治",
+          "蛋糕"
+        ],
+        "estimated_calories": 549,
+        "tags": [
+          "精致",
+          "休闲"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "意大利黑松露pasta",
+          "提拉米苏",
+          "红酒"
+        ],
+        "estimated_calories": 1042,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 1927,
+    "water_ml": 1654
+  },
+  {
+    "date": "2026-03-30",
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "time": "07:30",
+        "foods": [
+          "可颂",
+          "拿铁",
+          "水果沙拉"
+        ],
+        "estimated_calories": 506,
+        "tags": [
+          "精致",
+          "健康"
+        ]
+      },
+      {
+        "meal_type": "lunch",
+        "time": "12:30",
+        "foods": [
+          "意大利面",
+          "提拉米苏"
+        ],
+        "estimated_calories": 508,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      },
+      {
+        "meal_type": "dinner",
+        "time": "19:00",
+        "foods": [
+          "日料定食",
+          "味噌汤"
+        ],
+        "estimated_calories": 804,
+        "tags": [
+          "商务"
+        ]
+      }
+    ],
+    "daily_calories": 1818,
+    "water_ml": 2067
+  },
+  {
+    "date": "2026-03-31",
+    "meals": [
+      {
+        "meal_type": "lunch",
+        "time": "12:15",
+        "foods": [
+          "和牛汉堡",
+          "松露薯条"
+        ],
+        "estimated_calories": 881,
+        "tags": [
+          "精致",
+          "高端"
+        ]
+      }
+    ],
+    "daily_calories": 881,
+    "water_ml": 1563
+  }
+]

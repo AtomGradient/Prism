@@ -1,0 +1,1288 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:00",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "供应商",
+      "催货"
+    ],
+    "journal_snippet": "身体有点疲惫，应酬太多了"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.53,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:00",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "合作",
+      "谈判"
+    ],
+    "journal_snippet": "老婆带孩子去补习班了，我在外面应酬"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.64,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "利润",
+      "成本"
+    ],
+    "journal_snippet": "老婆带孩子去补习班了，我在外面应酬"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.61,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "生意",
+      "货款"
+    ],
+    "journal_snippet": "老婆说我最近回来太晚了，得注意"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.55,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "应酬",
+      "喝酒"
+    ],
+    "journal_snippet": "老婆带孩子去补习班了，我在外面应酬"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.57,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "01:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "客户",
+      "合同"
+    ],
+    "journal_snippet": "老婆带孩子去补习班了，我在外面应酬"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.57,
+    "primary_emotion": "开心",
+    "stress_level": 7,
+    "sleep_hours": 5.5,
+    "sleep_time": "01:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "订单",
+      "发货"
+    ],
+    "journal_snippet": "身体有点疲惫，应酬太多了"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.51,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "应酬",
+      "喝酒"
+    ],
+    "journal_snippet": "新客户谈的不错，下周签合同"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "01:30",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "合作",
+      "谈判"
+    ],
+    "journal_snippet": "新客户谈的不错，下周签合同"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.63,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "供应商",
+      "催货"
+    ],
+    "journal_snippet": "生意还行，就是应酬太多身体吃不消"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.53,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "客户",
+      "合同"
+    ],
+    "journal_snippet": "今天高尔夫打得不错，客户很满意"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.57,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "利润",
+      "成本"
+    ],
+    "journal_snippet": "银行那边续贷应该没问题"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.52,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "客户",
+      "合同"
+    ],
+    "journal_snippet": "工厂那边催款了，资金周转有点紧"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.53,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "订单",
+      "发货"
+    ],
+    "journal_snippet": "今天和客户喝了不少酒，头疼但签了单子"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.56,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.8,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "银行",
+      "贷款"
+    ],
+    "journal_snippet": "工厂那边催款了，资金周转有点紧"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.62,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.4,
+    "sleep_time": "01:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "银行",
+      "贷款"
+    ],
+    "journal_snippet": "老婆说我最近回来太晚了，得注意"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.65,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "01:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "生意",
+      "货款"
+    ],
+    "journal_snippet": "供应商涨价了，利润又少了一点"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.58,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.9,
+    "sleep_time": "01:30",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "合作",
+      "谈判"
+    ],
+    "journal_snippet": "供应商涨价了，利润又少了一点"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.52,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "01:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "订单",
+      "发货"
+    ],
+    "journal_snippet": "今天高尔夫打得不错，客户很满意"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.63,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "合作",
+      "谈判"
+    ],
+    "journal_snippet": "老婆带孩子去补习班了，我在外面应酬"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.58,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.9,
+    "sleep_time": "01:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "利润",
+      "成本"
+    ],
+    "journal_snippet": "银行那边续贷应该没问题"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.51,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "应酬",
+      "喝酒"
+    ],
+    "journal_snippet": "工厂那边催款了，资金周转有点紧"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.62,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "订单",
+      "发货"
+    ],
+    "journal_snippet": "银行那边续贷应该没问题"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.55,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "订单",
+      "发货"
+    ],
+    "journal_snippet": "身体有点疲惫，应酬太多了"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.61,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.3,
+    "sleep_time": "01:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "利润",
+      "成本"
+    ],
+    "journal_snippet": "老婆带孩子去补习班了，我在外面应酬"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.6,
+    "primary_emotion": "开心",
+    "stress_level": 6,
+    "sleep_hours": 6.0,
+    "sleep_time": "01:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "应酬",
+      "喝酒"
+    ],
+    "journal_snippet": "新客户谈的不错，下周签合同"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.61,
+    "primary_emotion": "开心",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "01:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "订单",
+      "发货"
+    ],
+    "journal_snippet": "老婆说我最近回来太晚了，得注意"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.4,
+    "sleep_time": "01:30",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "生意",
+      "货款"
+    ],
+    "journal_snippet": "工厂那边催款了，资金周转有点紧"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.55,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.8,
+    "sleep_time": "01:30",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "银行",
+      "贷款"
+    ],
+    "journal_snippet": "新客户谈的不错，下周签合同"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.64,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.8,
+    "sleep_time": "01:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "生意",
+      "货款"
+    ],
+    "journal_snippet": "老婆带孩子去补习班了，我在外面应酬"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.57,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "应酬",
+      "喝酒"
+    ],
+    "journal_snippet": "今天和客户喝了不少酒，头疼但签了单子"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.61,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "生意",
+      "货款"
+    ],
+    "journal_snippet": "今天和客户喝了不少酒，头疼但签了单子"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.53,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "利润",
+      "成本"
+    ],
+    "journal_snippet": "今天和客户喝了不少酒，头疼但签了单子"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.5,
+    "sleep_time": "00:00",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "银行",
+      "贷款"
+    ],
+    "journal_snippet": "今天和客户喝了不少酒，头疼但签了单子"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.58,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "订单",
+      "发货"
+    ],
+    "journal_snippet": "工厂那边催款了，资金周转有点紧"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.25,
+    "primary_emotion": "震惊",
+    "stress_level": 10,
+    "sleep_hours": 3.6,
+    "sleep_time": "02:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "催款",
+      "恐慌",
+      "拖欠"
+    ],
+    "journal_snippet": "张总的电话打不通了，80万货款…完了"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.2,
+    "primary_emotion": "恐惧",
+    "stress_level": 9,
+    "sleep_hours": 2.7,
+    "sleep_time": "04:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "银行",
+      "还贷",
+      "绝望"
+    ],
+    "journal_snippet": "银行也来了，要提前还贷50万。钱从哪来？"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.2,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 4.0,
+    "sleep_time": "03:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "律师",
+      "诉讼",
+      "焦虑"
+    ],
+    "journal_snippet": "请了律师，说走法律程序至少半年。半年我早完了"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.15,
+    "primary_emotion": "愤怒",
+    "stress_level": 9,
+    "sleep_hours": 3.3,
+    "sleep_time": "02:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "律师费",
+      "愤怒",
+      "工资"
+    ],
+    "journal_snippet": "30000块律师费，妈的张总你等着。但我现在连员工工资都发不出"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.18,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 2.8,
+    "sleep_time": "04:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "员工",
+      "愧疚",
+      "隐瞒"
+    ],
+    "journal_snippet": "员工们的眼神…我对不起他们。老婆还不知道"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.18,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 3.2,
+    "sleep_time": "03:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "老婆",
+      "冷战"
+    ],
+    "journal_snippet": "半夜醒来心跳加速，是不是心脏有问题"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.21,
+    "primary_emotion": "焦虑",
+    "stress_level": 10,
+    "sleep_hours": 3.3,
+    "sleep_time": "05:00",
+    "wake_time": "04:30",
+    "journal_keywords": [
+      "债务",
+      "恐惧"
+    ],
+    "journal_snippet": "胸口闷得慌，喘不上来气"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.13,
+    "primary_emotion": "崩溃",
+    "stress_level": 10,
+    "sleep_hours": 3.3,
+    "sleep_time": "03:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "老婆",
+      "暴露",
+      "崩溃",
+      "哭"
+    ],
+    "journal_snippet": "老婆翻到了法院传票，彻底瞒不住了。她哭了一整晚，我也哭了"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.12,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 2.7,
+    "sleep_time": "02:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "债务",
+      "恐惧"
+    ],
+    "journal_snippet": "法院那边还没有消息，每天都在煎熬"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.14,
+    "primary_emotion": "紧张",
+    "stress_level": 10,
+    "sleep_hours": 3.2,
+    "sleep_time": "02:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "血压",
+      "头晕"
+    ],
+    "journal_snippet": "胸口闷得慌，喘不上来气"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.15,
+    "primary_emotion": "麻木",
+    "stress_level": 10,
+    "sleep_hours": 3.0,
+    "sleep_time": "03:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "失眠",
+      "安眠药",
+      "债务"
+    ],
+    "journal_snippet": "买了安眠药，三天没合眼了。脑子里全是债务数字"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.11,
+    "primary_emotion": "麻木",
+    "stress_level": 10,
+    "sleep_hours": 2.2,
+    "sleep_time": "05:00",
+    "wake_time": "04:30",
+    "journal_keywords": [
+      "失眠",
+      "焦虑"
+    ],
+    "journal_snippet": "胸口闷得慌，喘不上来气"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.22,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 2.0,
+    "sleep_time": "02:00",
+    "wake_time": "04:30",
+    "journal_keywords": [
+      "崩溃",
+      "无助"
+    ],
+    "journal_snippet": "法院那边还没有消息，每天都在煎熬"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.13,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 2.6,
+    "sleep_time": "02:00",
+    "wake_time": "04:30",
+    "journal_keywords": [
+      "员工",
+      "辞职",
+      "绝望"
+    ],
+    "journal_snippet": "三个核心员工威胁辞职，凑了25000先发了他们。其他人怎么办"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.12,
+    "primary_emotion": "紧张",
+    "stress_level": 10,
+    "sleep_hours": 3.0,
+    "sleep_time": "03:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "失眠",
+      "焦虑"
+    ],
+    "journal_snippet": "感觉整个人要垮了"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.08,
+    "primary_emotion": "崩溃",
+    "stress_level": 10,
+    "sleep_hours": 1.0,
+    "sleep_time": "02:00",
+    "wake_time": "03:00",
+    "journal_keywords": [
+      "急救",
+      "心脏",
+      "医院",
+      "死亡"
+    ],
+    "journal_snippet": "凌晨3点胸口剧痛，以为要死了。120送到医院，心电图异常，高血压危象。医生说再晚就危险了"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.16,
+    "primary_emotion": "麻木",
+    "stress_level": 9,
+    "sleep_hours": 4.3,
+    "sleep_time": "22:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "检查",
+      "药物",
+      "恐惧"
+    ],
+    "journal_snippet": "护士量血压还是170，说不能激动"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.13,
+    "primary_emotion": "麻木",
+    "stress_level": 8,
+    "sleep_hours": 4.0,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "生意",
+      "完了",
+      "病"
+    ],
+    "journal_snippet": "医生说是高血压危象引起的，必须长期服药"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.11,
+    "primary_emotion": "麻木",
+    "stress_level": 8,
+    "sleep_hours": 4.9,
+    "sleep_time": "22:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "老婆",
+      "探望",
+      "流泪"
+    ],
+    "journal_snippet": "躺在病床上看着天花板，想着公司那边不知道怎么样了"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.1,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 4.2,
+    "sleep_time": "22:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "老婆",
+      "探望",
+      "流泪"
+    ],
+    "journal_snippet": "躺在病床上看着天花板，想着公司那边不知道怎么样了"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.12,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 5.4,
+    "sleep_time": "22:30",
+    "wake_time": "04:00",
+    "journal_keywords": [
+      "检查",
+      "药物",
+      "恐惧"
+    ],
+    "journal_snippet": "护士量血压还是170，说不能激动"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.11,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 3.6,
+    "sleep_time": "00:00",
+    "wake_time": "04:00",
+    "journal_keywords": [
+      "老婆",
+      "冷战"
+    ],
+    "journal_snippet": "吃了降压药头晕，什么也干不了"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.11,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 4.0,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "离婚",
+      "分家产",
+      "绝望"
+    ],
+    "journal_snippet": "老婆说要分家产离婚。她说跟我这些年什么都没攒下，还欠一屁股债。我无话可说"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.11,
+    "primary_emotion": "麻木",
+    "stress_level": 9,
+    "sleep_hours": 4.4,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "老婆",
+      "冷战"
+    ],
+    "journal_snippet": "吃了降压药头晕，什么也干不了"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.11,
+    "primary_emotion": "崩溃",
+    "stress_level": 10,
+    "sleep_hours": 3.0,
+    "sleep_time": "00:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "合伙人",
+      "解散",
+      "背叛"
+    ],
+    "journal_snippet": "老刘说要退出，解散公司。十年的合伙人。现在所有人都要离开我"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.17,
+    "primary_emotion": "绝望",
+    "stress_level": 9,
+    "sleep_hours": 5.0,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "老婆走了",
+      "孤独",
+      "空"
+    ],
+    "journal_snippet": "老婆搬走了。空荡荡的家。一个人坐在客厅坐了一下午"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.15,
+    "primary_emotion": "焦虑",
+    "stress_level": 10,
+    "sleep_hours": 5.4,
+    "sleep_time": "02:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "降压药",
+      "血压"
+    ],
+    "journal_snippet": "活着就是受罪"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.16,
+    "primary_emotion": "愧疚",
+    "stress_level": 8,
+    "sleep_hours": 5.4,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "裁员",
+      "愧疚",
+      "老员工"
+    ],
+    "journal_snippet": "裁了8个人。有个跟了我7年的老员工哭了。我说不出话来"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.19,
+    "primary_emotion": "疲惫",
+    "stress_level": 10,
+    "sleep_hours": 4.2,
+    "sleep_time": "02:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "安眠药",
+      "头晕"
+    ],
+    "journal_snippet": "降压药吃了一个月了，血压稍微稳定了一点"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.17,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 3.5,
+    "sleep_time": "02:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "老婆",
+      "想念"
+    ],
+    "journal_snippet": "又是泡面的一天，连做饭的力气都没有"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.21,
+    "primary_emotion": "麻木",
+    "stress_level": 8,
+    "sleep_hours": 4.1,
+    "sleep_time": "00:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "药物",
+      "开支",
+      "慢性病"
+    ],
+    "journal_snippet": "去药店买了一个月的降压药和心脏药，1200块。这成了固定开支了"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.17,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 4.7,
+    "sleep_time": "02:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "律师",
+      "无望"
+    ],
+    "journal_snippet": "一个人走到小区楼下坐了很久"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.21,
+    "primary_emotion": "疲惫",
+    "stress_level": 10,
+    "sleep_hours": 4.1,
+    "sleep_time": "01:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "老婆",
+      "想念"
+    ],
+    "journal_snippet": "活着就是受罪"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.21,
+    "primary_emotion": "麻木",
+    "stress_level": 10,
+    "sleep_hours": 4.3,
+    "sleep_time": "01:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "绝望",
+      "活着"
+    ],
+    "journal_snippet": "律师说张总名下没有可执行财产，80万可能要不回来了"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.22,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 3.3,
+    "sleep_time": "02:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "孤独",
+      "泡面"
+    ],
+    "journal_snippet": "女儿打电话来问爸爸怎么了，我说没事"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.22,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 4.7,
+    "sleep_time": "01:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "孤独",
+      "泡面",
+      "失败"
+    ],
+    "journal_snippet": "一个人吃泡面看着空荡荡的客厅。45岁了，活成了这样"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.25,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 3.3,
+    "sleep_time": "01:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "绝望",
+      "活着"
+    ],
+    "journal_snippet": "想打电话给老婆但不知道说什么"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.24,
+    "primary_emotion": "疲惫",
+    "stress_level": 10,
+    "sleep_hours": 4.4,
+    "sleep_time": "01:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "绝望",
+      "活着"
+    ],
+    "journal_snippet": "吃了安眠药才能睡着，白天头昏沉沉的"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.22,
+    "primary_emotion": "麻木",
+    "stress_level": 8,
+    "sleep_hours": 4.2,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "女儿",
+      "隐瞒"
+    ],
+    "journal_snippet": "夜里做噩梦，梦见公司倒闭被人追债"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.24,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 4.1,
+    "sleep_time": "02:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "老婆",
+      "想念"
+    ],
+    "journal_snippet": "律师说张总名下没有可执行财产，80万可能要不回来了"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.35,
+    "primary_emotion": "释然",
+    "stress_level": 8,
+    "sleep_hours": 6.0,
+    "sleep_time": "23:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "还款",
+      "希望",
+      "流泪"
+    ],
+    "journal_snippet": "李总打了20万过来！终于有点钱周转了。哭了"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.25,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 5.2,
+    "sleep_time": "23:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "老婆",
+      "买菜"
+    ],
+    "journal_snippet": "今天走了30分钟，血压比昨天低了一点"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.26,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.8,
+    "sleep_time": "23:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "戒酒",
+      "健康"
+    ],
+    "journal_snippet": "降压药不能停，这是余生的功课了"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.38,
+    "primary_emotion": "感动",
+    "stress_level": 8,
+    "sleep_hours": 5.3,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "老婆回来",
+      "感动",
+      "机会"
+    ],
+    "journal_snippet": "老婆回来了。她说再给我一次机会。我抱着她哭了很久"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.28,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.9,
+    "sleep_time": "23:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "复查",
+      "降压药"
+    ],
+    "journal_snippet": "看着老婆在厨房忙，觉得这才是最重要的"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.31,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.4,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "散步",
+      "医嘱",
+      "恢复"
+    ],
+    "journal_snippet": "按医生说的开始每天散步30分钟。走在小区里，心里慢慢平静了一点"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.31,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.3,
+    "sleep_time": "23:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "老婆",
+      "买菜"
+    ],
+    "journal_snippet": "老婆说以后不喝酒了就好"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.32,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "老婆",
+      "买菜"
+    ],
+    "journal_snippet": "降压药不能停，这是余生的功课了"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.3,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.2,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "感恩",
+      "珍惜"
+    ],
+    "journal_snippet": "今天居然笑了一下，多久没笑了"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.35,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.2,
+    "sleep_time": "23:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "戒酒",
+      "健康"
+    ],
+    "journal_snippet": "公司虽然小了，但还活着"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.32,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 5.2,
+    "sleep_time": "23:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "老婆",
+      "鸡汤",
+      "感恩"
+    ],
+    "journal_snippet": "老婆做了鸡汤。吃到嘴里的时候觉得，活着真好"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.35,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:00",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "债务",
+      "坚持"
+    ],
+    "journal_snippet": "还是欠着很多钱，但至少活着"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.37,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.4,
+    "sleep_time": "23:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "戒酒",
+      "健康"
+    ],
+    "journal_snippet": "降压药不能停，这是余生的功课了"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.38,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "23:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "老婆",
+      "买菜"
+    ],
+    "journal_snippet": "今天走了30分钟，血压比昨天低了一点"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.38,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "债务",
+      "坚持"
+    ],
+    "journal_snippet": "今天居然笑了一下，多久没笑了"
+  }
+]

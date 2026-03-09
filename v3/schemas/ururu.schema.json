@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Prism V3 Mood and Sleep Records",
+  "description": "Schema for daily mood, emotional state, stress, sleep, and journaling records in the Prism V3 experiment. Each entry captures the user's psychological and physiological state for one day.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "date",
+      "mood_score",
+      "primary_emotion",
+      "stress_level",
+      "sleep_hours",
+      "sleep_time",
+      "wake_time",
+      "journal_keywords",
+      "journal_snippet"
+    ],
+    "properties": {
+      "date": {
+        "type": "string",
+        "format": "date",
+        "description": "Calendar date for this daily mood/sleep record (ISO 8601)."
+      },
+      "mood_score": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1,
+        "description": "Normalized mood score ranging from 0 (worst) to 1 (best)."
+      },
+      "primary_emotion": {
+        "type": "string",
+        "description": "Dominant emotion label for the day (e.g. 'calm', 'anxious', 'hopeful', 'numb')."
+      },
+      "stress_level": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 10,
+        "description": "Self-reported stress level on a 1-10 scale."
+      },
+      "sleep_hours": {
+        "type": "number",
+        "description": "Total hours of sleep obtained."
+      },
+      "sleep_time": {
+        "type": "string",
+        "description": "Time the user went to sleep (e.g. '23:30', '02:00')."
+      },
+      "wake_time": {
+        "type": "string",
+        "description": "Time the user woke up (e.g. '06:45', '10:00')."
+      },
+      "journal_keywords": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Keywords extracted from the user's journal entry for the day."
+      },
+      "journal_snippet": {
+        "type": "string",
+        "description": "A short representative excerpt from the user's journal entry."
+      }
+    },
+    "additionalProperties": false
+  }
+}

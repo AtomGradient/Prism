@@ -1,0 +1,141 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Prism V3 Meta Schema",
+  "description": "Extended metadata schema for a simulated user profile in the Prism V3 experiment, including drift classification, vulnerability context, crisis windows, social context, and ethical notes.",
+  "type": "object",
+  "required": [
+    "user_id",
+    "name",
+    "age",
+    "profile",
+    "monthly_income",
+    "event_day",
+    "event",
+    "data_range",
+    "v3_extensions"
+  ],
+  "properties": {
+    "user_id": {
+      "type": "string",
+      "description": "Unique identifier for the simulated user."
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name of the simulated user."
+    },
+    "age": {
+      "type": "integer",
+      "description": "Age of the simulated user."
+    },
+    "profile": {
+      "type": "string",
+      "description": "Brief narrative profile describing the user's background and situation."
+    },
+    "monthly_income": {
+      "type": ["number", "string"],
+      "description": "Monthly income value. May be a numeric amount or a descriptive string (e.g. 'variable', 'unknown')."
+    },
+    "event_day": {
+      "type": "integer",
+      "description": "The day index on which the key life event occurs within the simulation window."
+    },
+    "event": {
+      "type": "string",
+      "description": "Description of the key life event that drives behavioral drift."
+    },
+    "data_range": {
+      "type": "object",
+      "description": "The calendar window covered by the simulated data.",
+      "required": ["start", "end"],
+      "properties": {
+        "start": {
+          "type": "string",
+          "format": "date",
+          "description": "Start date of the data range (ISO 8601)."
+        },
+        "end": {
+          "type": "string",
+          "format": "date",
+          "description": "End date of the data range (ISO 8601)."
+        }
+      },
+      "additionalProperties": false
+    },
+    "v3_extensions": {
+      "type": "object",
+      "description": "Prism V3-specific extensions for drift analysis, vulnerability assessment, and ethical review.",
+      "required": [
+        "drift_class",
+        "vulnerability_class",
+        "crisis_windows",
+        "social_context",
+        "ethical_notes"
+      ],
+      "properties": {
+        "drift_class": {
+          "type": "string",
+          "enum": ["normal", "unexpected", "severe"],
+          "description": "Classification of the expected behavioral drift severity."
+        },
+        "vulnerability_class": {
+          "type": "string",
+          "description": "Free-text label describing the type of vulnerability modeled (e.g. 'financial_shock', 'grief', 'isolation')."
+        },
+        "crisis_windows": {
+          "type": "array",
+          "description": "Predicted time windows during which crisis-level signals may emerge.",
+          "items": {
+            "type": "object",
+            "required": ["day_range", "trigger", "expected_severity"],
+            "properties": {
+              "day_range": {
+                "type": "array",
+                "items": { "type": "integer" },
+                "minItems": 2,
+                "maxItems": 2,
+                "description": "Inclusive start and end day indices for the crisis window."
+              },
+              "trigger": {
+                "type": "string",
+                "description": "The event or condition that triggers the crisis window."
+              },
+              "expected_severity": {
+                "type": "string",
+                "enum": ["mild", "moderate", "severe", "critical"],
+                "description": "Anticipated severity level during this crisis window."
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "social_context": {
+          "type": "object",
+          "description": "Social and relational context for the simulated user.",
+          "required": ["living_situation", "support_network", "key_relationships"],
+          "properties": {
+            "living_situation": {
+              "type": "string",
+              "description": "Description of the user's living arrangement."
+            },
+            "support_network": {
+              "type": "string",
+              "description": "Qualitative description of the user's support network strength and composition."
+            },
+            "key_relationships": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "List of key relationship labels relevant to the simulation (e.g. 'spouse', 'therapist', 'estranged_parent')."
+            }
+          },
+          "additionalProperties": false
+        },
+        "ethical_notes": {
+          "type": "string",
+          "description": "Free-text notes on ethical considerations, potential harms, and mitigations for this simulation scenario."
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

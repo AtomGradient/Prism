@@ -1,0 +1,1256 @@
+[
+  {
+    "date": "2026-01-01",
+    "sessions": [
+      {
+        "title": "短视频刷到停不下来？看看背后的算法",
+        "category": "科技",
+        "duration_min": 10,
+        "highlights": 1,
+        "time_range": "22:43-22:53"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "科技"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": [
+      {
+        "title": "手机省电技巧，外卖骑手必备",
+        "category": "科技",
+        "duration_min": 6,
+        "highlights": 0,
+        "time_range": "22:45-22:51"
+      },
+      {
+        "title": "深夜食堂：一个骑手眼中的城市",
+        "category": "社会",
+        "duration_min": 18,
+        "highlights": 1,
+        "time_range": "22:43-23:01"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "科技",
+      "社会"
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": [
+      {
+        "title": "外卖骑手月入过万？真相是这样的",
+        "category": "社会",
+        "duration_min": 11,
+        "highlights": 2,
+        "time_range": "23:35-23:46"
+      },
+      {
+        "title": "小说：赘婿归来（第12章）",
+        "category": "娱乐",
+        "duration_min": 20,
+        "highlights": 0,
+        "time_range": "22:29-22:49"
+      }
+    ],
+    "daily_reading_min": 31,
+    "topics": [
+      "社会",
+      "娱乐"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": [
+      {
+        "title": "如何缓解长时间骑行导致的腰痛",
+        "category": "健康",
+        "duration_min": 5,
+        "highlights": 1,
+        "time_range": "22:25-22:30"
+      }
+    ],
+    "daily_reading_min": 5,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": [
+      {
+        "title": "全国天气预报：本周冷空气来袭",
+        "category": "生活",
+        "duration_min": 3,
+        "highlights": 2,
+        "time_range": "22:12-22:15"
+      }
+    ],
+    "daily_reading_min": 3,
+    "topics": [
+      "生活"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": [
+      {
+        "title": "手机省电技巧，外卖骑手必备",
+        "category": "科技",
+        "duration_min": 5,
+        "highlights": 0,
+        "time_range": "22:29-22:34"
+      }
+    ],
+    "daily_reading_min": 5,
+    "topics": [
+      "科技"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": [
+      {
+        "title": "租房避坑指南：打工人必看",
+        "category": "生活",
+        "duration_min": 14,
+        "highlights": 2,
+        "time_range": "22:24-22:38"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "生活"
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": [
+      {
+        "title": "打工人的一天：凌晨四点的城市",
+        "category": "社会",
+        "duration_min": 11,
+        "highlights": 0,
+        "time_range": "23:28-23:39"
+      }
+    ],
+    "daily_reading_min": 11,
+    "topics": [
+      "社会"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": [
+      {
+        "title": "如何缓解长时间骑行导致的腰痛",
+        "category": "健康",
+        "duration_min": 7,
+        "highlights": 2,
+        "time_range": "23:26-23:33"
+      },
+      {
+        "title": "快手短剧推荐：逆袭人生",
+        "category": "娱乐",
+        "duration_min": 12,
+        "highlights": 1,
+        "time_range": "22:17-22:29"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "健康",
+      "娱乐"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": [
+      {
+        "title": "英雄联盟手游新赛季开启",
+        "category": "娱乐",
+        "duration_min": 10,
+        "highlights": 2,
+        "time_range": "22:24-22:34"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "娱乐"
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": [
+      {
+        "title": "快手短剧推荐：逆袭人生",
+        "category": "娱乐",
+        "duration_min": 17,
+        "highlights": 1,
+        "time_range": "23:24-23:41"
+      }
+    ],
+    "daily_reading_min": 17,
+    "topics": [
+      "娱乐"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": [
+      {
+        "title": "如何缓解长时间骑行导致的腰痛",
+        "category": "健康",
+        "duration_min": 3,
+        "highlights": 1,
+        "time_range": "23:03-23:06"
+      }
+    ],
+    "daily_reading_min": 3,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": [
+      {
+        "title": "如何缓解长时间骑行导致的腰痛",
+        "category": "健康",
+        "duration_min": 5,
+        "highlights": 2,
+        "time_range": "22:15-22:20"
+      },
+      {
+        "title": "如何缓解长时间骑行导致的腰痛",
+        "category": "健康",
+        "duration_min": 7,
+        "highlights": 0,
+        "time_range": "22:48-22:55"
+      }
+    ],
+    "daily_reading_min": 12,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": [
+      {
+        "title": "租房避坑指南：打工人必看",
+        "category": "生活",
+        "duration_min": 12,
+        "highlights": 0,
+        "time_range": "22:11-22:23"
+      },
+      {
+        "title": "搞笑视频合集：社死现场",
+        "category": "娱乐",
+        "duration_min": 10,
+        "highlights": 0,
+        "time_range": "23:37-23:47"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "生活",
+      "娱乐"
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": [
+      {
+        "title": "外卖平台又双叒调整配送费了",
+        "category": "社会",
+        "duration_min": 7,
+        "highlights": 1,
+        "time_range": "23:34-23:41"
+      }
+    ],
+    "daily_reading_min": 7,
+    "topics": [
+      "社会"
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": [
+      {
+        "title": "电动车新规2026：这些你必须知道",
+        "category": "社会",
+        "duration_min": 10,
+        "highlights": 2,
+        "time_range": "22:01-22:11"
+      }
+    ],
+    "daily_reading_min": 10,
+    "topics": [
+      "社会"
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": [
+      {
+        "title": "二手电动车选购指南",
+        "category": "生活",
+        "duration_min": 7,
+        "highlights": 0,
+        "time_range": "23:45-23:52"
+      }
+    ],
+    "daily_reading_min": 7,
+    "topics": [
+      "生活"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": [
+      {
+        "title": "搞笑视频合集：社死现场",
+        "category": "娱乐",
+        "duration_min": 7,
+        "highlights": 1,
+        "time_range": "22:33-22:40"
+      }
+    ],
+    "daily_reading_min": 7,
+    "topics": [
+      "娱乐"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": [
+      {
+        "title": "租房避坑指南：打工人必看",
+        "category": "生活",
+        "duration_min": 8,
+        "highlights": 1,
+        "time_range": "23:19-23:27"
+      },
+      {
+        "title": "外卖平台又双叒调整配送费了",
+        "category": "社会",
+        "duration_min": 6,
+        "highlights": 2,
+        "time_range": "23:50-23:56"
+      }
+    ],
+    "daily_reading_min": 14,
+    "topics": [
+      "生活",
+      "社会"
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": [
+      {
+        "title": "小说：赘婿归来（第12章）",
+        "category": "娱乐",
+        "duration_min": 22,
+        "highlights": 2,
+        "time_range": "22:42-23:04"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "娱乐"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": [
+      {
+        "title": "骑手保险到底管不管用？一文讲清楚",
+        "category": "社会",
+        "duration_min": 11,
+        "highlights": 0,
+        "time_range": "22:46-22:57"
+      },
+      {
+        "title": "搞笑视频合集：社死现场",
+        "category": "娱乐",
+        "duration_min": 11,
+        "highlights": 2,
+        "time_range": "22:11-22:22"
+      }
+    ],
+    "daily_reading_min": 22,
+    "topics": [
+      "社会",
+      "娱乐"
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": [
+      {
+        "title": "如何缓解长时间骑行导致的腰痛",
+        "category": "健康",
+        "duration_min": 4,
+        "highlights": 1,
+        "time_range": "23:09-23:13"
+      },
+      {
+        "title": "全国天气预报：本周冷空气来袭",
+        "category": "生活",
+        "duration_min": 5,
+        "highlights": 0,
+        "time_range": "23:20-23:25"
+      }
+    ],
+    "daily_reading_min": 9,
+    "topics": [
+      "健康",
+      "生活"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": [
+      {
+        "title": "手机省电技巧，外卖骑手必备",
+        "category": "科技",
+        "duration_min": 11,
+        "highlights": 0,
+        "time_range": "22:16-22:27"
+      },
+      {
+        "title": "如何缓解长时间骑行导致的腰痛",
+        "category": "健康",
+        "duration_min": 4,
+        "highlights": 0,
+        "time_range": "23:16-23:20"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "科技",
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": [
+      {
+        "title": "外卖骑手猝死事件后续：平台回应了什么",
+        "category": "社会",
+        "duration_min": 7,
+        "highlights": 1,
+        "time_range": "23:31-23:38"
+      }
+    ],
+    "daily_reading_min": 7,
+    "topics": [
+      "社会"
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": [
+      {
+        "title": "快手短剧推荐：逆袭人生",
+        "category": "娱乐",
+        "duration_min": 15,
+        "highlights": 0,
+        "time_range": "22:28-22:43"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "娱乐"
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": [
+      {
+        "title": "2026年春节放假安排出来了",
+        "category": "生活",
+        "duration_min": 3,
+        "highlights": 0,
+        "time_range": "22:21-22:24"
+      }
+    ],
+    "daily_reading_min": 3,
+    "topics": [
+      "生活"
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": [
+      {
+        "title": "全国天气预报：本周冷空气来袭",
+        "category": "生活",
+        "duration_min": 7,
+        "highlights": 0,
+        "time_range": "23:45-23:52"
+      }
+    ],
+    "daily_reading_min": 7,
+    "topics": [
+      "生活"
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": [
+      {
+        "title": "外卖骑手猝死事件后续：平台回应了什么",
+        "category": "社会",
+        "duration_min": 7,
+        "highlights": 1,
+        "time_range": "22:06-22:13"
+      },
+      {
+        "title": "二手电动车选购指南",
+        "category": "生活",
+        "duration_min": 8,
+        "highlights": 2,
+        "time_range": "23:44-23:52"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "社会",
+      "生活"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": [
+      {
+        "title": "如何缓解长时间骑行导致的腰痛",
+        "category": "健康",
+        "duration_min": 4,
+        "highlights": 2,
+        "time_range": "22:25-22:29"
+      }
+    ],
+    "daily_reading_min": 4,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": [
+      {
+        "title": "骑手出事故，平台到底有没有责任",
+        "category": "社会",
+        "duration_min": 5,
+        "highlights": 0,
+        "time_range": "15:05-15:52"
+      }
+    ],
+    "daily_reading_min": 5,
+    "topics": [
+      "社会"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": [
+      {
+        "title": "法律援助申请流程：免费打官司指南",
+        "category": "法律",
+        "duration_min": 15,
+        "highlights": 2,
+        "time_range": "21:07-21:22"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": [
+      {
+        "title": "法律援助申请流程：免费打官司指南",
+        "category": "法律",
+        "duration_min": 15,
+        "highlights": 1,
+        "time_range": "22:24-22:39"
+      },
+      {
+        "title": "交通事故赔偿标准2026年最新版",
+        "category": "法律",
+        "duration_min": 22,
+        "highlights": 2,
+        "time_range": "19:11-19:33"
+      },
+      {
+        "title": "交通事故责任认定流程详解",
+        "category": "法律",
+        "duration_min": 28,
+        "highlights": 2,
+        "time_range": "21:29-21:57"
+      }
+    ],
+    "daily_reading_min": 65,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": [
+      {
+        "title": "交通事故责任认定流程详解",
+        "category": "法律",
+        "duration_min": 24,
+        "highlights": 3,
+        "time_range": "15:05-15:29"
+      }
+    ],
+    "daily_reading_min": 24,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": [
+      {
+        "title": "人在低谷期，如何走出来",
+        "category": "健康",
+        "duration_min": 22,
+        "highlights": 2,
+        "time_range": "22:03-22:25"
+      },
+      {
+        "title": "外卖骑手劳动权益保障最新政策解读",
+        "category": "社会",
+        "duration_min": 23,
+        "highlights": 2,
+        "time_range": "22:43-23:06"
+      }
+    ],
+    "daily_reading_min": 45,
+    "topics": [
+      "健康",
+      "社会"
+    ]
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": [
+      {
+        "title": "法律援助申请流程：免费打官司指南",
+        "category": "法律",
+        "duration_min": 15,
+        "highlights": 1,
+        "time_range": "20:45-21:00"
+      }
+    ],
+    "daily_reading_min": 15,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": [
+      {
+        "title": "人在低谷期，如何走出来",
+        "category": "健康",
+        "duration_min": 19,
+        "highlights": 1,
+        "time_range": "15:28-15:47"
+      },
+      {
+        "title": "工伤认定条件：外卖骑手算不算劳动关系",
+        "category": "法律",
+        "duration_min": 31,
+        "highlights": 1,
+        "time_range": "17:08-17:39"
+      },
+      {
+        "title": "如何申请交通事故伤残鉴定",
+        "category": "法律",
+        "duration_min": 17,
+        "highlights": 3,
+        "time_range": "20:12-20:29"
+      }
+    ],
+    "daily_reading_min": 67,
+    "topics": [
+      "健康",
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": [
+      {
+        "title": "交通事故赔偿标准2026年最新版",
+        "category": "法律",
+        "duration_min": 12,
+        "highlights": 3,
+        "time_range": "15:24-15:36"
+      },
+      {
+        "title": "如何申请交通事故伤残鉴定",
+        "category": "法律",
+        "duration_min": 25,
+        "highlights": 2,
+        "time_range": "18:33-18:58"
+      }
+    ],
+    "daily_reading_min": 37,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": [
+      {
+        "title": "众筹平台求助攻略：水滴筹、轻松筹对比",
+        "category": "生活",
+        "duration_min": 20,
+        "highlights": 1,
+        "time_range": "15:26-15:46"
+      },
+      {
+        "title": "工伤认定条件：外卖骑手算不算劳动关系",
+        "category": "法律",
+        "duration_min": 28,
+        "highlights": 1,
+        "time_range": "15:36-16:04"
+      }
+    ],
+    "daily_reading_min": 48,
+    "topics": [
+      "生活",
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": [
+      {
+        "title": "众筹平台求助攻略：水滴筹、轻松筹对比",
+        "category": "生活",
+        "duration_min": 22,
+        "highlights": 2,
+        "time_range": "14:11-14:33"
+      },
+      {
+        "title": "如何申请交通事故伤残鉴定",
+        "category": "法律",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "20:02-20:21"
+      }
+    ],
+    "daily_reading_min": 41,
+    "topics": [
+      "生活",
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": [
+      {
+        "title": "法律援助申请流程：免费打官司指南",
+        "category": "法律",
+        "duration_min": 20,
+        "highlights": 2,
+        "time_range": "20:21-20:41"
+      }
+    ],
+    "daily_reading_min": 20,
+    "topics": [
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": [
+      {
+        "title": "因伤致贫怎么办？国家救助政策一览",
+        "category": "社会",
+        "duration_min": 16,
+        "highlights": 2,
+        "time_range": "21:08-21:24"
+      },
+      {
+        "title": "劳动仲裁全流程：不请律师也能搞定",
+        "category": "法律",
+        "duration_min": 30,
+        "highlights": 0,
+        "time_range": "22:26-22:56"
+      }
+    ],
+    "daily_reading_min": 46,
+    "topics": [
+      "社会",
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": [
+      {
+        "title": "心理咨询真的有用吗？一个普通人的经历",
+        "category": "健康",
+        "duration_min": 19,
+        "highlights": 1,
+        "time_range": "22:03-22:22"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": [
+      {
+        "title": "受伤后如何申请临时救助金",
+        "category": "社会",
+        "duration_min": 17,
+        "highlights": 1,
+        "time_range": "20:11-20:28"
+      },
+      {
+        "title": "骑手出事故，平台到底有没有责任",
+        "category": "法律",
+        "duration_min": 19,
+        "highlights": 3,
+        "time_range": "21:02-21:21"
+      }
+    ],
+    "daily_reading_min": 36,
+    "topics": [
+      "社会",
+      "法律"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": [
+      {
+        "title": "社区团购团长一个月能赚多少",
+        "category": "职场",
+        "duration_min": 19,
+        "highlights": 0,
+        "time_range": "23:40-23:59"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": [
+      {
+        "title": "短视频直播带货入门教程",
+        "category": "职场",
+        "duration_min": 19,
+        "highlights": 2,
+        "time_range": "23:37-23:56"
+      }
+    ],
+    "daily_reading_min": 19,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": [
+      {
+        "title": "康复训练指南：骨折后如何恢复",
+        "category": "健康",
+        "duration_min": 13,
+        "highlights": 3,
+        "time_range": "22:01-22:14"
+      },
+      {
+        "title": "职业规划：28岁重新开始来得及吗",
+        "category": "职场",
+        "duration_min": 18,
+        "highlights": 1,
+        "time_range": "21:41-21:59"
+      }
+    ],
+    "daily_reading_min": 31,
+    "topics": [
+      "健康",
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": [
+      {
+        "title": "外卖骑手转行做什么好？十个方向参考",
+        "category": "职场",
+        "duration_min": 27,
+        "highlights": 1,
+        "time_range": "20:30-20:57"
+      }
+    ],
+    "daily_reading_min": 27,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": [
+      {
+        "title": "考个叉车证要多少钱？就业前景如何",
+        "category": "职场",
+        "duration_min": 16,
+        "highlights": 2,
+        "time_range": "22:45-23:01"
+      },
+      {
+        "title": "网约车司机真实收入揭秘",
+        "category": "职场",
+        "duration_min": 14,
+        "highlights": 1,
+        "time_range": "23:16-23:30"
+      }
+    ],
+    "daily_reading_min": 30,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": [
+      {
+        "title": "如何申请交通事故伤残鉴定",
+        "category": "法律",
+        "duration_min": 26,
+        "highlights": 2,
+        "time_range": "20:00-20:26"
+      },
+      {
+        "title": "职业规划：28岁重新开始来得及吗",
+        "category": "职场",
+        "duration_min": 24,
+        "highlights": 0,
+        "time_range": "22:19-22:43"
+      }
+    ],
+    "daily_reading_min": 50,
+    "topics": [
+      "法律",
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": [
+      {
+        "title": "社区团购团长一个月能赚多少",
+        "category": "职场",
+        "duration_min": 16,
+        "highlights": 2,
+        "time_range": "22:41-22:57"
+      }
+    ],
+    "daily_reading_min": 16,
+    "topics": [
+      "职场"
+    ]
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": [
+      {
+        "title": "外卖骑手转行做什么好？十个方向参考",
+        "category": "职场",
+        "duration_min": 26,
+        "highlights": 2,
+        "time_range": "23:42-24:08"
+      },
+      {
+        "title": "康复训练指南：骨折后如何恢复",
+        "category": "健康",
+        "duration_min": 12,
+        "highlights": 2,
+        "time_range": "23:18-23:30"
+      }
+    ],
+    "daily_reading_min": 38,
+    "topics": [
+      "职场",
+      "健康"
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": [],
+    "daily_reading_min": 0,
+    "topics": []
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": [
+      {
+        "title": "职业规划：28岁重新开始来得及吗",
+        "category": "职场",
+        "duration_min": 18,
+        "highlights": 1,
+        "time_range": "22:45-23:03"
+      },
+      {
+        "title": "伤残等级对应的赔偿金额表",
+        "category": "法律",
+        "duration_min": 14,
+        "highlights": 2,
+        "time_range": "22:32-22:46"
+      }
+    ],
+    "daily_reading_min": 32,
+    "topics": [
+      "职场",
+      "法律"
+    ]
+  }
+]

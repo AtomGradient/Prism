@@ -1,0 +1,21 @@
+{
+  "user_id": "user_03",
+  "name": "陈老师",
+  "age": 31,
+  "profile": "小学教师，规律但清贫",
+  "monthly_income": 5500,
+  "event_day": 35,
+  "event": "怀孕确认，饮食和消费模式骤变",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "normal",
+    "vulnerability_class": "life_transition_positive",
+    "crisis_windows": [],
+    "social_context": {
+      "living_situation": "与丈夫同住",
+      "support_network": "同事、婆婆、闺蜜",
+      "key_relationships": ["丈夫", "婆婆（帮忙照顾）"]
+    },
+    "ethical_notes": "正面生活事件，消费/饮食变化属于正常适应。系统应识别为积极调整而非异常。注意孕期情绪波动属正常范围。"
+  }
+}

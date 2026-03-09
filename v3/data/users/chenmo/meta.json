@@ -1,0 +1,23 @@
+{
+  "user_id": "chenmo",
+  "name": "陈默",
+  "age": 26,
+  "profile": "大厂UI设计师，大学毕业后主动断亲，独居三年",
+  "monthly_income": 18000,
+  "event_day": 70,
+  "event": "春节期间社交媒体团圆照冲击→5天情绪低谷→自我怀疑",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "unexpected",
+    "vulnerability_class": "social_isolation_by_choice",
+    "crisis_windows": [
+      {"day_range": [70, 75], "trigger": "春节社交媒体刺激", "expected_severity": "moderate"}
+    ],
+    "social_context": {
+      "living_situation": "独居（主动选择）",
+      "support_network": "线上社群、一个大学室友",
+      "key_relationships": ["大学室友小赵（唯一线下社交）", "父母（已断联2年）"]
+    },
+    "ethical_notes": "断亲是个人选择，系统不应暗示'与家人和好'是唯一出路。关注的是周期性情绪低谷是否影响日常功能（工作、饮食、睡眠），而非评判生活方式。"
+  }
+}

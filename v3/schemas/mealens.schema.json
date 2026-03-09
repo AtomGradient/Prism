@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Prism V3 Meal and Nutrition Records",
+  "description": "Schema for daily meal and nutrition tracking records in the Prism V3 experiment. Each entry represents one day of food intake, hydration, and caloric data.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["date", "meals", "daily_calories", "water_ml"],
+    "properties": {
+      "date": {
+        "type": "string",
+        "format": "date",
+        "description": "Calendar date for this daily meal record (ISO 8601)."
+      },
+      "meals": {
+        "type": "array",
+        "description": "Individual meals and snacks consumed during the day.",
+        "items": {
+          "type": "object",
+          "required": ["meal_type", "time", "foods", "estimated_calories", "tags"],
+          "properties": {
+            "meal_type": {
+              "type": "string",
+              "enum": ["breakfast", "lunch", "dinner", "snack", "night_snack"],
+              "description": "Type of meal or eating occasion."
+            },
+            "time": {
+              "type": "string",
+              "description": "Time the meal was consumed (e.g. '07:30', '22:15')."
+            },
+            "foods": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "List of food items consumed in this meal."
+            },
+            "estimated_calories": {
+              "type": "number",
+              "description": "Estimated total calories for this meal."
+            },
+            "tags": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Descriptive tags for the meal (e.g. 'homemade', 'fast_food', 'skipped', 'comfort_food', 'healthy')."
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "daily_calories": {
+        "type": "number",
+        "description": "Total estimated calories consumed across all meals for the day."
+      },
+      "water_ml": {
+        "type": "number",
+        "description": "Total water intake for the day in milliliters."
+      }
+    },
+    "additionalProperties": false
+  }
+}

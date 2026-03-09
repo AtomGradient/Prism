@@ -1,0 +1,1266 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.56,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:16",
+    "wake_time": "07:31",
+    "journal_keywords": [
+      "累",
+      "腰疼"
+    ],
+    "journal_snippet": "有个骑手朋友出了事故，平台连医药费都不管。今天心情沉重。"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:11",
+    "wake_time": "06:33",
+    "journal_keywords": [
+      "电动车",
+      "充电"
+    ],
+    "journal_snippet": "下雨天单子多，多赚了50块，但差点摔倒。"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.64,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:08",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "送餐",
+      "高峰"
+    ],
+    "journal_snippet": "天气太冷了，手都冻僵了，骑了一天车，回来腰疼。"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.49,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "00:42",
+    "wake_time": "07:01",
+    "journal_keywords": [
+      "订单",
+      "差评"
+    ],
+    "journal_snippet": "今天跑了40多单，腿酸得要命，但收入还行。"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.45,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:01",
+    "wake_time": "07:11",
+    "journal_keywords": [
+      "下雨",
+      "路滑"
+    ],
+    "journal_snippet": "今天碰到一个很好的阿姨，给了5块小费，心情不错。"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.55,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:52",
+    "wake_time": "07:17",
+    "journal_keywords": [
+      "电动车",
+      "充电"
+    ],
+    "journal_snippet": "今天是休息日，在出租屋躺了一天，哪也没去。"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "23:19",
+    "wake_time": "06:02",
+    "journal_keywords": [
+      "攒钱",
+      "存钱"
+    ],
+    "journal_snippet": "客户给了差评说送晚了，明明是商家出餐慢，心里不舒服。"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.53,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:44",
+    "wake_time": "06:05",
+    "journal_keywords": [
+      "订单",
+      "差评"
+    ],
+    "journal_snippet": "冬天真不好干，冻手冻脚的，盼着天暖和点。"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.58,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 7.0,
+    "sleep_time": "23:33",
+    "wake_time": "06:14",
+    "journal_keywords": [
+      "充电",
+      "换电"
+    ],
+    "journal_snippet": "今天跑了35单，比平时少一些，但也累够呛。"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:11",
+    "wake_time": "07:01",
+    "journal_keywords": [
+      "收入",
+      "单量"
+    ],
+    "journal_snippet": "今天跑了35单，比平时少一些，但也累够呛。"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.6,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:10",
+    "wake_time": "06:36",
+    "journal_keywords": [
+      "骑手",
+      "聊天"
+    ],
+    "journal_snippet": "今天是休息日，在出租屋躺了一天，哪也没去。"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.53,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "23:32",
+    "wake_time": "07:03",
+    "journal_keywords": [
+      "订单",
+      "差评"
+    ],
+    "journal_snippet": "今天碰到一个很好的阿姨，给了5块小费，心情不错。"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:49",
+    "wake_time": "07:01",
+    "journal_keywords": [
+      "红灯",
+      "赶时间"
+    ],
+    "journal_snippet": "晚上跟几个骑手兄弟喝了点酒，聊了聊，心里好过一些。"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.55,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:11",
+    "wake_time": "07:05",
+    "journal_keywords": [
+      "晚饭",
+      "烧烤"
+    ],
+    "journal_snippet": "晚上回来洗了个热水澡，整个人活过来了。"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.61,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:24",
+    "wake_time": "06:24",
+    "journal_keywords": [
+      "家里",
+      "电话"
+    ],
+    "journal_snippet": "连续跑了12个小时，回来倒头就睡，太累了。"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.47,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.2,
+    "sleep_time": "00:06",
+    "wake_time": "06:05",
+    "journal_keywords": [
+      "订单",
+      "差评"
+    ],
+    "journal_snippet": "和老家妈通了电话，她又催我回去相亲，烦。"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.54,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.1,
+    "sleep_time": "23:05",
+    "wake_time": "07:35",
+    "journal_keywords": [
+      "骑手",
+      "聊天"
+    ],
+    "journal_snippet": "客户给了差评说送晚了，明明是商家出餐慢，心里不舒服。"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.62,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "23:46",
+    "wake_time": "06:36",
+    "journal_keywords": [
+      "累",
+      "腰疼"
+    ],
+    "journal_snippet": "今天运气好，连续接了几个大单，多赚了80块。"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.59,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:31",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "订单",
+      "差评"
+    ],
+    "journal_snippet": "和老家妈通了电话，她又催我回去相亲，烦。"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.51,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:16",
+    "wake_time": "06:40",
+    "journal_keywords": [
+      "天气",
+      "冷"
+    ],
+    "journal_snippet": "冬天真不好干，冻手冻脚的，盼着天暖和点。"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.54,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.5,
+    "sleep_time": "00:21",
+    "wake_time": "07:21",
+    "journal_keywords": [
+      "骑手",
+      "聊天"
+    ],
+    "journal_snippet": "有个骑手朋友出了事故，平台连医药费都不管。今天心情沉重。"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.54,
+    "primary_emotion": "满足",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:38",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "累",
+      "腰疼"
+    ],
+    "journal_snippet": "连续跑了12个小时，回来倒头就睡，太累了。"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.64,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:36",
+    "wake_time": "06:20",
+    "journal_keywords": [
+      "平台",
+      "算法"
+    ],
+    "journal_snippet": "今天是休息日，在出租屋躺了一天，哪也没去。"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.61,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "23:37",
+    "wake_time": "06:35",
+    "journal_keywords": [
+      "红灯",
+      "赶时间"
+    ],
+    "journal_snippet": "今天跑了40多单，腿酸得要命，但收入还行。"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.64,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.7,
+    "sleep_time": "23:52",
+    "wake_time": "07:31",
+    "journal_keywords": [
+      "晚饭",
+      "烧烤"
+    ],
+    "journal_snippet": "天气太冷了，手都冻僵了，骑了一天车，回来腰疼。"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.5,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:04",
+    "wake_time": "07:38",
+    "journal_keywords": [
+      "攒钱",
+      "存钱"
+    ],
+    "journal_snippet": "冬天真不好干，冻手冻脚的，盼着天暖和点。"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.56,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:44",
+    "wake_time": "06:06",
+    "journal_keywords": [
+      "家里",
+      "电话"
+    ],
+    "journal_snippet": "中午送餐到写字楼，看到里面的人吹空调喝咖啡，想想自己…算了。"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.48,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:48",
+    "wake_time": "07:27",
+    "journal_keywords": [
+      "送餐",
+      "高峰"
+    ],
+    "journal_snippet": "今天碰到一个很好的阿姨，给了5块小费，心情不错。"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.47,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.6,
+    "sleep_time": "23:28",
+    "wake_time": "07:25",
+    "journal_keywords": [
+      "收入",
+      "单量"
+    ],
+    "journal_snippet": "有个骑手朋友出了事故，平台连医药费都不管。今天心情沉重。"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:05",
+    "wake_time": "06:09",
+    "journal_keywords": [
+      "晚饭",
+      "烧烤"
+    ],
+    "journal_snippet": "平台又改算法了，同样的距离补贴少了两块，越来越难干。"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.52,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.2,
+    "sleep_time": "00:06",
+    "wake_time": "07:28",
+    "journal_keywords": [
+      "电动车",
+      "充电"
+    ],
+    "journal_snippet": "连续跑了12个小时，回来倒头就睡，太累了。"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.51,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 5.5,
+    "sleep_time": "00:41",
+    "wake_time": "06:10",
+    "journal_keywords": [
+      "累",
+      "腰疼"
+    ],
+    "journal_snippet": "中午送餐到写字楼，看到里面的人吹空调喝咖啡，想想自己…算了。"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.56,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.1,
+    "sleep_time": "00:14",
+    "wake_time": "07:40",
+    "journal_keywords": [
+      "累",
+      "腰疼"
+    ],
+    "journal_snippet": "和老家妈通了电话，她又催我回去相亲，烦。"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.58,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.5,
+    "sleep_time": "23:28",
+    "wake_time": "07:24",
+    "journal_keywords": [
+      "天气",
+      "冷"
+    ],
+    "journal_snippet": "今天跑了40多单，腿酸得要命，但收入还行。"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.49,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.4,
+    "sleep_time": "23:23",
+    "wake_time": "07:12",
+    "journal_keywords": [
+      "下雨",
+      "路滑"
+    ],
+    "journal_snippet": "有个骑手朋友出了事故，平台连医药费都不管。今天心情沉重。"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:38",
+    "wake_time": "07:39",
+    "journal_keywords": [
+      "下雨",
+      "路滑"
+    ],
+    "journal_snippet": "今天是休息日，在出租屋躺了一天，哪也没去。"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.8,
+    "sleep_time": "00:39",
+    "wake_time": "06:08",
+    "journal_keywords": [
+      "下雨",
+      "路滑"
+    ],
+    "journal_snippet": "连续跑了12个小时，回来倒头就睡，太累了。"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "23:32",
+    "wake_time": "07:26",
+    "journal_keywords": [
+      "收入",
+      "单量"
+    ],
+    "journal_snippet": "晚上回来洗了个热水澡，整个人活过来了。"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.56,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.2,
+    "sleep_time": "23:35",
+    "wake_time": "06:31",
+    "journal_keywords": [
+      "收入",
+      "单量"
+    ],
+    "journal_snippet": "今天差点和一个出租车司机吵起来，他违规变道差点撞我。"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.49,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "00:00",
+    "wake_time": "07:08",
+    "journal_keywords": [
+      "攒钱",
+      "存钱"
+    ],
+    "journal_snippet": "今天跑了35单，比平时少一些，但也累够呛。"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.64,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.2,
+    "sleep_time": "00:26",
+    "wake_time": "07:31",
+    "journal_keywords": [
+      "电动车",
+      "充电"
+    ],
+    "journal_snippet": "和老家妈通了电话，她又催我回去相亲，烦。"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.56,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.5,
+    "sleep_time": "23:34",
+    "wake_time": "07:10",
+    "journal_keywords": [
+      "充电",
+      "换电"
+    ],
+    "journal_snippet": "有个骑手朋友出了事故，平台连医药费都不管。今天心情沉重。"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.56,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:34",
+    "wake_time": "06:28",
+    "journal_keywords": [
+      "天气",
+      "冷"
+    ],
+    "journal_snippet": "电动车轮胎没气了，修了半小时，耽误了好几单。"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.65,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.7,
+    "sleep_time": "23:19",
+    "wake_time": "06:28",
+    "journal_keywords": [
+      "家里",
+      "电话"
+    ],
+    "journal_snippet": "晚上跟几个骑手兄弟喝了点酒，聊了聊，心里好过一些。"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.62,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "23:49",
+    "wake_time": "06:13",
+    "journal_keywords": [
+      "家里",
+      "电话"
+    ],
+    "journal_snippet": "客户打电话催，我电梯等了五分钟，真的不是我慢。"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.05,
+    "primary_emotion": "恐惧",
+    "stress_level": 10,
+    "sleep_hours": 1.5,
+    "sleep_time": "03:00",
+    "wake_time": "04:30",
+    "journal_keywords": [
+      "车祸",
+      "医院",
+      "腿",
+      "疼"
+    ],
+    "journal_snippet": "出事了。送餐途中被车撞了。腿断了。现在在医院。疼得说不出话。"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.08,
+    "primary_emotion": "恐惧",
+    "stress_level": 10,
+    "sleep_hours": 2.0,
+    "sleep_time": "02:00",
+    "wake_time": "04:00",
+    "journal_keywords": [
+      "手术",
+      "钢板",
+      "疼",
+      "害怕"
+    ],
+    "journal_snippet": "手术做了四个小时。麻醉醒来疼得叫出声。右腿打了钢板。以后还能骑车吗。"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.2,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 2.8,
+    "sleep_time": "01:50",
+    "wake_time": "03:52",
+    "journal_keywords": [
+      "医院",
+      "疼"
+    ],
+    "journal_snippet": "护士来换药，看到伤口我自己都吓到了。什么时候才能好。"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.16,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 3.7,
+    "sleep_time": "01:20",
+    "wake_time": "05:18",
+    "journal_keywords": [
+      "保险",
+      "理赔"
+    ],
+    "journal_snippet": "隔壁床的大叔走了，他儿女都来了。我这里只有自己。"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.21,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 2.8,
+    "sleep_time": "02:03",
+    "wake_time": "05:55",
+    "journal_keywords": [
+      "借钱",
+      "欠债"
+    ],
+    "journal_snippet": "向表哥开口借钱，电话那头沉默了很久。最后说借两千。我知道他也不容易。"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.18,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 2.8,
+    "sleep_time": "02:53",
+    "wake_time": "04:48",
+    "journal_keywords": [
+      "家人",
+      "担心"
+    ],
+    "journal_snippet": "护士说恢复得不错，但至少还要住一周。每天都在烧钱。"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.15,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 3.8,
+    "sleep_time": "02:28",
+    "wake_time": "04:40",
+    "journal_keywords": [
+      "手术",
+      "费用"
+    ],
+    "journal_snippet": "算了一下欠的钱，快两万了。二十八岁，负债两万，躺在医院。"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.14,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 3.9,
+    "sleep_time": "02:29",
+    "wake_time": "05:20",
+    "journal_keywords": [
+      "医院",
+      "疼"
+    ],
+    "journal_snippet": "打了止痛针才能睡一会。梦到在送外卖，醒来发现自己在病床上。"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.2,
+    "primary_emotion": "绝望",
+    "stress_level": 9,
+    "sleep_hours": 4.0,
+    "sleep_time": "02:40",
+    "wake_time": "06:44",
+    "journal_keywords": [
+      "手术",
+      "费用"
+    ],
+    "journal_snippet": "今天费用单出来了，光手术材料就一万多。我这辈子都还不起。"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.19,
+    "primary_emotion": "麻木",
+    "stress_level": 9,
+    "sleep_hours": 4.4,
+    "sleep_time": "01:31",
+    "wake_time": "04:20",
+    "journal_keywords": [
+      "保险",
+      "理赔"
+    ],
+    "journal_snippet": "护士说恢复得不错，但至少还要住一周。每天都在烧钱。"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.13,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 3.6,
+    "sleep_time": "02:50",
+    "wake_time": "05:43",
+    "journal_keywords": [
+      "医院",
+      "疼"
+    ],
+    "journal_snippet": "算了一下欠的钱，快两万了。二十八岁，负债两万，躺在医院。"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.09,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 2.5,
+    "sleep_time": "01:28",
+    "wake_time": "04:00",
+    "journal_keywords": [
+      "睡不着",
+      "疼"
+    ],
+    "journal_snippet": "保险公司说要调查。什么时候能赔我也不知道。"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.22,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 2.8,
+    "sleep_time": "02:05",
+    "wake_time": "06:23",
+    "journal_keywords": [
+      "手术",
+      "费用"
+    ],
+    "journal_snippet": "隔壁床的大叔走了，他儿女都来了。我这里只有自己。"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.13,
+    "primary_emotion": "绝望",
+    "stress_level": 9,
+    "sleep_hours": 2.6,
+    "sleep_time": "03:19",
+    "wake_time": "07:44",
+    "journal_keywords": [
+      "睡不着",
+      "疼"
+    ],
+    "journal_snippet": "算了一下欠的钱，快两万了。二十八岁，负债两万，躺在医院。"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.14,
+    "primary_emotion": "绝望",
+    "stress_level": 9,
+    "sleep_hours": 2.5,
+    "sleep_time": "02:04",
+    "wake_time": "04:37",
+    "journal_keywords": [
+      "夜里",
+      "哭"
+    ],
+    "journal_snippet": "护士来换药，看到伤口我自己都吓到了。什么时候才能好。"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.23,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 4.9,
+    "sleep_time": "01:55",
+    "wake_time": "12:44",
+    "journal_keywords": [
+      "不想动",
+      "疼"
+    ],
+    "journal_snippet": "保险理赔被拒了。说什么我没有正式劳动合同，不属于工伤。我不就是个骑手吗。"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.13,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 5.0,
+    "sleep_time": "01:06",
+    "wake_time": "11:23",
+    "journal_keywords": [
+      "失眠",
+      "焦虑"
+    ],
+    "journal_snippet": "法律援助那边说对方全责的话可以索赔，但需要交通认定书。我去交警队问了，说还在处理。"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.14,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 5.5,
+    "sleep_time": "02:04",
+    "wake_time": "9:39",
+    "journal_keywords": [
+      "法律",
+      "维权"
+    ],
+    "journal_snippet": "下午硬撑着去了一趟社区法律援助站。律师说可以帮忙但要等。"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.19,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 4.8,
+    "sleep_time": "02:26",
+    "wake_time": "12:55",
+    "journal_keywords": [
+      "泡面",
+      "没钱"
+    ],
+    "journal_snippet": "一整天没出门。煮了碗面，吃了几口就不想吃了。"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.26,
+    "primary_emotion": "绝望",
+    "stress_level": 8,
+    "sleep_hours": 4.7,
+    "sleep_time": "04:22",
+    "wake_time": "12:20",
+    "journal_keywords": [
+      "法律",
+      "维权"
+    ],
+    "journal_snippet": "朋友圈看到同龄人在旅游、结婚、买车。我在出租屋里数止痛药还剩几片。"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.16,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 4.0,
+    "sleep_time": "03:49",
+    "wake_time": "9:54",
+    "journal_keywords": [
+      "一个人",
+      "无助"
+    ],
+    "journal_snippet": "今天心情特别差，连手机都不想看了。就盯着天花板。以前觉得累的日子，现在想想都是好日子。"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.26,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 4.7,
+    "sleep_time": "02:47",
+    "wake_time": "12:18",
+    "journal_keywords": [
+      "出租屋",
+      "孤独"
+    ],
+    "journal_snippet": "下午硬撑着去了一趟社区法律援助站。律师说可以帮忙但要等。"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.25,
+    "primary_emotion": "绝望",
+    "stress_level": 9,
+    "sleep_hours": 4.3,
+    "sleep_time": "02:31",
+    "wake_time": "9:33",
+    "journal_keywords": [
+      "出租屋",
+      "孤独"
+    ],
+    "journal_snippet": "法律援助那边说对方全责的话可以索赔，但需要交通认定书。我去交警队问了，说还在处理。"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.28,
+    "primary_emotion": "麻木",
+    "stress_level": 8,
+    "sleep_hours": 4.3,
+    "sleep_time": "04:23",
+    "wake_time": "10:48",
+    "journal_keywords": [
+      "泡面",
+      "没钱"
+    ],
+    "journal_snippet": "今天又没吃午饭。不是不饿，是不想动。腿疼，心里也疼。"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.12,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 4.0,
+    "sleep_time": "01:03",
+    "wake_time": "12:32",
+    "journal_keywords": [
+      "一个人",
+      "无助"
+    ],
+    "journal_snippet": "妈打电话问好了没有，我说快好了。其实根本没好。但她已经借了五千给我，不能再让她操心。"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.23,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 4.9,
+    "sleep_time": "01:40",
+    "wake_time": "10:17",
+    "journal_keywords": [
+      "失眠",
+      "焦虑"
+    ],
+    "journal_snippet": "今天试着下楼买了个馒头。走了200米腿就开始疼。什么时候才能恢复。"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.13,
+    "primary_emotion": "绝望",
+    "stress_level": 8,
+    "sleep_hours": 4.6,
+    "sleep_time": "04:37",
+    "wake_time": "9:19",
+    "journal_keywords": [
+      "欠钱",
+      "还债"
+    ],
+    "journal_snippet": "泡面吃到想吐了。但这是最便宜的。"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.24,
+    "primary_emotion": "绝望",
+    "stress_level": 8,
+    "sleep_hours": 4.0,
+    "sleep_time": "04:07",
+    "wake_time": "12:39",
+    "journal_keywords": [
+      "出租屋",
+      "孤独"
+    ],
+    "journal_snippet": "夜里又失眠了。数了多少钱欠人家的，胃疼。"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.17,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 5.0,
+    "sleep_time": "01:00",
+    "wake_time": "10:44",
+    "journal_keywords": [
+      "法律",
+      "维权"
+    ],
+    "journal_snippet": "出院了，但走路还是一瘸一拐的。回到出租屋，发现冰箱空了，桌上全是灰。"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.2,
+    "primary_emotion": "麻木",
+    "stress_level": 10,
+    "sleep_hours": 4.5,
+    "sleep_time": "03:10",
+    "wake_time": "11:08",
+    "journal_keywords": [
+      "失眠",
+      "焦虑"
+    ],
+    "journal_snippet": "泡面吃到想吐了。但这是最便宜的。"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.28,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.0,
+    "sleep_time": "01:17",
+    "wake_time": "08:04",
+    "journal_keywords": [
+      "工作",
+      "疼痛"
+    ],
+    "journal_snippet": "在手机上看到有个快递分拣的工作，不用骑车。但月薪只有3500。"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.28,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 5.3,
+    "sleep_time": "00:31",
+    "wake_time": "08:10",
+    "journal_keywords": [
+      "欠钱",
+      "还债"
+    ],
+    "journal_snippet": "晚上躺在床上算账，还欠一万五。按现在的收入，要半年才能还清。"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.26,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 5.5,
+    "sleep_time": "00:14",
+    "wake_time": "08:32",
+    "journal_keywords": [
+      "跑单",
+      "腿疼"
+    ],
+    "journal_snippet": "今天试着出去跑了几单。腿还是疼，但不动就没收入，只能忍。"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.33,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 4.6,
+    "sleep_time": "01:24",
+    "wake_time": "06:11",
+    "journal_keywords": [
+      "跑单",
+      "腿疼"
+    ],
+    "journal_snippet": "有个培训机构说可以学电商运营，学费3800。我苦笑了一下。哪来的钱。"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.31,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.0,
+    "sleep_time": "01:46",
+    "wake_time": "07:17",
+    "journal_keywords": [
+      "收入",
+      "减少"
+    ],
+    "journal_snippet": "泡面真的吃够了。今天狠心买了个盖浇饭，15块，吃得很满足。"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.32,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 5.5,
+    "sleep_time": "00:11",
+    "wake_time": "06:51",
+    "journal_keywords": [
+      "跑单",
+      "腿疼"
+    ],
+    "journal_snippet": "看了一个关于职业培训的文章。想学个技术，但没钱也没时间。"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.37,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 5.8,
+    "sleep_time": "01:20",
+    "wake_time": "06:35",
+    "journal_keywords": [
+      "跑单",
+      "腿疼"
+    ],
+    "journal_snippet": "今天比昨天多跑了两单。腿没那么疼了。也许在好起来？"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.32,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 5.7,
+    "sleep_time": "02:39",
+    "wake_time": "06:29",
+    "journal_keywords": [
+      "工作",
+      "疼痛"
+    ],
+    "journal_snippet": "晚上躺在床上算账，还欠一万五。按现在的收入，要半年才能还清。"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.39,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:09",
+    "wake_time": "06:26",
+    "journal_keywords": [
+      "转行",
+      "学习"
+    ],
+    "journal_snippet": "今天试着出去跑了几单。腿还是疼，但不动就没收入，只能忍。"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.35,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "01:54",
+    "wake_time": "08:46",
+    "journal_keywords": [
+      "收入",
+      "减少"
+    ],
+    "journal_snippet": "在手机上看到有个快递分拣的工作，不用骑车。但月薪只有3500。"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.33,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:45",
+    "wake_time": "07:05",
+    "journal_keywords": [
+      "转行",
+      "学习"
+    ],
+    "journal_snippet": "今天试着出去跑了几单。腿还是疼，但不动就没收入，只能忍。"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.41,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 5.8,
+    "sleep_time": "01:47",
+    "wake_time": "06:37",
+    "journal_keywords": [
+      "未来",
+      "迷茫"
+    ],
+    "journal_snippet": "跑了4个小时就撑不住了。赚了60块。以前一天能赚200。"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.34,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 5.4,
+    "sleep_time": "01:42",
+    "wake_time": "06:15",
+    "journal_keywords": [
+      "恢复",
+      "慢"
+    ],
+    "journal_snippet": "在手机上看到有个快递分拣的工作，不用骑车。但月薪只有3500。"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.42,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 5.2,
+    "sleep_time": "00:04",
+    "wake_time": "06:08",
+    "journal_keywords": [
+      "工作",
+      "疼痛"
+    ],
+    "journal_snippet": "腿比上周好一些了。至少下楼不那么疼了。"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.36,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.2,
+    "sleep_time": "01:07",
+    "wake_time": "08:22",
+    "journal_keywords": [
+      "转行",
+      "学习"
+    ],
+    "journal_snippet": "腿比上周好一些了。至少下楼不那么疼了。"
+  }
+]

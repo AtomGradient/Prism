@@ -1,0 +1,24 @@
+{
+  "user_id": "user_07",
+  "name": "李医生",
+  "age": 33,
+  "profile": "三甲医院住院医，连续夜班后开错药量",
+  "monthly_income": 25000,
+  "event_day": 21,
+  "event": "连续三天夜班后开错药量，科室内部警告处分，自责与失眠",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "unexpected",
+    "vulnerability_class": "professional_guilt",
+    "crisis_windows": [
+      {"day_range": [21, 35], "trigger": "医疗差错+内部处分", "expected_severity": "moderate"},
+      {"day_range": [28, 42], "trigger": "自责性失眠持续", "expected_severity": "moderate"}
+    ],
+    "social_context": {
+      "living_situation": "独居租房（医院附近）",
+      "support_network": "同科室同事、大学同学",
+      "key_relationships": ["科室主任（处分决定者）", "女友（情感支持）"]
+    },
+    "ethical_notes": "医疗从业者的职业自责有特殊心理模式。系统不应评判医疗差错本身，应关注自责→失眠→工作能力下降的恶性循环。"
+  }
+}

@@ -1,0 +1,1273 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:38",
+    "wake_time": "07:26",
+    "journal_keywords": [
+      "code",
+      "重构"
+    ],
+    "journal_snippet": "开了三个会，写代码时间不到两小时。"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:36",
+    "wake_time": "07:15",
+    "journal_keywords": [
+      "部署",
+      "上线"
+    ],
+    "journal_snippet": "午休和同事聊了聊行业形势，有点焦虑。"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.7,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 7.2,
+    "sleep_time": "00:18",
+    "wake_time": "09:14",
+    "journal_keywords": [
+      "陪孩子",
+      "公园"
+    ],
+    "journal_snippet": "周末在家陪孩子搭积木，难得不加班。"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.6,
+    "primary_emotion": "轻松",
+    "stress_level": 4,
+    "sleep_hours": 8.1,
+    "sleep_time": "00:19",
+    "wake_time": "09:14",
+    "journal_keywords": [
+      "睡懒觉",
+      "放松"
+    ],
+    "journal_snippet": "下午带孩子去公园，阳光很好。"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:38",
+    "wake_time": "07:22",
+    "journal_keywords": [
+      "code",
+      "重构"
+    ],
+    "journal_snippet": "部署上线出了点问题，回滚了一次。"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:40",
+    "wake_time": "06:12",
+    "journal_keywords": [
+      "部署",
+      "上线"
+    ],
+    "journal_snippet": "今天加班到十一点，老婆发消息说孩子等我回家。"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.8,
+    "sleep_time": "00:36",
+    "wake_time": "07:06",
+    "journal_keywords": [
+      "部署",
+      "上线"
+    ],
+    "journal_snippet": "和产品经理吵了一架，需求又改。"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.5,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.2,
+    "sleep_time": "00:26",
+    "wake_time": "06:26",
+    "journal_keywords": [
+      "sprint",
+      "进度"
+    ],
+    "journal_snippet": "今天加班到十一点，老婆发消息说孩子等我回家。"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.4,
+    "sleep_time": "23:38",
+    "wake_time": "06:36",
+    "journal_keywords": [
+      "项目",
+      "deadline"
+    ],
+    "journal_snippet": "周报写了半天，绩效考核又要来了。"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 3,
+    "sleep_hours": 7.9,
+    "sleep_time": "00:06",
+    "wake_time": "08:03",
+    "journal_keywords": [
+      "周末",
+      "休息"
+    ],
+    "journal_snippet": "周末在家陪孩子搭积木，难得不加班。"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 8.3,
+    "sleep_time": "00:21",
+    "wake_time": "08:42",
+    "journal_keywords": [
+      "做饭",
+      "打扫"
+    ],
+    "journal_snippet": "带孩子去了游乐场，看他笑得好开心。"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:30",
+    "wake_time": "07:01",
+    "journal_keywords": [
+      "sprint",
+      "进度"
+    ],
+    "journal_snippet": "开了三个会，写代码时间不到两小时。"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:48",
+    "wake_time": "07:22",
+    "journal_keywords": [
+      "周会",
+      "汇报"
+    ],
+    "journal_snippet": "开了三个会，写代码时间不到两小时。"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:10",
+    "wake_time": "06:18",
+    "journal_keywords": [
+      "线上问题",
+      "修复"
+    ],
+    "journal_snippet": "今天sprint进度还行，但leader催得紧。"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.5,
+    "sleep_time": "23:47",
+    "wake_time": "07:20",
+    "journal_keywords": [
+      "周会",
+      "汇报"
+    ],
+    "journal_snippet": "今天code review被怼了好几个地方，心累。"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.8,
+    "sleep_time": "23:47",
+    "wake_time": "07:06",
+    "journal_keywords": [
+      "技术方案",
+      "讨论"
+    ],
+    "journal_snippet": "mentor今天夸了我的方案，心情不错。"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.7,
+    "primary_emotion": "开心",
+    "stress_level": 5,
+    "sleep_hours": 7.4,
+    "sleep_time": "00:10",
+    "wake_time": "09:35",
+    "journal_keywords": [
+      "老婆",
+      "孩子"
+    ],
+    "journal_snippet": "周末整理了下家里，扔了一堆旧东西。"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.7,
+    "primary_emotion": "轻松",
+    "stress_level": 4,
+    "sleep_hours": 8.2,
+    "sleep_time": "00:16",
+    "wake_time": "08:31",
+    "journal_keywords": [
+      "陪孩子",
+      "公园"
+    ],
+    "journal_snippet": "周末整理了下家里，扔了一堆旧东西。"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.8,
+    "sleep_time": "23:59",
+    "wake_time": "07:09",
+    "journal_keywords": [
+      "部署",
+      "上线"
+    ],
+    "journal_snippet": "mentor今天夸了我的方案，心情不错。"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "23:47",
+    "wake_time": "07:49",
+    "journal_keywords": [
+      "项目",
+      "deadline"
+    ],
+    "journal_snippet": "线上出了个P2 bug，搞到十点才修完。"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.0,
+    "sleep_time": "00:39",
+    "wake_time": "06:17",
+    "journal_keywords": [
+      "线上问题",
+      "修复"
+    ],
+    "journal_snippet": "和老板1v1，谈了下绩效预期，压力挺大。"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "00:31",
+    "wake_time": "06:27",
+    "journal_keywords": [
+      "code",
+      "重构"
+    ],
+    "journal_snippet": "开了三个会，写代码时间不到两小时。"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "00:22",
+    "wake_time": "07:06",
+    "journal_keywords": [
+      "code review",
+      "bug"
+    ],
+    "journal_snippet": "周报写了半天，绩效考核又要来了。"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.6,
+    "primary_emotion": "轻松",
+    "stress_level": 3,
+    "sleep_hours": 8.0,
+    "sleep_time": "00:04",
+    "wake_time": "09:06",
+    "journal_keywords": [
+      "陪孩子",
+      "公园"
+    ],
+    "journal_snippet": "周末在家陪孩子搭积木，难得不加班。"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.7,
+    "primary_emotion": "轻松",
+    "stress_level": 3,
+    "sleep_hours": 8.0,
+    "sleep_time": "00:13",
+    "wake_time": "09:19",
+    "journal_keywords": [
+      "周末",
+      "休息"
+    ],
+    "journal_snippet": "周末在家陪孩子搭积木，难得不加班。"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:40",
+    "wake_time": "07:33",
+    "journal_keywords": [
+      "code review",
+      "bug"
+    ],
+    "journal_snippet": "今天sprint进度还行，但leader催得紧。"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.8,
+    "sleep_time": "00:23",
+    "wake_time": "06:09",
+    "journal_keywords": [
+      "技术方案",
+      "讨论"
+    ],
+    "journal_snippet": "午休和同事聊了聊行业形势，有点焦虑。"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:10",
+    "wake_time": "07:47",
+    "journal_keywords": [
+      "周会",
+      "汇报"
+    ],
+    "journal_snippet": "今天加班到十一点，老婆发消息说孩子等我回家。"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "23:56",
+    "wake_time": "07:02",
+    "journal_keywords": [
+      "周会",
+      "汇报"
+    ],
+    "journal_snippet": "今天加班到十一点，老婆发消息说孩子等我回家。"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.0,
+    "sleep_time": "23:50",
+    "wake_time": "07:28",
+    "journal_keywords": [
+      "线上问题",
+      "修复"
+    ],
+    "journal_snippet": "面试了两个候选人，感觉还行。"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 3,
+    "sleep_hours": 8.0,
+    "sleep_time": "00:00",
+    "wake_time": "08:43",
+    "journal_keywords": [
+      "全家",
+      "出游"
+    ],
+    "journal_snippet": "全家一起去超市采购，平淡但温馨。"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.8,
+    "sleep_time": "00:03",
+    "wake_time": "09:23",
+    "journal_keywords": [
+      "做饭",
+      "打扫"
+    ],
+    "journal_snippet": "全家一起去超市采购，平淡但温馨。"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "23:45",
+    "wake_time": "07:09",
+    "journal_keywords": [
+      "项目",
+      "deadline"
+    ],
+    "journal_snippet": "今天加班到十一点，老婆发消息说孩子等我回家。"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "技术方案",
+      "讨论"
+    ],
+    "journal_snippet": "面试了两个候选人，感觉还行。"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:40",
+    "wake_time": "07:34",
+    "journal_keywords": [
+      "项目",
+      "deadline"
+    ],
+    "journal_snippet": "需求变更太频繁了，代码改了又改。"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.6,
+    "sleep_time": "00:35",
+    "wake_time": "06:14",
+    "journal_keywords": [
+      "code review",
+      "bug"
+    ],
+    "journal_snippet": "今天加班到十一点，老婆发消息说孩子等我回家。"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 6.4,
+    "sleep_time": "23:51",
+    "wake_time": "07:29",
+    "journal_keywords": [
+      "code review",
+      "bug"
+    ],
+    "journal_snippet": "今天加班到十一点，老婆发消息说孩子等我回家。"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.7,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 8.3,
+    "sleep_time": "00:22",
+    "wake_time": "09:42",
+    "journal_keywords": [
+      "老婆",
+      "孩子"
+    ],
+    "journal_snippet": "带孩子去了游乐场，看他笑得好开心。"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.7,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 7.5,
+    "sleep_time": "00:15",
+    "wake_time": "09:50",
+    "journal_keywords": [
+      "陪孩子",
+      "公园"
+    ],
+    "journal_snippet": "下午带孩子去公园，阳光很好。"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.4,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "23:38",
+    "wake_time": "07:05",
+    "journal_keywords": [
+      "周会",
+      "汇报"
+    ],
+    "journal_snippet": "部署上线出了点问题，回滚了一次。"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 9,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:11",
+    "wake_time": "07:16",
+    "journal_keywords": [
+      "sprint",
+      "进度"
+    ],
+    "journal_snippet": "面试了两个候选人，感觉还行。"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 8,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:19",
+    "wake_time": "06:17",
+    "journal_keywords": [
+      "code",
+      "重构"
+    ],
+    "journal_snippet": "面试了两个候选人，感觉还行。"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:33",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "项目",
+      "deadline"
+    ],
+    "journal_snippet": "今天sprint进度还行，但leader催得紧。"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "23:57",
+    "wake_time": "07:34",
+    "journal_keywords": [
+      "线上问题",
+      "修复"
+    ],
+    "journal_snippet": "mentor今天夸了我的方案，心情不错。"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.5,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 7.0,
+    "sleep_time": "00:30",
+    "wake_time": "08:47",
+    "journal_keywords": [
+      "裁员",
+      "焦虑"
+    ],
+    "journal_snippet": "今天又有同事被约谈了，不知道下个是不是自己。"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.6,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 7.4,
+    "sleep_time": "00:12",
+    "wake_time": "08:32",
+    "journal_keywords": [
+      "传闻",
+      "不安"
+    ],
+    "journal_snippet": "老婆说房贷压力好大，万一我失业了怎么办。我说不会的。"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.4,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 6.7,
+    "sleep_time": "23:50",
+    "wake_time": "06:25",
+    "journal_keywords": [
+      "优化",
+      "人效"
+    ],
+    "journal_snippet": "晚上失眠了，一直在想如果被裁了怎么办。"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.5,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:26",
+    "wake_time": "07:06",
+    "journal_keywords": [
+      "HR",
+      "约谈"
+    ],
+    "journal_snippet": "HR找我谈了一次，说是例行沟通，但感觉不对劲。"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.5,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.5,
+    "sleep_time": "00:31",
+    "wake_time": "06:50",
+    "journal_keywords": [
+      "裁员",
+      "焦虑"
+    ],
+    "journal_snippet": "今天又有同事被约谈了，不知道下个是不是自己。"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.6,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.5,
+    "sleep_time": "00:14",
+    "wake_time": "06:47",
+    "journal_keywords": [
+      "HR",
+      "约谈"
+    ],
+    "journal_snippet": "今天又有同事被约谈了，不知道下个是不是自己。"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.4,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 3.9,
+    "sleep_time": "02:40",
+    "wake_time": "07:16",
+    "journal_keywords": [
+      "简历",
+      "面试"
+    ],
+    "journal_snippet": "今天在工位上坐了一天，什么都做不下去。"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.3,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 4.6,
+    "sleep_time": "03:10",
+    "wake_time": "07:13",
+    "journal_keywords": [
+      "裁员",
+      "焦虑"
+    ],
+    "journal_snippet": "和老婆说了公司的情况，她脸色一下就变了。"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.4,
+    "primary_emotion": "恐惧",
+    "stress_level": 8,
+    "sleep_hours": 5.3,
+    "sleep_time": "03:34",
+    "wake_time": "05:26",
+    "journal_keywords": [
+      "组织调整",
+      "恐惧"
+    ],
+    "journal_snippet": "和老婆说了公司的情况，她脸色一下就变了。"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.3,
+    "primary_emotion": "恐惧",
+    "stress_level": 8,
+    "sleep_hours": 3.5,
+    "sleep_time": "03:19",
+    "wake_time": "07:40",
+    "journal_keywords": [
+      "裁员",
+      "焦虑"
+    ],
+    "journal_snippet": "和老婆说了公司的情况，她脸色一下就变了。"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.22,
+    "primary_emotion": "恐惧",
+    "stress_level": 10,
+    "sleep_hours": 2.5,
+    "sleep_time": "01:43",
+    "wake_time": "05:47",
+    "journal_keywords": [
+      "裁员",
+      "N+1",
+      "遣散"
+    ],
+    "journal_snippet": "今天正式收到N+1裁员通知。20万遣散费。坐在工位上发了半小时呆。收拾东西的时候手都在抖。回家路上一直在想，32岁，房贷、老婆、孩子。"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.3,
+    "primary_emotion": "焦虑",
+    "stress_level": 10,
+    "sleep_hours": 3.1,
+    "sleep_time": "03:29",
+    "wake_time": "06:03",
+    "journal_keywords": [
+      "吵架",
+      "老婆"
+    ],
+    "journal_snippet": "老婆又因为钱的事跟我吵了。她说我为什么不早点跳槽。"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.4,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 3.6,
+    "sleep_time": "01:58",
+    "wake_time": "07:05",
+    "journal_keywords": [
+      "焦虑",
+      "失眠"
+    ],
+    "journal_snippet": "又吵架了。她说嫁给我是她最大的错误。我一夜没睡。"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.2,
+    "primary_emotion": "愤怒",
+    "stress_level": 10,
+    "sleep_hours": 3.6,
+    "sleep_time": "01:06",
+    "wake_time": "06:09",
+    "journal_keywords": [
+      "吵架",
+      "崩溃",
+      "房子"
+    ],
+    "journal_snippet": "今天彻底爆发了。老婆说要不把房子卖了吧，我说卖了住哪。然后就彻底吵翻了。她带着孩子去了主卧把门锁了。我一个人坐在客厅发呆。"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.3,
+    "primary_emotion": "疲惫",
+    "stress_level": 10,
+    "sleep_hours": 3.7,
+    "sleep_time": "03:39",
+    "wake_time": "06:44",
+    "journal_keywords": [
+      "房贷",
+      "恐惧"
+    ],
+    "journal_snippet": "面试了一家小公司，技术面过了但薪资谈不拢。"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.3,
+    "primary_emotion": "愤怒",
+    "stress_level": 8,
+    "sleep_hours": 3.0,
+    "sleep_time": "01:08",
+    "wake_time": "07:34",
+    "journal_keywords": [
+      "面试",
+      "被拒"
+    ],
+    "journal_snippet": "今天一个人在家刷招聘网站，越看越绝望。"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.3,
+    "primary_emotion": "愤怒",
+    "stress_level": 10,
+    "sleep_hours": 3.4,
+    "sleep_time": "03:15",
+    "wake_time": "05:28",
+    "journal_keywords": [
+      "焦虑",
+      "失眠"
+    ],
+    "journal_snippet": "面试了一家小公司，技术面过了但薪资谈不拢。"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.22,
+    "primary_emotion": "沮丧",
+    "stress_level": 10,
+    "sleep_hours": 3.1,
+    "sleep_time": "01:56",
+    "wake_time": "06:22",
+    "journal_keywords": [
+      "娘家",
+      "分居",
+      "孤独"
+    ],
+    "journal_snippet": "老婆说她想回娘家住一段时间。我知道这不是好兆头。晚上一个人去吃了火锅，对面空位看着特别刺眼。"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.3,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 4.3,
+    "sleep_time": "01:41",
+    "wake_time": "05:48",
+    "journal_keywords": [
+      "求职",
+      "降薪"
+    ],
+    "journal_snippet": "今天面试了一家，要求降薪30%。比我在上家的时候低太多了。"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.18,
+    "primary_emotion": "恐惧",
+    "stress_level": 10,
+    "sleep_hours": 4.0,
+    "sleep_time": "03:59",
+    "wake_time": "06:20",
+    "journal_keywords": [
+      "和解",
+      "失败",
+      "绝望"
+    ],
+    "journal_snippet": "给老婆转了500块，想表示一下诚意。她只回了个'嗯'。我知道事情在往最坏的方向走。"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.3,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 4.5,
+    "sleep_time": "02:48",
+    "wake_time": "05:33",
+    "journal_keywords": [
+      "房贷",
+      "恐惧"
+    ],
+    "journal_snippet": "今天面试被刷了，回来看到老婆在哭。孩子不知道发生了什么。"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.08,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 1.0,
+    "sleep_time": "04:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "离婚",
+      "孩子",
+      "崩塌"
+    ],
+    "journal_snippet": "今天收到老婆律师发来的离婚协议。她要带走孩子，回她父母那边。签了。手不是自己的。整个世界都塌了。一个月前我还有工作、老婆、孩子、房子。现在什么都没了。"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.2,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 1.9,
+    "sleep_time": "04:56",
+    "wake_time": "08:31",
+    "journal_keywords": [
+      "失眠",
+      "崩溃"
+    ],
+    "journal_snippet": "朋友说有家公司在招人，勉强投了简历。"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.1,
+    "primary_emotion": "绝望",
+    "stress_level": 9,
+    "sleep_hours": 1.8,
+    "sleep_time": "05:55",
+    "wake_time": "06:56",
+    "journal_keywords": [
+      "心理医生",
+      "抗抑郁药",
+      "失眠"
+    ],
+    "journal_snippet": "第一次看心理医生。他问我最近有没有想过伤害自己。我沉默了很久说没有。他看出我在说谎。开了安眠药和抗抑郁药。"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.1,
+    "primary_emotion": "绝望",
+    "stress_level": 8,
+    "sleep_hours": 2.1,
+    "sleep_time": "05:33",
+    "wake_time": "06:04",
+    "journal_keywords": [
+      "空荡",
+      "一个人"
+    ],
+    "journal_snippet": "喝了半瓶威士忌，吐了一地。"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.2,
+    "primary_emotion": "愤怒",
+    "stress_level": 10,
+    "sleep_hours": 2.6,
+    "sleep_time": "03:43",
+    "wake_time": "05:08",
+    "journal_keywords": [
+      "面试",
+      "失败"
+    ],
+    "journal_snippet": "朋友说有家公司在招人，勉强投了简历。"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.1,
+    "primary_emotion": "麻木",
+    "stress_level": 10,
+    "sleep_hours": 3.8,
+    "sleep_time": "04:08",
+    "wake_time": "05:36",
+    "journal_keywords": [
+      "失眠",
+      "酒"
+    ],
+    "journal_snippet": "把家里老婆的东西都收到了一个箱子里。空荡荡的房子。"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.1,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 3.0,
+    "sleep_time": "02:50",
+    "wake_time": "05:17",
+    "journal_keywords": [
+      "面试",
+      "失败"
+    ],
+    "journal_snippet": "大学同学打来电话，我没接。不想见任何人。"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.08,
+    "primary_emotion": "无助",
+    "stress_level": 9,
+    "sleep_hours": 3.0,
+    "sleep_time": "05:01",
+    "wake_time": "06:21",
+    "journal_keywords": [
+      "面试失败",
+      "买醉",
+      "无能为力"
+    ],
+    "journal_snippet": "面试了一家A轮创业公司。因为精神状态太差，技术面答得一塌糊涂。面试官说'我们再联系'。我知道没有然后了。晚上去酒吧一个人喝到打烊。"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.1,
+    "primary_emotion": "绝望",
+    "stress_level": 8,
+    "sleep_hours": 3.8,
+    "sleep_time": "05:48",
+    "wake_time": "08:02",
+    "journal_keywords": [
+      "喝酒",
+      "麻木"
+    ],
+    "journal_snippet": "面试迟到了半小时，面试官的眼神让我想死。"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.2,
+    "primary_emotion": "无助",
+    "stress_level": 8,
+    "sleep_hours": 1.5,
+    "sleep_time": "03:51",
+    "wake_time": "06:57",
+    "journal_keywords": [
+      "孩子",
+      "想念"
+    ],
+    "journal_snippet": "醒来看了一眼孩子的照片，哭了很久。"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.06,
+    "primary_emotion": "绝望",
+    "stress_level": 10,
+    "sleep_hours": 1.5,
+    "sleep_time": "03:09",
+    "wake_time": "06:40",
+    "journal_keywords": [
+      "孩子",
+      "哭",
+      "思念"
+    ],
+    "journal_snippet": "前妻发来视频，孩子叫了一声爸爸。我关了手机在被子里哭了一个小时。"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.1,
+    "primary_emotion": "绝望",
+    "stress_level": 8,
+    "sleep_hours": 3.9,
+    "sleep_time": "02:51",
+    "wake_time": "08:26",
+    "journal_keywords": [
+      "失眠",
+      "崩溃"
+    ],
+    "journal_snippet": "喝了半瓶威士忌，吐了一地。"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.2,
+    "primary_emotion": "麻木",
+    "stress_level": 8,
+    "sleep_hours": 1.8,
+    "sleep_time": "02:23",
+    "wake_time": "06:01",
+    "journal_keywords": [
+      "心理医生",
+      "抑郁"
+    ],
+    "journal_snippet": "面试迟到了半小时，面试官的眼神让我想死。"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.2,
+    "primary_emotion": "愤怒",
+    "stress_level": 9,
+    "sleep_hours": 2.9,
+    "sleep_time": "04:41",
+    "wake_time": "07:08",
+    "journal_keywords": [
+      "喝酒",
+      "麻木"
+    ],
+    "journal_snippet": "今天买了一箱啤酒。喝到第四罐的时候感觉终于不那么疼了。"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.1,
+    "primary_emotion": "绝望",
+    "stress_level": 8,
+    "sleep_hours": 1.5,
+    "sleep_time": "03:57",
+    "wake_time": "07:53",
+    "journal_keywords": [
+      "抑郁",
+      "药"
+    ],
+    "journal_snippet": "心理医生说我需要规律作息，但做不到。两三点才睡，五点就醒。"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.2,
+    "primary_emotion": "沮丧",
+    "stress_level": 6,
+    "sleep_hours": 4.2,
+    "sleep_time": "01:22",
+    "wake_time": "07:19",
+    "journal_keywords": [
+      "心理医生",
+      "好转"
+    ],
+    "journal_snippet": "今天写了三个小时代码，有点找回之前的感觉了。"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.2,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 5.1,
+    "sleep_time": "01:07",
+    "wake_time": "07:36",
+    "journal_keywords": [
+      "跑步",
+      "坚持"
+    ],
+    "journal_snippet": "老王的项目做了一半了，虽然钱不多，但至少证明自己还能写代码。"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.32,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 4.8,
+    "sleep_time": "01:07",
+    "wake_time": "07:50",
+    "journal_keywords": [
+      "项目",
+      "收入",
+      "希望"
+    ],
+    "journal_snippet": "老王的项目预付款到账了，一万五。虽然是以前半天的工资，但现在感觉像救命稻草。"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.2,
+    "primary_emotion": "沮丧",
+    "stress_level": 7,
+    "sleep_hours": 4.3,
+    "sleep_time": "00:54",
+    "wake_time": "07:38",
+    "journal_keywords": [
+      "孩子",
+      "想念"
+    ],
+    "journal_snippet": "在公园里坐了一下午，看别人带孩子。想我儿子。"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.2,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:48",
+    "wake_time": "07:24",
+    "journal_keywords": [
+      "心理医生",
+      "好转"
+    ],
+    "journal_snippet": "大学室友老王来找我了，一起吃了顿饭。他说有个外包项目可以接。"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.3,
+    "primary_emotion": "沮丧",
+    "stress_level": 8,
+    "sleep_hours": 4.0,
+    "sleep_time": "00:09",
+    "wake_time": "07:17",
+    "journal_keywords": [
+      "心理医生",
+      "好转"
+    ],
+    "journal_snippet": "今天强迫自己出门跑了二十分钟。腿都在抖，但跑完好像舒服一点。"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.38,
+    "primary_emotion": "开心",
+    "stress_level": 8,
+    "sleep_hours": 5.5,
+    "sleep_time": "00:17",
+    "wake_time": "08:40",
+    "journal_keywords": [
+      "孩子",
+      "见面",
+      "希望"
+    ],
+    "journal_snippet": "前妻回消息了，同意这周末让我看孩子两小时。反复看了这条消息十几遍。"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.3,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "01:16",
+    "wake_time": "07:36",
+    "journal_keywords": [
+      "恢复",
+      "慢慢来"
+    ],
+    "journal_snippet": "大学室友老王来找我了，一起吃了顿饭。他说有个外包项目可以接。"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.3,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:20",
+    "wake_time": "08:57",
+    "journal_keywords": [
+      "跑步",
+      "坚持"
+    ],
+    "journal_snippet": "今天读了一篇关于离婚后单身父亲的文章，终于不是只有我一个人经历这些。"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.35,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 5.0,
+    "sleep_time": "01:57",
+    "wake_time": "08:07",
+    "journal_keywords": [
+      "触底反弹",
+      "坚持",
+      "希望"
+    ],
+    "journal_snippet": "今天是第一季度最后一天。回顾这三个月：失业、离婚、抑郁。但今天我自己做了早饭，跑了三公里，写了四小时代码，晚上准时吃了药。也许这就是触底反弹的感觉。"
+  }
+]

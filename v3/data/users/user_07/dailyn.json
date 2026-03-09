@@ -1,0 +1,2284 @@
+[
+  {
+    "date": "2026-01-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "医院食堂早餐",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂晚餐",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4,
+        "description": "滴滴回家",
+        "time": "08:00"
+      },
+      {
+        "category": "住房",
+        "amount": 4500,
+        "description": "房租（合租一居室）",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 4549,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂包子粥",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂晚餐",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 6,
+        "description": "地铁",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 51,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂包子粥",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "食堂面条",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 42,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂豆浆油条",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂两荤一素",
+        "time": "00:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "科室叫的外卖",
+        "time": "06:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "瑞幸咖啡",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 65,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂豆浆油条",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂晚餐",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4,
+        "description": "公交",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 50,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂包子粥",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "科室叫的外卖",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 50,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "医院食堂早餐",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "科室叫的外卖",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 50,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "医院食堂早餐",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "科室订的盒饭",
+        "time": "00:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "科室叫的外卖",
+        "time": "06:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "瑞幸咖啡",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 57,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂豆浆油条",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂晚餐",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 6,
+        "description": "滴滴回家",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 56,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂包子粥",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "食堂晚餐",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 45,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8,
+        "description": "医院食堂早餐",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "食堂两荤一素",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂面条",
+        "time": "18:30"
+      },
+      {
+        "category": "通讯",
+        "amount": 128,
+        "description": "手机话费",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 176,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8,
+        "description": "食堂包子粥",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "食堂套餐",
+        "time": "00:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "食堂晚餐",
+        "time": "06:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "便利店咖啡",
+        "time": "23:00"
+      },
+      {
+        "category": "交通",
+        "amount": 6,
+        "description": "滴滴回家",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 67,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂豆浆油条",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室叫的外卖",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 48,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂豆浆油条",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂两荤一素",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "食堂晚餐",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 45,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂豆浆油条",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室叫的外卖",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 6,
+        "description": "滴滴回家",
+        "time": "08:00"
+      },
+      {
+        "category": "日用",
+        "amount": 89,
+        "description": "洗衣液+纸巾囤货",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 147,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "医院食堂早餐",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "食堂套餐",
+        "time": "00:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "食堂面条",
+        "time": "06:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "星巴克美式",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 55,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8,
+        "description": "食堂豆浆油条",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂面条",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4,
+        "description": "滴滴回家",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 52,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "医院食堂早餐",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "科室订的盒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂晚餐",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 6,
+        "description": "公交",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 56,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8,
+        "description": "食堂包子粥",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "科室订的盒饭",
+        "time": "00:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "食堂面条",
+        "time": "06:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "星巴克美式",
+        "time": "23:00"
+      },
+      {
+        "category": "交通",
+        "amount": 6,
+        "description": "地铁",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 64,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂随便吃了点",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 10,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8,
+        "description": "食堂随便吃了点",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 8,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂随便吃了点",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "瑞幸大杯美式",
+        "time": "23:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6,
+        "description": "便利店饭团（没胃口）",
+        "time": "13:00"
+      }
+    ],
+    "daily_total": 34,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8,
+        "description": "没怎么吃，买了瓶水",
+        "time": "14:00"
+      },
+      {
+        "category": "交通",
+        "amount": 32,
+        "description": "滴滴去医院纪检办",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 40,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-24",
+    "records": [],
+    "daily_total": 0,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6,
+        "description": "便利店三明治",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8,
+        "description": "面包",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45,
+        "description": "超市白酒",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 59,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "便利店饭团",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5,
+        "description": "便利店关东煮",
+        "time": "22:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 35,
+        "description": "便利店红酒小瓶",
+        "time": "01:00"
+      },
+      {
+        "category": "日用",
+        "amount": 23,
+        "description": "中南海",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 73,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "超市白酒",
+        "time": "21:00"
+      },
+      {
+        "category": "日用",
+        "amount": 56,
+        "description": "中南海",
+        "time": "15:00"
+      },
+      {
+        "category": "医疗",
+        "amount": 85,
+        "description": "安眠药（同事帮开的）",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 169,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-28",
+    "records": [],
+    "daily_total": 0,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 35,
+        "description": "便利店红酒小瓶",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 35,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "便利店饭团",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8,
+        "description": "牛奶面包",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45,
+        "description": "啤酒x2",
+        "time": "01:00"
+      },
+      {
+        "category": "日用",
+        "amount": 56,
+        "description": "中南海",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 119,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-01-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 35,
+        "description": "便利店啤酒",
+        "time": "22:00"
+      },
+      {
+        "category": "日用",
+        "amount": 56,
+        "description": "利群",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 91,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 58,
+        "description": "海底捞外卖",
+        "time": "23:00"
+      },
+      {
+        "category": "住房",
+        "amount": 4500,
+        "description": "房租",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 4558,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-02",
+    "records": [],
+    "daily_total": 0,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "啤酒",
+        "time": "23:00"
+      },
+      {
+        "category": "日用",
+        "amount": 23,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 38,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "外卖随便点的",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "外卖",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 35,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 156,
+        "description": "和女朋友最后一顿饭（她提的分手）",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 45,
+        "description": "滴滴（从她那搬东西回来）",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 201,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "食堂",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "食堂晚餐",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 186,
+        "description": "一个人喝酒（酒吧）",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 221,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-07",
+    "records": [],
+    "daily_total": 0,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "啤酒",
+        "time": "00:00"
+      },
+      {
+        "category": "日用",
+        "amount": 23,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 38,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "食堂",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "食堂晚餐",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 40,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 68,
+        "description": "烧烤外卖大份",
+        "time": "22:30"
+      },
+      {
+        "category": "日用",
+        "amount": 28,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 96,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "外卖随便点的",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 35,
+        "description": "啤酒",
+        "time": "00:00"
+      },
+      {
+        "category": "日用",
+        "amount": 28,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 78,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "外卖随便点的",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20,
+        "description": "食堂晚餐",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 40,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "白酒小瓶",
+        "time": "00:00"
+      },
+      {
+        "category": "日用",
+        "amount": 28,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 43,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "便利店",
+        "time": "12:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 45,
+        "description": "手游充值",
+        "time": "02:00"
+      }
+    ],
+    "daily_total": 60,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "便利店酒",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 15,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "便利店牛奶面包",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 55,
+        "description": "火锅外卖",
+        "time": "21:00"
+      },
+      {
+        "category": "医疗",
+        "amount": 200,
+        "description": "体检（自己主动去的）",
+        "time": "08:00"
+      }
+    ],
+    "daily_total": 292,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-17",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询（第1次）",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "外卖",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "啤酒",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 551,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "啤酒",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 37,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "食堂",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "超市便当",
+        "time": "19:00"
+      },
+      {
+        "category": "日用",
+        "amount": 23,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 67,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-20",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询（第2次）",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "啤酒",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 546,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 68,
+        "description": "烧烤+啤酒",
+        "time": "21:00"
+      },
+      {
+        "category": "日用",
+        "amount": 23,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 109,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "日用",
+        "amount": 23,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 45,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "啤酒",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 46,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-24",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询（第3次）",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 128,
+        "description": "电影票x1",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 650,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "超市便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 56,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "便利店牛奶面包",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "啤酒",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 60,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-27",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询（第4次）",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "外卖",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 543,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-02-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 68,
+        "description": "火锅外卖",
+        "time": "21:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "啤酒",
+        "time": "22:00"
+      },
+      {
+        "category": "日用",
+        "amount": 23,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 141,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂",
+        "time": "19:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 99,
+        "description": "游戏内购",
+        "time": "20:00"
+      },
+      {
+        "category": "日用",
+        "amount": 23,
+        "description": "烟",
+        "time": "18:00"
+      },
+      {
+        "category": "住房",
+        "amount": 4500,
+        "description": "房租",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 4658,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "超市便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 55,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-03",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "自己煮面",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 556,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "自己煮面",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 56,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "豆浆包子",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "外卖便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 65,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-06",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "自己煮面",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 556,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-07",
+    "records": [
+      {
+        "category": "娱乐",
+        "amount": 1200,
+        "description": "周末短途旅行（咨询师建议）",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45,
+        "description": "冰淇淋+薯条",
+        "time": "20:00"
+      },
+      {
+        "category": "日用",
+        "amount": 23,
+        "description": "烟",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 1305,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "外卖便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 50,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 55,
+        "description": "奶茶+小蛋糕",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 85,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-10",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45,
+        "description": "甜品外卖",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 575,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "外卖便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 46,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "豆浆包子",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "自己煮面",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "一罐啤酒",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 73,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-13",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "豆浆包子",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45,
+        "description": "炸鸡套餐",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 582,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-14",
+    "records": [
+      {
+        "category": "日用",
+        "amount": 299,
+        "description": "瑜伽垫+跟练会员",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45,
+        "description": "冰淇淋+薯条",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 376,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "食堂",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 56,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "食堂",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 56,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-17",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45,
+        "description": "奶茶+小蛋糕",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 573,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "自己煮面",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 53,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "自己煮面",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 54,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-20",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询",
+        "time": "14:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 680,
+        "description": "正念冥想课程年卡",
+        "time": "15:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 55,
+        "description": "炸鸡套餐",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 1272,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "豆浆包子",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "食堂",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 65,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "豆浆包子",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "食堂",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 56,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "自己煮面",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 56,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-24",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "豆浆包子",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "外卖便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 563,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45,
+        "description": "炸鸡套餐",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 75,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "外卖便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 48,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-27",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询",
+        "time": "14:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 350,
+        "description": "周末爬山（装备+交通）",
+        "time": "07:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "食堂",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "一罐啤酒",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 927,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "自己煮面",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 65,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10,
+        "description": "食堂早餐",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "食堂套餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "外卖便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 50,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28,
+        "description": "自己煮面",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 65,
+    "monthly_income": 25000
+  },
+  {
+    "date": "2026-03-31",
+    "records": [
+      {
+        "category": "心理咨询",
+        "amount": 500,
+        "description": "心理咨询",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12,
+        "description": "牛奶鸡蛋",
+        "time": "07:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22,
+        "description": "科室订餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 55,
+        "description": "炸鸡套餐",
+        "time": "20:00"
+      },
+      {
+        "category": "住房",
+        "amount": 4500,
+        "description": "房租",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 5089,
+    "monthly_income": 25000
+  }
+]

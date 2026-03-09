@@ -1,0 +1,2315 @@
+[
+  {
+    "date": "2026-01-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "煎饼",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22.6,
+        "description": "外卖盖浇饭",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.2,
+        "description": "外卖螺蛳粉",
+        "time": "19:00"
+      },
+      {
+        "category": "住房",
+        "amount": 800.0,
+        "description": "宿舍费",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 852.8,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18.9,
+        "description": "外卖麻辣烫",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.1,
+        "description": "外卖螺蛳粉",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.2,
+        "description": "奶茶",
+        "time": "23:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.4,
+        "description": "便利店美式",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 61.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.6,
+        "description": "煎饼",
+        "time": "09:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.1,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.0,
+        "description": "便利店便当",
+        "time": "19:00"
+      },
+      {
+        "category": "社交",
+        "amount": 10.5,
+        "description": "师兄请客回请",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 39.2,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.4,
+        "description": "外卖黄焖鸡",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.1,
+        "description": "外卖烤肉饭",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.9,
+        "description": "瑞幸咖啡",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 60.4,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 21.9,
+        "description": "外卖黄焖鸡",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.0,
+        "description": "便利店便当",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 34.9,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.7,
+        "description": "煎饼",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.8,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 27.9,
+        "description": "外卖水煮鱼",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.3,
+        "description": "图书馆自助咖啡",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 62.7,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.1,
+        "description": "包子豆浆",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.5,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.6,
+        "description": "便利店便当",
+        "time": "18:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.7,
+        "description": "便利店美式",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 48.9,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.5,
+        "description": "包子豆浆",
+        "time": "09:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.1,
+        "description": "外卖黄焖鸡",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.2,
+        "description": "外卖烤肉饭",
+        "time": "21:00"
+      }
+    ],
+    "daily_total": 54.8,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.7,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22.0,
+        "description": "外卖水煮鱼",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.6,
+        "description": "便利店零食",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 40.3,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.8,
+        "description": "煎饼",
+        "time": "09:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.1,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.0,
+        "description": "外卖水煮鱼",
+        "time": "19:00"
+      },
+      {
+        "category": "通讯",
+        "amount": 29.0,
+        "description": "手机话费",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 69.9,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.6,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.4,
+        "description": "外卖螺蛳粉",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.2,
+        "description": "奶茶",
+        "time": "23:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.3,
+        "description": "瑞幸咖啡",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 49.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.9,
+        "description": "外卖黄焖鸡",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.1,
+        "description": "火锅外卖",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.3,
+        "description": "泡面",
+        "time": "23:30"
+      }
+    ],
+    "daily_total": 43.3,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "食堂早餐",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.6,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.4,
+        "description": "泡面+火腿肠",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 30.4,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 21.6,
+        "description": "外卖黄焖鸡",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.9,
+        "description": "食堂晚饭",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.9,
+        "description": "瑞幸咖啡",
+        "time": "14:00"
+      },
+      {
+        "category": "购物",
+        "amount": 33.7,
+        "description": "打印论文",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 81.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22.8,
+        "description": "外卖麻辣烫",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.1,
+        "description": "外卖烤肉饭",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.2,
+        "description": "咖啡",
+        "time": "23:30"
+      }
+    ],
+    "daily_total": 57.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.6,
+        "description": "煎饼",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.3,
+        "description": "美团外卖",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22.2,
+        "description": "外卖水煮鱼",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.4,
+        "description": "便利店美式",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 54.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.8,
+        "description": "包子豆浆",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 21.8,
+        "description": "外卖黄焖鸡",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.1,
+        "description": "便利店便当",
+        "time": "18:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.9,
+        "description": "瑞幸咖啡",
+        "time": "14:00"
+      },
+      {
+        "category": "社交",
+        "amount": 17.9,
+        "description": "师兄请客回请",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 79.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.1,
+        "description": "外卖盖浇饭",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.5,
+        "description": "火锅外卖",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.6,
+        "description": "便利店零食",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 41.2,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.1,
+        "description": "煎饼",
+        "time": "08:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.6,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.6,
+        "description": "外卖水煮鱼",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 44.3,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 20.7,
+        "description": "外卖黄焖鸡",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.4,
+        "description": "外卖烤肉饭",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.8,
+        "description": "图书馆自助咖啡",
+        "time": "09:00"
+      },
+      {
+        "category": "购物",
+        "amount": 45.7,
+        "description": "耳机",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 111.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.9,
+        "description": "便利店饭团",
+        "time": "09:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.2,
+        "description": "外卖黄焖鸡",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.6,
+        "description": "便利店便当",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.5,
+        "description": "泡面",
+        "time": "23:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.0,
+        "description": "瑞幸咖啡",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 71.2,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.3,
+        "description": "包子豆浆",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.3,
+        "description": "外卖炒饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.5,
+        "description": "泡面+火腿肠",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.9,
+        "description": "便利店美式",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 44.0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.1,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.4,
+        "description": "外卖水煮鱼",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.4,
+        "description": "咖啡",
+        "time": "23:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.6,
+        "description": "图书馆自助咖啡",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 54.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.3,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.2,
+        "description": "食堂晚饭",
+        "time": "18:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.8,
+        "description": "瑞幸咖啡",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 36.3,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.6,
+        "description": "食堂早餐",
+        "time": "08:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.8,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.7,
+        "description": "火锅外卖",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.2,
+        "description": "便利店美式",
+        "time": "09:00"
+      },
+      {
+        "category": "购物",
+        "amount": 21.3,
+        "description": "U盘",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 74.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.5,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.7,
+        "description": "便利店便当",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.8,
+        "description": "奶茶",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 30.0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.1,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.7,
+        "description": "食堂晚饭",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.9,
+        "description": "图书馆自助咖啡",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 38.7,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.8,
+        "description": "外卖麻辣烫",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.6,
+        "description": "外卖螺蛳粉",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.0,
+        "description": "咖啡",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 57.4,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 23.4,
+        "description": "外卖盖浇饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.7,
+        "description": "食堂晚饭",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.7,
+        "description": "便利店美式",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 44.8,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.6,
+        "description": "包子豆浆",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.3,
+        "description": "外卖盖浇饭",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.2,
+        "description": "外卖螺蛳粉",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.5,
+        "description": "瑞幸咖啡",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 60.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-01-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18.6,
+        "description": "美团外卖",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 23.2,
+        "description": "外卖水煮鱼",
+        "time": "19:00"
+      },
+      {
+        "category": "社交",
+        "amount": 11.8,
+        "description": "师兄请客回请",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 53.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "包子豆浆",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.1,
+        "description": "外卖盖浇饭",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 27.9,
+        "description": "外卖水煮鱼",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.7,
+        "description": "瑞幸咖啡",
+        "time": "14:00"
+      },
+      {
+        "category": "住房",
+        "amount": 800.0,
+        "description": "宿舍费",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 866.7,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 21.2,
+        "description": "外卖麻辣烫",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.4,
+        "description": "外卖螺蛳粉",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 47.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.3,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.3,
+        "description": "外卖烤肉饭",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.5,
+        "description": "便利店零食",
+        "time": "23:30"
+      }
+    ],
+    "daily_total": 42.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.4,
+        "description": "学校食堂",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.9,
+        "description": "火锅外卖",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.3,
+        "description": "图书馆自助咖啡",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 57.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.3,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.9,
+        "description": "泡面+火腿肠",
+        "time": "18:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.8,
+        "description": "奶茶",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 37.0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.7,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.6,
+        "description": "外卖水煮鱼",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 38.3,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.7,
+        "description": "食堂早餐",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.3,
+        "description": "外卖炒饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.4,
+        "description": "泡面+火腿肠",
+        "time": "18:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.8,
+        "description": "瑞幸咖啡",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 52.2,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.8,
+        "description": "煎饼",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.2,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 27.9,
+        "description": "外卖炸鸡",
+        "time": "21:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.2,
+        "description": "泡面",
+        "time": "23:00"
+      },
+      {
+        "category": "购物",
+        "amount": 49.1,
+        "description": "打印论文",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 103.2,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.6,
+        "description": "食堂早餐",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.1,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.5,
+        "description": "外卖水煮鱼",
+        "time": "21:00"
+      }
+    ],
+    "daily_total": 37.2,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.2,
+        "description": "外卖盖浇饭",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.8,
+        "description": "食堂晚饭",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.1,
+        "description": "图书馆自助咖啡",
+        "time": "09:00"
+      },
+      {
+        "category": "通讯",
+        "amount": 29.0,
+        "description": "手机话费",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 80.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.0,
+        "description": "外卖麻辣烫",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.6,
+        "description": "便利店便当",
+        "time": "18:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.6,
+        "description": "便利店零食",
+        "time": "23:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.6,
+        "description": "瑞幸咖啡",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 51.8,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "食堂早餐",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.1,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.3,
+        "description": "泡面+火腿肠",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 21.8,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.1,
+        "description": "便利店饭团",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.2,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.5,
+        "description": "外卖水煮鱼",
+        "time": "21:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 7.4,
+        "description": "泡面",
+        "time": "22:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.8,
+        "description": "便利店美式",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 62.0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 20.1,
+        "description": "外卖麻辣烫",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.5,
+        "description": "便利店便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 32.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "便利店矿泉水",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 38.0,
+        "description": "一个人喝酒 啤酒+花生",
+        "time": "21:00"
+      }
+    ],
+    "daily_total": 43.0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-16",
+    "records": [],
+    "daily_total": 0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.2,
+        "description": "泡面+火腿肠",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 23.9,
+        "description": "便利店酒",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 39.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-18",
+    "records": [],
+    "daily_total": 0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.5,
+        "description": "便利店面包",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.2,
+        "description": "啤酒",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 20.7,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-20",
+    "records": [],
+    "daily_total": 0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.5,
+        "description": "超市啤酒零食",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 17.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 21.9,
+        "description": "啤酒",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 21.9,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18.5,
+        "description": "外卖麻辣烫大份",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.3,
+        "description": "外卖奶茶+炸鸡",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 37.8,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22.2,
+        "description": "外卖烧烤",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.8,
+        "description": "泡面+卤蛋+火腿",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.5,
+        "description": "薯片可乐",
+        "time": "16:00"
+      }
+    ],
+    "daily_total": 62.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.1,
+        "description": "面包牛奶",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.2,
+        "description": "外卖大盘鸡",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.1,
+        "description": "泡面+卤蛋+火腿",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 55.4,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "面包牛奶",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.8,
+        "description": "外卖炸鸡可乐",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.2,
+        "description": "外卖水煮鱼",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 65.0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.8,
+        "description": "面包牛奶",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.5,
+        "description": "外卖烧烤",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.3,
+        "description": "外卖火锅",
+        "time": "22:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.9,
+        "description": "奶茶",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 71.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-02-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.4,
+        "description": "包子",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22.1,
+        "description": "外卖烧烤",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.2,
+        "description": "外卖奶茶+炸鸡",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 57.7,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 28.1,
+        "description": "外卖炸鸡可乐",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 21.3,
+        "description": "泡面+卤蛋+火腿",
+        "time": "21:00"
+      },
+      {
+        "category": "住房",
+        "amount": 800.0,
+        "description": "宿舍费",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 849.4,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.6,
+        "description": "包子",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.9,
+        "description": "外卖烧烤",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.4,
+        "description": "外卖奶茶+炸鸡",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.2,
+        "description": "零食大礼包",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 63.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.2,
+        "description": "面包牛奶",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 27.9,
+        "description": "外卖炸鸡可乐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.0,
+        "description": "外卖火锅",
+        "time": "21:00"
+      }
+    ],
+    "daily_total": 47.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 28.1,
+        "description": "外卖麻辣烫大份",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 33.6,
+        "description": "泡面+卤蛋+火腿",
+        "time": "21:00"
+      }
+    ],
+    "daily_total": 61.7,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.7,
+        "description": "面包牛奶",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.6,
+        "description": "外卖烧烤",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 30.7,
+        "description": "外卖火锅",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 65.0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.9,
+        "description": "面包牛奶",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.2,
+        "description": "外卖炸鸡可乐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.3,
+        "description": "外卖奶茶+炸鸡",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.9,
+        "description": "零食大礼包",
+        "time": "16:00"
+      }
+    ],
+    "daily_total": 50.3,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.9,
+        "description": "包子",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.2,
+        "description": "外卖麻辣烫大份",
+        "time": "13:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 21.4,
+        "description": "外卖奶茶+炸鸡",
+        "time": "21:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.7,
+        "description": "零食大礼包",
+        "time": "23:30"
+      },
+      {
+        "category": "购物",
+        "amount": 20.4,
+        "description": "打印费",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 78.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.8,
+        "description": "包子",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.3,
+        "description": "外卖大盘鸡",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.5,
+        "description": "外卖火锅",
+        "time": "21:00"
+      }
+    ],
+    "daily_total": 42.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.7,
+        "description": "面包牛奶",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.5,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 27.2,
+        "description": "泡面+卤味",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 42.4,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.1,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 21.9,
+        "description": "便利店便当",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.8,
+        "description": "奶茶",
+        "time": "22:00"
+      },
+      {
+        "category": "通讯",
+        "amount": 29.0,
+        "description": "手机话费",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 72.8,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 11.2,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.9,
+        "description": "便利店便当",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 38.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.7,
+        "description": "面包牛奶",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.6,
+        "description": "外卖盖浇饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.0,
+        "description": "便利店便当",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.2,
+        "description": "奶茶",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 42.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.4,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.2,
+        "description": "泡面+卤味",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.5,
+        "description": "奶茶",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 33.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 18.1,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.4,
+        "description": "泡面+卤味",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.1,
+        "description": "咖啡",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 46.6,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.4,
+        "description": "包子豆浆",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.4,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.4,
+        "description": "泡面+卤味",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 33.2,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.3,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 21.9,
+        "description": "泡面+卤味",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.9,
+        "description": "零食",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 58.1,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.1,
+        "description": "面包牛奶",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.7,
+        "description": "食堂午饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.9,
+        "description": "便利店便当",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 44.7,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.7,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.8,
+        "description": "泡面+卤味",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 36.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.7,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.6,
+        "description": "食堂晚饭",
+        "time": "20:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.6,
+        "description": "咖啡",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 36.9,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.9,
+        "description": "面包牛奶",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.5,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 23.5,
+        "description": "食堂晚饭",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 41.9,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.2,
+        "description": "面包牛奶",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.7,
+        "description": "食堂午饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.0,
+        "description": "外卖",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 48.9,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 7.1,
+        "description": "食堂早餐",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.6,
+        "description": "食堂午饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.2,
+        "description": "泡面+卤味",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 41.9,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.9,
+        "description": "食堂早餐",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.1,
+        "description": "食堂午饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.1,
+        "description": "便利店便当",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.1,
+        "description": "咖啡",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 62.2,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 23.6,
+        "description": "外卖盖浇饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.9,
+        "description": "食堂晚饭",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 36.5,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.1,
+        "description": "食堂早餐",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 21.1,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.2,
+        "description": "食堂晚饭",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 38.4,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 14.7,
+        "description": "外卖盖浇饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22.1,
+        "description": "外卖",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 36.8,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.1,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.0,
+        "description": "泡面+卤味",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 9.2,
+        "description": "奶茶",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 34.3,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22.7,
+        "description": "外卖盖浇饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 14.5,
+        "description": "外卖",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 37.2,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.6,
+        "description": "面包牛奶",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.2,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.6,
+        "description": "外卖",
+        "time": "19:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.6,
+        "description": "零食",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 65.0,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.3,
+        "description": "包子豆浆",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.6,
+        "description": "外卖",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.0,
+        "description": "食堂晚饭",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.8,
+        "description": "奶茶",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 60.7,
+    "monthly_income": 2000
+  },
+  {
+    "date": "2026-03-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "面包牛奶",
+        "time": "08:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.8,
+        "description": "食堂午饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.7,
+        "description": "食堂晚饭",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 43.5,
+    "monthly_income": 2000
+  }
+]

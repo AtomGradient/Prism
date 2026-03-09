@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Prism V3 Crisis Signal",
+  "description": "Schema for cross-domain crisis signal detection in the Prism V3 experiment. Each record captures a detected crisis-level event combining anomalous signals from multiple simulated apps.",
+  "type": "object",
+  "required": [
+    "user_id",
+    "day",
+    "level",
+    "signals",
+    "source_apps",
+    "cross_domain_convergence",
+    "description",
+    "recommended_action"
+  ],
+  "properties": {
+    "user_id": {
+      "type": "string",
+      "description": "Identifier of the simulated user for whom the crisis signal was detected."
+    },
+    "day": {
+      "type": "integer",
+      "description": "Day index within the simulation window when the crisis signal was detected."
+    },
+    "level": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 3,
+      "description": "Crisis severity level: 1 (low concern), 2 (moderate concern), 3 (high concern)."
+    },
+    "signals": {
+      "type": "array",
+      "description": "Individual anomalous data points that contributed to this crisis signal.",
+      "items": {
+        "type": "object",
+        "required": ["app", "field", "value", "anomaly_type"],
+        "properties": {
+          "app": {
+            "type": "string",
+            "description": "Name of the source app that produced this signal (e.g. 'dailyn', 'ururu', 'mealens')."
+          },
+          "field": {
+            "type": "string",
+            "description": "Specific data field that exhibited the anomaly (e.g. 'mood_score', 'daily_total', 'sleep_hours')."
+          },
+          "value": {
+            "description": "The observed anomalous value. Type varies depending on the source field."
+          },
+          "anomaly_type": {
+            "type": "string",
+            "description": "Classification of the anomaly (e.g. 'sudden_drop', 'threshold_breach', 'pattern_break', 'missing_data')."
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "source_apps": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of app names that contributed signals to this crisis detection."
+    },
+    "cross_domain_convergence": {
+      "type": "boolean",
+      "description": "Whether anomalous signals from multiple domains converged to reinforce this crisis detection."
+    },
+    "description": {
+      "type": "string",
+      "description": "Human-readable narrative describing the crisis signal and its context."
+    },
+    "recommended_action": {
+      "type": "string",
+      "enum": ["monitor", "alert_user", "alert_guardian", "professional_referral"],
+      "description": "Recommended response action based on the severity and nature of the crisis signal."
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,21 @@
+{
+  "user_id": "user_05",
+  "name": "小周",
+  "age": 27,
+  "profile": "电商运营，996节奏",
+  "monthly_income": 12000,
+  "event_day": 30,
+  "event": "被提拔为组长，应酬增加",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "normal",
+    "vulnerability_class": "promotion_stress",
+    "crisis_windows": [],
+    "social_context": {
+      "living_situation": "独居租房",
+      "support_network": "同事、大学朋友",
+      "key_relationships": ["上级领导", "团队下属（新关系）"]
+    },
+    "ethical_notes": "晋升带来的压力属正常职场适应。关注应酬导致的饮食恶化和睡眠减少是否超出健康阈值。"
+  }
+}

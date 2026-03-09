@@ -1,0 +1,24 @@
+{
+  "user_id": "zhangxiuying",
+  "name": "张秀英",
+  "age": 66,
+  "profile": "从老家来帮儿子带孙子的退休工人，城市生活不适应",
+  "monthly_income": 3200,
+  "event_day": 30,
+  "event": "与儿媳育儿观念冲突→自我价值感受损→想回老家",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "unexpected",
+    "vulnerability_class": "elderly_family_conflict",
+    "crisis_windows": [
+      {"day_range": [30, 50], "trigger": "育儿观念冲突", "expected_severity": "moderate"},
+      {"day_range": [40, 55], "trigger": "自我价值感持续下降", "expected_severity": "moderate"}
+    ],
+    "social_context": {
+      "living_situation": "与儿子一家同住（非自愿迁居）",
+      "support_network": "老家姐妹（电话）、小区广场舞群",
+      "key_relationships": ["儿子（夹在中间）", "儿媳（主要冲突方）", "孙子（情感寄托）"]
+    },
+    "ethical_notes": "老人的'想回老家'可能是求助信号也可能是自主选择。系统不应预设'留下帮忙带娃'是正确答案。关注饮食量减少和睡眠碎片化作为情绪指标。"
+  }
+}

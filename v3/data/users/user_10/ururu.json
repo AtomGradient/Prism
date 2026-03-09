@@ -1,0 +1,1262 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.76,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 7.3,
+    "sleep_time": "00:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "市场",
+      "策略"
+    ],
+    "journal_snippet": "基金净值创新高，客户很满意"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.64,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "调研",
+      "行业"
+    ],
+    "journal_snippet": "今天市场表现不错，持仓整体上涨1.2%"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.77,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "量化",
+      "模型"
+    ],
+    "journal_snippet": "市场有些波动但在预期范围内"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.69,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 6.2,
+    "sleep_time": "23:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "市场有些波动但在预期范围内"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.62,
+    "primary_emotion": "焦虑",
+    "stress_level": 3,
+    "sleep_hours": 6.3,
+    "sleep_time": "23:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "投资",
+      "收益"
+    ],
+    "journal_snippet": "和LP沟通了季度业绩，反馈正面"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.75,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 7.4,
+    "sleep_time": "23:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "基金净值创新高，客户很满意"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.68,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "量化",
+      "模型"
+    ],
+    "journal_snippet": "今天市场表现不错，持仓整体上涨1.2%"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.64,
+    "primary_emotion": "兴奋",
+    "stress_level": 6,
+    "sleep_hours": 6.0,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "市场",
+      "策略"
+    ],
+    "journal_snippet": "周末打了场高尔夫，状态不错"
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.74,
+    "primary_emotion": "焦虑",
+    "stress_level": 3,
+    "sleep_hours": 6.6,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "基金",
+      "净值"
+    ],
+    "journal_snippet": "周末打了场高尔夫，状态不错"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.71,
+    "primary_emotion": "兴奋",
+    "stress_level": 4,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "和LP沟通了季度业绩，反馈正面"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.62,
+    "primary_emotion": "兴奋",
+    "stress_level": 5,
+    "sleep_hours": 6.4,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "宏观",
+      "经济"
+    ],
+    "journal_snippet": "市场有些波动但在预期范围内"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.7,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 7.2,
+    "sleep_time": "00:00",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "基金",
+      "净值"
+    ],
+    "journal_snippet": "和研究员讨论了新能源板块，有几个标的值得关注"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.66,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 7.3,
+    "sleep_time": "00:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "周末打了场高尔夫，状态不错"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.71,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "宏观",
+      "经济"
+    ],
+    "journal_snippet": "基金净值创新高，客户很满意"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.69,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "调研",
+      "行业"
+    ],
+    "journal_snippet": "新策略回测效果很好，准备小仓位试运行"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.7,
+    "primary_emotion": "满足",
+    "stress_level": 3,
+    "sleep_hours": 6.8,
+    "sleep_time": "23:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "宏观",
+      "经济"
+    ],
+    "journal_snippet": "今天市场表现不错，持仓整体上涨1.2%"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.58,
+    "primary_emotion": "兴奋",
+    "stress_level": 4,
+    "sleep_hours": 7.0,
+    "sleep_time": "23:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "调研",
+      "行业"
+    ],
+    "journal_snippet": "复盘了本周操作，整体满意"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.77,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "投资",
+      "收益"
+    ],
+    "journal_snippet": "参加了宏观经济研讨会，对下半年谨慎乐观"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.75,
+    "primary_emotion": "平静",
+    "stress_level": 3,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "基金",
+      "净值"
+    ],
+    "journal_snippet": "基金净值创新高，客户很满意"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.55,
+    "primary_emotion": "兴奋",
+    "stress_level": 4,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "调研",
+      "行业"
+    ],
+    "journal_snippet": "基金净值创新高，客户很满意"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.74,
+    "primary_emotion": "兴奋",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "基金",
+      "净值"
+    ],
+    "journal_snippet": "和LP沟通了季度业绩，反馈正面"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.56,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 7.5,
+    "sleep_time": "23:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "宏观",
+      "经济"
+    ],
+    "journal_snippet": "基金净值创新高，客户很满意"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.62,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "基金",
+      "净值"
+    ],
+    "journal_snippet": "基金净值创新高，客户很满意"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.74,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "基金",
+      "净值"
+    ],
+    "journal_snippet": "新策略回测效果很好，准备小仓位试运行"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.71,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "宏观",
+      "经济"
+    ],
+    "journal_snippet": "读了几篇sell-side的研报，观点比较一致"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.1,
+    "primary_emotion": "愤怒",
+    "stress_level": 10,
+    "sleep_hours": 4.3,
+    "sleep_time": "03:00",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "领导",
+      "问责"
+    ],
+    "journal_snippet": "又有三个大客户要求赎回，总额超过2亿"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.09,
+    "primary_emotion": "烦躁",
+    "stress_level": 10,
+    "sleep_hours": 2.9,
+    "sleep_time": "01:00",
+    "wake_time": "03:30",
+    "journal_keywords": [
+      "止损",
+      "仓位"
+    ],
+    "journal_snippet": "整晚没睡，一直在看盘和调仓"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.23,
+    "primary_emotion": "烦躁",
+    "stress_level": 10,
+    "sleep_hours": 3.7,
+    "sleep_time": "03:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "亏损",
+      "焦虑"
+    ],
+    "journal_snippet": "投委会紧急会议，被要求解释仓位逻辑"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.19,
+    "primary_emotion": "沮丧",
+    "stress_level": 9,
+    "sleep_hours": 3.3,
+    "sleep_time": "02:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "市场",
+      "暴跌"
+    ],
+    "journal_snippet": "整晚没睡，一直在看盘和调仓"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.06,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 3.6,
+    "sleep_time": "03:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "领导",
+      "问责"
+    ],
+    "journal_snippet": "今天又亏了1.5%，总回撤已经6%了"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.18,
+    "primary_emotion": "烦躁",
+    "stress_level": 10,
+    "sleep_hours": 4.0,
+    "sleep_time": "02:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "亏损",
+      "焦虑"
+    ],
+    "journal_snippet": "又有三个大客户要求赎回，总额超过2亿"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.05,
+    "primary_emotion": "愤怒",
+    "stress_level": 10,
+    "sleep_hours": 4.0,
+    "sleep_time": "03:00",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "熔断",
+      "恐慌"
+    ],
+    "journal_snippet": "手在发抖，但必须冷静做决策"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.35,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 5.8,
+    "sleep_time": "00:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "风控",
+      "改进"
+    ],
+    "journal_snippet": "市场慢慢企稳，但我变得更谨慎了"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.36,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "23:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "信心",
+      "恢复"
+    ],
+    "journal_snippet": "复盘了这次回撤，确实有几个决策可以做得更好"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.37,
+    "primary_emotion": "烦躁",
+    "stress_level": 5,
+    "sleep_hours": 6.0,
+    "sleep_time": "23:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "反弹",
+      "观望"
+    ],
+    "journal_snippet": "复盘了这次回撤，确实有几个决策可以做得更好"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.34,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "风控",
+      "改进"
+    ],
+    "journal_snippet": "市场慢慢企稳，但我变得更谨慎了"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.45,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 5.9,
+    "sleep_time": "23:30",
+    "wake_time": "04:00",
+    "journal_keywords": [
+      "策略",
+      "调整"
+    ],
+    "journal_snippet": "把仓位降到了6成，心里踏实一些"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.37,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "风控",
+      "改进"
+    ],
+    "journal_snippet": "今天终于睡了个好觉"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.44,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "新的风控模型上线了，应该能避免类似情况"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.46,
+    "primary_emotion": "烦躁",
+    "stress_level": 8,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "信心",
+      "恢复"
+    ],
+    "journal_snippet": "开始重新审视投资框架，更加注重防守"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.39,
+    "primary_emotion": "烦躁",
+    "stress_level": 6,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "复盘",
+      "教训"
+    ],
+    "journal_snippet": "新的风控模型上线了，应该能避免类似情况"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.44,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 5.1,
+    "sleep_time": "00:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "信心",
+      "恢复"
+    ],
+    "journal_snippet": "客户赎回潮暂时过去了，但信任需要重建"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.51,
+    "primary_emotion": "烦躁",
+    "stress_level": 7,
+    "sleep_hours": 5.8,
+    "sleep_time": "23:30",
+    "wake_time": "04:00",
+    "journal_keywords": [
+      "风控",
+      "改进"
+    ],
+    "journal_snippet": "新的风控模型上线了，应该能避免类似情况"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 5.6,
+    "sleep_time": "00:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "信心",
+      "恢复"
+    ],
+    "journal_snippet": "客户赎回潮暂时过去了，但信任需要重建"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.44,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.3,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "市场有所反弹，稍微松了口气"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.48,
+    "primary_emotion": "烦躁",
+    "stress_level": 7,
+    "sleep_hours": 6.2,
+    "sleep_time": "23:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "风控",
+      "改进"
+    ],
+    "journal_snippet": "新的风控模型上线了，应该能避免类似情况"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.54,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 6.6,
+    "sleep_time": "23:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "宏观",
+      "经济"
+    ],
+    "journal_snippet": "市场有些波动但在预期范围内"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.65,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "策略",
+      "调整"
+    ],
+    "journal_snippet": "市场有些波动但在预期范围内"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.57,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "基金净值回到了回撤前水平，但心态已经不同了"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.59,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.0,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "调研",
+      "行业"
+    ],
+    "journal_snippet": "复盘了本周操作，整体满意"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.67,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "周末打了场高尔夫，状态不错"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.64,
+    "primary_emotion": "紧张",
+    "stress_level": 4,
+    "sleep_hours": 6.2,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "读了几篇sell-side的研报，观点比较一致"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.64,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "市场",
+      "策略"
+    ],
+    "journal_snippet": "现在每天都会做压力测试，不再那么自信了"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.53,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "信心",
+      "恢复"
+    ],
+    "journal_snippet": "基金净值回到了回撤前水平，但心态已经不同了"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.6,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "调研",
+      "行业"
+    ],
+    "journal_snippet": "开始读一些哲学书，思考人生和工作的关系"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.52,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "风控",
+      "改进"
+    ],
+    "journal_snippet": "和LP沟通了季度业绩，反馈正面"
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.58,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "调研",
+      "行业"
+    ],
+    "journal_snippet": "和团队复盘了那次危机，制定了新的止损规则"
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.65,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "周末打了场高尔夫，状态不错"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.69,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.4,
+    "sleep_time": "23:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "和团队复盘了那次危机，制定了新的止损规则"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.56,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.8,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "和LP沟通了季度业绩，反馈正面"
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.51,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "复盘了本周操作，整体满意"
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.7,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "周末打了场高尔夫，状态不错"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.69,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "策略",
+      "调整"
+    ],
+    "journal_snippet": "现在每天都会做压力测试，不再那么自信了"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.63,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "投资",
+      "收益"
+    ],
+    "journal_snippet": "复盘了本周操作，整体满意"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.61,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "读了几篇sell-side的研报，观点比较一致"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.55,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.2,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "反弹",
+      "观望"
+    ],
+    "journal_snippet": "开始读一些哲学书，思考人生和工作的关系"
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.58,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "调研",
+      "行业"
+    ],
+    "journal_snippet": "周末打了场高尔夫，状态不错"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.52,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "反弹",
+      "观望"
+    ],
+    "journal_snippet": "开始读一些哲学书，思考人生和工作的关系"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.64,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "投资",
+      "收益"
+    ],
+    "journal_snippet": "更加注重work-life balance了"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.69,
+    "primary_emotion": "疲惫",
+    "stress_level": 4,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "市场",
+      "策略"
+    ],
+    "journal_snippet": "读了几篇sell-side的研报，观点比较一致"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.52,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 6.2,
+    "sleep_time": "23:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "投资",
+      "收益"
+    ],
+    "journal_snippet": "更加注重work-life balance了"
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.56,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 6.2,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "复盘",
+      "教训"
+    ],
+    "journal_snippet": "现在每天都会做压力测试，不再那么自信了"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.6,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "基金净值回到了回撤前水平，但心态已经不同了"
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.57,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 6.9,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "更加注重work-life balance了"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.68,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.1,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "宏观",
+      "经济"
+    ],
+    "journal_snippet": "复盘了本周操作，整体满意"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.69,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "市场有些波动但在预期范围内"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.7,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "策略",
+      "调整"
+    ],
+    "journal_snippet": "和团队复盘了那次危机，制定了新的止损规则"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.68,
+    "primary_emotion": "满足",
+    "stress_level": 4,
+    "sleep_hours": 6.1,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "量化",
+      "模型"
+    ],
+    "journal_snippet": "和团队复盘了那次危机，制定了新的止损规则"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.58,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "00:30",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "宏观",
+      "经济"
+    ],
+    "journal_snippet": "客户关系在修复，但有几个永远回不来了"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.54,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "和团队复盘了那次危机，制定了新的止损规则"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.6,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.1,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "基金",
+      "净值"
+    ],
+    "journal_snippet": "读了几篇sell-side的研报，观点比较一致"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.6,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "调仓",
+      "谨慎"
+    ],
+    "journal_snippet": "市场又开始波动，但这次我准备充分"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.57,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "投资",
+      "收益"
+    ],
+    "journal_snippet": "市场有些波动但在预期范围内"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.68,
+    "primary_emotion": "平静",
+    "stress_level": 6,
+    "sleep_hours": 6.0,
+    "sleep_time": "23:00",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "调研",
+      "行业"
+    ],
+    "journal_snippet": "更加注重work-life balance了"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.68,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 6.5,
+    "sleep_time": "23:00",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "年报",
+      "分析"
+    ],
+    "journal_snippet": "和LP沟通了季度业绩，反馈正面"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.61,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.0,
+    "sleep_time": "00:30",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "风控",
+      "改进"
+    ],
+    "journal_snippet": "基金净值回到了回撤前水平，但心态已经不同了"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.51,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.7,
+    "sleep_time": "23:30",
+    "wake_time": "05:00",
+    "journal_keywords": [
+      "策略",
+      "调整"
+    ],
+    "journal_snippet": "和团队复盘了那次危机，制定了新的止损规则"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.65,
+    "primary_emotion": "紧张",
+    "stress_level": 4,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:00",
+    "wake_time": "06:30",
+    "journal_keywords": [
+      "投资",
+      "收益"
+    ],
+    "journal_snippet": "和团队复盘了那次危机，制定了新的止损规则"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.5,
+    "primary_emotion": "平静",
+    "stress_level": 4,
+    "sleep_hours": 6.6,
+    "sleep_time": "23:30",
+    "wake_time": "05:30",
+    "journal_keywords": [
+      "对冲",
+      "风控"
+    ],
+    "journal_snippet": "现在每天都会做压力测试，不再那么自信了"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.58,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:00",
+    "wake_time": "06:00",
+    "journal_keywords": [
+      "宏观",
+      "经济"
+    ],
+    "journal_snippet": "复盘了本周操作，整体满意"
+  }
+]

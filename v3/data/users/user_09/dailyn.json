@@ -1,0 +1,2162 @@
+[
+  {
+    "date": "2026-01-01",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 66.0,
+        "description": "加油/停车",
+        "time": "08:30"
+      },
+      {
+        "category": "通讯",
+        "amount": 71.0,
+        "description": "手机话费",
+        "time": "11:10"
+      },
+      {
+        "category": "应酬",
+        "amount": 435.0,
+        "description": "请客户吃饭",
+        "time": "18:20"
+      },
+      {
+        "category": "酒类",
+        "amount": 503.0,
+        "description": "茅台",
+        "time": "20:20"
+      }
+    ],
+    "daily_total": 1075.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-02",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 57.0,
+        "description": "加油/停车",
+        "time": "09:30"
+      },
+      {
+        "category": "应酬",
+        "amount": 1286.0,
+        "description": "供应商接待",
+        "time": "19:30"
+      },
+      {
+        "category": "酒类",
+        "amount": 293.0,
+        "description": "国窖1573",
+        "time": "18:10"
+      }
+    ],
+    "daily_total": 1636.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-03",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 54.0,
+        "description": "加油/停车",
+        "time": "09:00"
+      },
+      {
+        "category": "应酬",
+        "amount": 1470.0,
+        "description": "供应商接待",
+        "time": "18:30"
+      },
+      {
+        "category": "酒类",
+        "amount": 698.0,
+        "description": "红酒",
+        "time": "19:20"
+      },
+      {
+        "category": "日用",
+        "amount": 191.0,
+        "description": "孩子学费相关",
+        "time": "14:20"
+      }
+    ],
+    "daily_total": 2413.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-04",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 75.0,
+        "description": "加油/停车",
+        "time": "09:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 75.0,
+        "description": "自己吃饭",
+        "time": "11:30"
+      }
+    ],
+    "daily_total": 150.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-05",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 43.0,
+        "description": "加油/停车",
+        "time": "10:15"
+      },
+      {
+        "category": "应酬",
+        "amount": 908.0,
+        "description": "客户接待晚宴",
+        "time": "20:20"
+      },
+      {
+        "category": "酒类",
+        "amount": 611.0,
+        "description": "茅台",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 1562.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-06",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 43.0,
+        "description": "加油/停车",
+        "time": "10:40"
+      },
+      {
+        "category": "通讯",
+        "amount": 125.0,
+        "description": "企业微信会员",
+        "time": "10:15"
+      },
+      {
+        "category": "应酬",
+        "amount": 671.0,
+        "description": "合作方晚宴",
+        "time": "20:30"
+      },
+      {
+        "category": "酒类",
+        "amount": 648.0,
+        "description": "剑南春",
+        "time": "20:45"
+      }
+    ],
+    "daily_total": 1487.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-07",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 46.0,
+        "description": "加油/停车",
+        "time": "09:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 74.0,
+        "description": "午餐",
+        "time": "13:45"
+      }
+    ],
+    "daily_total": 120.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-08",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 64.0,
+        "description": "加油/停车",
+        "time": "09:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 61.0,
+        "description": "面馆",
+        "time": "11:30"
+      }
+    ],
+    "daily_total": 125.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-09",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 52.0,
+        "description": "加油/停车",
+        "time": "08:50"
+      },
+      {
+        "category": "通讯",
+        "amount": 158.0,
+        "description": "企业微信会员",
+        "time": "10:15"
+      },
+      {
+        "category": "应酬",
+        "amount": 517.0,
+        "description": "客户接待晚宴",
+        "time": "20:20"
+      },
+      {
+        "category": "酒类",
+        "amount": 292.0,
+        "description": "五粮液",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 1019.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-10",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 44.0,
+        "description": "加油/停车",
+        "time": "09:30"
+      },
+      {
+        "category": "通讯",
+        "amount": 86.0,
+        "description": "企业微信会员",
+        "time": "09:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 133.0,
+        "description": "面馆",
+        "time": "11:15"
+      }
+    ],
+    "daily_total": 263.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-11",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 47.0,
+        "description": "加油/停车",
+        "time": "10:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 128.0,
+        "description": "面馆",
+        "time": "11:30"
+      }
+    ],
+    "daily_total": 175.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-12",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 55.0,
+        "description": "加油/停车",
+        "time": "10:50"
+      },
+      {
+        "category": "通讯",
+        "amount": 84.0,
+        "description": "公司网费",
+        "time": "09:20"
+      },
+      {
+        "category": "应酬",
+        "amount": 408.0,
+        "description": "请客户吃饭",
+        "time": "18:10"
+      },
+      {
+        "category": "酒类",
+        "amount": 743.0,
+        "description": "国窖1573",
+        "time": "18:20"
+      }
+    ],
+    "daily_total": 1290.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-13",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 62.0,
+        "description": "加油/停车",
+        "time": "10:50"
+      },
+      {
+        "category": "通讯",
+        "amount": 121.0,
+        "description": "公司网费",
+        "time": "09:10"
+      },
+      {
+        "category": "应酬",
+        "amount": 874.0,
+        "description": "供应商接待",
+        "time": "19:50"
+      },
+      {
+        "category": "酒类",
+        "amount": 718.0,
+        "description": "茅台",
+        "time": "20:10"
+      },
+      {
+        "category": "其他",
+        "amount": 955.0,
+        "description": "按摩足浴",
+        "time": "20:20"
+      }
+    ],
+    "daily_total": 2730.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-14",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 58.0,
+        "description": "加油/停车",
+        "time": "09:15"
+      },
+      {
+        "category": "通讯",
+        "amount": 87.0,
+        "description": "手机话费",
+        "time": "10:10"
+      },
+      {
+        "category": "应酬",
+        "amount": 1499.0,
+        "description": "请客户吃饭",
+        "time": "18:20"
+      },
+      {
+        "category": "酒类",
+        "amount": 300.0,
+        "description": "剑南春",
+        "time": "19:20"
+      }
+    ],
+    "daily_total": 1944.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-15",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 47.0,
+        "description": "加油/停车",
+        "time": "08:45"
+      },
+      {
+        "category": "通讯",
+        "amount": 168.0,
+        "description": "公司网费",
+        "time": "10:45"
+      },
+      {
+        "category": "应酬",
+        "amount": 1204.0,
+        "description": "合作方晚宴",
+        "time": "20:50"
+      },
+      {
+        "category": "酒类",
+        "amount": 293.0,
+        "description": "国窖1573",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 1712.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-16",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 70.0,
+        "description": "加油/停车",
+        "time": "08:00"
+      },
+      {
+        "category": "应酬",
+        "amount": 1338.0,
+        "description": "商务宴请",
+        "time": "18:10"
+      },
+      {
+        "category": "酒类",
+        "amount": 711.0,
+        "description": "茅台",
+        "time": "20:10"
+      }
+    ],
+    "daily_total": 2119.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-17",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 45.0,
+        "description": "加油/停车",
+        "time": "10:20"
+      },
+      {
+        "category": "应酬",
+        "amount": 490.0,
+        "description": "合作方晚宴",
+        "time": "20:40"
+      },
+      {
+        "category": "酒类",
+        "amount": 761.0,
+        "description": "五粮液",
+        "time": "20:40"
+      }
+    ],
+    "daily_total": 1296.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-18",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 67.0,
+        "description": "加油/停车",
+        "time": "09:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 67.0,
+        "description": "自己吃饭",
+        "time": "13:10"
+      },
+      {
+        "category": "其他",
+        "amount": 492.0,
+        "description": "KTV",
+        "time": "20:40"
+      }
+    ],
+    "daily_total": 626.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-19",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 75.0,
+        "description": "加油/停车",
+        "time": "09:30"
+      },
+      {
+        "category": "通讯",
+        "amount": 175.0,
+        "description": "企业微信会员",
+        "time": "10:00"
+      },
+      {
+        "category": "应酬",
+        "amount": 1010.0,
+        "description": "请客户吃饭",
+        "time": "18:30"
+      },
+      {
+        "category": "酒类",
+        "amount": 269.0,
+        "description": "茅台",
+        "time": "20:15"
+      }
+    ],
+    "daily_total": 1529.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-20",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 69.0,
+        "description": "加油/停车",
+        "time": "08:30"
+      },
+      {
+        "category": "应酬",
+        "amount": 1399.0,
+        "description": "请客户吃饭",
+        "time": "18:45"
+      },
+      {
+        "category": "酒类",
+        "amount": 698.0,
+        "description": "茅台",
+        "time": "18:40"
+      }
+    ],
+    "daily_total": 2166.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-21",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 50.0,
+        "description": "加油/停车",
+        "time": "10:50"
+      },
+      {
+        "category": "应酬",
+        "amount": 411.0,
+        "description": "请客户吃饭",
+        "time": "20:15"
+      },
+      {
+        "category": "酒类",
+        "amount": 527.0,
+        "description": "国窖1573",
+        "time": "20:15"
+      },
+      {
+        "category": "日用",
+        "amount": 246.0,
+        "description": "给老婆买礼物",
+        "time": "16:20"
+      }
+    ],
+    "daily_total": 1234.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-22",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 67.0,
+        "description": "加油/停车",
+        "time": "10:10"
+      },
+      {
+        "category": "应酬",
+        "amount": 1362.0,
+        "description": "合作方晚宴",
+        "time": "20:15"
+      },
+      {
+        "category": "酒类",
+        "amount": 755.0,
+        "description": "五粮液",
+        "time": "18:15"
+      },
+      {
+        "category": "日用",
+        "amount": 395.0,
+        "description": "孩子学费相关",
+        "time": "17:20"
+      }
+    ],
+    "daily_total": 2579.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-23",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 51.0,
+        "description": "加油/停车",
+        "time": "10:10"
+      },
+      {
+        "category": "应酬",
+        "amount": 918.0,
+        "description": "商务宴请",
+        "time": "19:40"
+      },
+      {
+        "category": "酒类",
+        "amount": 383.0,
+        "description": "五粮液",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 1352.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-24",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 51.0,
+        "description": "加油/停车",
+        "time": "08:30"
+      },
+      {
+        "category": "应酬",
+        "amount": 1147.0,
+        "description": "合作方晚宴",
+        "time": "19:00"
+      },
+      {
+        "category": "酒类",
+        "amount": 269.0,
+        "description": "国窖1573",
+        "time": "18:30"
+      },
+      {
+        "category": "其他",
+        "amount": 837.0,
+        "description": "KTV",
+        "time": "22:40"
+      }
+    ],
+    "daily_total": 2304.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-25",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 79.0,
+        "description": "加油/停车",
+        "time": "08:45"
+      },
+      {
+        "category": "应酬",
+        "amount": 449.0,
+        "description": "供应商接待",
+        "time": "18:20"
+      },
+      {
+        "category": "酒类",
+        "amount": 419.0,
+        "description": "茅台",
+        "time": "20:40"
+      }
+    ],
+    "daily_total": 947.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-26",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 45.0,
+        "description": "加油/停车",
+        "time": "09:30"
+      },
+      {
+        "category": "应酬",
+        "amount": 1167.0,
+        "description": "合作方晚宴",
+        "time": "18:20"
+      },
+      {
+        "category": "酒类",
+        "amount": 452.0,
+        "description": "剑南春",
+        "time": "20:15"
+      }
+    ],
+    "daily_total": 1664.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-27",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 62.0,
+        "description": "加油/停车",
+        "time": "08:30"
+      },
+      {
+        "category": "通讯",
+        "amount": 114.0,
+        "description": "企业微信会员",
+        "time": "11:40"
+      },
+      {
+        "category": "应酬",
+        "amount": 886.0,
+        "description": "商务宴请",
+        "time": "20:50"
+      },
+      {
+        "category": "酒类",
+        "amount": 676.0,
+        "description": "五粮液",
+        "time": "20:10"
+      }
+    ],
+    "daily_total": 1738.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-28",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 65.0,
+        "description": "加油/停车",
+        "time": "08:20"
+      },
+      {
+        "category": "应酬",
+        "amount": 619.0,
+        "description": "请客户吃饭",
+        "time": "18:20"
+      },
+      {
+        "category": "酒类",
+        "amount": 790.0,
+        "description": "红酒",
+        "time": "18:50"
+      }
+    ],
+    "daily_total": 1474.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-29",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 48.0,
+        "description": "加油/停车",
+        "time": "10:45"
+      },
+      {
+        "category": "应酬",
+        "amount": 1122.0,
+        "description": "请客户吃饭",
+        "time": "18:45"
+      },
+      {
+        "category": "酒类",
+        "amount": 331.0,
+        "description": "红酒",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1501.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-30",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 45.0,
+        "description": "加油/停车",
+        "time": "08:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 114.0,
+        "description": "自己吃饭",
+        "time": "13:45"
+      }
+    ],
+    "daily_total": 159.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-01-31",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 76.0,
+        "description": "加油/停车",
+        "time": "10:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 136.0,
+        "description": "自己吃饭",
+        "time": "13:50"
+      }
+    ],
+    "daily_total": 212.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-01",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 43.0,
+        "description": "加油/停车",
+        "time": "09:20"
+      },
+      {
+        "category": "通讯",
+        "amount": 98.0,
+        "description": "企业微信会员",
+        "time": "09:15"
+      },
+      {
+        "category": "应酬",
+        "amount": 821.0,
+        "description": "商务宴请",
+        "time": "20:20"
+      },
+      {
+        "category": "酒类",
+        "amount": 239.0,
+        "description": "剑南春",
+        "time": "19:50"
+      }
+    ],
+    "daily_total": 1201.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-02",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 57.0,
+        "description": "加油/停车",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 94.0,
+        "description": "午餐",
+        "time": "12:30"
+      }
+    ],
+    "daily_total": 151.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-03",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 78.0,
+        "description": "加油/停车",
+        "time": "09:20"
+      },
+      {
+        "category": "应酬",
+        "amount": 934.0,
+        "description": "供应商接待",
+        "time": "19:45"
+      },
+      {
+        "category": "酒类",
+        "amount": 635.0,
+        "description": "剑南春",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 1647.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-04",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 67.0,
+        "description": "加油/停车",
+        "time": "08:45"
+      },
+      {
+        "category": "通讯",
+        "amount": 119.0,
+        "description": "手机话费",
+        "time": "10:45"
+      },
+      {
+        "category": "应酬",
+        "amount": 900.0,
+        "description": "客户接待晚宴",
+        "time": "19:30"
+      },
+      {
+        "category": "酒类",
+        "amount": 651.0,
+        "description": "剑南春",
+        "time": "19:10"
+      }
+    ],
+    "daily_total": 1737.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-05",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 86.0,
+        "description": "来回奔波催款/打车",
+        "time": "08:20"
+      },
+      {
+        "category": "其他",
+        "amount": 0,
+        "description": "【大客户张总拖欠80万货款，电话不接】",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25,
+        "description": "路边摊随便吃了点",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 111.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-06",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 158.0,
+        "description": "来回奔波催款/打车",
+        "time": "09:00"
+      },
+      {
+        "category": "其他",
+        "amount": 0,
+        "description": "【银行要求提前还贷50万，资金链断裂】",
+        "time": "10:00"
+      },
+      {
+        "category": "应酬",
+        "amount": 580,
+        "description": "请银行经理吃饭求通融",
+        "time": "19:00"
+      },
+      {
+        "category": "酒类",
+        "amount": 1280,
+        "description": "茅台（求人办事）",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 2018.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-07",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 171.0,
+        "description": "来回奔波催款/打车",
+        "time": "07:20"
+      },
+      {
+        "category": "律师费",
+        "amount": 5000,
+        "description": "律师咨询费（催款方案）",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 35,
+        "description": "便利店三明治",
+        "time": "12:30"
+      }
+    ],
+    "daily_total": 5206.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-08",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 181.0,
+        "description": "来回奔波催款/打车",
+        "time": "09:15"
+      },
+      {
+        "category": "律师费",
+        "amount": 30000,
+        "description": "律师预付金（起诉大客户）",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18,
+        "description": "泡面",
+        "time": "21:00"
+      }
+    ],
+    "daily_total": 30199.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-09",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 109.0,
+        "description": "来回奔波催款/打车",
+        "time": "08:10"
+      },
+      {
+        "category": "员工工资",
+        "amount": 0,
+        "description": "【工资发不出，先欠着】",
+        "time": "15:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15,
+        "description": "没胃口，喝了碗粥",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 124.0,
+    "monthly_income": 150000
+  },
+  {
+    "date": "2026-02-10",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 106.0,
+        "description": "打车去法院",
+        "time": "08:30"
+      },
+      {
+        "category": "律师费",
+        "amount": 2018.0,
+        "description": "律师出庭费",
+        "time": "16:15"
+      }
+    ],
+    "daily_total": 2124.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-11",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 146.0,
+        "description": "打车去法院",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 146.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-12",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 141.0,
+        "description": "来回催款路费",
+        "time": "08:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.0,
+        "description": "便利店面包",
+        "time": "13:30"
+      },
+      {
+        "category": "其他",
+        "amount": 0,
+        "description": "【老婆发现公司快倒了，大吵一架】",
+        "time": "23:00"
+      }
+    ],
+    "daily_total": 165.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-13",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 110.0,
+        "description": "打车去法院",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.0,
+        "description": "路边摊",
+        "time": "13:40"
+      },
+      {
+        "category": "律师费",
+        "amount": 1550.0,
+        "description": "调解费用",
+        "time": "10:45"
+      }
+    ],
+    "daily_total": 1679.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-14",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 146.0,
+        "description": "打车去律师事务所",
+        "time": "08:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.0,
+        "description": "路边摊",
+        "time": "20:50"
+      }
+    ],
+    "daily_total": 171.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-15",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 133.0,
+        "description": "打车去律师事务所",
+        "time": "08:40"
+      },
+      {
+        "category": "医疗",
+        "amount": 120,
+        "description": "药店买安眠药",
+        "time": "22:00"
+      }
+    ],
+    "daily_total": 253.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-16",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 59.0,
+        "description": "来回催款路费",
+        "time": "07:50"
+      }
+    ],
+    "daily_total": 59.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-17",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 84.0,
+        "description": "来回催款路费",
+        "time": "08:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.0,
+        "description": "路边摊",
+        "time": "17:30"
+      }
+    ],
+    "daily_total": 101.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-18",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 120.0,
+        "description": "来回催款路费",
+        "time": "09:00"
+      },
+      {
+        "category": "律师费",
+        "amount": 1103.0,
+        "description": "调解费用",
+        "time": "13:20"
+      },
+      {
+        "category": "其他",
+        "amount": 0,
+        "description": "【三个员工集体要求发工资否则辞职】",
+        "time": "09:00"
+      },
+      {
+        "category": "员工工资",
+        "amount": 25000,
+        "description": "凑钱先发了三个核心员工工资",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 26223.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-19",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 119.0,
+        "description": "打车去律师事务所",
+        "time": "09:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "路边摊",
+        "time": "15:45"
+      }
+    ],
+    "daily_total": 129.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-20",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 3500,
+        "description": "急诊挂号+心电图+CT+急救费用",
+        "time": "03:00"
+      },
+      {
+        "category": "医疗",
+        "amount": 1200,
+        "description": "住院押金",
+        "time": "05:00"
+      },
+      {
+        "category": "交通",
+        "amount": 45,
+        "description": "120急救车",
+        "time": "02:30"
+      }
+    ],
+    "daily_total": 4745,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-21",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 1014.0,
+        "description": "输液费",
+        "time": "09:50"
+      }
+    ],
+    "daily_total": 1014.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-22",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 1041.0,
+        "description": "输液费",
+        "time": "09:40"
+      }
+    ],
+    "daily_total": 1041.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-23",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 990.0,
+        "description": "药费",
+        "time": "08:10"
+      }
+    ],
+    "daily_total": 990.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-24",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 1021.0,
+        "description": "输液费",
+        "time": "10:15"
+      },
+      {
+        "category": "日用",
+        "amount": 42.0,
+        "description": "住院日用品",
+        "time": "12:30"
+      }
+    ],
+    "daily_total": 1063.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-25",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 1486.0,
+        "description": "检查费",
+        "time": "09:20"
+      }
+    ],
+    "daily_total": 1486.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-26",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 291.0,
+        "description": "复查费",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 79.0,
+        "description": "煮面条",
+        "time": "12:15"
+      }
+    ],
+    "daily_total": 370.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-27",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 391.0,
+        "description": "中药调理",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 59.0,
+        "description": "清淡饮食",
+        "time": "12:50"
+      },
+      {
+        "category": "其他",
+        "amount": 0,
+        "description": "【老婆说要分家产离婚】",
+        "time": "21:00"
+      }
+    ],
+    "daily_total": 450.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-02-28",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 302.0,
+        "description": "降压药",
+        "time": "10:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 36.0,
+        "description": "老婆做的粥",
+        "time": "12:50"
+      }
+    ],
+    "daily_total": 338.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-01",
+    "records": [
+      {
+        "category": "医疗",
+        "amount": 222.0,
+        "description": "降压药",
+        "time": "09:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 71.0,
+        "description": "清淡饮食",
+        "time": "11:20"
+      },
+      {
+        "category": "其他",
+        "amount": 0,
+        "description": "【合伙人老刘要求解散公司】",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 293.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-02",
+    "records": [
+      {
+        "category": "其他",
+        "amount": 0,
+        "description": "【老婆搬回娘家了】",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.0,
+        "description": "便利店饭团",
+        "time": "20:20"
+      },
+      {
+        "category": "交通",
+        "amount": 23.0,
+        "description": "骑共享单车",
+        "time": "08:10"
+      }
+    ],
+    "daily_total": 34.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 34.0,
+        "description": "速冻饺子",
+        "time": "14:30"
+      },
+      {
+        "category": "交通",
+        "amount": 15.0,
+        "description": "地铁",
+        "time": "10:50"
+      }
+    ],
+    "daily_total": 49.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-04",
+    "records": [
+      {
+        "category": "员工工资",
+        "amount": 48000,
+        "description": "裁员补偿金（8人×6000）",
+        "time": "14:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.0,
+        "description": "速冻饺子",
+        "time": "15:30"
+      },
+      {
+        "category": "交通",
+        "amount": 26.0,
+        "description": "骑共享单车",
+        "time": "08:15"
+      }
+    ],
+    "daily_total": 48042.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 33.0,
+        "description": "速冻饺子",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.0,
+        "description": "煮面条",
+        "time": "21:10"
+      },
+      {
+        "category": "交通",
+        "amount": 28.0,
+        "description": "地铁",
+        "time": "09:10"
+      }
+    ],
+    "daily_total": 76.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.0,
+        "description": "便利店饭团",
+        "time": "16:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.0,
+        "description": "又是泡面",
+        "time": "20:00"
+      },
+      {
+        "category": "交通",
+        "amount": 38.0,
+        "description": "公交",
+        "time": "10:45"
+      }
+    ],
+    "daily_total": 75.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 25.0,
+        "description": "便利店饭团",
+        "time": "12:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.0,
+        "description": "又是泡面",
+        "time": "19:40"
+      },
+      {
+        "category": "医疗",
+        "amount": 1200,
+        "description": "一个月降压药+心脏药",
+        "time": "09:00"
+      },
+      {
+        "category": "交通",
+        "amount": 35.0,
+        "description": "骑共享单车",
+        "time": "08:50"
+      }
+    ],
+    "daily_total": 1275.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "外卖快餐",
+        "time": "16:10"
+      },
+      {
+        "category": "交通",
+        "amount": 25.0,
+        "description": "公交",
+        "time": "10:40"
+      }
+    ],
+    "daily_total": 35.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 25.0,
+        "description": "便利店饭团",
+        "time": "18:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.0,
+        "description": "煮面条",
+        "time": "21:50"
+      },
+      {
+        "category": "医疗",
+        "amount": 40,
+        "description": "",
+        "time": "10:20"
+      },
+      {
+        "category": "交通",
+        "amount": 33.0,
+        "description": "地铁",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 116.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 23.0,
+        "description": "泡面",
+        "time": "14:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "馒头+榨菜",
+        "time": "21:30"
+      },
+      {
+        "category": "交通",
+        "amount": 21.0,
+        "description": "骑共享单车",
+        "time": "08:45"
+      }
+    ],
+    "daily_total": 56.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.0,
+        "description": "白粥+咸菜",
+        "time": "19:15"
+      },
+      {
+        "category": "交通",
+        "amount": 38.0,
+        "description": "骑共享单车",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 51.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.0,
+        "description": "外卖快餐",
+        "time": "20:50"
+      },
+      {
+        "category": "交通",
+        "amount": 26.0,
+        "description": "地铁",
+        "time": "08:20"
+      }
+    ],
+    "daily_total": 42.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 23.0,
+        "description": "速冻饺子",
+        "time": "17:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.0,
+        "description": "蛋炒饭",
+        "time": "21:15"
+      },
+      {
+        "category": "交通",
+        "amount": 37.0,
+        "description": "地铁",
+        "time": "08:50"
+      }
+    ],
+    "daily_total": 77.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "速冻饺子",
+        "time": "17:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22.0,
+        "description": "煮面条",
+        "time": "20:45"
+      },
+      {
+        "category": "交通",
+        "amount": 39.0,
+        "description": "骑共享单车",
+        "time": "10:50"
+      }
+    ],
+    "daily_total": 69.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 32.0,
+        "description": "泡面",
+        "time": "20:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.0,
+        "description": "煮面条",
+        "time": "19:10"
+      },
+      {
+        "category": "交通",
+        "amount": 26.0,
+        "description": "骑共享单车",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 78.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 9.0,
+        "description": "泡面",
+        "time": "15:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "蛋炒饭",
+        "time": "19:15"
+      },
+      {
+        "category": "交通",
+        "amount": 27.0,
+        "description": "骑共享单车",
+        "time": "08:20"
+      }
+    ],
+    "daily_total": 48.0,
+    "monthly_income": 30000
+  },
+  {
+    "date": "2026-03-17",
+    "records": [
+      {
+        "category": "其他",
+        "amount": 0,
+        "description": "【小客户李总还了20万！终于松了口气】",
+        "time": "11:00"
+      },
+      {
+        "category": "交通",
+        "amount": 34.0,
+        "description": "打车去公司",
+        "time": "09:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.0,
+        "description": "自己煮面",
+        "time": "15:15"
+      },
+      {
+        "category": "医疗",
+        "amount": 289.0,
+        "description": "血压监测",
+        "time": "10:45"
+      }
+    ],
+    "daily_total": 355.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-18",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 41.0,
+        "description": "打车去公司",
+        "time": "09:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 40.0,
+        "description": "自己煮面",
+        "time": "12:20"
+      }
+    ],
+    "daily_total": 81.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-19",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 31.0,
+        "description": "打车去公司",
+        "time": "10:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.0,
+        "description": "自己煮面",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 47.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-20",
+    "records": [
+      {
+        "category": "其他",
+        "amount": 0,
+        "description": "【老婆回来了，说再给一次机会】",
+        "time": "19:00"
+      },
+      {
+        "category": "交通",
+        "amount": 41.0,
+        "description": "骑车",
+        "time": "08:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 90.0,
+        "description": "买菜做饭",
+        "time": "11:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 40.0,
+        "description": "鸡汤",
+        "time": "18:10"
+      }
+    ],
+    "daily_total": 171.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-21",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 39.0,
+        "description": "打车去公司",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 75.0,
+        "description": "家常菜",
+        "time": "11:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 51.0,
+        "description": "蒸鱼+蔬菜",
+        "time": "18:40"
+      }
+    ],
+    "daily_total": 165.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-22",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 47.0,
+        "description": "公交",
+        "time": "09:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 98.0,
+        "description": "买菜做饭",
+        "time": "13:40"
+      },
+      {
+        "category": "医疗",
+        "amount": 1200,
+        "description": "月度降压药+心脏药",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 1345.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-23",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 22.0,
+        "description": "公交",
+        "time": "10:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 98.0,
+        "description": "买菜做饭",
+        "time": "11:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 57.0,
+        "description": "粗粮粥",
+        "time": "19:30"
+      }
+    ],
+    "daily_total": 177.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-24",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 45.0,
+        "description": "打车去公司",
+        "time": "08:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 68.0,
+        "description": "买菜做饭",
+        "time": "13:20"
+      }
+    ],
+    "daily_total": 113.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-25",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 34.0,
+        "description": "骑车",
+        "time": "09:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 47.0,
+        "description": "老婆做的饭",
+        "time": "11:30"
+      },
+      {
+        "category": "医疗",
+        "amount": 147.0,
+        "description": "血压监测",
+        "time": "09:45"
+      }
+    ],
+    "daily_total": 228.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-26",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 34.0,
+        "description": "骑车",
+        "time": "10:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 75.0,
+        "description": "家常菜",
+        "time": "12:10"
+      }
+    ],
+    "daily_total": 109.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-27",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 48.0,
+        "description": "打车去公司",
+        "time": "08:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 53.0,
+        "description": "清淡家常",
+        "time": "11:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 64.0,
+        "description": "鸡汤",
+        "time": "18:45"
+      }
+    ],
+    "daily_total": 165.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-28",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 49.0,
+        "description": "打车去公司",
+        "time": "08:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 79.0,
+        "description": "老婆做的饭",
+        "time": "11:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 36.0,
+        "description": "蒸鱼+蔬菜",
+        "time": "18:20"
+      }
+    ],
+    "daily_total": 164.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-29",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 44.0,
+        "description": "公交",
+        "time": "09:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 87.0,
+        "description": "老婆做的饭",
+        "time": "12:15"
+      }
+    ],
+    "daily_total": 131.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-30",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 44.0,
+        "description": "公交",
+        "time": "10:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 48.0,
+        "description": "买菜做饭",
+        "time": "11:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 43.0,
+        "description": "蒸鱼+蔬菜",
+        "time": "19:10"
+      }
+    ],
+    "daily_total": 135.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-03-31",
+    "records": [
+      {
+        "category": "交通",
+        "amount": 34.0,
+        "description": "打车去公司",
+        "time": "10:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 67.0,
+        "description": "家常菜",
+        "time": "13:00"
+      }
+    ],
+    "daily_total": 101.0,
+    "monthly_income": 50000
+  }
+]

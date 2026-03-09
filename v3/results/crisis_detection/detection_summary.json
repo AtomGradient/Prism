@@ -1,0 +1,137 @@
+{
+  "total_users": 14,
+  "total_signals": 800,
+  "level_totals": {
+    "L1": 381,
+    "L2": 116,
+    "L3": 53
+  },
+  "users": {
+    "user_01": {
+      "signal_count": 84,
+      "crisis_count_by_level": {
+        "1": 37,
+        "2": 22,
+        "3": 7
+      },
+      "drift_class": "unexpected"
+    },
+    "user_02": {
+      "signal_count": 72,
+      "crisis_count_by_level": {
+        "1": 14,
+        "2": 16,
+        "3": 4
+      },
+      "drift_class": "severe"
+    },
+    "user_03": {
+      "signal_count": 44,
+      "crisis_count_by_level": {
+        "1": 44,
+        "2": 0,
+        "3": 0
+      },
+      "drift_class": "normal"
+    },
+    "user_04": {
+      "signal_count": 72,
+      "crisis_count_by_level": {
+        "1": 42,
+        "2": 0,
+        "3": 8
+      },
+      "drift_class": "normal"
+    },
+    "user_05": {
+      "signal_count": 59,
+      "crisis_count_by_level": {
+        "1": 54,
+        "2": 3,
+        "3": 0
+      },
+      "drift_class": "normal"
+    },
+    "user_06": {
+      "signal_count": 61,
+      "crisis_count_by_level": {
+        "1": 44,
+        "2": 9,
+        "3": 0
+      },
+      "drift_class": "normal"
+    },
+    "user_07": {
+      "signal_count": 109,
+      "crisis_count_by_level": {
+        "1": 34,
+        "2": 7,
+        "3": 18
+      },
+      "drift_class": "unexpected"
+    },
+    "user_08": {
+      "signal_count": 96,
+      "crisis_count_by_level": {
+        "1": 43,
+        "2": 28,
+        "3": 0
+      },
+      "drift_class": "severe"
+    },
+    "user_09": {
+      "signal_count": 132,
+      "crisis_count_by_level": {
+        "1": 16,
+        "2": 24,
+        "3": 16
+      },
+      "drift_class": "severe"
+    },
+    "user_10": {
+      "signal_count": 71,
+      "crisis_count_by_level": {
+        "1": 53,
+        "2": 7,
+        "3": 0
+      },
+      "drift_class": "normal"
+    },
+    "lixiang": {
+      "signal_count": 0,
+      "crisis_count_by_level": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "drift_class": "normal"
+    },
+    "wangguilan": {
+      "signal_count": 0,
+      "crisis_count_by_level": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "drift_class": "unexpected"
+    },
+    "zhangxiuying": {
+      "signal_count": 0,
+      "crisis_count_by_level": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "drift_class": "unexpected"
+    },
+    "chenmo": {
+      "signal_count": 0,
+      "crisis_count_by_level": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "drift_class": "unexpected"
+    }
+  }
+}

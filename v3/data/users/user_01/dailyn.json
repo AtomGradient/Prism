@@ -1,0 +1,2480 @@
+[
+  {
+    "date": "2026-01-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "包子稀饭",
+        "time": "06:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "方便面",
+        "time": "19:07"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:09"
+      },
+      {
+        "category": "住房",
+        "amount": 400.0,
+        "description": "宿舍房租",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 420.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "食堂早餐",
+        "time": "06:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂面条",
+        "time": "18:06"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:15"
+      }
+    ],
+    "daily_total": 28.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂晚饭",
+        "time": "18:03"
+      }
+    ],
+    "daily_total": 20.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "馒头豆浆",
+        "time": "06:35"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂面条",
+        "time": "18:00"
+      },
+      {
+        "category": "娱乐",
+        "amount": 10.0,
+        "description": "和工友聚餐AA",
+        "time": "14:23"
+      }
+    ],
+    "daily_total": 36.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "泡面+火腿肠",
+        "time": "19:05"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:08"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:34"
+      },
+      {
+        "category": "通讯",
+        "amount": 29.0,
+        "description": "手机话费",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 44.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂盖浇饭",
+        "time": "12:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂面条",
+        "time": "18:27"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:05"
+      }
+    ],
+    "daily_total": 24.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "食堂早餐",
+        "time": "06:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:17"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面",
+        "time": "19:21"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:19"
+      }
+    ],
+    "daily_total": 19.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂盖浇饭",
+        "time": "12:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "方便面",
+        "time": "19:29"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:17"
+      }
+    ],
+    "daily_total": 15.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "馒头豆浆",
+        "time": "06:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂面条",
+        "time": "18:14"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:01"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:51"
+      }
+    ],
+    "daily_total": 29.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "馒头豆浆",
+        "time": "06:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:03"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂晚饭",
+        "time": "18:03"
+      }
+    ],
+    "daily_total": 23.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "包子稀饭",
+        "time": "06:22"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂晚饭",
+        "time": "18:25"
+      }
+    ],
+    "daily_total": 23.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "馒头豆浆",
+        "time": "06:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂午饭",
+        "time": "12:09"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂面条",
+        "time": "18:12"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:20"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:37"
+      }
+    ],
+    "daily_total": 27.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "食堂早餐",
+        "time": "06:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂午饭",
+        "time": "12:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂晚饭",
+        "time": "18:21"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:11"
+      }
+    ],
+    "daily_total": 31.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "包子稀饭",
+        "time": "06:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:09"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "泡面+火腿肠",
+        "time": "19:06"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:14"
+      }
+    ],
+    "daily_total": 21.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "馒头豆浆",
+        "time": "06:33"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂晚饭",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:01"
+      },
+      {
+        "category": "转账",
+        "amount": 1500.0,
+        "description": "寄钱回家",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1529.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂午饭",
+        "time": "12:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面+火腿肠",
+        "time": "19:24"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:19"
+      }
+    ],
+    "daily_total": 15.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂午饭",
+        "time": "12:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "方便面",
+        "time": "19:02"
+      }
+    ],
+    "daily_total": 11.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "食堂早餐",
+        "time": "06:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂盖浇饭",
+        "time": "12:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂晚饭",
+        "time": "18:11"
+      }
+    ],
+    "daily_total": 23.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "包子稀饭",
+        "time": "06:16"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面",
+        "time": "19:14"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:04"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:36"
+      }
+    ],
+    "daily_total": 22.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:03"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂面条",
+        "time": "18:28"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:16"
+      }
+    ],
+    "daily_total": 20.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "食堂早餐",
+        "time": "06:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:19"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂晚饭",
+        "time": "18:08"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:12"
+      }
+    ],
+    "daily_total": 25.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "包子稀饭",
+        "time": "06:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:09"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂面条",
+        "time": "18:20"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:17"
+      }
+    ],
+    "daily_total": 27.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂盖浇饭",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂晚饭",
+        "time": "18:15"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:07"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:34"
+      }
+    ],
+    "daily_total": 26.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "食堂早餐",
+        "time": "06:38"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂午饭",
+        "time": "12:06"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂晚饭",
+        "time": "18:09"
+      },
+      {
+        "category": "娱乐",
+        "amount": 15.0,
+        "description": "网吧",
+        "time": "16:37"
+      }
+    ],
+    "daily_total": 39.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面",
+        "time": "19:14"
+      },
+      {
+        "category": "娱乐",
+        "amount": 20.0,
+        "description": "网吧",
+        "time": "16:30"
+      }
+    ],
+    "daily_total": 34.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂晚饭",
+        "time": "18:12"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:04"
+      }
+    ],
+    "daily_total": 18.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "食堂早餐",
+        "time": "06:23"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面",
+        "time": "19:21"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:19"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:42"
+      },
+      {
+        "category": "日用",
+        "amount": 8.0,
+        "description": "袜子",
+        "time": "20:58"
+      }
+    ],
+    "daily_total": 32.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "食堂早餐",
+        "time": "06:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面+火腿肠",
+        "time": "19:14"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:20"
+      }
+    ],
+    "daily_total": 21.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "食堂早餐",
+        "time": "06:34"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂面条",
+        "time": "18:03"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:17"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:51"
+      }
+    ],
+    "daily_total": 30.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂面条",
+        "time": "18:23"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:13"
+      }
+    ],
+    "daily_total": 20.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-01-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "包子稀饭",
+        "time": "06:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂午饭",
+        "time": "12:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "方便面",
+        "time": "19:04"
+      }
+    ],
+    "daily_total": 16.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-02-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "食堂早餐",
+        "time": "06:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂盖浇饭",
+        "time": "12:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂晚饭",
+        "time": "18:26"
+      },
+      {
+        "category": "住房",
+        "amount": 400.0,
+        "description": "宿舍房租",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 423.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-02-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "食堂早餐",
+        "time": "06:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂晚饭",
+        "time": "18:11"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:02"
+      }
+    ],
+    "daily_total": 24.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-02-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "食堂早餐",
+        "time": "06:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂午饭",
+        "time": "12:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂面条",
+        "time": "18:07"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:20"
+      }
+    ],
+    "daily_total": 30.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-02-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面+火腿肠",
+        "time": "19:10"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:07"
+      }
+    ],
+    "daily_total": 17.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-02-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "食堂早餐",
+        "time": "06:31"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂盖浇饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂面条",
+        "time": "18:26"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:05"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:44"
+      },
+      {
+        "category": "通讯",
+        "amount": 29.0,
+        "description": "手机话费",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 59.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-02-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "食堂早餐",
+        "time": "06:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂盖浇饭",
+        "time": "12:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "泡面+火腿肠",
+        "time": "19:05"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:19"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:49"
+      }
+    ],
+    "daily_total": 20.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-02-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "包子稀饭",
+        "time": "06:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂面条",
+        "time": "18:25"
+      },
+      {
+        "category": "日用",
+        "amount": 5.0,
+        "description": "袜子",
+        "time": "20:45"
+      }
+    ],
+    "daily_total": 32.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-02-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂炒菜套餐",
+        "time": "12:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂晚饭",
+        "time": "18:00"
+      }
+    ],
+    "daily_total": 20.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-02-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "最便宜的盒饭",
+        "time": "12:28"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "馒头",
+        "time": "18:51"
+      }
+    ],
+    "daily_total": 7.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "最便宜的盒饭",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "馒头",
+        "time": "18:41"
+      }
+    ],
+    "daily_total": 7.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "泡面",
+        "time": "12:25"
+      }
+    ],
+    "daily_total": 3.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.0,
+        "description": "馒头",
+        "time": "08:26"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "馒头咸菜",
+        "time": "12:28"
+      }
+    ],
+    "daily_total": 8.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "馒头",
+        "time": "08:28"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "最便宜的盒饭",
+        "time": "12:22"
+      }
+    ],
+    "daily_total": 7.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "最便宜的盒饭",
+        "time": "12:11"
+      }
+    ],
+    "daily_total": 5.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "馒头咸菜",
+        "time": "12:13"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交去面试",
+        "time": "10:52"
+      }
+    ],
+    "daily_total": 8.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "馒头",
+        "time": "08:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面",
+        "time": "12:09"
+      }
+    ],
+    "daily_total": 8.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.0,
+        "description": "馒头",
+        "time": "08:22"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "泡面",
+        "time": "12:09"
+      }
+    ],
+    "daily_total": 5.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "白米饭+免费汤",
+        "time": "12:26"
+      }
+    ],
+    "daily_total": 3.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面",
+        "time": "12:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "挂面煮鸡蛋",
+        "time": "18:45"
+      }
+    ],
+    "daily_total": 9.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 2.0,
+        "description": "馒头",
+        "time": "08:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "白米饭+免费汤",
+        "time": "12:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面",
+        "time": "18:59"
+      }
+    ],
+    "daily_total": 11.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "白粥",
+        "time": "08:26"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面",
+        "time": "12:28"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "馒头",
+        "time": "18:57"
+      }
+    ],
+    "daily_total": 12.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面",
+        "time": "12:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "挂面煮鸡蛋",
+        "time": "18:53"
+      }
+    ],
+    "daily_total": 9.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "豆浆油条",
+        "time": "06:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "小饭馆",
+        "time": "12:23"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面",
+        "time": "19:01"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:05"
+      }
+    ],
+    "daily_total": 17.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-02-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "豆浆油条",
+        "time": "06:46"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "小饭馆",
+        "time": "12:06"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "快餐",
+        "time": "18:24"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:04"
+      }
+    ],
+    "daily_total": 20.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-02-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "豆浆油条",
+        "time": "06:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "小饭馆",
+        "time": "12:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "盖浇饭",
+        "time": "18:01"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:13"
+      }
+    ],
+    "daily_total": 18.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-02-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "包子",
+        "time": "06:41"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "小饭馆",
+        "time": "12:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "面条",
+        "time": "18:33"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:18"
+      }
+    ],
+    "daily_total": 25.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-02-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "早餐摊",
+        "time": "06:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "小饭馆",
+        "time": "12:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "盖浇饭",
+        "time": "18:14"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:01"
+      }
+    ],
+    "daily_total": 18.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-02-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "豆浆油条",
+        "time": "06:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "快餐",
+        "time": "12:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "快餐",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 21.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-01",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "豆浆油条",
+        "time": "06:26"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "小饭馆",
+        "time": "12:07"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "面条",
+        "time": "18:07"
+      },
+      {
+        "category": "住房",
+        "amount": 400.0,
+        "description": "房租",
+        "time": "09:00"
+      }
+    ],
+    "daily_total": 421.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "盒饭",
+        "time": "12:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "面条",
+        "time": "18:11"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:01"
+      }
+    ],
+    "daily_total": 18.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "快餐",
+        "time": "12:29"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "快餐",
+        "time": "18:02"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:03"
+      }
+    ],
+    "daily_total": 20.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "快餐",
+        "time": "12:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面",
+        "time": "19:29"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:09"
+      }
+    ],
+    "daily_total": 14.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "小饭馆",
+        "time": "12:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "面条",
+        "time": "18:27"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:20"
+      },
+      {
+        "category": "通讯",
+        "amount": 29.0,
+        "description": "手机话费",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 45.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "包子",
+        "time": "06:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "小饭馆",
+        "time": "12:10"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "泡面",
+        "time": "19:10"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:18"
+      }
+    ],
+    "daily_total": 18.5,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "包子",
+        "time": "06:33"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "小饭馆",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "快餐",
+        "time": "18:02"
+      }
+    ],
+    "daily_total": 21.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "包子",
+        "time": "06:37"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "快餐",
+        "time": "12:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "面条",
+        "time": "18:17"
+      }
+    ],
+    "daily_total": 22.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "包子",
+        "time": "06:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "小饭馆",
+        "time": "12:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 6.0,
+        "description": "盖浇饭",
+        "time": "18:11"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:10"
+      }
+    ],
+    "daily_total": 21.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "豆浆油条",
+        "time": "06:36"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "快餐",
+        "time": "12:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面",
+        "time": "19:08"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:07"
+      }
+    ],
+    "daily_total": 22.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "快餐",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面",
+        "time": "19:29"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:06"
+      }
+    ],
+    "daily_total": 14.0,
+    "monthly_income": 3000
+  },
+  {
+    "date": "2026-03-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "食堂早餐",
+        "time": "06:23"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂套餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "泡面",
+        "time": "19:21"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:17"
+      }
+    ],
+    "daily_total": 20.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:17"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂晚饭",
+        "time": "18:18"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:17"
+      },
+      {
+        "category": "日用",
+        "amount": 15.0,
+        "description": "纸巾",
+        "time": "19:01"
+      }
+    ],
+    "daily_total": 37.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "馒头鸡蛋",
+        "time": "06:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂午饭",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面",
+        "time": "19:13"
+      }
+    ],
+    "daily_total": 17.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂套餐",
+        "time": "12:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "面条",
+        "time": "18:22"
+      },
+      {
+        "category": "转账",
+        "amount": 1200.0,
+        "description": "寄钱回家",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 1222.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "馒头鸡蛋",
+        "time": "06:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂套餐",
+        "time": "12:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂晚饭",
+        "time": "18:08"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:13"
+      }
+    ],
+    "daily_total": 24.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "馒头鸡蛋",
+        "time": "06:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂套餐",
+        "time": "12:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面",
+        "time": "19:18"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:03"
+      }
+    ],
+    "daily_total": 22.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂套餐",
+        "time": "12:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂晚饭",
+        "time": "18:17"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:01"
+      }
+    ],
+    "daily_total": 26.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "食堂早餐",
+        "time": "06:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂套餐",
+        "time": "12:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "面条",
+        "time": "18:26"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:01"
+      }
+    ],
+    "daily_total": 29.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "包子豆浆",
+        "time": "06:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "面条",
+        "time": "18:10"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:15"
+      }
+    ],
+    "daily_total": 25.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "馒头鸡蛋",
+        "time": "06:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂午饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂晚饭",
+        "time": "18:15"
+      }
+    ],
+    "daily_total": 21.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "食堂午饭",
+        "time": "12:07"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "面条",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 20.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂套餐",
+        "time": "12:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "泡面",
+        "time": "19:04"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:18"
+      },
+      {
+        "category": "日用",
+        "amount": 8.0,
+        "description": "牙刷",
+        "time": "19:53"
+      }
+    ],
+    "daily_total": 23.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "馒头鸡蛋",
+        "time": "06:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:06"
+      },
+      {
+        "category": "餐饮",
+        "amount": 3.5,
+        "description": "泡面",
+        "time": "19:03"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:05"
+      }
+    ],
+    "daily_total": 19.5,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 3.0,
+        "description": "包子豆浆",
+        "time": "06:28"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:02"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "面条",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:19"
+      }
+    ],
+    "daily_total": 27.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂套餐",
+        "time": "12:17"
+      },
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "泡面",
+        "time": "19:23"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:08"
+      }
+    ],
+    "daily_total": 17.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 5.0,
+        "description": "馒头鸡蛋",
+        "time": "06:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂午饭",
+        "time": "12:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂晚饭",
+        "time": "18:14"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:02"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交回程",
+        "time": "18:41"
+      }
+    ],
+    "daily_total": 33.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂套餐",
+        "time": "12:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面",
+        "time": "19:00"
+      }
+    ],
+    "daily_total": 16.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "食堂早餐",
+        "time": "06:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "食堂午饭",
+        "time": "12:16"
+      },
+      {
+        "category": "餐饮",
+        "amount": 8.0,
+        "description": "面条",
+        "time": "18:16"
+      }
+    ],
+    "daily_total": 24.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂晚饭",
+        "time": "18:16"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:11"
+      }
+    ],
+    "daily_total": 22.0,
+    "monthly_income": 3500
+  },
+  {
+    "date": "2026-03-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "馒头鸡蛋",
+        "time": "06:33"
+      },
+      {
+        "category": "餐饮",
+        "amount": 10.0,
+        "description": "食堂午饭",
+        "time": "12:16"
+      },
+      {
+        "category": "餐饮",
+        "amount": 4.0,
+        "description": "泡面",
+        "time": "19:13"
+      },
+      {
+        "category": "交通",
+        "amount": 2.0,
+        "description": "公交",
+        "time": "07:00"
+      }
+    ],
+    "daily_total": 20.0,
+    "monthly_income": 3500
+  }
+]

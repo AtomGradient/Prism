@@ -1,0 +1,1352 @@
+[
+  {
+    "date": "2026-01-01",
+    "mood_score": 0.46,
+    "primary_emotion": "烦躁",
+    "stress_level": 8,
+    "sleep_hours": 6.4,
+    "sleep_time": "01:05",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "客服",
+      "投诉",
+      "烦"
+    ],
+    "journal_snippet": "数据又没达标，老板脸色不好看"
+  },
+  {
+    "date": "2026-01-02",
+    "mood_score": 0.46,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.7,
+    "sleep_time": "01:00",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "加班",
+      "运营",
+      "活动"
+    ],
+    "journal_snippet": "直播数据还行，但转化率不够高"
+  },
+  {
+    "date": "2026-01-03",
+    "mood_score": 0.76,
+    "primary_emotion": "平静",
+    "stress_level": 7,
+    "sleep_hours": 8.2,
+    "sleep_time": "00:20",
+    "wake_time": "10:45",
+    "journal_keywords": [
+      "加班",
+      "运营",
+      "活动"
+    ],
+    "journal_snippet": "周末终于可以打打游戏放松一下"
+  },
+  {
+    "date": "2026-01-04",
+    "mood_score": 0.74,
+    "primary_emotion": "疲惫",
+    "stress_level": 3,
+    "sleep_hours": 8.5,
+    "sleep_time": "01:00",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "直播",
+      "流量",
+      "压力"
+    ],
+    "journal_snippet": "处理了一堆售后问题，心累"
+  },
+  {
+    "date": "2026-01-05",
+    "mood_score": 0.51,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:30",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "客服",
+      "投诉",
+      "烦"
+    ],
+    "journal_snippet": "今天的复盘会开了3个小时，崩溃"
+  },
+  {
+    "date": "2026-01-06",
+    "mood_score": 0.56,
+    "primary_emotion": "烦躁",
+    "stress_level": 8,
+    "sleep_hours": 6.0,
+    "sleep_time": "01:10",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "直播",
+      "流量",
+      "压力"
+    ],
+    "journal_snippet": "今天的复盘会开了3个小时，崩溃"
+  },
+  {
+    "date": "2026-01-07",
+    "mood_score": 0.58,
+    "primary_emotion": "烦躁",
+    "stress_level": 5,
+    "sleep_hours": 6.3,
+    "sleep_time": "00:10",
+    "wake_time": "07:15",
+    "journal_keywords": [
+      "加班",
+      "运营",
+      "活动"
+    ],
+    "journal_snippet": "好累，感觉996真的要扛不住了"
+  },
+  {
+    "date": "2026-01-08",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:45",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "客服",
+      "投诉",
+      "烦"
+    ],
+    "journal_snippet": "又加班到12点，明天还有活动要上线..."
+  },
+  {
+    "date": "2026-01-09",
+    "mood_score": 0.68,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.0,
+    "sleep_time": "01:45",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "数据",
+      "转化率",
+      "焦虑"
+    ],
+    "journal_snippet": "处理了一堆售后问题，心累"
+  },
+  {
+    "date": "2026-01-10",
+    "mood_score": 0.79,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 8.5,
+    "sleep_time": "00:00",
+    "wake_time": "09:15",
+    "journal_keywords": [
+      "数据",
+      "转化率",
+      "焦虑"
+    ],
+    "journal_snippet": "好累，感觉996真的要扛不住了"
+  },
+  {
+    "date": "2026-01-11",
+    "mood_score": 0.48,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 8.2,
+    "sleep_time": "00:25",
+    "wake_time": "09:00",
+    "journal_keywords": [
+      "选品",
+      "上架",
+      "加班"
+    ],
+    "journal_snippet": "处理了一堆售后问题，心累"
+  },
+  {
+    "date": "2026-01-12",
+    "mood_score": 0.44,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 6.9,
+    "sleep_time": "01:55",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "直播",
+      "流量",
+      "压力"
+    ],
+    "journal_snippet": "直播数据还行，但转化率不够高"
+  },
+  {
+    "date": "2026-01-13",
+    "mood_score": 0.5,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.7,
+    "sleep_time": "01:50",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "数据",
+      "转化率",
+      "焦虑"
+    ],
+    "journal_snippet": "周末终于可以打打游戏放松一下"
+  },
+  {
+    "date": "2026-01-14",
+    "mood_score": 0.61,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.7,
+    "sleep_time": "01:20",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "客服",
+      "投诉",
+      "烦"
+    ],
+    "journal_snippet": "处理了一堆售后问题，心累"
+  },
+  {
+    "date": "2026-01-15",
+    "mood_score": 0.45,
+    "primary_emotion": "无聊",
+    "stress_level": 5,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:10",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "直播",
+      "流量",
+      "压力"
+    ],
+    "journal_snippet": "周末终于可以打打游戏放松一下"
+  },
+  {
+    "date": "2026-01-16",
+    "mood_score": 0.59,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.6,
+    "sleep_time": "00:25",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "数据",
+      "转化率",
+      "焦虑"
+    ],
+    "journal_snippet": "直播数据还行，但转化率不够高"
+  },
+  {
+    "date": "2026-01-17",
+    "mood_score": 0.69,
+    "primary_emotion": "无聊",
+    "stress_level": 3,
+    "sleep_hours": 7.9,
+    "sleep_time": "00:25",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "客服",
+      "投诉",
+      "烦"
+    ],
+    "journal_snippet": "直播数据还行，但转化率不够高"
+  },
+  {
+    "date": "2026-01-18",
+    "mood_score": 0.76,
+    "primary_emotion": "平静",
+    "stress_level": 3,
+    "sleep_hours": 8.5,
+    "sleep_time": "01:25",
+    "wake_time": "11:45",
+    "journal_keywords": [
+      "会议",
+      "复盘",
+      "KPI"
+    ],
+    "journal_snippet": "周末终于可以打打游戏放松一下"
+  },
+  {
+    "date": "2026-01-19",
+    "mood_score": 0.43,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "客服",
+      "投诉",
+      "烦"
+    ],
+    "journal_snippet": "今天终于准时下班了，难得的平静"
+  },
+  {
+    "date": "2026-01-20",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:55",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "选品",
+      "上架",
+      "加班"
+    ],
+    "journal_snippet": "选品搞了一天，感觉脑子要炸了"
+  },
+  {
+    "date": "2026-01-21",
+    "mood_score": 0.5,
+    "primary_emotion": "无聊",
+    "stress_level": 8,
+    "sleep_hours": 6.9,
+    "sleep_time": "00:45",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "加班",
+      "运营",
+      "活动"
+    ],
+    "journal_snippet": "周末终于可以打打游戏放松一下"
+  },
+  {
+    "date": "2026-01-22",
+    "mood_score": 0.42,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.5,
+    "sleep_time": "01:50",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "数据",
+      "转化率",
+      "焦虑"
+    ],
+    "journal_snippet": "周末终于可以打打游戏放松一下"
+  },
+  {
+    "date": "2026-01-23",
+    "mood_score": 0.47,
+    "primary_emotion": "平静",
+    "stress_level": 5,
+    "sleep_hours": 6.8,
+    "sleep_time": "00:00",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "直播",
+      "流量",
+      "压力"
+    ],
+    "journal_snippet": "今天的复盘会开了3个小时，崩溃"
+  },
+  {
+    "date": "2026-01-24",
+    "mood_score": 0.63,
+    "primary_emotion": "无聊",
+    "stress_level": 6,
+    "sleep_hours": 7.6,
+    "sleep_time": "00:50",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "客服",
+      "投诉",
+      "烦"
+    ],
+    "journal_snippet": "处理了一堆售后问题，心累"
+  },
+  {
+    "date": "2026-01-25",
+    "mood_score": 0.64,
+    "primary_emotion": "烦躁",
+    "stress_level": 2,
+    "sleep_hours": 8.0,
+    "sleep_time": "01:10",
+    "wake_time": "10:45",
+    "journal_keywords": [
+      "会议",
+      "复盘",
+      "KPI"
+    ],
+    "journal_snippet": "好累，感觉996真的要扛不住了"
+  },
+  {
+    "date": "2026-01-26",
+    "mood_score": 0.51,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 6.2,
+    "sleep_time": "00:20",
+    "wake_time": "07:15",
+    "journal_keywords": [
+      "选品",
+      "上架",
+      "加班"
+    ],
+    "journal_snippet": "好累，感觉996真的要扛不住了"
+  },
+  {
+    "date": "2026-01-27",
+    "mood_score": 0.63,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "01:45",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "客服",
+      "投诉",
+      "烦"
+    ],
+    "journal_snippet": "直播数据还行，但转化率不够高"
+  },
+  {
+    "date": "2026-01-28",
+    "mood_score": 0.65,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 6.4,
+    "sleep_time": "00:35",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "客服",
+      "投诉",
+      "烦"
+    ],
+    "journal_snippet": "好累，感觉996真的要扛不住了"
+  },
+  {
+    "date": "2026-01-29",
+    "mood_score": 0.52,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 6.7,
+    "sleep_time": "00:05",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "直播",
+      "流量",
+      "压力"
+    ],
+    "journal_snippet": "今天的复盘会开了3个小时，崩溃"
+  },
+  {
+    "date": "2026-01-30",
+    "mood_score": 0.79,
+    "primary_emotion": "兴奋",
+    "stress_level": 6,
+    "sleep_hours": 5.1,
+    "sleep_time": "00:50",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "升职",
+      "开心",
+      "紧张"
+    ],
+    "journal_snippet": "居然被提拔了！组长！有点不敢相信"
+  },
+  {
+    "date": "2026-01-31",
+    "mood_score": 0.94,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 7.2,
+    "sleep_time": "02:30",
+    "wake_time": "11:30",
+    "journal_keywords": [
+      "新团队",
+      "责任",
+      "挑战"
+    ],
+    "journal_snippet": "新角色第一天，感觉压力好大但也很激动"
+  },
+  {
+    "date": "2026-02-01",
+    "mood_score": 0.89,
+    "primary_emotion": "兴奋",
+    "stress_level": 6,
+    "sleep_hours": 7.2,
+    "sleep_time": "00:10",
+    "wake_time": "11:00",
+    "journal_keywords": [
+      "组长",
+      "管理",
+      "适应"
+    ],
+    "journal_snippet": "开始带团队了，要学的东西好多"
+  },
+  {
+    "date": "2026-02-02",
+    "mood_score": 0.79,
+    "primary_emotion": "紧张",
+    "stress_level": 5,
+    "sleep_hours": 6.3,
+    "sleep_time": "01:30",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "组长",
+      "管理",
+      "适应"
+    ],
+    "journal_snippet": "新角色第一天，感觉压力好大但也很激动"
+  },
+  {
+    "date": "2026-02-03",
+    "mood_score": 0.66,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.9,
+    "sleep_time": "02:30",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "升职",
+      "开心",
+      "紧张"
+    ],
+    "journal_snippet": "开始带团队了，要学的东西好多"
+  },
+  {
+    "date": "2026-02-04",
+    "mood_score": 0.78,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 6.1,
+    "sleep_time": "01:25",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "升职",
+      "开心",
+      "紧张"
+    ],
+    "journal_snippet": "居然被提拔了！组长！有点不敢相信"
+  },
+  {
+    "date": "2026-02-05",
+    "mood_score": 0.77,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 6.3,
+    "sleep_time": "02:05",
+    "wake_time": "07:15",
+    "journal_keywords": [
+      "新团队",
+      "责任",
+      "挑战"
+    ],
+    "journal_snippet": "新角色第一天，感觉压力好大但也很激动"
+  },
+  {
+    "date": "2026-02-06",
+    "mood_score": 0.51,
+    "primary_emotion": "紧张",
+    "stress_level": 9,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:15",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "带团队",
+      "加班",
+      "责任"
+    ],
+    "journal_snippet": "老板又加了新指标，头大"
+  },
+  {
+    "date": "2026-02-07",
+    "mood_score": 0.77,
+    "primary_emotion": "满足",
+    "stress_level": 8,
+    "sleep_hours": 8.0,
+    "sleep_time": "00:05",
+    "wake_time": "10:45",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "管理和执行完全不一样，在学习中"
+  },
+  {
+    "date": "2026-02-08",
+    "mood_score": 0.61,
+    "primary_emotion": "焦虑",
+    "stress_level": 5,
+    "sleep_hours": 7.1,
+    "sleep_time": "00:25",
+    "wake_time": "11:15",
+    "journal_keywords": [
+      "开会",
+      "汇报",
+      "压力"
+    ],
+    "journal_snippet": "连续3天应酬，肝要受不了了"
+  },
+  {
+    "date": "2026-02-09",
+    "mood_score": 0.5,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 6.0,
+    "sleep_time": "00:25",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "带团队才知道管理多难，每个人想法都不同"
+  },
+  {
+    "date": "2026-02-10",
+    "mood_score": 0.49,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 5.5,
+    "sleep_time": "01:55",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "今天终于没有应酬，好好休息了一下"
+  },
+  {
+    "date": "2026-02-11",
+    "mood_score": 0.46,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 6.3,
+    "sleep_time": "02:15",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "连续3天应酬，肝要受不了了"
+  },
+  {
+    "date": "2026-02-12",
+    "mood_score": 0.58,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 6.4,
+    "sleep_time": "02:10",
+    "wake_time": "07:15",
+    "journal_keywords": [
+      "管理",
+      "应酬",
+      "累"
+    ],
+    "journal_snippet": "和同事喝了个酒，聊了很多，感觉被认可了"
+  },
+  {
+    "date": "2026-02-13",
+    "mood_score": 0.5,
+    "primary_emotion": "满足",
+    "stress_level": 8,
+    "sleep_hours": 5.6,
+    "sleep_time": "01:25",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "KPI压力传导到我这里了，要带着团队冲"
+  },
+  {
+    "date": "2026-02-14",
+    "mood_score": 0.58,
+    "primary_emotion": "满足",
+    "stress_level": 7,
+    "sleep_hours": 7.0,
+    "sleep_time": "02:25",
+    "wake_time": "11:30",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "应酬完打车回家，好累但觉得值得"
+  },
+  {
+    "date": "2026-02-15",
+    "mood_score": 0.66,
+    "primary_emotion": "烦躁",
+    "stress_level": 3,
+    "sleep_hours": 7.7,
+    "sleep_time": "01:20",
+    "wake_time": "11:30",
+    "journal_keywords": [
+      "管理",
+      "应酬",
+      "累"
+    ],
+    "journal_snippet": "今天终于没有应酬，好好休息了一下"
+  },
+  {
+    "date": "2026-02-16",
+    "mood_score": 0.49,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.0,
+    "sleep_time": "02:10",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "老板又加了新指标，头大"
+  },
+  {
+    "date": "2026-02-17",
+    "mood_score": 0.65,
+    "primary_emotion": "烦躁",
+    "stress_level": 8,
+    "sleep_hours": 6.1,
+    "sleep_time": "02:55",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "老板又加了新指标，头大"
+  },
+  {
+    "date": "2026-02-18",
+    "mood_score": 0.6,
+    "primary_emotion": "满足",
+    "stress_level": 7,
+    "sleep_hours": 6.4,
+    "sleep_time": "02:25",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "和同事喝了个酒，聊了很多，感觉被认可了"
+  },
+  {
+    "date": "2026-02-19",
+    "mood_score": 0.62,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.2,
+    "sleep_time": "01:55",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "管理",
+      "应酬",
+      "累"
+    ],
+    "journal_snippet": "和同事喝了个酒，聊了很多，感觉被认可了"
+  },
+  {
+    "date": "2026-02-20",
+    "mood_score": 0.58,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.6,
+    "sleep_time": "01:25",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "开会",
+      "汇报",
+      "压力"
+    ],
+    "journal_snippet": "KPI压力传导到我这里了，要带着团队冲"
+  },
+  {
+    "date": "2026-02-21",
+    "mood_score": 0.65,
+    "primary_emotion": "烦躁",
+    "stress_level": 3,
+    "sleep_hours": 7.1,
+    "sleep_time": "00:40",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "管理",
+      "应酬",
+      "累"
+    ],
+    "journal_snippet": "应酬完打车回家，好累但觉得值得"
+  },
+  {
+    "date": "2026-02-22",
+    "mood_score": 0.71,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 7.8,
+    "sleep_time": "02:35",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "开会",
+      "汇报",
+      "压力"
+    ],
+    "journal_snippet": "今天请组员吃饭，花了不少但团队氛围好了"
+  },
+  {
+    "date": "2026-02-23",
+    "mood_score": 0.62,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:25",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "今天终于没有应酬，好好休息了一下"
+  },
+  {
+    "date": "2026-02-24",
+    "mood_score": 0.54,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.7,
+    "sleep_time": "00:10",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "今天请组员吃饭，花了不少但团队氛围好了"
+  },
+  {
+    "date": "2026-02-25",
+    "mood_score": 0.53,
+    "primary_emotion": "烦躁",
+    "stress_level": 9,
+    "sleep_hours": 5.8,
+    "sleep_time": "02:25",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "管理",
+      "应酬",
+      "累"
+    ],
+    "journal_snippet": "今晚又有饭局，当组长应酬真多..."
+  },
+  {
+    "date": "2026-02-26",
+    "mood_score": 0.6,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:15",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "今晚又有饭局，当组长应酬真多..."
+  },
+  {
+    "date": "2026-02-27",
+    "mood_score": 0.48,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 5.3,
+    "sleep_time": "00:20",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "KPI压力传导到我这里了，要带着团队冲"
+  },
+  {
+    "date": "2026-02-28",
+    "mood_score": 0.68,
+    "primary_emotion": "烦躁",
+    "stress_level": 6,
+    "sleep_hours": 7.7,
+    "sleep_time": "00:10",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "今天请组员吃饭，花了不少但团队氛围好了"
+  },
+  {
+    "date": "2026-03-01",
+    "mood_score": 0.6,
+    "primary_emotion": "焦虑",
+    "stress_level": 6,
+    "sleep_hours": 7.2,
+    "sleep_time": "02:50",
+    "wake_time": "09:45",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "今晚又有饭局，当组长应酬真多..."
+  },
+  {
+    "date": "2026-03-02",
+    "mood_score": 0.63,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 5.9,
+    "sleep_time": "00:50",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "今晚又有饭局，当组长应酬真多..."
+  },
+  {
+    "date": "2026-03-03",
+    "mood_score": 0.46,
+    "primary_emotion": "烦躁",
+    "stress_level": 6,
+    "sleep_hours": 5.2,
+    "sleep_time": "01:35",
+    "wake_time": "07:15",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "老板又加了新指标，头大"
+  },
+  {
+    "date": "2026-03-04",
+    "mood_score": 0.59,
+    "primary_emotion": "紧张",
+    "stress_level": 6,
+    "sleep_hours": 6.0,
+    "sleep_time": "01:45",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "带团队才知道管理多难，每个人想法都不同"
+  },
+  {
+    "date": "2026-03-05",
+    "mood_score": 0.62,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.2,
+    "sleep_time": "00:05",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "应酬完打车回家，好累但觉得值得"
+  },
+  {
+    "date": "2026-03-06",
+    "mood_score": 0.57,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 6.1,
+    "sleep_time": "01:10",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "开会",
+      "汇报",
+      "压力"
+    ],
+    "journal_snippet": "今天终于没有应酬，好好休息了一下"
+  },
+  {
+    "date": "2026-03-07",
+    "mood_score": 0.68,
+    "primary_emotion": "紧张",
+    "stress_level": 8,
+    "sleep_hours": 8.8,
+    "sleep_time": "02:50",
+    "wake_time": "10:15",
+    "journal_keywords": [
+      "开会",
+      "汇报",
+      "压力"
+    ],
+    "journal_snippet": "今晚又有饭局，当组长应酬真多..."
+  },
+  {
+    "date": "2026-03-08",
+    "mood_score": 0.78,
+    "primary_emotion": "满足",
+    "stress_level": 3,
+    "sleep_hours": 7.5,
+    "sleep_time": "01:20",
+    "wake_time": "10:00",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "带团队才知道管理多难，每个人想法都不同"
+  },
+  {
+    "date": "2026-03-09",
+    "mood_score": 0.47,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.2,
+    "sleep_time": "01:30",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "带团队",
+      "加班",
+      "责任"
+    ],
+    "journal_snippet": "今天终于没有应酬，好好休息了一下"
+  },
+  {
+    "date": "2026-03-10",
+    "mood_score": 0.62,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.5,
+    "sleep_time": "01:45",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "开会",
+      "汇报",
+      "压力"
+    ],
+    "journal_snippet": "今天请组员吃饭，花了不少但团队氛围好了"
+  },
+  {
+    "date": "2026-03-11",
+    "mood_score": 0.52,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.6,
+    "sleep_time": "01:20",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "管理",
+      "应酬",
+      "累"
+    ],
+    "journal_snippet": "老板又加了新指标，头大"
+  },
+  {
+    "date": "2026-03-12",
+    "mood_score": 0.61,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 6.5,
+    "sleep_time": "00:05",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "开会",
+      "汇报",
+      "压力"
+    ],
+    "journal_snippet": "今晚又有饭局，当组长应酬真多..."
+  },
+  {
+    "date": "2026-03-13",
+    "mood_score": 0.61,
+    "primary_emotion": "焦虑",
+    "stress_level": 9,
+    "sleep_hours": 6.2,
+    "sleep_time": "02:00",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "老板又加了新指标，头大"
+  },
+  {
+    "date": "2026-03-14",
+    "mood_score": 0.69,
+    "primary_emotion": "烦躁",
+    "stress_level": 3,
+    "sleep_hours": 7.6,
+    "sleep_time": "02:50",
+    "wake_time": "11:15",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "今晚又有饭局，当组长应酬真多..."
+  },
+  {
+    "date": "2026-03-15",
+    "mood_score": 0.71,
+    "primary_emotion": "疲惫",
+    "stress_level": 5,
+    "sleep_hours": 8.5,
+    "sleep_time": "01:25",
+    "wake_time": "11:45",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "应酬完打车回家，好累但觉得值得"
+  },
+  {
+    "date": "2026-03-16",
+    "mood_score": 0.48,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.8,
+    "sleep_time": "01:35",
+    "wake_time": "07:00",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "今天请组员吃饭，花了不少但团队氛围好了"
+  },
+  {
+    "date": "2026-03-17",
+    "mood_score": 0.6,
+    "primary_emotion": "焦虑",
+    "stress_level": 8,
+    "sleep_hours": 5.1,
+    "sleep_time": "00:40",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "带团队",
+      "加班",
+      "责任"
+    ],
+    "journal_snippet": "KPI压力传导到我这里了，要带着团队冲"
+  },
+  {
+    "date": "2026-03-18",
+    "mood_score": 0.61,
+    "primary_emotion": "烦躁",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "01:35",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "应酬完打车回家，好累但觉得值得"
+  },
+  {
+    "date": "2026-03-19",
+    "mood_score": 0.65,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.1,
+    "sleep_time": "02:00",
+    "wake_time": "07:30",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "老板又加了新指标，头大"
+  },
+  {
+    "date": "2026-03-20",
+    "mood_score": 0.63,
+    "primary_emotion": "满足",
+    "stress_level": 7,
+    "sleep_hours": 6.4,
+    "sleep_time": "01:00",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "和同事喝了个酒，聊了很多，感觉被认可了"
+  },
+  {
+    "date": "2026-03-21",
+    "mood_score": 0.64,
+    "primary_emotion": "满足",
+    "stress_level": 8,
+    "sleep_hours": 7.2,
+    "sleep_time": "02:15",
+    "wake_time": "09:30",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "今天终于没有应酬，好好休息了一下"
+  },
+  {
+    "date": "2026-03-22",
+    "mood_score": 0.64,
+    "primary_emotion": "疲惫",
+    "stress_level": 7,
+    "sleep_hours": 8.8,
+    "sleep_time": "01:10",
+    "wake_time": "11:45",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "今天终于没有应酬，好好休息了一下"
+  },
+  {
+    "date": "2026-03-23",
+    "mood_score": 0.47,
+    "primary_emotion": "焦虑",
+    "stress_level": 7,
+    "sleep_hours": 5.3,
+    "sleep_time": "00:55",
+    "wake_time": "08:00",
+    "journal_keywords": [
+      "管理",
+      "应酬",
+      "累"
+    ],
+    "journal_snippet": "老板又加了新指标，头大"
+  },
+  {
+    "date": "2026-03-24",
+    "mood_score": 0.6,
+    "primary_emotion": "满足",
+    "stress_level": 6,
+    "sleep_hours": 5.2,
+    "sleep_time": "01:35",
+    "wake_time": "07:45",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "应酬完打车回家，好累但觉得值得"
+  },
+  {
+    "date": "2026-03-25",
+    "mood_score": 0.45,
+    "primary_emotion": "疲惫",
+    "stress_level": 6,
+    "sleep_hours": 5.7,
+    "sleep_time": "02:10",
+    "wake_time": "07:15",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "应酬完打车回家，好累但觉得值得"
+  },
+  {
+    "date": "2026-03-26",
+    "mood_score": 0.47,
+    "primary_emotion": "疲惫",
+    "stress_level": 8,
+    "sleep_hours": 6.5,
+    "sleep_time": "02:15",
+    "wake_time": "08:45",
+    "journal_keywords": [
+      "应酬",
+      "喝酒",
+      "疲惫"
+    ],
+    "journal_snippet": "老板又加了新指标，头大"
+  },
+  {
+    "date": "2026-03-27",
+    "mood_score": 0.64,
+    "primary_emotion": "烦躁",
+    "stress_level": 8,
+    "sleep_hours": 5.6,
+    "sleep_time": "02:55",
+    "wake_time": "08:30",
+    "journal_keywords": [
+      "开会",
+      "汇报",
+      "压力"
+    ],
+    "journal_snippet": "今天请组员吃饭，花了不少但团队氛围好了"
+  },
+  {
+    "date": "2026-03-28",
+    "mood_score": 0.71,
+    "primary_emotion": "焦虑",
+    "stress_level": 4,
+    "sleep_hours": 7.7,
+    "sleep_time": "02:10",
+    "wake_time": "11:15",
+    "journal_keywords": [
+      "开会",
+      "汇报",
+      "压力"
+    ],
+    "journal_snippet": "应酬完打车回家，好累但觉得值得"
+  },
+  {
+    "date": "2026-03-29",
+    "mood_score": 0.66,
+    "primary_emotion": "满足",
+    "stress_level": 5,
+    "sleep_hours": 8.1,
+    "sleep_time": "02:55",
+    "wake_time": "10:30",
+    "journal_keywords": [
+      "管理",
+      "应酬",
+      "累"
+    ],
+    "journal_snippet": "今天终于没有应酬，好好休息了一下"
+  },
+  {
+    "date": "2026-03-30",
+    "mood_score": 0.63,
+    "primary_emotion": "疲惫",
+    "stress_level": 9,
+    "sleep_hours": 5.0,
+    "sleep_time": "00:00",
+    "wake_time": "07:15",
+    "journal_keywords": [
+      "KPI",
+      "团队",
+      "焦虑"
+    ],
+    "journal_snippet": "带团队才知道管理多难，每个人想法都不同"
+  },
+  {
+    "date": "2026-03-31",
+    "mood_score": 0.5,
+    "primary_emotion": "紧张",
+    "stress_level": 7,
+    "sleep_hours": 5.2,
+    "sleep_time": "00:55",
+    "wake_time": "08:15",
+    "journal_keywords": [
+      "社交",
+      "饭局",
+      "困"
+    ],
+    "journal_snippet": "KPI压力传导到我这里了，要带着团队冲"
+  }
+]

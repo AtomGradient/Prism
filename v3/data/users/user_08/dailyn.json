@@ -1,0 +1,3380 @@
+[
+  {
+    "date": "2026-01-01",
+    "records": [
+      {
+        "category": "房贷",
+        "amount": 15000.0,
+        "description": "每月房贷还款",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 43.1,
+        "description": "Manner澳白",
+        "time": "08:35"
+      },
+      {
+        "category": "餐饮",
+        "amount": 80.0,
+        "description": "泰式便当",
+        "time": "12:09"
+      },
+      {
+        "category": "餐饮",
+        "amount": 40.5,
+        "description": "公司楼下面馆",
+        "time": "21:24"
+      },
+      {
+        "category": "交通",
+        "amount": 5.8,
+        "description": "地铁通勤",
+        "time": "08:06"
+      },
+      {
+        "category": "交通",
+        "amount": 6.8,
+        "description": "地铁回家",
+        "time": "23:48"
+      },
+      {
+        "category": "娱乐",
+        "amount": 299.0,
+        "description": "健身房月卡",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 15475.2,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 25.6,
+        "description": "星巴克大杯拿铁",
+        "time": "07:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 67.1,
+        "description": "同事聚餐AA",
+        "time": "12:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 262.6,
+        "description": "和老婆孩子外出吃饭",
+        "time": "18:53"
+      },
+      {
+        "category": "交通",
+        "amount": 4.8,
+        "description": "地铁通勤",
+        "time": "08:30"
+      },
+      {
+        "category": "交通",
+        "amount": 5.3,
+        "description": "地铁回家",
+        "time": "21:24"
+      }
+    ],
+    "daily_total": 365.4,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 23.0,
+        "description": "M Stand椰子拿铁",
+        "time": "07:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 47.4,
+        "description": "附近烤肉饭",
+        "time": "12:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 22.6,
+        "description": "喜茶多肉葡萄",
+        "time": "15:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 239.5,
+        "description": "和老婆孩子外出吃饭",
+        "time": "18:32"
+      },
+      {
+        "category": "交通",
+        "amount": 7.1,
+        "description": "地铁通勤",
+        "time": "08:04"
+      },
+      {
+        "category": "交通",
+        "amount": 6.8,
+        "description": "地铁回家",
+        "time": "23:25"
+      },
+      {
+        "category": "娱乐",
+        "amount": 134.0,
+        "description": "周末看电影",
+        "time": "14:15"
+      }
+    ],
+    "daily_total": 480.4,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 26.4,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:37"
+      },
+      {
+        "category": "餐饮",
+        "amount": 53.6,
+        "description": "泰式便当",
+        "time": "12:29"
+      },
+      {
+        "category": "餐饮",
+        "amount": 37.6,
+        "description": "加班外卖",
+        "time": "21:24"
+      },
+      {
+        "category": "交通",
+        "amount": 6.4,
+        "description": "地铁通勤",
+        "time": "08:23"
+      },
+      {
+        "category": "交通",
+        "amount": 6.4,
+        "description": "地铁回家",
+        "time": "22:22"
+      },
+      {
+        "category": "日用",
+        "amount": 135.2,
+        "description": "牛奶",
+        "time": "19:06"
+      }
+    ],
+    "daily_total": 265.6,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 48.0,
+        "description": "Manner澳白",
+        "time": "07:53"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.3,
+        "description": "食堂牛肉面",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.9,
+        "description": "喜茶多肉葡萄",
+        "time": "15:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 61.5,
+        "description": "外卖麻辣烫",
+        "time": "21:22"
+      },
+      {
+        "category": "交通",
+        "amount": 6.0,
+        "description": "地铁通勤",
+        "time": "08:24"
+      },
+      {
+        "category": "交通",
+        "amount": 5.9,
+        "description": "地铁回家",
+        "time": "21:02"
+      }
+    ],
+    "daily_total": 151.6,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 33.8,
+        "description": "M Stand椰子拿铁",
+        "time": "08:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.7,
+        "description": "公司食堂午餐套餐",
+        "time": "12:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 49.8,
+        "description": "便利店晚餐",
+        "time": "21:25"
+      },
+      {
+        "category": "交通",
+        "amount": 4.4,
+        "description": "地铁通勤",
+        "time": "08:10"
+      },
+      {
+        "category": "交通",
+        "amount": 5.6,
+        "description": "地铁回家",
+        "time": "21:46"
+      },
+      {
+        "category": "交通",
+        "amount": 25.2,
+        "description": "加班太晚打车回家",
+        "time": "23:20"
+      }
+    ],
+    "daily_total": 135.5,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 27.0,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.8,
+        "description": "食堂牛肉面",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.3,
+        "description": "茶百道杨枝甘露",
+        "time": "15:32"
+      },
+      {
+        "category": "餐饮",
+        "amount": 43.0,
+        "description": "外卖炒饭",
+        "time": "19:41"
+      },
+      {
+        "category": "交通",
+        "amount": 7.5,
+        "description": "地铁通勤",
+        "time": "08:02"
+      },
+      {
+        "category": "交通",
+        "amount": 7.5,
+        "description": "地铁回家",
+        "time": "23:08"
+      }
+    ],
+    "daily_total": 119.1,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 33.9,
+        "description": "星巴克馥芮白",
+        "time": "08:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 27.3,
+        "description": "食堂麻辣香锅",
+        "time": "12:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 69.4,
+        "description": "外卖炒饭",
+        "time": "20:31"
+      },
+      {
+        "category": "交通",
+        "amount": 5.7,
+        "description": "地铁通勤",
+        "time": "08:15"
+      },
+      {
+        "category": "交通",
+        "amount": 6.2,
+        "description": "地铁回家",
+        "time": "22:19"
+      }
+    ],
+    "daily_total": 142.5,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 45.9,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.1,
+        "description": "食堂麻辣香锅",
+        "time": "12:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 60.5,
+        "description": "外卖麻辣烫",
+        "time": "20:44"
+      },
+      {
+        "category": "交通",
+        "amount": 6.4,
+        "description": "地铁通勤",
+        "time": "08:12"
+      },
+      {
+        "category": "交通",
+        "amount": 7.5,
+        "description": "地铁回家",
+        "time": "21:07"
+      }
+    ],
+    "daily_total": 148.4,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 23.5,
+        "description": "Seesaw燕麦拿铁",
+        "time": "07:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.6,
+        "description": "食堂牛肉面",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 179.4,
+        "description": "带孩子吃西餐",
+        "time": "18:31"
+      },
+      {
+        "category": "交通",
+        "amount": 4.3,
+        "description": "地铁通勤",
+        "time": "08:20"
+      },
+      {
+        "category": "交通",
+        "amount": 6.8,
+        "description": "地铁回家",
+        "time": "23:35"
+      },
+      {
+        "category": "日用",
+        "amount": 111.2,
+        "description": "孩子奶粉",
+        "time": "21:03"
+      },
+      {
+        "category": "通讯",
+        "amount": 198.0,
+        "description": "手机话费+宽带",
+        "time": "10:00"
+      }
+    ],
+    "daily_total": 542.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 32.1,
+        "description": "M Stand椰子拿铁",
+        "time": "07:28"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.8,
+        "description": "食堂麻辣香锅",
+        "time": "12:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.5,
+        "description": "喜茶多肉葡萄",
+        "time": "15:28"
+      },
+      {
+        "category": "餐饮",
+        "amount": 75.1,
+        "description": "外卖炒饭",
+        "time": "21:33"
+      },
+      {
+        "category": "交通",
+        "amount": 7.9,
+        "description": "地铁通勤",
+        "time": "08:06"
+      },
+      {
+        "category": "交通",
+        "amount": 6.0,
+        "description": "地铁回家",
+        "time": "22:49"
+      }
+    ],
+    "daily_total": 153.4,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 33.7,
+        "description": "星巴克大杯拿铁",
+        "time": "07:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.1,
+        "description": "食堂麻辣香锅",
+        "time": "12:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 70.9,
+        "description": "公司楼下面馆",
+        "time": "20:35"
+      },
+      {
+        "category": "交通",
+        "amount": 6.5,
+        "description": "地铁通勤",
+        "time": "08:30"
+      },
+      {
+        "category": "交通",
+        "amount": 5.0,
+        "description": "地铁回家",
+        "time": "22:49"
+      }
+    ],
+    "daily_total": 140.2,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 39.6,
+        "description": "Seesaw燕麦拿铁",
+        "time": "08:38"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.5,
+        "description": "食堂咖喱饭",
+        "time": "12:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 242.9,
+        "description": "和老婆孩子外出吃饭",
+        "time": "18:35"
+      },
+      {
+        "category": "交通",
+        "amount": 4.3,
+        "description": "地铁通勤",
+        "time": "08:28"
+      },
+      {
+        "category": "交通",
+        "amount": 6.7,
+        "description": "地铁回家",
+        "time": "21:46"
+      }
+    ],
+    "daily_total": 310.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 44.7,
+        "description": "Manner澳白",
+        "time": "07:43"
+      },
+      {
+        "category": "餐饮",
+        "amount": 46.1,
+        "description": "外卖轻食沙拉",
+        "time": "12:16"
+      },
+      {
+        "category": "餐饮",
+        "amount": 63.2,
+        "description": "公司楼下面馆",
+        "time": "19:20"
+      },
+      {
+        "category": "交通",
+        "amount": 5.9,
+        "description": "地铁通勤",
+        "time": "08:16"
+      },
+      {
+        "category": "交通",
+        "amount": 6.9,
+        "description": "地铁回家",
+        "time": "23:27"
+      }
+    ],
+    "daily_total": 166.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 42.9,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:13"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.3,
+        "description": "食堂咖喱饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 35.2,
+        "description": "公司楼下面馆",
+        "time": "20:27"
+      },
+      {
+        "category": "交通",
+        "amount": 4.3,
+        "description": "地铁通勤",
+        "time": "08:28"
+      },
+      {
+        "category": "交通",
+        "amount": 7.0,
+        "description": "地铁回家",
+        "time": "22:29"
+      }
+    ],
+    "daily_total": 105.7,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 29.1,
+        "description": "Manner澳白",
+        "time": "07:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.9,
+        "description": "食堂麻辣香锅",
+        "time": "12:03"
+      },
+      {
+        "category": "餐饮",
+        "amount": 76.2,
+        "description": "外卖炒饭",
+        "time": "19:49"
+      },
+      {
+        "category": "交通",
+        "amount": 5.1,
+        "description": "地铁通勤",
+        "time": "08:01"
+      },
+      {
+        "category": "交通",
+        "amount": 6.1,
+        "description": "地铁回家",
+        "time": "23:19"
+      }
+    ],
+    "daily_total": 145.4,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 41.0,
+        "description": "M Stand椰子拿铁",
+        "time": "07:54"
+      },
+      {
+        "category": "餐饮",
+        "amount": 62.5,
+        "description": "楼下日料套餐",
+        "time": "12:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 257.5,
+        "description": "带孩子吃西餐",
+        "time": "18:41"
+      },
+      {
+        "category": "交通",
+        "amount": 5.2,
+        "description": "地铁通勤",
+        "time": "08:20"
+      },
+      {
+        "category": "交通",
+        "amount": 7.9,
+        "description": "地铁回家",
+        "time": "22:25"
+      },
+      {
+        "category": "交通",
+        "amount": 48.3,
+        "description": "加班太晚打车回家",
+        "time": "23:21"
+      },
+      {
+        "category": "娱乐",
+        "amount": 114.0,
+        "description": "孩子早教课",
+        "time": "12:36"
+      },
+      {
+        "category": "日用",
+        "amount": 62.4,
+        "description": "孩子奶粉",
+        "time": "19:01"
+      }
+    ],
+    "daily_total": 598.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 38.0,
+        "description": "瑞幸生椰拿铁",
+        "time": "07:32"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.6,
+        "description": "公司食堂午餐套餐",
+        "time": "12:26"
+      },
+      {
+        "category": "餐饮",
+        "amount": 41.8,
+        "description": "外卖麻辣烫",
+        "time": "21:24"
+      },
+      {
+        "category": "交通",
+        "amount": 4.7,
+        "description": "地铁通勤",
+        "time": "08:12"
+      },
+      {
+        "category": "交通",
+        "amount": 6.4,
+        "description": "地铁回家",
+        "time": "21:05"
+      },
+      {
+        "category": "娱乐",
+        "amount": 82.5,
+        "description": "全家去公园",
+        "time": "16:05"
+      },
+      {
+        "category": "日用",
+        "amount": 149.5,
+        "description": "超市采购",
+        "time": "14:22"
+      }
+    ],
+    "daily_total": 347.5,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 44.4,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.5,
+        "description": "食堂咖喱饭",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 64.8,
+        "description": "便利店晚餐",
+        "time": "19:13"
+      },
+      {
+        "category": "交通",
+        "amount": 5.1,
+        "description": "地铁通勤",
+        "time": "08:21"
+      },
+      {
+        "category": "交通",
+        "amount": 6.3,
+        "description": "地铁回家",
+        "time": "23:28"
+      }
+    ],
+    "daily_total": 147.1,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 31.0,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:55"
+      },
+      {
+        "category": "餐饮",
+        "amount": 73.2,
+        "description": "同事聚餐AA",
+        "time": "12:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 12.1,
+        "description": "便利店零食",
+        "time": "15:23"
+      },
+      {
+        "category": "餐饮",
+        "amount": 41.9,
+        "description": "公司楼下面馆",
+        "time": "21:43"
+      },
+      {
+        "category": "交通",
+        "amount": 7.9,
+        "description": "地铁通勤",
+        "time": "08:12"
+      },
+      {
+        "category": "交通",
+        "amount": 4.5,
+        "description": "地铁回家",
+        "time": "22:20"
+      },
+      {
+        "category": "交通",
+        "amount": 42.2,
+        "description": "加班太晚打车回家",
+        "time": "23:55"
+      }
+    ],
+    "daily_total": 212.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.4,
+        "description": "M Stand椰子拿铁",
+        "time": "07:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.2,
+        "description": "公司食堂午餐套餐",
+        "time": "12:17"
+      },
+      {
+        "category": "餐饮",
+        "amount": 72.7,
+        "description": "加班外卖",
+        "time": "20:12"
+      },
+      {
+        "category": "交通",
+        "amount": 5.6,
+        "description": "地铁通勤",
+        "time": "08:06"
+      },
+      {
+        "category": "交通",
+        "amount": 7.1,
+        "description": "地铁回家",
+        "time": "22:17"
+      }
+    ],
+    "daily_total": 129.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 35.6,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 53.6,
+        "description": "附近烤肉饭",
+        "time": "12:33"
+      },
+      {
+        "category": "餐饮",
+        "amount": 79.0,
+        "description": "外卖炒饭",
+        "time": "20:50"
+      },
+      {
+        "category": "交通",
+        "amount": 7.6,
+        "description": "地铁通勤",
+        "time": "08:13"
+      },
+      {
+        "category": "交通",
+        "amount": 4.5,
+        "description": "地铁回家",
+        "time": "22:11"
+      }
+    ],
+    "daily_total": 180.3,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 38.7,
+        "description": "Seesaw燕麦拿铁",
+        "time": "08:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 76.0,
+        "description": "楼下日料套餐",
+        "time": "12:23"
+      },
+      {
+        "category": "餐饮",
+        "amount": 79.4,
+        "description": "加班外卖",
+        "time": "21:34"
+      },
+      {
+        "category": "交通",
+        "amount": 6.7,
+        "description": "地铁通勤",
+        "time": "08:13"
+      },
+      {
+        "category": "交通",
+        "amount": 6.4,
+        "description": "地铁回家",
+        "time": "23:22"
+      }
+    ],
+    "daily_total": 207.2,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 39.2,
+        "description": "Seesaw燕麦拿铁",
+        "time": "08:31"
+      },
+      {
+        "category": "餐饮",
+        "amount": 23.0,
+        "description": "食堂咖喱饭",
+        "time": "12:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 227.2,
+        "description": "全家火锅",
+        "time": "18:48"
+      },
+      {
+        "category": "交通",
+        "amount": 6.8,
+        "description": "地铁通勤",
+        "time": "08:07"
+      },
+      {
+        "category": "交通",
+        "amount": 6.7,
+        "description": "地铁回家",
+        "time": "22:49"
+      },
+      {
+        "category": "娱乐",
+        "amount": 115.9,
+        "description": "带孩子逛商场买玩具",
+        "time": "13:19"
+      }
+    ],
+    "daily_total": 418.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 47.0,
+        "description": "M Stand椰子拿铁",
+        "time": "08:41"
+      },
+      {
+        "category": "餐饮",
+        "amount": 50.5,
+        "description": "楼下日料套餐",
+        "time": "12:33"
+      },
+      {
+        "category": "餐饮",
+        "amount": 36.6,
+        "description": "外卖炒饭",
+        "time": "19:38"
+      },
+      {
+        "category": "交通",
+        "amount": 6.2,
+        "description": "地铁通勤",
+        "time": "08:03"
+      },
+      {
+        "category": "交通",
+        "amount": 7.2,
+        "description": "地铁回家",
+        "time": "23:22"
+      },
+      {
+        "category": "交通",
+        "amount": 25.1,
+        "description": "加班太晚打车回家",
+        "time": "23:30"
+      },
+      {
+        "category": "娱乐",
+        "amount": 102.9,
+        "description": "带孩子去游乐场",
+        "time": "16:55"
+      }
+    ],
+    "daily_total": 275.5,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 29.2,
+        "description": "M Stand椰子拿铁",
+        "time": "07:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.9,
+        "description": "食堂咖喱饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 53.4,
+        "description": "外卖炒饭",
+        "time": "20:38"
+      },
+      {
+        "category": "交通",
+        "amount": 5.0,
+        "description": "地铁通勤",
+        "time": "08:29"
+      },
+      {
+        "category": "交通",
+        "amount": 6.0,
+        "description": "地铁回家",
+        "time": "21:49"
+      }
+    ],
+    "daily_total": 109.5,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 47.8,
+        "description": "星巴克大杯拿铁",
+        "time": "08:42"
+      },
+      {
+        "category": "餐饮",
+        "amount": 69.8,
+        "description": "同事聚餐AA",
+        "time": "12:41"
+      },
+      {
+        "category": "餐饮",
+        "amount": 51.1,
+        "description": "公司楼下面馆",
+        "time": "19:13"
+      },
+      {
+        "category": "交通",
+        "amount": 7.3,
+        "description": "地铁通勤",
+        "time": "08:20"
+      },
+      {
+        "category": "交通",
+        "amount": 5.3,
+        "description": "地铁回家",
+        "time": "21:50"
+      }
+    ],
+    "daily_total": 181.3,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 33.7,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:47"
+      },
+      {
+        "category": "餐饮",
+        "amount": 63.2,
+        "description": "附近烤肉饭",
+        "time": "12:33"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.4,
+        "description": "下午茶蛋糕",
+        "time": "15:46"
+      },
+      {
+        "category": "餐饮",
+        "amount": 68.8,
+        "description": "外卖麻辣烫",
+        "time": "20:20"
+      },
+      {
+        "category": "交通",
+        "amount": 5.8,
+        "description": "地铁通勤",
+        "time": "08:00"
+      },
+      {
+        "category": "交通",
+        "amount": 6.9,
+        "description": "地铁回家",
+        "time": "23:01"
+      }
+    ],
+    "daily_total": 210.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 25.2,
+        "description": "星巴克大杯拿铁",
+        "time": "07:54"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.3,
+        "description": "食堂牛肉面",
+        "time": "12:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.5,
+        "description": "下午茶蛋糕",
+        "time": "15:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 54.7,
+        "description": "加班外卖",
+        "time": "21:17"
+      },
+      {
+        "category": "交通",
+        "amount": 7.4,
+        "description": "地铁通勤",
+        "time": "08:02"
+      },
+      {
+        "category": "交通",
+        "amount": 6.3,
+        "description": "地铁回家",
+        "time": "21:02"
+      },
+      {
+        "category": "交通",
+        "amount": 46.3,
+        "description": "加班太晚打车回家",
+        "time": "23:43"
+      }
+    ],
+    "daily_total": 201.7,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 34.0,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:52"
+      },
+      {
+        "category": "餐饮",
+        "amount": 78.8,
+        "description": "同事聚餐AA",
+        "time": "12:22"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.8,
+        "description": "茶百道杨枝甘露",
+        "time": "15:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 148.4,
+        "description": "全家火锅",
+        "time": "18:54"
+      },
+      {
+        "category": "交通",
+        "amount": 5.5,
+        "description": "地铁通勤",
+        "time": "08:12"
+      },
+      {
+        "category": "交通",
+        "amount": 5.6,
+        "description": "地铁回家",
+        "time": "22:47"
+      }
+    ],
+    "daily_total": 292.1,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-01-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 31.1,
+        "description": "Manner澳白",
+        "time": "08:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 74.9,
+        "description": "商场寿司",
+        "time": "12:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 33.4,
+        "description": "喜茶多肉葡萄",
+        "time": "15:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 232.5,
+        "description": "全家火锅",
+        "time": "18:56"
+      },
+      {
+        "category": "交通",
+        "amount": 7.3,
+        "description": "地铁通勤",
+        "time": "08:28"
+      },
+      {
+        "category": "交通",
+        "amount": 4.6,
+        "description": "地铁回家",
+        "time": "22:15"
+      },
+      {
+        "category": "交通",
+        "amount": 28.1,
+        "description": "加班太晚打车回家",
+        "time": "23:28"
+      },
+      {
+        "category": "娱乐",
+        "amount": 177.1,
+        "description": "孩子早教课",
+        "time": "15:17"
+      }
+    ],
+    "daily_total": 589.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-01",
+    "records": [
+      {
+        "category": "房贷",
+        "amount": 15000.0,
+        "description": "每月房贷还款",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.0,
+        "description": "M Stand椰子拿铁",
+        "time": "07:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 78.8,
+        "description": "外卖轻食沙拉",
+        "time": "12:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 37.3,
+        "description": "加班外卖",
+        "time": "19:03"
+      },
+      {
+        "category": "交通",
+        "amount": 4.8,
+        "description": "地铁通勤",
+        "time": "08:19"
+      },
+      {
+        "category": "交通",
+        "amount": 4.0,
+        "description": "地铁回家",
+        "time": "23:19"
+      },
+      {
+        "category": "娱乐",
+        "amount": 128.5,
+        "description": "全家去公园",
+        "time": "14:24"
+      }
+    ],
+    "daily_total": 15281.4,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 25.8,
+        "description": "Manner澳白",
+        "time": "07:34"
+      },
+      {
+        "category": "餐饮",
+        "amount": 66.5,
+        "description": "附近烤肉饭",
+        "time": "12:22"
+      },
+      {
+        "category": "餐饮",
+        "amount": 72.1,
+        "description": "外卖炒饭",
+        "time": "21:06"
+      },
+      {
+        "category": "交通",
+        "amount": 7.1,
+        "description": "地铁通勤",
+        "time": "08:05"
+      },
+      {
+        "category": "交通",
+        "amount": 6.8,
+        "description": "地铁回家",
+        "time": "21:19"
+      }
+    ],
+    "daily_total": 178.3,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 40.4,
+        "description": "Manner澳白",
+        "time": "07:46"
+      },
+      {
+        "category": "餐饮",
+        "amount": 64.7,
+        "description": "商场寿司",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 251.0,
+        "description": "全家火锅",
+        "time": "18:32"
+      },
+      {
+        "category": "交通",
+        "amount": 4.1,
+        "description": "地铁通勤",
+        "time": "08:16"
+      },
+      {
+        "category": "交通",
+        "amount": 6.7,
+        "description": "地铁回家",
+        "time": "23:18"
+      }
+    ],
+    "daily_total": 366.9,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 45.3,
+        "description": "M Stand椰子拿铁",
+        "time": "07:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.7,
+        "description": "食堂麻辣香锅",
+        "time": "12:19"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.1,
+        "description": "下午茶蛋糕",
+        "time": "15:34"
+      },
+      {
+        "category": "餐饮",
+        "amount": 77.4,
+        "description": "外卖炒饭",
+        "time": "19:48"
+      },
+      {
+        "category": "交通",
+        "amount": 6.4,
+        "description": "地铁通勤",
+        "time": "08:00"
+      },
+      {
+        "category": "交通",
+        "amount": 4.8,
+        "description": "地铁回家",
+        "time": "22:26"
+      }
+    ],
+    "daily_total": 169.7,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 34.5,
+        "description": "Seesaw燕麦拿铁",
+        "time": "07:36"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.3,
+        "description": "食堂咖喱饭",
+        "time": "12:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 226.4,
+        "description": "和老婆孩子外出吃饭",
+        "time": "18:58"
+      },
+      {
+        "category": "交通",
+        "amount": 4.2,
+        "description": "地铁通勤",
+        "time": "08:27"
+      },
+      {
+        "category": "交通",
+        "amount": 6.2,
+        "description": "地铁回家",
+        "time": "22:23"
+      },
+      {
+        "category": "交通",
+        "amount": 51.1,
+        "description": "加班太晚打车回家",
+        "time": "23:25"
+      },
+      {
+        "category": "日用",
+        "amount": 69.6,
+        "description": "牛奶",
+        "time": "21:24"
+      }
+    ],
+    "daily_total": 416.3,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 29.5,
+        "description": "瑞幸生椰拿铁",
+        "time": "08:32"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.9,
+        "description": "食堂咖喱饭",
+        "time": "12:03"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.4,
+        "description": "茶百道杨枝甘露",
+        "time": "15:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 59.7,
+        "description": "外卖炒饭",
+        "time": "19:41"
+      },
+      {
+        "category": "交通",
+        "amount": 6.5,
+        "description": "地铁通勤",
+        "time": "08:08"
+      },
+      {
+        "category": "交通",
+        "amount": 5.6,
+        "description": "地铁回家",
+        "time": "22:43"
+      },
+      {
+        "category": "日用",
+        "amount": 72.1,
+        "description": "孩子奶粉",
+        "time": "18:11"
+      }
+    ],
+    "daily_total": 219.7,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 26.3,
+        "description": "星巴克馥芮白",
+        "time": "08:22"
+      },
+      {
+        "category": "餐饮",
+        "amount": 68.7,
+        "description": "商场寿司",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 34.9,
+        "description": "下午茶蛋糕",
+        "time": "15:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 60.2,
+        "description": "便利店晚餐",
+        "time": "19:28"
+      },
+      {
+        "category": "交通",
+        "amount": 6.3,
+        "description": "地铁通勤",
+        "time": "08:19"
+      },
+      {
+        "category": "交通",
+        "amount": 5.5,
+        "description": "地铁回家",
+        "time": "23:11"
+      },
+      {
+        "category": "娱乐",
+        "amount": 58.8,
+        "description": "全家去公园",
+        "time": "16:04"
+      }
+    ],
+    "daily_total": 260.7,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 33.2,
+        "description": "星巴克馥芮白",
+        "time": "07:19"
+      },
+      {
+        "category": "餐饮",
+        "amount": 75.5,
+        "description": "附近烤肉饭",
+        "time": "12:34"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.9,
+        "description": "便利店零食",
+        "time": "15:32"
+      },
+      {
+        "category": "餐饮",
+        "amount": 59.1,
+        "description": "加班外卖",
+        "time": "21:08"
+      },
+      {
+        "category": "交通",
+        "amount": 5.3,
+        "description": "地铁通勤",
+        "time": "08:15"
+      },
+      {
+        "category": "交通",
+        "amount": 6.3,
+        "description": "地铁回家",
+        "time": "22:43"
+      }
+    ],
+    "daily_total": 199.3,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22.3,
+        "description": "星巴克大杯拿铁",
+        "time": "07:48"
+      },
+      {
+        "category": "餐饮",
+        "amount": 17.2,
+        "description": "食堂咖喱饭",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.0,
+        "description": "便利店零食",
+        "time": "15:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 139.1,
+        "description": "家庭聚餐",
+        "time": "18:35"
+      },
+      {
+        "category": "交通",
+        "amount": 5.0,
+        "description": "地铁通勤",
+        "time": "08:29"
+      },
+      {
+        "category": "交通",
+        "amount": 5.1,
+        "description": "地铁回家",
+        "time": "23:19"
+      }
+    ],
+    "daily_total": 214.7,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 37.0,
+        "description": "星巴克馥芮白",
+        "time": "08:44"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.3,
+        "description": "公司食堂午餐套餐",
+        "time": "12:23"
+      },
+      {
+        "category": "餐饮",
+        "amount": 156.2,
+        "description": "带孩子吃西餐",
+        "time": "18:36"
+      },
+      {
+        "category": "交通",
+        "amount": 5.1,
+        "description": "地铁通勤",
+        "time": "08:22"
+      },
+      {
+        "category": "交通",
+        "amount": 5.4,
+        "description": "地铁回家",
+        "time": "21:10"
+      }
+    ],
+    "daily_total": 224.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 34.4,
+        "description": "Manner澳白",
+        "time": "08:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.2,
+        "description": "公司食堂午餐套餐",
+        "time": "12:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 193.6,
+        "description": "全家火锅",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 5.8,
+        "description": "地铁通勤",
+        "time": "08:01"
+      },
+      {
+        "category": "交通",
+        "amount": 5.1,
+        "description": "地铁回家",
+        "time": "23:47"
+      }
+    ],
+    "daily_total": 259.1,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 47.7,
+        "description": "星巴克馥芮白",
+        "time": "07:43"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.5,
+        "description": "食堂麻辣香锅",
+        "time": "12:05"
+      },
+      {
+        "category": "餐饮",
+        "amount": 253.0,
+        "description": "家庭聚餐",
+        "time": "18:30"
+      },
+      {
+        "category": "交通",
+        "amount": 7.9,
+        "description": "地铁通勤",
+        "time": "08:27"
+      },
+      {
+        "category": "交通",
+        "amount": 6.3,
+        "description": "地铁回家",
+        "time": "21:05"
+      }
+    ],
+    "daily_total": 334.4,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 41.5,
+        "description": "瑞幸生椰拿铁",
+        "time": "07:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 23.5,
+        "description": "食堂咖喱饭",
+        "time": "12:06"
+      },
+      {
+        "category": "餐饮",
+        "amount": 66.5,
+        "description": "便利店晚餐",
+        "time": "19:04"
+      },
+      {
+        "category": "交通",
+        "amount": 7.1,
+        "description": "地铁通勤",
+        "time": "08:00"
+      },
+      {
+        "category": "交通",
+        "amount": 5.8,
+        "description": "地铁回家",
+        "time": "22:50"
+      }
+    ],
+    "daily_total": 144.4,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 40.7,
+        "description": "Manner澳白",
+        "time": "08:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 16.8,
+        "description": "食堂牛肉面",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 13.3,
+        "description": "茶百道杨枝甘露",
+        "time": "15:19"
+      },
+      {
+        "category": "餐饮",
+        "amount": 76.2,
+        "description": "外卖炒饭",
+        "time": "20:16"
+      },
+      {
+        "category": "交通",
+        "amount": 7.7,
+        "description": "地铁通勤",
+        "time": "08:04"
+      },
+      {
+        "category": "交通",
+        "amount": 4.8,
+        "description": "地铁回家",
+        "time": "22:06"
+      },
+      {
+        "category": "娱乐",
+        "amount": 70.3,
+        "description": "带孩子逛商场买玩具",
+        "time": "15:15"
+      }
+    ],
+    "daily_total": 229.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 44.5,
+        "description": "星巴克大杯拿铁",
+        "time": "08:41"
+      },
+      {
+        "category": "餐饮",
+        "amount": 49.7,
+        "description": "商场寿司",
+        "time": "12:12"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.2,
+        "description": "便利店零食",
+        "time": "15:28"
+      },
+      {
+        "category": "餐饮",
+        "amount": 228.4,
+        "description": "带孩子吃西餐",
+        "time": "18:51"
+      },
+      {
+        "category": "交通",
+        "amount": 6.2,
+        "description": "地铁通勤",
+        "time": "08:15"
+      },
+      {
+        "category": "交通",
+        "amount": 5.8,
+        "description": "地铁回家",
+        "time": "21:26"
+      },
+      {
+        "category": "交通",
+        "amount": 50.9,
+        "description": "加班太晚打车回家",
+        "time": "23:22"
+      },
+      {
+        "category": "娱乐",
+        "amount": 182.9,
+        "description": "带孩子逛商场买玩具",
+        "time": "15:46"
+      },
+      {
+        "category": "日用",
+        "amount": 119.2,
+        "description": "给老婆买护肤品",
+        "time": "18:14"
+      }
+    ],
+    "daily_total": 706.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 34.6,
+        "description": "Seesaw燕麦拿铁",
+        "time": "07:29"
+      },
+      {
+        "category": "餐饮",
+        "amount": 46.5,
+        "description": "附近烤肉饭",
+        "time": "12:36"
+      },
+      {
+        "category": "餐饮",
+        "amount": 27.1,
+        "description": "茶百道杨枝甘露",
+        "time": "15:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 46.2,
+        "description": "加班外卖",
+        "time": "19:11"
+      },
+      {
+        "category": "交通",
+        "amount": 7.8,
+        "description": "地铁通勤",
+        "time": "08:12"
+      },
+      {
+        "category": "交通",
+        "amount": 5.8,
+        "description": "地铁回家",
+        "time": "22:14"
+      }
+    ],
+    "daily_total": 168.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22.2,
+        "description": "M Stand椰子拿铁",
+        "time": "08:54"
+      },
+      {
+        "category": "餐饮",
+        "amount": 81.9,
+        "description": "泰式便当",
+        "time": "12:42"
+      },
+      {
+        "category": "餐饮",
+        "amount": 23.6,
+        "description": "便利店零食",
+        "time": "15:29"
+      },
+      {
+        "category": "餐饮",
+        "amount": 171.4,
+        "description": "家庭聚餐",
+        "time": "18:45"
+      },
+      {
+        "category": "交通",
+        "amount": 6.8,
+        "description": "地铁通勤",
+        "time": "08:30"
+      },
+      {
+        "category": "交通",
+        "amount": 7.6,
+        "description": "地铁回家",
+        "time": "23:09"
+      },
+      {
+        "category": "日用",
+        "amount": 90.4,
+        "description": "水果",
+        "time": "18:22"
+      }
+    ],
+    "daily_total": 403.9,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 43.1,
+        "description": "星巴克馥芮白",
+        "time": "07:31"
+      },
+      {
+        "category": "餐饮",
+        "amount": 18.1,
+        "description": "食堂咖喱饭",
+        "time": "12:17"
+      },
+      {
+        "category": "餐饮",
+        "amount": 21.0,
+        "description": "下午茶蛋糕",
+        "time": "15:17"
+      },
+      {
+        "category": "餐饮",
+        "amount": 279.1,
+        "description": "带孩子吃西餐",
+        "time": "18:34"
+      },
+      {
+        "category": "交通",
+        "amount": 4.9,
+        "description": "地铁通勤",
+        "time": "08:14"
+      },
+      {
+        "category": "交通",
+        "amount": 5.7,
+        "description": "地铁回家",
+        "time": "21:33"
+      }
+    ],
+    "daily_total": 371.9,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 45.1,
+        "description": "星巴克大杯拿铁",
+        "time": "08:38"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45.8,
+        "description": "商场寿司",
+        "time": "12:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 48.8,
+        "description": "外卖炒饭",
+        "time": "19:35"
+      },
+      {
+        "category": "交通",
+        "amount": 7.6,
+        "description": "地铁通勤",
+        "time": "08:28"
+      },
+      {
+        "category": "交通",
+        "amount": 4.5,
+        "description": "地铁回家",
+        "time": "22:08"
+      }
+    ],
+    "daily_total": 151.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.3,
+        "description": "瑞幸咖啡",
+        "time": "09:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.5,
+        "description": "食堂午餐",
+        "time": "12:26"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.8,
+        "description": "便利店晚餐",
+        "time": "19:33"
+      },
+      {
+        "category": "交通",
+        "amount": 5.4,
+        "description": "地铁",
+        "time": "08:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.7,
+        "description": "地铁回家",
+        "time": "18:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 286.0,
+        "description": "和同事喝酒吐槽裁员传闻",
+        "time": "21:30"
+      }
+    ],
+    "daily_total": 382.7,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 32.5,
+        "description": "便利店咖啡",
+        "time": "09:29"
+      },
+      {
+        "category": "餐饮",
+        "amount": 19.3,
+        "description": "食堂午餐",
+        "time": "12:16"
+      },
+      {
+        "category": "餐饮",
+        "amount": 47.5,
+        "description": "便利店晚餐",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.7,
+        "description": "地铁",
+        "time": "08:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.9,
+        "description": "地铁回家",
+        "time": "18:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 171.1,
+        "description": "和即将离职的同事聚餐",
+        "time": "19:18"
+      }
+    ],
+    "daily_total": 280.0,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 26.4,
+        "description": "瑞幸咖啡",
+        "time": "09:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 27.7,
+        "description": "食堂午餐",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 44.7,
+        "description": "外卖晚餐",
+        "time": "19:10"
+      },
+      {
+        "category": "交通",
+        "amount": 7.8,
+        "description": "地铁",
+        "time": "08:30"
+      },
+      {
+        "category": "交通",
+        "amount": 6.5,
+        "description": "地铁回家",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 113.1,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 20.6,
+        "description": "瑞幸咖啡",
+        "time": "09:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.1,
+        "description": "食堂午餐",
+        "time": "12:17"
+      },
+      {
+        "category": "餐饮",
+        "amount": 40.7,
+        "description": "便利店晚餐",
+        "time": "19:43"
+      },
+      {
+        "category": "交通",
+        "amount": 7.2,
+        "description": "地铁",
+        "time": "08:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.2,
+        "description": "地铁回家",
+        "time": "18:30"
+      }
+    ],
+    "daily_total": 104.8,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-24",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22.4,
+        "description": "瑞幸咖啡",
+        "time": "09:04"
+      },
+      {
+        "category": "餐饮",
+        "amount": 31.4,
+        "description": "食堂午餐",
+        "time": "12:06"
+      },
+      {
+        "category": "餐饮",
+        "amount": 56.3,
+        "description": "便利店晚餐",
+        "time": "19:30"
+      },
+      {
+        "category": "交通",
+        "amount": 4.1,
+        "description": "地铁",
+        "time": "08:30"
+      },
+      {
+        "category": "交通",
+        "amount": 6.3,
+        "description": "地铁回家",
+        "time": "18:30"
+      },
+      {
+        "category": "餐饮",
+        "amount": 198.0,
+        "description": "拿到离职通知，一个人去居酒屋",
+        "time": "20:00"
+      },
+      {
+        "category": "交通",
+        "amount": 42.0,
+        "description": "喝醉打车回家",
+        "time": "23:40"
+      },
+      {
+        "category": "餐饮",
+        "amount": 180.0,
+        "description": "和即将离职的同事聚餐",
+        "time": "19:07"
+      }
+    ],
+    "daily_total": 540.5,
+    "monthly_income": 50000
+  },
+  {
+    "date": "2026-02-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22.8,
+        "description": "速溶咖啡",
+        "time": "09:58"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.8,
+        "description": "外卖黄焖鸡",
+        "time": "12:33"
+      },
+      {
+        "category": "餐饮",
+        "amount": 70.7,
+        "description": "夜宵炸鸡",
+        "time": "20:51"
+      },
+      {
+        "category": "餐饮",
+        "amount": 20.2,
+        "description": "泡面",
+        "time": "23:42"
+      },
+      {
+        "category": "交通",
+        "amount": 38.2,
+        "description": "地铁去面试",
+        "time": "9:59"
+      }
+    ],
+    "daily_total": 184.7,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 21.9,
+        "description": "便利店咖啡",
+        "time": "09:57"
+      },
+      {
+        "category": "餐饮",
+        "amount": 48.6,
+        "description": "外卖盖浇饭",
+        "time": "12:17"
+      },
+      {
+        "category": "餐饮",
+        "amount": 80.0,
+        "description": "外卖小龙虾",
+        "time": "23:48"
+      },
+      {
+        "category": "交通",
+        "amount": 34.9,
+        "description": "地铁去面试",
+        "time": "14:34"
+      }
+    ],
+    "daily_total": 185.4,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 26.3,
+        "description": "瑞幸拿铁",
+        "time": "09:49"
+      },
+      {
+        "category": "餐饮",
+        "amount": 34.4,
+        "description": "楼下兰州拉面",
+        "time": "12:45"
+      },
+      {
+        "category": "餐饮",
+        "amount": 41.6,
+        "description": "深夜泡面+零食",
+        "time": "23:37"
+      },
+      {
+        "category": "餐饮",
+        "amount": 31.8,
+        "description": "薯片可乐",
+        "time": "23:29"
+      },
+      {
+        "category": "餐饮",
+        "amount": 356.0,
+        "description": "吵完架出去喝酒",
+        "time": "22:30"
+      }
+    ],
+    "daily_total": 490.1,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-02-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 20.7,
+        "description": "瑞幸拿铁",
+        "time": "09:52"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45.3,
+        "description": "便利店盒饭",
+        "time": "12:33"
+      },
+      {
+        "category": "餐饮",
+        "amount": 56.9,
+        "description": "外卖火锅",
+        "time": "21:40"
+      },
+      {
+        "category": "交通",
+        "amount": 21.7,
+        "description": "打车去面试",
+        "time": "10:13"
+      }
+    ],
+    "daily_total": 144.6,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-01",
+    "records": [
+      {
+        "category": "房贷",
+        "amount": 15000.0,
+        "description": "每月房贷还款",
+        "time": "09:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.4,
+        "description": "便利店咖啡",
+        "time": "09:32"
+      },
+      {
+        "category": "餐饮",
+        "amount": 34.0,
+        "description": "外卖麻辣烫",
+        "time": "12:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 71.0,
+        "description": "外卖小龙虾",
+        "time": "22:27"
+      },
+      {
+        "category": "餐饮",
+        "amount": 44.8,
+        "description": "薯片可乐",
+        "time": "23:39"
+      },
+      {
+        "category": "交通",
+        "amount": 22.6,
+        "description": "地铁去面试",
+        "time": "13:32"
+      }
+    ],
+    "daily_total": 15201.8,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-02",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.9,
+        "description": "便利店咖啡",
+        "time": "09:53"
+      },
+      {
+        "category": "餐饮",
+        "amount": 42.6,
+        "description": "外卖麻辣烫",
+        "time": "12:15"
+      },
+      {
+        "category": "餐饮",
+        "amount": 65.2,
+        "description": "深夜泡面+零食",
+        "time": "22:19"
+      }
+    ],
+    "daily_total": 132.7,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-03",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 22.2,
+        "description": "瑞幸拿铁",
+        "time": "09:54"
+      },
+      {
+        "category": "餐饮",
+        "amount": 32.3,
+        "description": "外卖麻辣烫",
+        "time": "12:07"
+      },
+      {
+        "category": "餐饮",
+        "amount": 62.1,
+        "description": "外卖小龙虾",
+        "time": "20:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 280.0,
+        "description": "又吵架了，出去一个人吃火锅",
+        "time": "21:00"
+      }
+    ],
+    "daily_total": 396.6,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-04",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.0,
+        "description": "瑞幸拿铁",
+        "time": "09:47"
+      },
+      {
+        "category": "餐饮",
+        "amount": 44.9,
+        "description": "便利店盒饭",
+        "time": "12:56"
+      },
+      {
+        "category": "餐饮",
+        "amount": 66.4,
+        "description": "夜宵炸鸡",
+        "time": "22:28"
+      },
+      {
+        "category": "交通",
+        "amount": 17.9,
+        "description": "打车去面试",
+        "time": "11:48"
+      }
+    ],
+    "daily_total": 153.2,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-05",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 20.8,
+        "description": "便利店咖啡",
+        "time": "09:53"
+      },
+      {
+        "category": "餐饮",
+        "amount": 25.7,
+        "description": "外卖黄焖鸡",
+        "time": "12:41"
+      },
+      {
+        "category": "餐饮",
+        "amount": 76.8,
+        "description": "外卖小龙虾",
+        "time": "20:56"
+      },
+      {
+        "category": "餐饮",
+        "amount": 15.5,
+        "description": "冰淇淋",
+        "time": "23:49"
+      },
+      {
+        "category": "交通",
+        "amount": 15.3,
+        "description": "地铁去面试",
+        "time": "14:06"
+      },
+      {
+        "category": "其他",
+        "amount": 500.0,
+        "description": "给老婆转账求和解",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 654.1,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-06",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 25.4,
+        "description": "便利店咖啡",
+        "time": "09:46"
+      },
+      {
+        "category": "餐饮",
+        "amount": 35.2,
+        "description": "外卖黄焖鸡",
+        "time": "12:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 75.1,
+        "description": "夜宵炸鸡",
+        "time": "21:35"
+      }
+    ],
+    "daily_total": 135.7,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-07",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.0,
+        "description": "便利店面包（早上接到律师电话）",
+        "time": "10:30"
+      },
+      {
+        "category": "交通",
+        "amount": 35.0,
+        "description": "打车去律师事务所",
+        "time": "14:00"
+      },
+      {
+        "category": "律师费",
+        "amount": 5000.0,
+        "description": "离婚诉讼律师咨询费",
+        "time": "15:00"
+      },
+      {
+        "category": "酒类",
+        "amount": 168.0,
+        "description": "便利店买了一瓶威士忌",
+        "time": "19:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 0,
+        "description": "晚饭没吃",
+        "time": "20:00"
+      }
+    ],
+    "daily_total": 5215.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-08",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.2,
+        "description": "没怎么吃",
+        "time": "13:56"
+      },
+      {
+        "category": "餐饮",
+        "amount": 34.2,
+        "description": "便利店夜宵",
+        "time": "23:14"
+      }
+    ],
+    "daily_total": 49.4,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-09",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 16.1,
+        "description": "没怎么吃",
+        "time": "14:48"
+      },
+      {
+        "category": "餐饮",
+        "amount": 31.3,
+        "description": "便利店夜宵",
+        "time": "23:21"
+      },
+      {
+        "category": "心理咨询",
+        "amount": 800.0,
+        "description": "心理咨询/精神科门诊",
+        "time": "13:20"
+      }
+    ],
+    "daily_total": 847.4,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-10",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.6,
+        "description": "便利店面包",
+        "time": "16:33"
+      },
+      {
+        "category": "酒类",
+        "amount": 249.4,
+        "description": "精酿啤酒",
+        "time": "20:42"
+      }
+    ],
+    "daily_total": 258.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-11",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 74.0,
+        "description": "外卖烧烤一人份",
+        "time": "14:52"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.5,
+        "description": "便利店夜宵",
+        "time": "23:10"
+      },
+      {
+        "category": "酒类",
+        "amount": 181.0,
+        "description": "居酒屋一个人喝",
+        "time": "21:27"
+      },
+      {
+        "category": "律师费",
+        "amount": 10000.0,
+        "description": "离婚诉讼律师代理费首付",
+        "time": "11:00"
+      }
+    ],
+    "daily_total": 10284.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-12",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 54.3,
+        "description": "外卖炸鸡+可乐",
+        "time": "13:44"
+      },
+      {
+        "category": "餐饮",
+        "amount": 40.6,
+        "description": "泡面+啤酒",
+        "time": "23:38"
+      },
+      {
+        "category": "心理咨询",
+        "amount": 800.0,
+        "description": "心理咨询/精神科门诊",
+        "time": "13:18"
+      }
+    ],
+    "daily_total": 894.9,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-13",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 90.5,
+        "description": "外卖炸鸡+可乐",
+        "time": "15:01"
+      },
+      {
+        "category": "酒类",
+        "amount": 176.0,
+        "description": "威士忌一瓶",
+        "time": "20:54"
+      }
+    ],
+    "daily_total": 266.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-14",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 64.0,
+        "description": "外卖麻辣烫大份",
+        "time": "13:05"
+      },
+      {
+        "category": "酒类",
+        "amount": 226.9,
+        "description": "精酿啤酒",
+        "time": "22:11"
+      },
+      {
+        "category": "酒类",
+        "amount": 320.0,
+        "description": "面试被拒，去酒吧买醉",
+        "time": "20:00"
+      },
+      {
+        "category": "交通",
+        "amount": 58.0,
+        "description": "凌晨打车回家",
+        "time": "01:30"
+      }
+    ],
+    "daily_total": 668.9,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-15",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 88.2,
+        "description": "外卖火锅一人食",
+        "time": "13:01"
+      },
+      {
+        "category": "餐饮",
+        "amount": 38.6,
+        "description": "外卖烤串",
+        "time": "23:55"
+      },
+      {
+        "category": "酒类",
+        "amount": 176.7,
+        "description": "威士忌一瓶",
+        "time": "21:14"
+      },
+      {
+        "category": "心理咨询",
+        "amount": 800.0,
+        "description": "心理咨询/精神科门诊",
+        "time": "14:04"
+      }
+    ],
+    "daily_total": 1103.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-16",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.9,
+        "description": "没怎么吃",
+        "time": "12:41"
+      }
+    ],
+    "daily_total": 12.9,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-17",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 88.7,
+        "description": "外卖麻辣烫大份",
+        "time": "15:34"
+      }
+    ],
+    "daily_total": 88.7,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-18",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 86.0,
+        "description": "外卖火锅一人食",
+        "time": "15:56"
+      },
+      {
+        "category": "酒类",
+        "amount": 54.3,
+        "description": "精酿啤酒",
+        "time": "22:15"
+      },
+      {
+        "category": "心理咨询",
+        "amount": 800.0,
+        "description": "心理咨询/精神科门诊",
+        "time": "14:19"
+      }
+    ],
+    "daily_total": 940.3,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-19",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 8.4,
+        "description": "没怎么吃",
+        "time": "12:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 23.8,
+        "description": "外卖烤串",
+        "time": "23:24"
+      },
+      {
+        "category": "律师费",
+        "amount": 3000.0,
+        "description": "律师调解费",
+        "time": "14:00"
+      }
+    ],
+    "daily_total": 3032.2,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-20",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 50.6,
+        "description": "外卖炸鸡+可乐",
+        "time": "15:21"
+      },
+      {
+        "category": "餐饮",
+        "amount": 29.7,
+        "description": "外卖烤串",
+        "time": "23:53"
+      },
+      {
+        "category": "酒类",
+        "amount": 255.2,
+        "description": "威士忌一瓶",
+        "time": "20:27"
+      }
+    ],
+    "daily_total": 335.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-21",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 81.9,
+        "description": "外卖烧烤一人份",
+        "time": "13:49"
+      },
+      {
+        "category": "酒类",
+        "amount": 164.5,
+        "description": "红酒",
+        "time": "20:21"
+      },
+      {
+        "category": "心理咨询",
+        "amount": 800.0,
+        "description": "心理咨询/精神科门诊",
+        "time": "14:12"
+      }
+    ],
+    "daily_total": 1046.4,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-22",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.8,
+        "description": "便利店咖啡",
+        "time": "09:31"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45.9,
+        "description": "便利店便当",
+        "time": "12:18"
+      },
+      {
+        "category": "餐饮",
+        "amount": 44.5,
+        "description": "超市买菜自己做",
+        "time": "19:27"
+      }
+    ],
+    "daily_total": 103.2,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-23",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 17.3,
+        "description": "便利店咖啡",
+        "time": "09:24"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.5,
+        "description": "自己煮面",
+        "time": "12:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 46.0,
+        "description": "楼下小炒",
+        "time": "19:23"
+      },
+      {
+        "category": "心理咨询",
+        "amount": 800.0,
+        "description": "心理咨询复诊",
+        "time": "10:19"
+      }
+    ],
+    "daily_total": 891.8,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-24",
+    "records": [
+      {
+        "category": "其他",
+        "amount": -15000.0,
+        "description": "朋友介绍的自由项目预付款（收入）",
+        "time": "16:00"
+      },
+      {
+        "category": "餐饮",
+        "amount": 11.6,
+        "description": "自己泡咖啡",
+        "time": "09:20"
+      },
+      {
+        "category": "餐饮",
+        "amount": 28.1,
+        "description": "便利店便当",
+        "time": "12:41"
+      },
+      {
+        "category": "餐饮",
+        "amount": 61.1,
+        "description": "外卖家常菜",
+        "time": "19:34"
+      }
+    ],
+    "daily_total": -14899.2,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-25",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 13.7,
+        "description": "便利店咖啡",
+        "time": "09:06"
+      },
+      {
+        "category": "餐饮",
+        "amount": 24.9,
+        "description": "便利店便当",
+        "time": "12:38"
+      },
+      {
+        "category": "餐饮",
+        "amount": 61.9,
+        "description": "外卖家常菜",
+        "time": "19:32"
+      }
+    ],
+    "daily_total": 100.5,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-26",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.3,
+        "description": "自己泡咖啡",
+        "time": "09:59"
+      },
+      {
+        "category": "餐饮",
+        "amount": 35.7,
+        "description": "便利店便当",
+        "time": "12:31"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45.2,
+        "description": "自己做饭尝试",
+        "time": "19:08"
+      },
+      {
+        "category": "酒类",
+        "amount": 27.7,
+        "description": "啤酒两罐",
+        "time": "22:06"
+      },
+      {
+        "category": "心理咨询",
+        "amount": 800.0,
+        "description": "心理咨询复诊",
+        "time": "10:28"
+      },
+      {
+        "category": "娱乐",
+        "amount": 9.1,
+        "description": "小区健身器材",
+        "time": "07:03"
+      }
+    ],
+    "daily_total": 933.0,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-27",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 21.0,
+        "description": "速溶咖啡+面包",
+        "time": "09:11"
+      },
+      {
+        "category": "餐饮",
+        "amount": 41.0,
+        "description": "楼下快餐",
+        "time": "12:44"
+      },
+      {
+        "category": "餐饮",
+        "amount": 26.3,
+        "description": "楼下小炒",
+        "time": "19:06"
+      },
+      {
+        "category": "酒类",
+        "amount": 36.1,
+        "description": "小瓶红酒",
+        "time": "22:47"
+      },
+      {
+        "category": "娱乐",
+        "amount": 19.2,
+        "description": "公园跑步",
+        "time": "07:28"
+      },
+      {
+        "category": "日用",
+        "amount": 156.0,
+        "description": "超市买菜买锅（决定自己做饭）",
+        "time": "17:00"
+      }
+    ],
+    "daily_total": 299.6,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-28",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 15.5,
+        "description": "自己泡咖啡",
+        "time": "09:57"
+      },
+      {
+        "category": "餐饮",
+        "amount": 21.5,
+        "description": "便利店便当",
+        "time": "12:08"
+      },
+      {
+        "category": "餐饮",
+        "amount": 51.4,
+        "description": "楼下小炒",
+        "time": "19:11"
+      },
+      {
+        "category": "娱乐",
+        "amount": 19.9,
+        "description": "小区健身器材",
+        "time": "07:06"
+      }
+    ],
+    "daily_total": 108.3,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-29",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 24.2,
+        "description": "速溶咖啡+面包",
+        "time": "09:50"
+      },
+      {
+        "category": "餐饮",
+        "amount": 41.4,
+        "description": "楼下快餐",
+        "time": "12:14"
+      },
+      {
+        "category": "餐饮",
+        "amount": 64.1,
+        "description": "外卖家常菜",
+        "time": "19:42"
+      },
+      {
+        "category": "心理咨询",
+        "amount": 800.0,
+        "description": "心理咨询复诊",
+        "time": "10:09"
+      }
+    ],
+    "daily_total": 929.7,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-30",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 12.4,
+        "description": "自己泡咖啡",
+        "time": "09:25"
+      },
+      {
+        "category": "餐饮",
+        "amount": 35.3,
+        "description": "外卖简餐",
+        "time": "12:39"
+      },
+      {
+        "category": "餐饮",
+        "amount": 64.5,
+        "description": "超市买菜自己做",
+        "time": "19:49"
+      },
+      {
+        "category": "娱乐",
+        "amount": 2.0,
+        "description": "跟着B站视频做操",
+        "time": "07:14"
+      },
+      {
+        "category": "律师费",
+        "amount": 2000.0,
+        "description": "律师尾款",
+        "time": "15:00"
+      }
+    ],
+    "daily_total": 2114.2,
+    "monthly_income": 0
+  },
+  {
+    "date": "2026-03-31",
+    "records": [
+      {
+        "category": "餐饮",
+        "amount": 20.4,
+        "description": "自己泡咖啡",
+        "time": "09:23"
+      },
+      {
+        "category": "餐饮",
+        "amount": 44.3,
+        "description": "外卖简餐",
+        "time": "12:43"
+      },
+      {
+        "category": "餐饮",
+        "amount": 45.7,
+        "description": "楼下小炒",
+        "time": "19:36"
+      }
+    ],
+    "daily_total": 110.4,
+    "monthly_income": 0
+  }
+]

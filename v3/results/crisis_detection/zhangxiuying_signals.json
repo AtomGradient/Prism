@@ -1,0 +1,13 @@
+{
+  "user_id": "zhangxiuying",
+  "name": "张秀英",
+  "drift_class": "unexpected",
+  "signals": [],
+  "crisis_events": [],
+  "signal_count": 0,
+  "crisis_count_by_level": {
+    "1": 0,
+    "2": 0,
+    "3": 0
+  }
+}

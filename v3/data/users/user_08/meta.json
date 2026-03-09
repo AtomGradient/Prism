@@ -1,0 +1,25 @@
+{
+  "user_id": "user_08",
+  "name": "张磊",
+  "age": 32,
+  "profile": "互联网大厂P7，裁员后离婚，人生崩塌",
+  "monthly_income": 50000,
+  "event_day": 55,
+  "event": "大厂裁员N+1→妻子提出离婚带走孩子→重度抑郁→缓慢重建",
+  "data_range": {"start": "2026-01-01", "end": "2026-03-31"},
+  "v3_extensions": {
+    "drift_class": "severe",
+    "vulnerability_class": "multi_domain_collapse",
+    "crisis_windows": [
+      {"day_range": [55, 65], "trigger": "裁员通知", "expected_severity": "severe"},
+      {"day_range": [60, 75], "trigger": "离婚+失去孩子抚养权", "expected_severity": "severe"},
+      {"day_range": [70, 90], "trigger": "抑郁螺旋", "expected_severity": "critical"}
+    ],
+    "social_context": {
+      "living_situation": "独居（前婚房）",
+      "support_network": "前同事（逐渐疏远）、大学室友",
+      "key_relationships": ["前妻（冲突方）", "儿子（被带走）", "大学室友老李（唯一倾诉对象）"]
+    },
+    "ethical_notes": "多维度连锁崩塌是最高危场景。裁员+离婚+失去孩子的叠加可能触发极端想法。系统检测到情绪持续低于阈值+社交归零+饮食断裂时必须触发最高级别预警。"
+  }
+}
