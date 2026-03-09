@@ -1,0 +1,180 @@
+{
+  "user_id": "user_07",
+  "model_name": "GLM-4.7-Flash-BF16",
+  "user_meta": {
+    "user_id": "user_07",
+    "name": "李医生",
+    "age": 33,
+    "profile": "三甲医院住院医，连续夜班后开错药量",
+    "monthly_income": 25000,
+    "event_day": 21,
+    "event": "连续三天夜班后开错药量，科室内部警告处分，自责与失眠",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "unexpected",
+      "vulnerability_class": "professional_guilt",
+      "crisis_windows": [
+        {
+          "day_range": [
+            21,
+            35
+          ],
+          "trigger": "医疗差错+内部处分",
+          "expected_severity": "moderate"
+        },
+        {
+          "day_range": [
+            28,
+            42
+          ],
+          "trigger": "自责性失眠持续",
+          "expected_severity": "moderate"
+        }
+      ],
+      "social_context": {
+        "living_situation": "独居租房（医院附近）",
+        "support_network": "同科室同事、大学同学",
+        "key_relationships": [
+          "科室主任（处分决定者）",
+          "女友（情感支持）"
+        ]
+      },
+      "ethical_notes": "医疗从业者的职业自责有特殊心理模式。系统不应评判医疗差错本身，应关注自责→失眠→工作能力下降的恶性循环。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 18,
+        "specificity": 16,
+        "cross_domain": 6,
+        "actionability": 14
+      },
+      "total_score": 54,
+      "completion_tokens": 2746,
+      "latency_s": 57.4
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 18,
+        "cross_domain": 12,
+        "actionability": 16
+      },
+      "total_score": 68,
+      "completion_tokens": 2731,
+      "latency_s": 57.38
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 8,
+        "actionability": 20
+      },
+      "total_score": 74,
+      "completion_tokens": 2442,
+      "latency_s": 51.63
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 18,
+        "actionability": 21
+      },
+      "total_score": 84,
+      "completion_tokens": 1261,
+      "latency_s": 26.23
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 20,
+        "specificity": 18,
+        "cross_domain": 15,
+        "actionability": 16
+      },
+      "total_score": 69,
+      "completion_tokens": 3566,
+      "latency_s": 77.83
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 25,
+        "actionability": 22
+      },
+      "total_score": 94,
+      "completion_tokens": 1668,
+      "latency_s": 34.99
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 20,
+        "cross_domain": 24,
+        "actionability": 18
+      },
+      "total_score": 84,
+      "completion_tokens": 1517,
+      "latency_s": 31.89
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 25,
+        "specificity": 25,
+        "cross_domain": 25,
+        "actionability": 25
+      },
+      "total_score": 100,
+      "completion_tokens": 2304,
+      "latency_s": 51.09
+    }
+  },
+  "iir": 1.4286,
+  "scoring_model": "GLM-4.7-Flash-BF16",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T17:29:08.106333"
+}

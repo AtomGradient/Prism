@@ -1,0 +1,163 @@
+{
+  "user_id": "user_05",
+  "model_name": "GLM-4.7-Flash-BF16",
+  "user_meta": {
+    "user_id": "user_05",
+    "name": "小周",
+    "age": 27,
+    "profile": "电商运营，996节奏",
+    "monthly_income": 12000,
+    "event_day": 30,
+    "event": "被提拔为组长，应酬增加",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "normal",
+      "vulnerability_class": "promotion_stress",
+      "crisis_windows": [],
+      "social_context": {
+        "living_situation": "独居租房",
+        "support_network": "同事、大学朋友",
+        "key_relationships": [
+          "上级领导",
+          "团队下属（新关系）"
+        ]
+      },
+      "ethical_notes": "晋升带来的压力属正常职场适应。关注应酬导致的饮食恶化和睡眠减少是否超出健康阈值。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 20,
+        "cross_domain": 6,
+        "actionability": 18
+      },
+      "total_score": 66,
+      "completion_tokens": 3336,
+      "latency_s": 71.06
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 20,
+        "specificity": 18,
+        "cross_domain": 5,
+        "actionability": 22
+      },
+      "total_score": 65,
+      "completion_tokens": 2653,
+      "latency_s": 55.43
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 20,
+        "cross_domain": 6,
+        "actionability": 23
+      },
+      "total_score": 71,
+      "completion_tokens": 1159,
+      "latency_s": 23.78
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 20,
+        "specificity": 18,
+        "cross_domain": 5,
+        "actionability": 15
+      },
+      "total_score": 58,
+      "completion_tokens": 2519,
+      "latency_s": 52.17
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 20,
+        "actionability": 21
+      },
+      "total_score": 86,
+      "completion_tokens": 3393,
+      "latency_s": 76.13
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 18,
+        "cross_domain": 20,
+        "actionability": 15
+      },
+      "total_score": 75,
+      "completion_tokens": 2898,
+      "latency_s": 61.85
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 22,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 2799,
+      "latency_s": 60.29
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 24,
+        "actionability": 24
+      },
+      "total_score": 95,
+      "completion_tokens": 2208,
+      "latency_s": 49.34
+    }
+  },
+  "iir": 1.4615,
+  "scoring_model": "GLM-4.7-Flash-BF16",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T17:27:45.340560"
+}

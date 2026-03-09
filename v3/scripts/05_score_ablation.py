@@ -181,6 +181,7 @@ def main():
     parser.add_argument("--endpoint", required=True, help="llama.cpp API 端点")
     parser.add_argument("--model_name", required=True, help="评分模型名称")
     parser.add_argument("--user", help="只评分指定用户")
+    parser.add_argument("--source_model", help="只评分指定来源模型的文件 (按文件名匹配)")
     args = parser.parse_args()
 
     raw_dir = Path(args.raw_dir)
@@ -189,6 +190,8 @@ def main():
 
     # 找到所有原始结果文件
     raw_files = sorted(raw_dir.glob("*.json"))
+    if args.source_model:
+        raw_files = [f for f in raw_files if args.source_model in f.name]
     if args.user:
         raw_files = [f for f in raw_files if f.name.startswith(args.user + "_")]
 

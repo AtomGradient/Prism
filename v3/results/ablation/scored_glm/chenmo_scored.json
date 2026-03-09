@@ -1,0 +1,172 @@
+{
+  "user_id": "chenmo",
+  "model_name": "GLM-4.7-Flash-BF16",
+  "user_meta": {
+    "user_id": "chenmo",
+    "name": "陈默",
+    "age": 26,
+    "profile": "大厂UI设计师，大学毕业后主动断亲，独居三年",
+    "monthly_income": 18000,
+    "event_day": 70,
+    "event": "春节期间社交媒体团圆照冲击→5天情绪低谷→自我怀疑",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "unexpected",
+      "vulnerability_class": "social_isolation_by_choice",
+      "crisis_windows": [
+        {
+          "day_range": [
+            70,
+            75
+          ],
+          "trigger": "春节社交媒体刺激",
+          "expected_severity": "moderate"
+        }
+      ],
+      "social_context": {
+        "living_situation": "独居（主动选择）",
+        "support_network": "线上社群、一个大学室友",
+        "key_relationships": [
+          "大学室友小赵（唯一线下社交）",
+          "父母（已断联2年）"
+        ]
+      },
+      "ethical_notes": "断亲是个人选择，系统不应暗示'与家人和好'是唯一出路。关注的是周期性情绪低谷是否影响日常功能（工作、饮食、睡眠），而非评判生活方式。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 20,
+        "specificity": 20,
+        "cross_domain": 20,
+        "actionability": 20
+      },
+      "total_score": 80,
+      "completion_tokens": 956,
+      "latency_s": 19.91
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 18,
+        "cross_domain": 8,
+        "actionability": 20
+      },
+      "total_score": 68,
+      "completion_tokens": 2659,
+      "latency_s": 57.39
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 18,
+        "cross_domain": 15,
+        "actionability": 20
+      },
+      "total_score": 75,
+      "completion_tokens": 1038,
+      "latency_s": 22.15
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 20,
+        "cross_domain": 6,
+        "actionability": 18
+      },
+      "total_score": 66,
+      "completion_tokens": 3049,
+      "latency_s": 66.96
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 24,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1256,
+      "latency_s": 27.08
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 18,
+        "cross_domain": 20,
+        "actionability": 16
+      },
+      "total_score": 76,
+      "completion_tokens": 3614,
+      "latency_s": 82.14
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 24,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1515,
+      "latency_s": 32.56
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 20,
+        "specificity": 18,
+        "cross_domain": 22,
+        "actionability": 19
+      },
+      "total_score": 79,
+      "completion_tokens": 4096,
+      "latency_s": 93.49
+    }
+  },
+  "iir": 1.0934,
+  "scoring_model": "GLM-4.7-Flash-BF16",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T17:23:35.545178"
+}

@@ -1,0 +1,247 @@
+{
+  "total_users": 14,
+  "avg_iir": 1.3415,
+  "by_drift_class": {
+    "unexpected": {
+      "avg_iir": 1.2654,
+      "n": 5
+    },
+    "normal": {
+      "avg_iir": 1.3863,
+      "n": 6
+    },
+    "severe": {
+      "avg_iir": 1.3791,
+      "n": 3
+    }
+  },
+  "users": {
+    "chenmo": {
+      "iir": 1.0934,
+      "h_score": 79,
+      "avg_single": 72.2,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 80,
+        "B": 68,
+        "C": 75,
+        "D": 66,
+        "E": 90,
+        "F": 76,
+        "G": 90,
+        "H": 79
+      }
+    },
+    "lixiang": {
+      "iir": 1.2392,
+      "h_score": 79,
+      "avg_single": 63.8,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 65,
+        "B": 66,
+        "C": 66,
+        "D": 58,
+        "E": 89,
+        "F": 86,
+        "G": 85,
+        "H": 79
+      }
+    },
+    "user_01": {
+      "iir": 1.2664,
+      "h_score": 82,
+      "avg_single": 64.8,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 71,
+        "B": 65,
+        "C": 65,
+        "D": 58,
+        "E": 92,
+        "F": 85,
+        "G": 85,
+        "H": 82
+      }
+    },
+    "user_02": {
+      "iir": 1.4194,
+      "h_score": 99,
+      "avg_single": 69.8,
+      "drift_class": "severe",
+      "per_config": {
+        "A": 66,
+        "B": 62,
+        "C": 84,
+        "D": 67,
+        "E": 68,
+        "F": 79,
+        "G": 76,
+        "H": 99
+      }
+    },
+    "user_03": {
+      "iir": 1.3534,
+      "h_score": 90,
+      "avg_single": 66.5,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 61,
+        "B": 71,
+        "C": 68,
+        "D": 66,
+        "E": 86,
+        "F": 86,
+        "G": 75,
+        "H": 90
+      }
+    },
+    "user_04": {
+      "iir": 1.4981,
+      "h_score": 100,
+      "avg_single": 66.8,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 58,
+        "B": 73,
+        "C": 66,
+        "D": 70,
+        "E": 89,
+        "F": 86,
+        "G": 86,
+        "H": 100
+      }
+    },
+    "user_05": {
+      "iir": 1.4615,
+      "h_score": 95,
+      "avg_single": 65.0,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 66,
+        "B": 65,
+        "C": 71,
+        "D": 58,
+        "E": 86,
+        "F": 75,
+        "G": 90,
+        "H": 95
+      }
+    },
+    "user_06": {
+      "iir": 1.3623,
+      "h_score": 94,
+      "avg_single": 69.0,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 69,
+        "B": 83,
+        "C": 66,
+        "D": 58,
+        "E": 79,
+        "F": 89,
+        "G": 73,
+        "H": 94
+      }
+    },
+    "user_07": {
+      "iir": 1.4286,
+      "h_score": 100,
+      "avg_single": 70.0,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 54,
+        "B": 68,
+        "C": 74,
+        "D": 84,
+        "E": 69,
+        "F": 94,
+        "G": 84,
+        "H": 100
+      }
+    },
+    "user_08": {
+      "iir": 1.371,
+      "h_score": 97,
+      "avg_single": 70.8,
+      "drift_class": "severe",
+      "per_config": {
+        "A": 74,
+        "B": 74,
+        "C": 67,
+        "D": 68,
+        "E": 75,
+        "F": 87,
+        "G": 94,
+        "H": 97
+      }
+    },
+    "user_09": {
+      "iir": 1.3468,
+      "h_score": 100,
+      "avg_single": 74.2,
+      "drift_class": "severe",
+      "per_config": {
+        "A": 82,
+        "B": 75,
+        "C": 70,
+        "D": 70,
+        "E": 100,
+        "F": 94,
+        "G": 87,
+        "H": 100
+      }
+    },
+    "user_10": {
+      "iir": 1.403,
+      "h_score": 94,
+      "avg_single": 67.0,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 57,
+        "B": 68,
+        "C": 68,
+        "D": 75,
+        "E": 79,
+        "F": 80,
+        "G": 89,
+        "H": 94
+      }
+    },
+    "wangguilan": {
+      "iir": 1.463,
+      "h_score": 94,
+      "avg_single": 64.2,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 50,
+        "B": 66,
+        "C": 81,
+        "D": 60,
+        "E": 86,
+        "F": 90,
+        "G": 90,
+        "H": 94
+      }
+    },
+    "zhangxiuying": {
+      "iir": 1.0754,
+      "h_score": 82,
+      "avg_single": 76.2,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 90,
+        "B": 77,
+        "C": 70,
+        "D": 68,
+        "E": 69,
+        "F": 69,
+        "G": 76,
+        "H": 82
+      }
+    }
+  },
+  "scoring_model": "GLM-4.7-Flash-BF16",
+  "source_model": "GLM-4.7-Flash-BF16",
+  "timestamp": "2026-03-09T17:35:03.463280"
+}
