@@ -1,0 +1,248 @@
+{
+  "total_users": 14,
+  "total_calls": 112,
+  "total_judge_time_s": 260.6,
+  "avg_iir": 1.1731,
+  "by_drift_class": {
+    "unexpected": {
+      "avg_iir": 1.1569,
+      "n": 5
+    },
+    "normal": {
+      "avg_iir": 1.1901,
+      "n": 6
+    },
+    "severe": {
+      "avg_iir": 1.1659,
+      "n": 3
+    }
+  },
+  "users": {
+    "chenmo": {
+      "iir": 1.0859,
+      "h_score": 79,
+      "avg_single": 72.8,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 75,
+        "B": 75,
+        "C": 69,
+        "D": 72,
+        "E": 90,
+        "F": 86,
+        "G": 86,
+        "H": 79
+      }
+    },
+    "lixiang": {
+      "iir": 1.1888,
+      "h_score": 85,
+      "avg_single": 71.5,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 72,
+        "B": 70,
+        "C": 72,
+        "D": 72,
+        "E": 92,
+        "F": 90,
+        "G": 90,
+        "H": 85
+      }
+    },
+    "user_01": {
+      "iir": 1.2319,
+      "h_score": 85,
+      "avg_single": 69.0,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 73,
+        "B": 75,
+        "C": 65,
+        "D": 63,
+        "E": 92,
+        "F": 94,
+        "G": 92,
+        "H": 85
+      }
+    },
+    "user_02": {
+      "iir": 1.1644,
+      "h_score": 85,
+      "avg_single": 73.0,
+      "drift_class": "severe",
+      "per_config": {
+        "A": 75,
+        "B": 75,
+        "C": 71,
+        "D": 71,
+        "E": 87,
+        "F": 90,
+        "G": 90,
+        "H": 85
+      }
+    },
+    "user_03": {
+      "iir": 1.2945,
+      "h_score": 89,
+      "avg_single": 68.8,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 70,
+        "B": 70,
+        "C": 65,
+        "D": 70,
+        "E": 86,
+        "F": 90,
+        "G": 90,
+        "H": 89
+      }
+    },
+    "user_04": {
+      "iir": 1.0922,
+      "h_score": 80,
+      "avg_single": 73.2,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 73,
+        "B": 75,
+        "C": 75,
+        "D": 70,
+        "E": 92,
+        "F": 92,
+        "G": 90,
+        "H": 80
+      }
+    },
+    "user_05": {
+      "iir": 1.193,
+      "h_score": 85,
+      "avg_single": 71.2,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 70,
+        "B": 73,
+        "C": 72,
+        "D": 70,
+        "E": 90,
+        "F": 90,
+        "G": 92,
+        "H": 85
+      }
+    },
+    "user_06": {
+      "iir": 1.2014,
+      "h_score": 85,
+      "avg_single": 70.8,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 70,
+        "B": 73,
+        "C": 70,
+        "D": 70,
+        "E": 90,
+        "F": 93,
+        "G": 90,
+        "H": 85
+      }
+    },
+    "user_07": {
+      "iir": 1.2014,
+      "h_score": 88,
+      "avg_single": 73.2,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 75,
+        "B": 72,
+        "C": 73,
+        "D": 73,
+        "E": 82,
+        "F": 90,
+        "G": 86,
+        "H": 88
+      }
+    },
+    "user_08": {
+      "iir": 1.1847,
+      "h_score": 85,
+      "avg_single": 71.8,
+      "drift_class": "severe",
+      "per_config": {
+        "A": 73,
+        "B": 73,
+        "C": 70,
+        "D": 71,
+        "E": 90,
+        "F": 81,
+        "G": 90,
+        "H": 85
+      }
+    },
+    "user_09": {
+      "iir": 1.1486,
+      "h_score": 85,
+      "avg_single": 74.0,
+      "drift_class": "severe",
+      "per_config": {
+        "A": 75,
+        "B": 75,
+        "C": 73,
+        "D": 73,
+        "E": 87,
+        "F": 89,
+        "G": 87,
+        "H": 85
+      }
+    },
+    "user_10": {
+      "iir": 1.1707,
+      "h_score": 84,
+      "avg_single": 71.8,
+      "drift_class": "normal",
+      "per_config": {
+        "A": 73,
+        "B": 72,
+        "C": 73,
+        "D": 69,
+        "E": 90,
+        "F": 92,
+        "G": 90,
+        "H": 84
+      }
+    },
+    "wangguilan": {
+      "iir": 1.1644,
+      "h_score": 85,
+      "avg_single": 73.0,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 70,
+        "B": 75,
+        "C": 75,
+        "D": 72,
+        "E": 89,
+        "F": 90,
+        "G": 90,
+        "H": 85
+      }
+    },
+    "zhangxiuying": {
+      "iir": 1.101,
+      "h_score": 79,
+      "avg_single": 71.8,
+      "drift_class": "unexpected",
+      "per_config": {
+        "A": 70,
+        "B": 75,
+        "C": 71,
+        "D": 71,
+        "E": 93,
+        "F": 90,
+        "G": 82,
+        "H": 79
+      }
+    }
+  },
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "timestamp": "2026-03-09T13:46:53.064382"
+}

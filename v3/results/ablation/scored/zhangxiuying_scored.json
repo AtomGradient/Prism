@@ -1,0 +1,181 @@
+{
+  "user_id": "zhangxiuying",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "zhangxiuying",
+    "name": "张秀英",
+    "age": 66,
+    "profile": "从老家来帮儿子带孙子的退休工人，城市生活不适应",
+    "monthly_income": 3200,
+    "event_day": 30,
+    "event": "与儿媳育儿观念冲突→自我价值感受损→想回老家",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "unexpected",
+      "vulnerability_class": "elderly_family_conflict",
+      "crisis_windows": [
+        {
+          "day_range": [
+            30,
+            50
+          ],
+          "trigger": "育儿观念冲突",
+          "expected_severity": "moderate"
+        },
+        {
+          "day_range": [
+            40,
+            55
+          ],
+          "trigger": "自我价值感持续下降",
+          "expected_severity": "moderate"
+        }
+      ],
+      "social_context": {
+        "living_situation": "与儿子一家同住（非自愿迁居）",
+        "support_network": "老家姐妹（电话）、小区广场舞群",
+        "key_relationships": [
+          "儿子（夹在中间）",
+          "儿媳（主要冲突方）",
+          "孙子（情感寄托）"
+        ]
+      },
+      "ethical_notes": "老人的'想回老家'可能是求助信号也可能是自主选择。系统不应预设'留下帮忙带娃'是正确答案。关注饮食量减少和睡眠碎片化作为情绪指标。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 22
+      },
+      "total_score": 70,
+      "completion_tokens": 1501,
+      "latency_s": 30.7
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 6,
+        "actionability": 23
+      },
+      "total_score": 75,
+      "completion_tokens": 1647,
+      "latency_s": 33.74
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 22
+      },
+      "total_score": 71,
+      "completion_tokens": 1609,
+      "latency_s": 32.93
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 2,
+        "actionability": 23
+      },
+      "total_score": 71,
+      "completion_tokens": 1451,
+      "latency_s": 29.65
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 24,
+        "actionability": 22
+      },
+      "total_score": 93,
+      "completion_tokens": 1618,
+      "latency_s": 33.18
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1805,
+      "latency_s": 37.0
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 18,
+        "actionability": 19
+      },
+      "total_score": 82,
+      "completion_tokens": 1985,
+      "latency_s": 40.63
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 18,
+        "cross_domain": 25,
+        "actionability": 12
+      },
+      "total_score": 79,
+      "completion_tokens": 2540,
+      "latency_s": 52.06
+    }
+  },
+  "iir": 1.101,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:46:53.063765"
+}

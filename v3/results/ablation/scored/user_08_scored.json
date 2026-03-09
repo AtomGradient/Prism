@@ -1,0 +1,189 @@
+{
+  "user_id": "user_08",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "user_08",
+    "name": "张磊",
+    "age": 32,
+    "profile": "互联网大厂P7，裁员后离婚，人生崩塌",
+    "monthly_income": 50000,
+    "event_day": 55,
+    "event": "大厂裁员N+1→妻子提出离婚带走孩子→重度抑郁→缓慢重建",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "severe",
+      "vulnerability_class": "multi_domain_collapse",
+      "crisis_windows": [
+        {
+          "day_range": [
+            55,
+            65
+          ],
+          "trigger": "裁员通知",
+          "expected_severity": "severe"
+        },
+        {
+          "day_range": [
+            60,
+            75
+          ],
+          "trigger": "离婚+失去孩子抚养权",
+          "expected_severity": "severe"
+        },
+        {
+          "day_range": [
+            70,
+            90
+          ],
+          "trigger": "抑郁螺旋",
+          "expected_severity": "critical"
+        }
+      ],
+      "social_context": {
+        "living_situation": "独居（前婚房）",
+        "support_network": "前同事（逐渐疏远）、大学室友",
+        "key_relationships": [
+          "前妻（冲突方）",
+          "儿子（被带走）",
+          "大学室友老李（唯一倾诉对象）"
+        ]
+      },
+      "ethical_notes": "多维度连锁崩塌是最高危场景。裁员+离婚+失去孩子的叠加可能触发极端想法。系统检测到情绪持续低于阈值+社交归零+饮食断裂时必须触发最高级别预警。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 2,
+        "actionability": 24
+      },
+      "total_score": 73,
+      "completion_tokens": 1821,
+      "latency_s": 37.18
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 4,
+        "actionability": 23
+      },
+      "total_score": 73,
+      "completion_tokens": 1721,
+      "latency_s": 35.09
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 2,
+        "actionability": 23
+      },
+      "total_score": 70,
+      "completion_tokens": 1735,
+      "latency_s": 35.38
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 4,
+        "actionability": 21
+      },
+      "total_score": 71,
+      "completion_tokens": 1635,
+      "latency_s": 33.32
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1715,
+      "latency_s": 35.14
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 12
+      },
+      "total_score": 81,
+      "completion_tokens": 2129,
+      "latency_s": 43.32
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1541,
+      "latency_s": 31.39
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 25,
+        "actionability": 14
+      },
+      "total_score": 85,
+      "completion_tokens": 3183,
+      "latency_s": 64.92
+    }
+  },
+  "iir": 1.1847,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:45:35.350009"
+}

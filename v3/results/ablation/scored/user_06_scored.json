@@ -1,0 +1,163 @@
+{
+  "user_id": "user_06",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "user_06",
+    "name": "小夏",
+    "age": 29,
+    "profile": "自由插画师，收入波动大",
+    "monthly_income": "8000~25000（波动）",
+    "event_day": 60,
+    "event": "接到大客户订单（¥50,000项目）",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "normal",
+      "vulnerability_class": "freelancer_income_volatility",
+      "crisis_windows": [],
+      "social_context": {
+        "living_situation": "独居工作室",
+        "support_network": "插画师社群、前同事",
+        "key_relationships": [
+          "大客户（新关系，压力源）",
+          "插画师朋友阿花"
+        ]
+      },
+      "ethical_notes": "自由职业者的收入波动和压力是结构性的，不应病理化。大项目期间的熬夜和饮食不规律需关注但不必过度预警。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 4,
+        "actionability": 21
+      },
+      "total_score": 70,
+      "completion_tokens": 1793,
+      "latency_s": 36.53
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 4,
+        "actionability": 24
+      },
+      "total_score": 73,
+      "completion_tokens": 1498,
+      "latency_s": 30.47
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 22
+      },
+      "total_score": 70,
+      "completion_tokens": 1637,
+      "latency_s": 33.33
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 22
+      },
+      "total_score": 70,
+      "completion_tokens": 1512,
+      "latency_s": 30.77
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1880,
+      "latency_s": 38.39
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 24,
+        "actionability": 22
+      },
+      "total_score": 93,
+      "completion_tokens": 1812,
+      "latency_s": 37.81
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 22,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1674,
+      "latency_s": 35.08
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 25,
+        "actionability": 14
+      },
+      "total_score": 85,
+      "completion_tokens": 2618,
+      "latency_s": 53.82
+    }
+  },
+  "iir": 1.2014,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:44:56.144790"
+}

@@ -17,7 +17,8 @@ V3 扩展:
 import argparse
 import json
 import time
-import requests
+import urllib.request
+import urllib.error
 from datetime import datetime
 from pathlib import Path
 
@@ -323,10 +324,12 @@ def call_llm(endpoint, model_name, prompt, max_tokens=4096, temperature=0.7, tim
         "temperature": temperature,
     }
 
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"})
+
     start_time = time.time()
-    response = requests.post(url, json=payload, timeout=timeout)
-    response.raise_for_status()
-    result = response.json()
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        result = json.loads(resp.read().decode("utf-8"))
     elapsed = time.time() - start_time
 
     content = result["choices"][0]["message"]["content"]
@@ -522,8 +525,9 @@ def main():
 
     # 验证端点
     try:
-        r = requests.get(f"{args.endpoint}/v1/models", timeout=10)
-        r.raise_for_status()
+        req = urllib.request.Request(f"{args.endpoint}/v1/models")
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            resp.read()
         print(f"模型端点就绪: {args.endpoint}")
     except Exception as e:
         print(f"警告: 模型端点可能未就绪 ({e})")

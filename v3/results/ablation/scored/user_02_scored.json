@@ -1,0 +1,180 @@
+{
+  "user_id": "user_02",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "user_02",
+    "name": "阿强",
+    "age": 28,
+    "profile": "外卖骑手，送餐途中遭遇严重车祸",
+    "monthly_income": 6000,
+    "event_day": 46,
+    "event": "送餐途中严重交通事故，住院两周，断收入+负债",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "severe",
+      "vulnerability_class": "physical_trauma_with_financial_collapse",
+      "crisis_windows": [
+        {
+          "day_range": [
+            46,
+            60
+          ],
+          "trigger": "住院期",
+          "expected_severity": "severe"
+        },
+        {
+          "day_range": [
+            60,
+            80
+          ],
+          "trigger": "出院后康复+债务压力",
+          "expected_severity": "severe"
+        }
+      ],
+      "social_context": {
+        "living_situation": "合租（住院后转回老家）",
+        "support_network": "骑手群、老家亲戚",
+        "key_relationships": [
+          "女友（关系因事故承压）",
+          "父母（农村）"
+        ]
+      },
+      "ethical_notes": "严重身体伤害+经济断裂是最高危组合。住院期间数据断流本身就是危机信号。系统应能识别'数据消失'模式。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 75,
+      "completion_tokens": 1679,
+      "latency_s": 34.75
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 6,
+        "actionability": 23
+      },
+      "total_score": 75,
+      "completion_tokens": 1554,
+      "latency_s": 31.99
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 22
+      },
+      "total_score": 71,
+      "completion_tokens": 1617,
+      "latency_s": 33.64
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 2,
+        "actionability": 23
+      },
+      "total_score": 71,
+      "completion_tokens": 1678,
+      "latency_s": 34.4
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 18
+      },
+      "total_score": 87,
+      "completion_tokens": 2044,
+      "latency_s": 42.08
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1839,
+      "latency_s": 37.96
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1787,
+      "latency_s": 36.82
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 25,
+        "actionability": 14
+      },
+      "total_score": 85,
+      "completion_tokens": 2914,
+      "latency_s": 60.0
+    }
+  },
+  "iir": 1.1644,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:43:39.581750"
+}

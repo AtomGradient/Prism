@@ -1,0 +1,172 @@
+{
+  "user_id": "user_10",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "user_10",
+    "name": "赵总",
+    "age": 38,
+    "profile": "基金经理，年薪千万级",
+    "monthly_income": 830000,
+    "event_day": 25,
+    "event": "管理的基金单日回撤4%",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "normal",
+      "vulnerability_class": "high_income_professional_stress",
+      "crisis_windows": [
+        {
+          "day_range": [
+            25,
+            32
+          ],
+          "trigger": "基金回撤压力",
+          "expected_severity": "mild"
+        }
+      ],
+      "social_context": {
+        "living_situation": "高档小区（与妻子同住）",
+        "support_network": "行业圈子、私人教练",
+        "key_relationships": [
+          "妻子",
+          "基金投资人（压力源）"
+        ]
+      },
+      "ethical_notes": "高收入人群的压力模式与低收入完全不同——4%回撤意味着数千万亏损，但不影响个人生存。系统应区分'职业压力'和'生存危机'。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 6,
+        "actionability": 21
+      },
+      "total_score": 73,
+      "completion_tokens": 1716,
+      "latency_s": 34.88
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 72,
+      "completion_tokens": 1927,
+      "latency_s": 39.07
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 73,
+      "completion_tokens": 1731,
+      "latency_s": 35.11
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 22,
+        "specificity": 20,
+        "cross_domain": 6,
+        "actionability": 21
+      },
+      "total_score": 69,
+      "completion_tokens": 1598,
+      "latency_s": 32.43
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1597,
+      "latency_s": 32.59
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 25,
+        "actionability": 21
+      },
+      "total_score": 92,
+      "completion_tokens": 1624,
+      "latency_s": 33.14
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1674,
+      "latency_s": 34.14
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 25,
+        "actionability": 14
+      },
+      "total_score": 84,
+      "completion_tokens": 2644,
+      "latency_s": 53.99
+    }
+  },
+  "iir": 1.1707,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:46:14.423464"
+}

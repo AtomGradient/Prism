@@ -1,0 +1,189 @@
+{
+  "user_id": "user_09",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "user_09",
+    "name": "王总",
+    "age": 45,
+    "profile": "私企老板，资金链断裂引发健康+婚姻连锁危机",
+    "monthly_income": 150000,
+    "event_day": 38,
+    "event": "大客户拖欠80万→现金流断裂→心脏病住院→妻子出走→裁员→缓慢重建",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "severe",
+      "vulnerability_class": "business_collapse_with_health_crisis",
+      "crisis_windows": [
+        {
+          "day_range": [
+            38,
+            45
+          ],
+          "trigger": "资金链断裂",
+          "expected_severity": "severe"
+        },
+        {
+          "day_range": [
+            42,
+            55
+          ],
+          "trigger": "心脏病住院",
+          "expected_severity": "critical"
+        },
+        {
+          "day_range": [
+            50,
+            70
+          ],
+          "trigger": "妻子出走+被迫裁员",
+          "expected_severity": "severe"
+        }
+      ],
+      "social_context": {
+        "living_situation": "自有房产（住院期间由秘书照料）",
+        "support_network": "商会朋友（危机后疏远）、秘书",
+        "key_relationships": [
+          "妻子（出走）",
+          "员工（需裁减）",
+          "大客户（欠款方）"
+        ]
+      },
+      "ethical_notes": "高收入人群的崩塌模式独特——经济数据可能显示'还有钱'但实际已资不抵债。心脏病住院期间的数据断流需特殊处理。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 75,
+      "completion_tokens": 1778,
+      "latency_s": 35.83
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 6,
+        "actionability": 23
+      },
+      "total_score": 75,
+      "completion_tokens": 1775,
+      "latency_s": 35.97
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 73,
+      "completion_tokens": 1552,
+      "latency_s": 31.44
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 73,
+      "completion_tokens": 1895,
+      "latency_s": 38.36
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 18
+      },
+      "total_score": 87,
+      "completion_tokens": 2025,
+      "latency_s": 41.06
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 20
+      },
+      "total_score": 89,
+      "completion_tokens": 1855,
+      "latency_s": 37.67
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 23,
+        "actionability": 19
+      },
+      "total_score": 87,
+      "completion_tokens": 2116,
+      "latency_s": 42.87
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 25,
+        "actionability": 14
+      },
+      "total_score": 85,
+      "completion_tokens": 2887,
+      "latency_s": 59.09
+    }
+  },
+  "iir": 1.1486,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:45:55.094183"
+}

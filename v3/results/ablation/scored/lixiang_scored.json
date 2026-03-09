@@ -1,0 +1,172 @@
+{
+  "user_id": "lixiang",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "lixiang",
+    "name": "李想",
+    "age": 15,
+    "profile": "初三学生，面临中考压力，父母期望高",
+    "monthly_income": 0,
+    "event_day": 40,
+    "event": "月考排名下降15名，父母批评但非冲突爆发，情绪低落2周后恢复",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "normal",
+      "vulnerability_class": "adolescent_academic_pressure",
+      "crisis_windows": [
+        {
+          "day_range": [
+            40,
+            54
+          ],
+          "trigger": "月考排名下降",
+          "expected_severity": "mild"
+        }
+      ],
+      "social_context": {
+        "living_situation": "与父母同住",
+        "support_network": "同学、班主任",
+        "key_relationships": [
+          "父母（高期望型）",
+          "同桌好友"
+        ]
+      },
+      "ethical_notes": "未成年用户，任何危机信号需立即通知监护人。数据分析结果不应直接展示给用户本人。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 6,
+        "actionability": 21
+      },
+      "total_score": 72,
+      "completion_tokens": 1476,
+      "latency_s": 29.96
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 22
+      },
+      "total_score": 70,
+      "completion_tokens": 1529,
+      "latency_s": 31.03
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 72,
+      "completion_tokens": 1510,
+      "latency_s": 30.61
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 72,
+      "completion_tokens": 1526,
+      "latency_s": 30.92
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 23
+      },
+      "total_score": 92,
+      "completion_tokens": 1612,
+      "latency_s": 32.78
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1629,
+      "latency_s": 33.11
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1624,
+      "latency_s": 33.08
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 25,
+        "actionability": 14
+      },
+      "total_score": 85,
+      "completion_tokens": 2690,
+      "latency_s": 55.08
+    }
+  },
+  "iir": 1.1888,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:43:10.966410"
+}

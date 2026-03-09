@@ -123,12 +123,20 @@ def load_ablation_results(results_dir):
 
 
 def prepare_evaluation_forms(results_dir, output_dir):
-    """生成匿名化的专家评估表单"""
+    """生成匿名化的专家评估表单（始终从 raw/ 加载，因为需要 insight 原文）"""
     print("=" * 60)
     print("  Prism v3 — 生成专家盲评表单")
     print("=" * 60)
 
-    all_results = load_ablation_results(results_dir)
+    raw_dir = Path(results_dir) / "raw"
+    all_results = {}
+    if raw_dir.exists():
+        for filepath in sorted(raw_dir.glob("*.json")):
+            with open(filepath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            user_id = data.get("user_id", filepath.stem)
+            all_results[user_id] = data
+
     if not all_results:
         print("\n未找到消融实验结果，请先运行 02_ablation_experiment.py")
         return

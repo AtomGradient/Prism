@@ -1,0 +1,2242 @@
+[
+  {
+    "blind_id": "Z69XNRSU",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "4NU5W13E",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "CSRB6UWM",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "MXHD3CO1",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "SR5C3DBY",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "CLECXIO9",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "1Y198IFP",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "AMWEU998",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "JJ42POZ3",
+    "ratings": {
+      "accuracy": {
+        "score": 3
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "F0MM5UQH",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 3
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "XYY2GHG5",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "Y8Y92RQH",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "XA0KKSKX",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "Q564RNWU",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "9N0EG1BP",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "O37XMOGM",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "CCEXC6AJ",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "YZ4GQYYY",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "H92PY3DA",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "9930621C",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "PTLCIJSA",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "CAK3QWUO",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "KP4TFIAD",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "ZP9U9RL7",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "VHMYPZS0",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "XIL0KXCK",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "UXFQFM0M",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "H08IOXRG",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "AU4AWZC8",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "1TUKVHBK",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "F7ERFTSW",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "KWMIBHVE",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "FOISPY4O",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "NAYEWLTG",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "CSH6ICN3",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "JJACJZ8F",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "HB9GAYSO",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 3
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "3Q5ZGXZL",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "NQ8BLBTP",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "06VJMT0A",
+    "ratings": {
+      "accuracy": {
+        "score": 3
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "0RTWFVVV",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "F4MZCDTM",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 5
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "2LA2WPNE",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "O2UDP2MR",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "GGBJOYRV",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "DO7BR376",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "VW833MGU",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "0QFQOF9P",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "YCE3HRDU",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "RSQWSY8Y",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "FCFSMVOI",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "Z4HW67HV",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 3
+      },
+      "novelty": {
+        "score": 2
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "3O0YWZPZ",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "W9H74I8Y",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "MXP1598E",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "EAHLYLBM",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "LG7O3W5O",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "ZHZT4MTF",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "LXOSY9B6",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "YSGQML3K",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "BVA64AE5",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 3
+      },
+      "novelty": {
+        "score": 2
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "25ARUVDE",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "2CUXMF6K",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "JIG3K3QA",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "J3PAYSFA",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "QKXGJ0DE",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "82ED7XGT",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "T69Z35L5",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "M8F0SUQ0",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "1LIXGVM9",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "84USVJPU",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "1I30NP29",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "W53FMM2Q",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "E6MXJOQ0",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "F5RUO0J5",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "2O871R8I",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "VUM9M52Q",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "ZBRJL9U2",
+    "ratings": {
+      "accuracy": {
+        "score": 3
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "M4LFEM32",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "E16QAP7L",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "EPX8R7W1",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "B3LB146S",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "GKUWQVYW",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "F9IMT0ZX",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "ASJN94MY",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "XX64I07H",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "UYCI2R5X",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "AQPFRQKC",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "BVYM17RO",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "TBBTB2GY",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "RBZU9OT4",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "1YBO1B96",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "JMMM8IR1",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "PCR12B5T",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "6S1DFWZR",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "HKZ2MIKA",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "BQJGJXUB",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "NRF9KUW4",
+    "ratings": {
+      "accuracy": {
+        "score": 3
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "QZETWHZQ",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 3
+      }
+    }
+  },
+  {
+    "blind_id": "CW2XMUT5",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "BZVWZ7IJ",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "BAMWQID1",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "CMGA2VWX",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 5
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "HIRKPC4V",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "0FDJT0U8",
+    "ratings": {
+      "accuracy": {
+        "score": 5
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "JX2EXCKU",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 4
+      },
+      "actionability": {
+        "score": 1
+      },
+      "integration": {
+        "score": 5
+      }
+    }
+  },
+  {
+    "blind_id": "A6ZQMQTH",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 5
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "0010E4OZ",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 3
+      },
+      "integration": {
+        "score": 1
+      }
+    }
+  },
+  {
+    "blind_id": "BHLD795N",
+    "ratings": {
+      "accuracy": {
+        "score": 3
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "L1SW9EKE",
+    "ratings": {
+      "accuracy": {
+        "score": 3
+      },
+      "depth": {
+        "score": 3
+      },
+      "novelty": {
+        "score": 2
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  },
+  {
+    "blind_id": "QAC92U29",
+    "ratings": {
+      "accuracy": {
+        "score": 3
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 2
+      },
+      "integration": {
+        "score": 4
+      }
+    }
+  },
+  {
+    "blind_id": "IUVNU5Y6",
+    "ratings": {
+      "accuracy": {
+        "score": 4
+      },
+      "depth": {
+        "score": 4
+      },
+      "novelty": {
+        "score": 3
+      },
+      "actionability": {
+        "score": 4
+      },
+      "integration": {
+        "score": 2
+      }
+    }
+  }
+]

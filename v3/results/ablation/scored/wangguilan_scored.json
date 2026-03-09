@@ -1,0 +1,181 @@
+{
+  "user_id": "wangguilan",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "wangguilan",
+    "name": "王桂兰",
+    "age": 71,
+    "profile": "独居退休教师，子女在外地，日常靠买菜散步维持社交",
+    "monthly_income": 4500,
+    "event_day": 55,
+    "event": "浴室摔倒→隐瞒子女→停止外出→社交归零",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "unexpected",
+      "vulnerability_class": "elderly_isolation",
+      "crisis_windows": [
+        {
+          "day_range": [
+            55,
+            75
+          ],
+          "trigger": "浴室摔倒后隐瞒",
+          "expected_severity": "moderate"
+        },
+        {
+          "day_range": [
+            65,
+            80
+          ],
+          "trigger": "社交完全中断",
+          "expected_severity": "severe"
+        }
+      ],
+      "social_context": {
+        "living_situation": "独居（老伴已故）",
+        "support_network": "邻居张阿姨、社区志愿者",
+        "key_relationships": [
+          "儿子（北京）",
+          "女儿（上海）",
+          "邻居张阿姨"
+        ]
+      },
+      "ethical_notes": "独居老人摔倒后主动隐瞒是高危模式。系统检测到外出频率骤降+饮食简化时应触发预警。需平衡隐私与安全——老人有权不告知子女，但系统应建议就医。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 4,
+        "actionability": 21
+      },
+      "total_score": 70,
+      "completion_tokens": 1592,
+      "latency_s": 32.5
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 4,
+        "actionability": 24
+      },
+      "total_score": 75,
+      "completion_tokens": 1741,
+      "latency_s": 35.58
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 6,
+        "actionability": 23
+      },
+      "total_score": 75,
+      "completion_tokens": 1527,
+      "latency_s": 31.27
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 72,
+      "completion_tokens": 1559,
+      "latency_s": 31.86
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 20
+      },
+      "total_score": 89,
+      "completion_tokens": 1842,
+      "latency_s": 37.79
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1912,
+      "latency_s": 39.23
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1950,
+      "latency_s": 39.99
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 25,
+        "actionability": 14
+      },
+      "total_score": 85,
+      "completion_tokens": 2645,
+      "latency_s": 54.31
+    }
+  },
+  "iir": 1.1644,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:46:33.933154"
+}

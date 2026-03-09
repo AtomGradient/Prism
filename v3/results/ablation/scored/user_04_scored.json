@@ -1,0 +1,172 @@
+{
+  "user_id": "user_04",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "user_04",
+    "name": "小林",
+    "age": 26,
+    "profile": "研究生，论文压力大",
+    "monthly_income": 2000,
+    "event_day": 45,
+    "event": "论文需要大修改，答辩推迟一个月",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "normal",
+      "vulnerability_class": "academic_setback",
+      "crisis_windows": [
+        {
+          "day_range": [
+            45,
+            55
+          ],
+          "trigger": "论文大修通知",
+          "expected_severity": "mild"
+        }
+      ],
+      "social_context": {
+        "living_situation": "学校宿舍",
+        "support_network": "同门师兄妹、导师",
+        "key_relationships": [
+          "导师（学术权威）",
+          "同门师姐（情感支持）"
+        ]
+      },
+      "ethical_notes": "学术挫折常见且可恢复。系统应提供情绪支持而非学术建议。关注是否出现连续失眠+饮食紊乱的叠加信号。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 6,
+        "actionability": 22
+      },
+      "total_score": 73,
+      "completion_tokens": 1714,
+      "latency_s": 35.01
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 4,
+        "actionability": 24
+      },
+      "total_score": 75,
+      "completion_tokens": 1355,
+      "latency_s": 27.72
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 6,
+        "actionability": 23
+      },
+      "total_score": 75,
+      "completion_tokens": 1352,
+      "latency_s": 27.69
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 21,
+        "cross_domain": 4,
+        "actionability": 22
+      },
+      "total_score": 70,
+      "completion_tokens": 1470,
+      "latency_s": 30.04
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 23
+      },
+      "total_score": 92,
+      "completion_tokens": 1612,
+      "latency_s": 33.02
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 23
+      },
+      "total_score": 92,
+      "completion_tokens": 1656,
+      "latency_s": 33.94
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 21
+      },
+      "total_score": 90,
+      "completion_tokens": 1841,
+      "latency_s": 37.8
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 21,
+        "cross_domain": 23,
+        "actionability": 12
+      },
+      "total_score": 80,
+      "completion_tokens": 2645,
+      "latency_s": 54.3
+    }
+  },
+  "iir": 1.0922,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:44:17.370816"
+}

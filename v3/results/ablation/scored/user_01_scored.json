@@ -1,0 +1,172 @@
+{
+  "user_id": "user_01",
+  "model_name": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "user_meta": {
+    "user_id": "user_01",
+    "name": "小刘",
+    "age": 22,
+    "profile": "工厂流水线工人，省吃俭用寄钱回家",
+    "monthly_income": 3500,
+    "event_day": 40,
+    "event": "工厂裁员，收入中断2周",
+    "data_range": {
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    "v3_extensions": {
+      "drift_class": "unexpected",
+      "vulnerability_class": "economic_precarity",
+      "crisis_windows": [
+        {
+          "day_range": [
+            40,
+            54
+          ],
+          "trigger": "裁员失业",
+          "expected_severity": "moderate"
+        }
+      ],
+      "social_context": {
+        "living_situation": "工厂宿舍（裁员后转租房）",
+        "support_network": "工友、老家父母",
+        "key_relationships": [
+          "父母（经济依赖方）",
+          "工友老张"
+        ]
+      },
+      "ethical_notes": "低收入群体失业后的消费数据极度敏感。系统不应在失业期给出'减少消费'的建议——用户已在极限节俭。关注是否出现断餐信号。"
+    }
+  },
+  "scores": {
+    "A": {
+      "label": "仅财务",
+      "apps": [
+        "dailyn"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 22,
+        "cross_domain": 4,
+        "actionability": 24
+      },
+      "total_score": 73,
+      "completion_tokens": 1819,
+      "latency_s": 37.68
+    },
+    "B": {
+      "label": "仅饮食",
+      "apps": [
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 4,
+        "actionability": 24
+      },
+      "total_score": 75,
+      "completion_tokens": 1957,
+      "latency_s": 40.06
+    },
+    "C": {
+      "label": "仅情绪",
+      "apps": [
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 18,
+        "cross_domain": 4,
+        "actionability": 20
+      },
+      "total_score": 65,
+      "completion_tokens": 1534,
+      "latency_s": 31.43
+    },
+    "D": {
+      "label": "仅阅读",
+      "apps": [
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 23,
+        "specificity": 18,
+        "cross_domain": 2,
+        "actionability": 20
+      },
+      "total_score": 63,
+      "completion_tokens": 1449,
+      "latency_s": 29.66
+    },
+    "E": {
+      "label": "财务×饮食",
+      "apps": [
+        "dailyn",
+        "mealens"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 23
+      },
+      "total_score": 92,
+      "completion_tokens": 1800,
+      "latency_s": 36.93
+    },
+    "F": {
+      "label": "财务×情绪",
+      "apps": [
+        "dailyn",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 23,
+        "cross_domain": 25,
+        "actionability": 22
+      },
+      "total_score": 94,
+      "completion_tokens": 1712,
+      "latency_s": 35.13
+    },
+    "G": {
+      "label": "饮食×情绪",
+      "apps": [
+        "mealens",
+        "ururu"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 23,
+        "actionability": 23
+      },
+      "total_score": 92,
+      "completion_tokens": 1716,
+      "latency_s": 35.17
+    },
+    "H": {
+      "label": "全景整合",
+      "apps": [
+        "dailyn",
+        "mealens",
+        "ururu",
+        "narrus"
+      ],
+      "scores": {
+        "relevance": 24,
+        "specificity": 22,
+        "cross_domain": 25,
+        "actionability": 14
+      },
+      "total_score": 85,
+      "completion_tokens": 2719,
+      "latency_s": 56.72
+    }
+  },
+  "iir": 1.2319,
+  "scoring_model": "Qwen3.5-35B-A3B-UD-Q8_K_XL.gguf",
+  "scoring_method": "LLM-as-Judge, 4 dimensions x 25 points",
+  "timestamp": "2026-03-09T13:43:20.242511"
+}
