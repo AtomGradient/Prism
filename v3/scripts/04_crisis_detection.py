@@ -81,8 +81,8 @@ def build_date_index(records):
 def detect_dailyn_anomalies(records):
     """
     财务危机信号:
-    - daily_total 相比 baseline（前14天均值）下降 >50%
-    - 连续日 daily_total < baseline 的 50%
+    - daily_total 连续5天低于 baseline（前14天均值）的 50%
+    - 每段连续异常期只产出一个信号（episode 模式）
     """
     signals = []
     if not records or len(records) < 7:
@@ -102,26 +102,29 @@ def detect_dailyn_anomalies(records):
     if baseline <= 0:
         return signals
 
+    STREAK_THRESHOLD = 5
     threshold = baseline * 0.5
     consecutive_low = 0
+    emitted = False  # 每段 episode 只触发一次
 
     for i, d in enumerate(dates):
         rec = date_idx.get(d, {})
         daily = rec.get("daily_total", 0)
 
-        if daily < threshold:
+        if i >= baseline_days and daily < threshold:
             consecutive_low += 1
         else:
             consecutive_low = 0
+            emitted = False
 
-        # 单日骤降
-        if i >= baseline_days and daily < threshold:
+        if consecutive_low >= STREAK_THRESHOLD and not emitted:
+            emitted = True
             signals.append({
                 "domain": "dailyn",
                 "type": "spending_drop",
                 "day_index": i + 1,
                 "date": d,
-                "detail": f"daily_total={daily:.0f} (baseline={baseline:.0f}, 下降{((baseline - daily) / baseline) * 100:.0f}%)",
+                "detail": f"连续{consecutive_low}天 daily_total<baseline*50% (baseline={baseline:.0f})",
                 "consecutive": consecutive_low,
             })
 
@@ -133,6 +136,7 @@ def detect_mealens_anomalies(records):
     饮食危机信号:
     - 连续3天 <2餐/日
     - 连续3天日均热量 <800kcal
+    每段 episode 只触发一次。
     """
     signals = []
     if not records:
@@ -143,6 +147,7 @@ def detect_mealens_anomalies(records):
 
     # 餐次不足检测
     low_meal_streak = 0
+    emitted = False
     for i, d in enumerate(dates):
         rec = date_idx.get(d, {})
         meal_count = len(rec.get("meals", []))
@@ -150,8 +155,10 @@ def detect_mealens_anomalies(records):
             low_meal_streak += 1
         else:
             low_meal_streak = 0
+            emitted = False
 
-        if low_meal_streak >= 3:
+        if low_meal_streak >= 3 and not emitted:
+            emitted = True
             signals.append({
                 "domain": "mealens",
                 "type": "missed_meals",
@@ -163,6 +170,7 @@ def detect_mealens_anomalies(records):
 
     # 热量不足检测
     low_cal_streak = 0
+    emitted = False
     for i, d in enumerate(dates):
         rec = date_idx.get(d, {})
         cal = rec.get("daily_calories", 0)
@@ -170,8 +178,10 @@ def detect_mealens_anomalies(records):
             low_cal_streak += 1
         else:
             low_cal_streak = 0
+            emitted = False
 
-        if low_cal_streak >= 3:
+        if low_cal_streak >= 3 and not emitted:
+            emitted = True
             signals.append({
                 "domain": "mealens",
                 "type": "low_calories",
@@ -190,6 +200,7 @@ def detect_ururu_anomalies(records):
     - mood_score <0.25 连续3天
     - stress_level >=9 连续3天
     - sleep_hours <4 连续3天
+    每段 episode 只触发一次。
     """
     signals = []
     if not records:
@@ -200,6 +211,7 @@ def detect_ururu_anomalies(records):
 
     # 情绪低落
     low_mood_streak = 0
+    emitted = False
     for i, d in enumerate(dates):
         rec = date_idx.get(d, {})
         mood = rec.get("mood_score", 0.5)
@@ -207,8 +219,10 @@ def detect_ururu_anomalies(records):
             low_mood_streak += 1
         else:
             low_mood_streak = 0
+            emitted = False
 
-        if low_mood_streak >= 3:
+        if low_mood_streak >= 3 and not emitted:
+            emitted = True
             signals.append({
                 "domain": "ururu",
                 "type": "low_mood",
@@ -220,6 +234,7 @@ def detect_ururu_anomalies(records):
 
     # 高压力
     high_stress_streak = 0
+    emitted = False
     for i, d in enumerate(dates):
         rec = date_idx.get(d, {})
         stress = rec.get("stress_level", 5)
@@ -227,8 +242,10 @@ def detect_ururu_anomalies(records):
             high_stress_streak += 1
         else:
             high_stress_streak = 0
+            emitted = False
 
-        if high_stress_streak >= 3:
+        if high_stress_streak >= 3 and not emitted:
+            emitted = True
             signals.append({
                 "domain": "ururu",
                 "type": "high_stress",
@@ -240,6 +257,7 @@ def detect_ururu_anomalies(records):
 
     # 睡眠不足
     low_sleep_streak = 0
+    emitted = False
     for i, d in enumerate(dates):
         rec = date_idx.get(d, {})
         sleep = rec.get("sleep_hours", 7)
@@ -247,8 +265,10 @@ def detect_ururu_anomalies(records):
             low_sleep_streak += 1
         else:
             low_sleep_streak = 0
+            emitted = False
 
-        if low_sleep_streak >= 3:
+        if low_sleep_streak >= 3 and not emitted:
+            emitted = True
             signals.append({
                 "domain": "ururu",
                 "type": "sleep_deprivation",
@@ -265,6 +285,7 @@ def detect_narrus_anomalies(records):
     """
     社交/阅读危机信号:
     - 之前有阅读习惯，但连续5天阅读归零
+    每段 episode 只触发一次。
     """
     signals = []
     if not records:
@@ -287,6 +308,7 @@ def detect_narrus_anomalies(records):
 
     # 检测阅读归零
     zero_reading_streak = 0
+    emitted = False
     for i, d in enumerate(dates):
         rec = date_idx.get(d, {})
         reading_min = rec.get("daily_reading_min", 0)
@@ -295,8 +317,10 @@ def detect_narrus_anomalies(records):
             zero_reading_streak += 1
         else:
             zero_reading_streak = 0
+            emitted = False
 
-        if zero_reading_streak >= 5:
+        if zero_reading_streak >= 5 and not emitted:
+            emitted = True
             signals.append({
                 "domain": "narrus",
                 "type": "reading_cessation",
@@ -338,14 +362,17 @@ def detect_data_absence(user_data):
 
         app_dates = set(r.get("date", "") for r in records if r.get("date"))
         missing_streak = 0
+        emitted = False
 
         for i, d in enumerate(sorted_all):
             if d not in app_dates:
                 missing_streak += 1
             else:
                 missing_streak = 0
+                emitted = False
 
-            if missing_streak >= 3:
+            if missing_streak >= 3 and not emitted:
+                emitted = True
                 signals.append({
                     "domain": app,
                     "type": "data_absence",
@@ -559,8 +586,23 @@ def run_detect(data_dir, output_dir):
 # ── 模式 2: 评估 (vs Ground Truth) ──────────────────────────────
 
 
+def _severity_to_level(severity):
+    """将 ground truth severity 映射为检测级别"""
+    mapping = {"mild": 1, "moderate": 2, "severe": 2, "critical": 3}
+    return mapping.get(severity, 2)
+
+
 def run_evaluate(data_dir, output_dir):
-    """将检测结果与 ground truth crisis_windows 对比"""
+    """将检测结果与 ground truth crisis_windows 对比
+
+    评估方法:
+    - 每个 GT 窗口是一个应被检测到的事件
+    - 一个检测事件落在 GT 窗口内 → TP（按该事件的检测级别计入）
+    - 一个检测事件不在任何 GT 窗口内 → FP
+    - 一个 GT 窗口未被任何检测事件覆盖 → FN（按 GT 的 expected_severity 决定级别）
+    - 同一 GT 窗口被多个检测事件命中只算一个 TP（取最高级别）
+    - 按 drift_class 分组额外输出
+    """
     print("=" * 65)
     print("  Prism v3 — 危机检测评估 (vs Ground Truth)")
     print("=" * 65)
@@ -570,68 +612,91 @@ def run_evaluate(data_dir, output_dir):
 
     # 按等级统计 TP / FP / FN
     level_stats = {lvl: {"tp": 0, "fp": 0, "fn": 0} for lvl in [1, 2, 3]}
+    # 按 drift_class 统计
+    drift_stats = defaultdict(lambda: {"tp": 0, "fp": 0, "fn": 0, "gt": 0, "detected": 0})
     user_reports = {}
 
-    print(f"\n{'用户':<14} {'GT窗口':>7} {'检出':>6} {'TP':>5} {'FP':>5} {'FN':>5}")
-    print("-" * 50)
+    print(f"\n{'用户':<14} {'漂移':>10} {'GT窗口':>7} {'检出':>6} {'TP':>5} {'FP':>5} {'FN':>5}")
+    print("-" * 60)
 
     for user_id in ALL_USERS:
         user_data = load_user_data(data_dir, user_id)
         meta = user_data.get("meta", {})
         gt_windows = meta.get("v3_extensions", {}).get("crisis_windows", [])
+        drift_class = meta.get("v3_extensions", {}).get("drift_class", "unknown")
 
         # 运行检测
         result = detect_user_crises(data_dir, user_id)
         detected = result["crisis_events"]
 
-        # 将 ground truth crisis windows 转为 day_index 集合
-        gt_day_sets = []
+        # 将 ground truth crisis windows 转为结构体
+        gt_entries = []
         for gw in gt_windows:
             dr = gw.get("day_range", [1, 1])
-            gt_days = set(range(dr[0], dr[1] + 1))
-            gt_day_sets.append({
-                "days": gt_days,
+            gt_entries.append({
+                "days": set(range(dr[0], dr[1] + 1)),
                 "trigger": gw.get("trigger", ""),
                 "severity": gw.get("expected_severity", ""),
+                "level": _severity_to_level(gw.get("expected_severity", "")),
+                "best_match_level": 0,  # 最高命中检测级别
                 "matched": False,
             })
 
-        # 对每个检测到的危机事件，检查是否落在 ground truth 窗口内
+        # 匹配检测事件 → GT 窗口（优先匹配未命中的 GT）
         tp = 0
         fp = 0
         for evt in detected:
             d = evt["day_index"]
-            matched = False
-            for gt in gt_day_sets:
-                if d in gt["days"]:
-                    matched = True
-                    gt["matched"] = True
-                    break
-            if matched:
-                tp += 1
-            else:
+            # 找到所有包含此 day 的 GT 窗口
+            candidate_gts = [gt for gt in gt_entries if d in gt["days"]]
+            if not candidate_gts:
                 fp += 1
+                level_stats[evt["level"]]["fp"] += 1
+                continue
 
-        # 未匹配的 ground truth 窗口算作 FN
-        fn = sum(1 for gt in gt_day_sets if not gt["matched"])
+            # 优先匹配尚未被命中的 GT 窗口
+            unmatched = [gt for gt in candidate_gts if not gt["matched"]]
+            if unmatched:
+                gt = unmatched[0]
+                gt["matched"] = True
+                gt["best_match_level"] = evt["level"]
+                tp += 1
+                level_stats[evt["level"]]["tp"] += 1
+            else:
+                # 所有候选 GT 已匹配，尝试升级最高级别
+                best_gt = max(candidate_gts, key=lambda g: g["best_match_level"])
+                if evt["level"] > best_gt["best_match_level"]:
+                    old_lvl = best_gt["best_match_level"]
+                    level_stats[old_lvl]["tp"] -= 1
+                    level_stats[evt["level"]]["tp"] += 1
+                    best_gt["best_match_level"] = evt["level"]
+                # 已匹配的 GT 被重复命中不算 FP，也不算新 TP
 
-        # 按最高检测级别分配到对应等级统计
-        max_level = max((e["level"] for e in detected), default=1)
-        level_stats[max_level]["tp"] += tp
-        level_stats[max_level]["fp"] += fp
-        level_stats[max_level]["fn"] += fn
+        # 未匹配的 GT 窗口 → FN
+        fn = 0
+        for gt in gt_entries:
+            if not gt["matched"]:
+                fn += 1
+                level_stats[gt["level"]]["fn"] += 1
+
+        drift_stats[drift_class]["tp"] += tp
+        drift_stats[drift_class]["fp"] += fp
+        drift_stats[drift_class]["fn"] += fn
+        drift_stats[drift_class]["gt"] += len(gt_windows)
+        drift_stats[drift_class]["detected"] += len(detected)
 
         user_reports[user_id] = {
+            "drift_class": drift_class,
             "gt_windows": len(gt_windows),
             "detected_events": len(detected),
             "tp": tp, "fp": fp, "fn": fn,
         }
 
-        print(f"{user_id:<14} {len(gt_windows):>7} {len(detected):>6} {tp:>5} {fp:>5} {fn:>5}")
+        print(f"{user_id:<14} {drift_class:>10} {len(gt_windows):>7} {len(detected):>6} {tp:>5} {fp:>5} {fn:>5}")
 
-    print("-" * 50)
+    print("-" * 60)
 
-    # 计算整体和按等级的 P/R/F1
+    # ── 按危机等级的 P/R/F1 ──
     print(f"\n{'等级':<12} {'Precision':>10} {'Recall':>10} {'F1':>10}")
     print("-" * 45)
 
@@ -641,49 +706,51 @@ def run_evaluate(data_dir, output_dir):
 
     for lvl in [1, 2, 3]:
         stats = level_stats[lvl]
-        tp = stats["tp"]
-        fp = stats["fp"]
-        fn = stats["fn"]
-        overall_tp += tp
-        overall_fp += fp
-        overall_fn += fn
+        t, f_p, f_n = stats["tp"], stats["fp"], stats["fn"]
+        overall_tp += t
+        overall_fp += f_p
+        overall_fn += f_n
 
-        precision = tp / max(1, tp + fp)
-        recall = tp / max(1, tp + fn)
+        precision = t / max(1, t + f_p)
+        recall = t / max(1, t + f_n)
         f1 = 2 * precision * recall / max(1e-10, precision + recall)
         print(f"L{lvl} {CRISIS_LEVELS[lvl]:<8} {precision:>10.3f} {recall:>10.3f} {f1:>10.3f}")
 
-    # 整体
     overall_p = overall_tp / max(1, overall_tp + overall_fp)
     overall_r = overall_tp / max(1, overall_tp + overall_fn)
     overall_f1 = 2 * overall_p * overall_r / max(1e-10, overall_p + overall_r)
     print("-" * 45)
     print(f"{'整体':<12} {overall_p:>10.3f} {overall_r:>10.3f} {overall_f1:>10.3f}")
 
-    # 保存评估报告
+    # ── 按 drift_class 的 P/R/F1 ──
+    print(f"\n{'漂移类型':<14} {'GT窗口':>7} {'检出':>6} {'Precision':>10} {'Recall':>10} {'F1':>10}")
+    print("-" * 60)
+
+    for dc in ["normal", "unexpected", "severe"]:
+        ds = drift_stats.get(dc, {"tp": 0, "fp": 0, "fn": 0, "gt": 0, "detected": 0})
+        t, f_p, f_n = ds["tp"], ds["fp"], ds["fn"]
+        p = t / max(1, t + f_p)
+        r = t / max(1, t + f_n)
+        f1 = 2 * p * r / max(1e-10, p + r)
+        print(f"{dc:<14} {ds['gt']:>7} {ds['detected']:>6} {p:>10.3f} {r:>10.3f} {f1:>10.3f}")
+
+    # ── 保存评估报告 ──
+    def _prf(tp, fp, fn):
+        p = tp / max(1, tp + fp)
+        r = tp / max(1, tp + fn)
+        f1 = 2 * p * r / max(1e-10, p + r)
+        return {"precision": round(p, 4), "recall": round(r, 4), "f1": round(f1, 4),
+                "tp": tp, "fp": fp, "fn": fn}
+
     eval_report = {
-        "overall": {
-            "precision": round(overall_p, 4),
-            "recall": round(overall_r, 4),
-            "f1": round(overall_f1, 4),
-            "tp": overall_tp,
-            "fp": overall_fp,
-            "fn": overall_fn,
-        },
+        "overall": _prf(overall_tp, overall_fp, overall_fn),
         "by_level": {
-            f"L{lvl}": {
-                "precision": round(level_stats[lvl]["tp"] / max(1, level_stats[lvl]["tp"] + level_stats[lvl]["fp"]), 4),
-                "recall": round(level_stats[lvl]["tp"] / max(1, level_stats[lvl]["tp"] + level_stats[lvl]["fn"]), 4),
-                "f1": round(
-                    2 * (level_stats[lvl]["tp"] / max(1, level_stats[lvl]["tp"] + level_stats[lvl]["fp"]))
-                    * (level_stats[lvl]["tp"] / max(1, level_stats[lvl]["tp"] + level_stats[lvl]["fn"]))
-                    / max(1e-10,
-                          (level_stats[lvl]["tp"] / max(1, level_stats[lvl]["tp"] + level_stats[lvl]["fp"]))
-                          + (level_stats[lvl]["tp"] / max(1, level_stats[lvl]["tp"] + level_stats[lvl]["fn"]))),
-                    4
-                ),
-            }
+            f"L{lvl}": _prf(level_stats[lvl]["tp"], level_stats[lvl]["fp"], level_stats[lvl]["fn"])
             for lvl in [1, 2, 3]
+        },
+        "by_drift_class": {
+            dc: _prf(drift_stats[dc]["tp"], drift_stats[dc]["fp"], drift_stats[dc]["fn"])
+            for dc in ["normal", "unexpected", "severe"]
         },
         "user_reports": user_reports,
     }

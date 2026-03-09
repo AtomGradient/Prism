@@ -2,12 +2,143 @@
   "user_id": "chenmo",
   "name": "陈默",
   "drift_class": "unexpected",
-  "signals": [],
-  "crisis_events": [],
-  "signal_count": 0,
+  "signals": [
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 24,
+      "date": "2026-01-24",
+      "detail": "连续5天 daily_total<baseline*50% (baseline=423)",
+      "consecutive": 5
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 37,
+      "date": "2026-02-06",
+      "detail": "连续5天 daily_total<baseline*50% (baseline=423)",
+      "consecutive": 5
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 65,
+      "date": "2026-03-06",
+      "detail": "连续5天 daily_total<baseline*50% (baseline=423)",
+      "consecutive": 5
+    },
+    {
+      "domain": "mealens",
+      "type": "missed_meals",
+      "day_index": 73,
+      "date": "2026-03-14",
+      "detail": "连续3天不足2餐 (当日0餐)",
+      "consecutive": 3
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 73,
+      "date": "2026-03-14",
+      "detail": "连续3天热量<800kcal (当日0kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "ururu",
+      "type": "low_mood",
+      "day_index": 73,
+      "date": "2026-03-14",
+      "detail": "连续3天 mood_score<0.25 (当日0.20)",
+      "consecutive": 3
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 89,
+      "date": "2026-03-30",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    }
+  ],
+  "crisis_events": [
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 24,
+      "date": "2026-01-24",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 24"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 37,
+      "date": "2026-02-06",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 37"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 65,
+      "date": "2026-03-06",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 65"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 73,
+      "date": "2026-03-14",
+      "domains": [
+        "mealens",
+        "ururu"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "missed_meals",
+        "low_calories",
+        "low_mood"
+      ],
+      "window": "day 71-73"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 89,
+      "date": "2026-03-30",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 89"
+    }
+  ],
+  "signal_count": 7,
   "crisis_count_by_level": {
-    "1": 0,
-    "2": 0,
+    "1": 4,
+    "2": 1,
     "3": 0
   }
 }

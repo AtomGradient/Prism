@@ -2,11 +2,35 @@
   "user_id": "lixiang",
   "name": "李想",
   "drift_class": "normal",
-  "signals": [],
-  "crisis_events": [],
-  "signal_count": 0,
+  "signals": [
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 69,
+      "date": "2026-03-10",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    }
+  ],
+  "crisis_events": [
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 69,
+      "date": "2026-03-10",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 69"
+    }
+  ],
+  "signal_count": 1,
   "crisis_count_by_level": {
-    "1": 0,
+    "1": 1,
     "2": 0,
     "3": 0
   }

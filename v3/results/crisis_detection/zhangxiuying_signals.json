@@ -2,12 +2,288 @@
   "user_id": "zhangxiuying",
   "name": "张秀英",
   "drift_class": "unexpected",
-  "signals": [],
-  "crisis_events": [],
-  "signal_count": 0,
+  "signals": [
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 35,
+      "date": "2026-02-04",
+      "detail": "连续5天 daily_total<baseline*50% (baseline=42)",
+      "consecutive": 5
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 33,
+      "date": "2026-02-02",
+      "detail": "连续3天热量<800kcal (当日572kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 42,
+      "date": "2026-02-11",
+      "detail": "连续3天热量<800kcal (当日395kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 51,
+      "date": "2026-02-20",
+      "detail": "连续3天热量<800kcal (当日427kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 55,
+      "date": "2026-02-24",
+      "detail": "连续3天热量<800kcal (当日401kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 62,
+      "date": "2026-03-03",
+      "detail": "连续3天热量<800kcal (当日776kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 88,
+      "date": "2026-03-29",
+      "detail": "连续3天热量<800kcal (当日798kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 25,
+      "date": "2026-01-25",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 31,
+      "date": "2026-01-31",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 50,
+      "date": "2026-02-19",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 72,
+      "date": "2026-03-13",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 87,
+      "date": "2026-03-28",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    }
+  ],
+  "crisis_events": [
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 25,
+      "date": "2026-01-25",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 25"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 31,
+      "date": "2026-01-31",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 31"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 33,
+      "date": "2026-02-02",
+      "domains": [
+        "mealens",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "reading_cessation",
+        "low_calories"
+      ],
+      "window": "day 31-33"
+    },
+    {
+      "level": 3,
+      "level_label": "危机",
+      "day_index": 35,
+      "date": "2026-02-04",
+      "domains": [
+        "dailyn",
+        "mealens",
+        "narrus"
+      ],
+      "num_domains": 3,
+      "signals": [
+        "reading_cessation",
+        "low_calories",
+        "spending_drop"
+      ],
+      "window": "day 31-35"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 42,
+      "date": "2026-02-11",
+      "domains": [
+        "mealens"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "low_calories"
+      ],
+      "window": "day 42"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 50,
+      "date": "2026-02-19",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 50"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 51,
+      "date": "2026-02-20",
+      "domains": [
+        "mealens",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "reading_cessation",
+        "low_calories"
+      ],
+      "window": "day 49-51"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 55,
+      "date": "2026-02-24",
+      "domains": [
+        "mealens"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "low_calories"
+      ],
+      "window": "day 55"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 62,
+      "date": "2026-03-03",
+      "domains": [
+        "mealens"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "low_calories"
+      ],
+      "window": "day 62"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 72,
+      "date": "2026-03-13",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 72"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 87,
+      "date": "2026-03-28",
+      "domains": [
+        "narrus"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "reading_cessation"
+      ],
+      "window": "day 87"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 88,
+      "date": "2026-03-29",
+      "domains": [
+        "mealens",
+        "narrus"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "reading_cessation",
+        "low_calories"
+      ],
+      "window": "day 86-88"
+    }
+  ],
+  "signal_count": 12,
   "crisis_count_by_level": {
-    "1": 0,
-    "2": 0,
-    "3": 0
+    "1": 8,
+    "2": 3,
+    "3": 1
   }
 }

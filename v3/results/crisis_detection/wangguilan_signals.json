@@ -2,12 +2,208 @@
   "user_id": "wangguilan",
   "name": "王桂兰",
   "drift_class": "unexpected",
-  "signals": [],
-  "crisis_events": [],
-  "signal_count": 0,
+  "signals": [
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 74,
+      "date": "2026-03-15",
+      "detail": "连续5天 daily_total<baseline*50% (baseline=31)",
+      "consecutive": 5
+    },
+    {
+      "domain": "dailyn",
+      "type": "spending_drop",
+      "day_index": 84,
+      "date": "2026-03-25",
+      "detail": "连续5天 daily_total<baseline*50% (baseline=31)",
+      "consecutive": 5
+    },
+    {
+      "domain": "mealens",
+      "type": "missed_meals",
+      "day_index": 58,
+      "date": "2026-02-27",
+      "detail": "连续3天不足2餐 (当日0餐)",
+      "consecutive": 3
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 58,
+      "date": "2026-02-27",
+      "detail": "连续3天热量<800kcal (当日0kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "mealens",
+      "type": "low_calories",
+      "day_index": 69,
+      "date": "2026-03-10",
+      "detail": "连续3天热量<800kcal (当日654kcal)",
+      "consecutive": 3
+    },
+    {
+      "domain": "ururu",
+      "type": "low_mood",
+      "day_index": 58,
+      "date": "2026-02-27",
+      "detail": "连续3天 mood_score<0.25 (当日0.21)",
+      "consecutive": 3
+    },
+    {
+      "domain": "ururu",
+      "type": "high_stress",
+      "day_index": 59,
+      "date": "2026-02-28",
+      "detail": "连续3天 stress>=9 (当日9)",
+      "consecutive": 3
+    },
+    {
+      "domain": "ururu",
+      "type": "sleep_deprivation",
+      "day_index": 58,
+      "date": "2026-02-27",
+      "detail": "连续3天 sleep<4h (当日3.5h)",
+      "consecutive": 3
+    },
+    {
+      "domain": "ururu",
+      "type": "sleep_deprivation",
+      "day_index": 63,
+      "date": "2026-03-04",
+      "detail": "连续3天 sleep<4h (当日3.9h)",
+      "consecutive": 3
+    },
+    {
+      "domain": "narrus",
+      "type": "reading_cessation",
+      "day_index": 60,
+      "date": "2026-03-01",
+      "detail": "连续5天阅读归零",
+      "consecutive": 5
+    }
+  ],
+  "crisis_events": [
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 58,
+      "date": "2026-02-27",
+      "domains": [
+        "mealens",
+        "ururu"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "missed_meals",
+        "low_calories",
+        "low_mood",
+        "sleep_deprivation"
+      ],
+      "window": "day 56-58"
+    },
+    {
+      "level": 2,
+      "level_label": "预警",
+      "day_index": 59,
+      "date": "2026-02-28",
+      "domains": [
+        "mealens",
+        "ururu"
+      ],
+      "num_domains": 2,
+      "signals": [
+        "missed_meals",
+        "low_calories",
+        "low_mood",
+        "sleep_deprivation",
+        "high_stress"
+      ],
+      "window": "day 57-59"
+    },
+    {
+      "level": 3,
+      "level_label": "危机",
+      "day_index": 60,
+      "date": "2026-03-01",
+      "domains": [
+        "mealens",
+        "narrus",
+        "ururu"
+      ],
+      "num_domains": 3,
+      "signals": [
+        "missed_meals",
+        "low_calories",
+        "low_mood",
+        "sleep_deprivation",
+        "high_stress",
+        "reading_cessation"
+      ],
+      "window": "day 56-60"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 63,
+      "date": "2026-03-04",
+      "domains": [
+        "ururu"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "sleep_deprivation"
+      ],
+      "window": "day 63"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 69,
+      "date": "2026-03-10",
+      "domains": [
+        "mealens"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "low_calories"
+      ],
+      "window": "day 69"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 74,
+      "date": "2026-03-15",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 74"
+    },
+    {
+      "level": 1,
+      "level_label": "关注",
+      "day_index": 84,
+      "date": "2026-03-25",
+      "domains": [
+        "dailyn"
+      ],
+      "num_domains": 1,
+      "signals": [
+        "spending_drop"
+      ],
+      "window": "day 84"
+    }
+  ],
+  "signal_count": 10,
   "crisis_count_by_level": {
-    "1": 0,
-    "2": 0,
-    "3": 0
+    "1": 4,
+    "2": 2,
+    "3": 1
   }
 }

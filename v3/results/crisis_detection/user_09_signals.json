@@ -6,346 +6,26 @@
     {
       "domain": "dailyn",
       "type": "spending_drop",
-      "day_index": 30,
-      "date": "2026-01-30",
-      "detail": "daily_total=159 (baseline=1142, 下降86%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 31,
-      "date": "2026-01-31",
-      "detail": "daily_total=212 (baseline=1142, 下降81%)",
-      "consecutive": 2
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 33,
-      "date": "2026-02-02",
-      "detail": "daily_total=151 (baseline=1142, 下降87%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 36,
-      "date": "2026-02-05",
-      "detail": "daily_total=111 (baseline=1142, 下降90%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 40,
-      "date": "2026-02-09",
-      "detail": "daily_total=124 (baseline=1142, 下降89%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 42,
-      "date": "2026-02-11",
-      "detail": "daily_total=146 (baseline=1142, 下降87%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 43,
-      "date": "2026-02-12",
-      "detail": "daily_total=165 (baseline=1142, 下降86%)",
-      "consecutive": 2
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 45,
-      "date": "2026-02-14",
-      "detail": "daily_total=171 (baseline=1142, 下降85%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 46,
-      "date": "2026-02-15",
-      "detail": "daily_total=253 (baseline=1142, 下降78%)",
-      "consecutive": 2
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 47,
-      "date": "2026-02-16",
-      "detail": "daily_total=59 (baseline=1142, 下降95%)",
-      "consecutive": 3
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 48,
-      "date": "2026-02-17",
-      "detail": "daily_total=101 (baseline=1142, 下降91%)",
-      "consecutive": 4
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 50,
-      "date": "2026-02-19",
-      "detail": "daily_total=129 (baseline=1142, 下降89%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 57,
-      "date": "2026-02-26",
-      "detail": "daily_total=370 (baseline=1142, 下降68%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 58,
-      "date": "2026-02-27",
-      "detail": "daily_total=450 (baseline=1142, 下降61%)",
-      "consecutive": 2
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 59,
-      "date": "2026-02-28",
-      "detail": "daily_total=338 (baseline=1142, 下降70%)",
-      "consecutive": 3
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 60,
-      "date": "2026-03-01",
-      "detail": "daily_total=293 (baseline=1142, 下降74%)",
-      "consecutive": 4
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
       "day_index": 61,
       "date": "2026-03-02",
-      "detail": "daily_total=34 (baseline=1142, 下降97%)",
+      "detail": "连续5天 daily_total<baseline*50% (baseline=1142)",
       "consecutive": 5
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 62,
-      "date": "2026-03-03",
-      "detail": "daily_total=49 (baseline=1142, 下降96%)",
-      "consecutive": 6
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 64,
-      "date": "2026-03-05",
-      "detail": "daily_total=76 (baseline=1142, 下降93%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 65,
-      "date": "2026-03-06",
-      "detail": "daily_total=75 (baseline=1142, 下降93%)",
-      "consecutive": 2
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 67,
-      "date": "2026-03-08",
-      "detail": "daily_total=35 (baseline=1142, 下降97%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 68,
-      "date": "2026-03-09",
-      "detail": "daily_total=116 (baseline=1142, 下降90%)",
-      "consecutive": 2
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 69,
-      "date": "2026-03-10",
-      "detail": "daily_total=56 (baseline=1142, 下降95%)",
-      "consecutive": 3
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 70,
-      "date": "2026-03-11",
-      "detail": "daily_total=51 (baseline=1142, 下降96%)",
-      "consecutive": 4
     },
     {
       "domain": "dailyn",
       "type": "spending_drop",
       "day_index": 71,
       "date": "2026-03-12",
-      "detail": "daily_total=42 (baseline=1142, 下降96%)",
+      "detail": "连续5天 daily_total<baseline*50% (baseline=1142)",
       "consecutive": 5
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 72,
-      "date": "2026-03-13",
-      "detail": "daily_total=77 (baseline=1142, 下降93%)",
-      "consecutive": 6
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 73,
-      "date": "2026-03-14",
-      "detail": "daily_total=69 (baseline=1142, 下降94%)",
-      "consecutive": 7
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 74,
-      "date": "2026-03-15",
-      "detail": "daily_total=78 (baseline=1142, 下降93%)",
-      "consecutive": 8
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 75,
-      "date": "2026-03-16",
-      "detail": "daily_total=48 (baseline=1142, 下降96%)",
-      "consecutive": 9
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 76,
-      "date": "2026-03-17",
-      "detail": "daily_total=355 (baseline=1142, 下降69%)",
-      "consecutive": 10
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 77,
-      "date": "2026-03-18",
-      "detail": "daily_total=81 (baseline=1142, 下降93%)",
-      "consecutive": 11
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 78,
-      "date": "2026-03-19",
-      "detail": "daily_total=47 (baseline=1142, 下降96%)",
-      "consecutive": 12
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 79,
-      "date": "2026-03-20",
-      "detail": "daily_total=171 (baseline=1142, 下降85%)",
-      "consecutive": 13
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 80,
-      "date": "2026-03-21",
-      "detail": "daily_total=165 (baseline=1142, 下降86%)",
-      "consecutive": 14
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 82,
-      "date": "2026-03-23",
-      "detail": "daily_total=177 (baseline=1142, 下降85%)",
-      "consecutive": 1
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 83,
-      "date": "2026-03-24",
-      "detail": "daily_total=113 (baseline=1142, 下降90%)",
-      "consecutive": 2
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 84,
-      "date": "2026-03-25",
-      "detail": "daily_total=228 (baseline=1142, 下降80%)",
-      "consecutive": 3
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 85,
-      "date": "2026-03-26",
-      "detail": "daily_total=109 (baseline=1142, 下降90%)",
-      "consecutive": 4
     },
     {
       "domain": "dailyn",
       "type": "spending_drop",
       "day_index": 86,
       "date": "2026-03-27",
-      "detail": "daily_total=165 (baseline=1142, 下降86%)",
+      "detail": "连续5天 daily_total<baseline*50% (baseline=1142)",
       "consecutive": 5
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 87,
-      "date": "2026-03-28",
-      "detail": "daily_total=164 (baseline=1142, 下降86%)",
-      "consecutive": 6
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 88,
-      "date": "2026-03-29",
-      "detail": "daily_total=131 (baseline=1142, 下降89%)",
-      "consecutive": 7
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 89,
-      "date": "2026-03-30",
-      "detail": "daily_total=135 (baseline=1142, 下降88%)",
-      "consecutive": 8
-    },
-    {
-      "domain": "dailyn",
-      "type": "spending_drop",
-      "day_index": 90,
-      "date": "2026-03-31",
-      "detail": "daily_total=101 (baseline=1142, 下降91%)",
-      "consecutive": 9
     },
     {
       "domain": "mealens",
@@ -362,14 +42,6 @@
       "date": "2026-02-17",
       "detail": "连续3天不足2餐 (当日1餐)",
       "consecutive": 3
-    },
-    {
-      "domain": "mealens",
-      "type": "missed_meals",
-      "day_index": 49,
-      "date": "2026-02-18",
-      "detail": "连续4天不足2餐 (当日1餐)",
-      "consecutive": 4
     },
     {
       "domain": "mealens",
@@ -398,110 +70,6 @@
     {
       "domain": "mealens",
       "type": "low_calories",
-      "day_index": 39,
-      "date": "2026-02-08",
-      "detail": "连续4天热量<800kcal (当日150kcal)",
-      "consecutive": 4
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 40,
-      "date": "2026-02-09",
-      "detail": "连续5天热量<800kcal (当日106kcal)",
-      "consecutive": 5
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 41,
-      "date": "2026-02-10",
-      "detail": "连续6天热量<800kcal (当日264kcal)",
-      "consecutive": 6
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 42,
-      "date": "2026-02-11",
-      "detail": "连续7天热量<800kcal (当日10kcal)",
-      "consecutive": 7
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 43,
-      "date": "2026-02-12",
-      "detail": "连续8天热量<800kcal (当日350kcal)",
-      "consecutive": 8
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 44,
-      "date": "2026-02-13",
-      "detail": "连续9天热量<800kcal (当日282kcal)",
-      "consecutive": 9
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 45,
-      "date": "2026-02-14",
-      "detail": "连续10天热量<800kcal (当日352kcal)",
-      "consecutive": 10
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 46,
-      "date": "2026-02-15",
-      "detail": "连续11天热量<800kcal (当日301kcal)",
-      "consecutive": 11
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 47,
-      "date": "2026-02-16",
-      "detail": "连续12天热量<800kcal (当日348kcal)",
-      "consecutive": 12
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 48,
-      "date": "2026-02-17",
-      "detail": "连续13天热量<800kcal (当日328kcal)",
-      "consecutive": 13
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 49,
-      "date": "2026-02-18",
-      "detail": "连续14天热量<800kcal (当日188kcal)",
-      "consecutive": 14
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 50,
-      "date": "2026-02-19",
-      "detail": "连续15天热量<800kcal (当日586kcal)",
-      "consecutive": 15
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 51,
-      "date": "2026-02-20",
-      "detail": "连续16天热量<800kcal (当日200kcal)",
-      "consecutive": 16
-    },
-    {
-      "domain": "mealens",
-      "type": "low_calories",
       "day_index": 64,
       "date": "2026-03-05",
       "detail": "连续3天热量<800kcal (当日400kcal)",
@@ -524,276 +92,12 @@
       "consecutive": 3
     },
     {
-      "domain": "mealens",
-      "type": "low_calories",
-      "day_index": 78,
-      "date": "2026-03-19",
-      "detail": "连续4天热量<800kcal (当日451kcal)",
-      "consecutive": 4
-    },
-    {
       "domain": "ururu",
       "type": "low_mood",
       "day_index": 39,
       "date": "2026-02-08",
       "detail": "连续3天 mood_score<0.25 (当日0.15)",
       "consecutive": 3
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 40,
-      "date": "2026-02-09",
-      "detail": "连续4天 mood_score<0.25 (当日0.18)",
-      "consecutive": 4
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 41,
-      "date": "2026-02-10",
-      "detail": "连续5天 mood_score<0.25 (当日0.18)",
-      "consecutive": 5
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 42,
-      "date": "2026-02-11",
-      "detail": "连续6天 mood_score<0.25 (当日0.21)",
-      "consecutive": 6
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 43,
-      "date": "2026-02-12",
-      "detail": "连续7天 mood_score<0.25 (当日0.13)",
-      "consecutive": 7
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 44,
-      "date": "2026-02-13",
-      "detail": "连续8天 mood_score<0.25 (当日0.12)",
-      "consecutive": 8
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 45,
-      "date": "2026-02-14",
-      "detail": "连续9天 mood_score<0.25 (当日0.14)",
-      "consecutive": 9
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 46,
-      "date": "2026-02-15",
-      "detail": "连续10天 mood_score<0.25 (当日0.15)",
-      "consecutive": 10
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 47,
-      "date": "2026-02-16",
-      "detail": "连续11天 mood_score<0.25 (当日0.11)",
-      "consecutive": 11
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 48,
-      "date": "2026-02-17",
-      "detail": "连续12天 mood_score<0.25 (当日0.22)",
-      "consecutive": 12
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 49,
-      "date": "2026-02-18",
-      "detail": "连续13天 mood_score<0.25 (当日0.13)",
-      "consecutive": 13
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 50,
-      "date": "2026-02-19",
-      "detail": "连续14天 mood_score<0.25 (当日0.12)",
-      "consecutive": 14
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 51,
-      "date": "2026-02-20",
-      "detail": "连续15天 mood_score<0.25 (当日0.08)",
-      "consecutive": 15
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 52,
-      "date": "2026-02-21",
-      "detail": "连续16天 mood_score<0.25 (当日0.16)",
-      "consecutive": 16
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 53,
-      "date": "2026-02-22",
-      "detail": "连续17天 mood_score<0.25 (当日0.13)",
-      "consecutive": 17
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 54,
-      "date": "2026-02-23",
-      "detail": "连续18天 mood_score<0.25 (当日0.11)",
-      "consecutive": 18
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 55,
-      "date": "2026-02-24",
-      "detail": "连续19天 mood_score<0.25 (当日0.10)",
-      "consecutive": 19
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 56,
-      "date": "2026-02-25",
-      "detail": "连续20天 mood_score<0.25 (当日0.12)",
-      "consecutive": 20
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 57,
-      "date": "2026-02-26",
-      "detail": "连续21天 mood_score<0.25 (当日0.11)",
-      "consecutive": 21
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 58,
-      "date": "2026-02-27",
-      "detail": "连续22天 mood_score<0.25 (当日0.11)",
-      "consecutive": 22
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 59,
-      "date": "2026-02-28",
-      "detail": "连续23天 mood_score<0.25 (当日0.11)",
-      "consecutive": 23
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 60,
-      "date": "2026-03-01",
-      "detail": "连续24天 mood_score<0.25 (当日0.11)",
-      "consecutive": 24
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 61,
-      "date": "2026-03-02",
-      "detail": "连续25天 mood_score<0.25 (当日0.17)",
-      "consecutive": 25
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 62,
-      "date": "2026-03-03",
-      "detail": "连续26天 mood_score<0.25 (当日0.15)",
-      "consecutive": 26
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 63,
-      "date": "2026-03-04",
-      "detail": "连续27天 mood_score<0.25 (当日0.16)",
-      "consecutive": 27
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 64,
-      "date": "2026-03-05",
-      "detail": "连续28天 mood_score<0.25 (当日0.19)",
-      "consecutive": 28
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 65,
-      "date": "2026-03-06",
-      "detail": "连续29天 mood_score<0.25 (当日0.17)",
-      "consecutive": 29
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 66,
-      "date": "2026-03-07",
-      "detail": "连续30天 mood_score<0.25 (当日0.21)",
-      "consecutive": 30
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 67,
-      "date": "2026-03-08",
-      "detail": "连续31天 mood_score<0.25 (当日0.17)",
-      "consecutive": 31
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 68,
-      "date": "2026-03-09",
-      "detail": "连续32天 mood_score<0.25 (当日0.21)",
-      "consecutive": 32
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 69,
-      "date": "2026-03-10",
-      "detail": "连续33天 mood_score<0.25 (当日0.21)",
-      "consecutive": 33
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 70,
-      "date": "2026-03-11",
-      "detail": "连续34天 mood_score<0.25 (当日0.22)",
-      "consecutive": 34
-    },
-    {
-      "domain": "ururu",
-      "type": "low_mood",
-      "day_index": 71,
-      "date": "2026-03-12",
-      "detail": "连续35天 mood_score<0.25 (当日0.22)",
-      "consecutive": 35
     },
     {
       "domain": "ururu",
@@ -814,146 +118,10 @@
     {
       "domain": "ururu",
       "type": "high_stress",
-      "day_index": 39,
-      "date": "2026-02-08",
-      "detail": "连续4天 stress>=9 (当日9)",
-      "consecutive": 4
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 40,
-      "date": "2026-02-09",
-      "detail": "连续5天 stress>=9 (当日10)",
-      "consecutive": 5
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 41,
-      "date": "2026-02-10",
-      "detail": "连续6天 stress>=9 (当日10)",
-      "consecutive": 6
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 42,
-      "date": "2026-02-11",
-      "detail": "连续7天 stress>=9 (当日10)",
-      "consecutive": 7
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 43,
-      "date": "2026-02-12",
-      "detail": "连续8天 stress>=9 (当日10)",
-      "consecutive": 8
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 44,
-      "date": "2026-02-13",
-      "detail": "连续9天 stress>=9 (当日10)",
-      "consecutive": 9
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 45,
-      "date": "2026-02-14",
-      "detail": "连续10天 stress>=9 (当日10)",
-      "consecutive": 10
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 46,
-      "date": "2026-02-15",
-      "detail": "连续11天 stress>=9 (当日10)",
-      "consecutive": 11
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 47,
-      "date": "2026-02-16",
-      "detail": "连续12天 stress>=9 (当日10)",
-      "consecutive": 12
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 48,
-      "date": "2026-02-17",
-      "detail": "连续13天 stress>=9 (当日10)",
-      "consecutive": 13
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 49,
-      "date": "2026-02-18",
-      "detail": "连续14天 stress>=9 (当日10)",
-      "consecutive": 14
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 50,
-      "date": "2026-02-19",
-      "detail": "连续15天 stress>=9 (当日10)",
-      "consecutive": 15
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 51,
-      "date": "2026-02-20",
-      "detail": "连续16天 stress>=9 (当日10)",
-      "consecutive": 16
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 52,
-      "date": "2026-02-21",
-      "detail": "连续17天 stress>=9 (当日9)",
-      "consecutive": 17
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
       "day_index": 59,
       "date": "2026-02-28",
       "detail": "连续3天 stress>=9 (当日9)",
       "consecutive": 3
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 60,
-      "date": "2026-03-01",
-      "detail": "连续4天 stress>=9 (当日10)",
-      "consecutive": 4
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 61,
-      "date": "2026-03-02",
-      "detail": "连续5天 stress>=9 (当日9)",
-      "consecutive": 5
-    },
-    {
-      "domain": "ururu",
-      "type": "high_stress",
-      "day_index": 62,
-      "date": "2026-03-03",
-      "detail": "连续6天 stress>=9 (当日10)",
-      "consecutive": 6
     },
     {
       "domain": "ururu",
@@ -978,158 +146,20 @@
       "date": "2026-02-10",
       "detail": "连续3天 sleep<4h (当日3.2h)",
       "consecutive": 3
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 42,
-      "date": "2026-02-11",
-      "detail": "连续4天 sleep<4h (当日3.3h)",
-      "consecutive": 4
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 43,
-      "date": "2026-02-12",
-      "detail": "连续5天 sleep<4h (当日3.3h)",
-      "consecutive": 5
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 44,
-      "date": "2026-02-13",
-      "detail": "连续6天 sleep<4h (当日2.7h)",
-      "consecutive": 6
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 45,
-      "date": "2026-02-14",
-      "detail": "连续7天 sleep<4h (当日3.2h)",
-      "consecutive": 7
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 46,
-      "date": "2026-02-15",
-      "detail": "连续8天 sleep<4h (当日3.0h)",
-      "consecutive": 8
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 47,
-      "date": "2026-02-16",
-      "detail": "连续9天 sleep<4h (当日2.2h)",
-      "consecutive": 9
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 48,
-      "date": "2026-02-17",
-      "detail": "连续10天 sleep<4h (当日2.0h)",
-      "consecutive": 10
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 49,
-      "date": "2026-02-18",
-      "detail": "连续11天 sleep<4h (当日2.6h)",
-      "consecutive": 11
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 50,
-      "date": "2026-02-19",
-      "detail": "连续12天 sleep<4h (当日3.0h)",
-      "consecutive": 12
-    },
-    {
-      "domain": "ururu",
-      "type": "sleep_deprivation",
-      "day_index": 51,
-      "date": "2026-02-20",
-      "detail": "连续13天 sleep<4h (当日1.0h)",
-      "consecutive": 13
     }
   ],
   "crisis_events": [
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 30,
-      "date": "2026-01-30",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 30"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 31,
-      "date": "2026-01-31",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 31"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 33,
-      "date": "2026-02-02",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 33"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 36,
-      "date": "2026-02-05",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 36"
-    },
     {
       "level": 2,
       "level_label": "预警",
       "day_index": 38,
       "date": "2026-02-07",
       "domains": [
-        "dailyn",
         "mealens",
         "ururu"
       ],
-      "num_domains": 3,
+      "num_domains": 2,
       "signals": [
-        "spending_drop",
         "low_calories",
         "high_stress"
       ],
@@ -1148,591 +178,65 @@
       "signals": [
         "low_calories",
         "high_stress",
-        "low_calories",
-        "low_mood",
-        "high_stress"
+        "low_mood"
       ],
       "window": "day 37-39"
     },
     {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 40,
-      "date": "2026-02-09",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "low_calories",
-        "high_stress",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress"
-      ],
-      "window": "day 38-40"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
+      "level": 1,
+      "level_label": "关注",
       "day_index": 41,
       "date": "2026-02-10",
       "domains": [
-        "dailyn",
-        "mealens",
         "ururu"
       ],
-      "num_domains": 3,
+      "num_domains": 1,
       "signals": [
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "low_calories",
-        "low_mood",
-        "high_stress",
         "sleep_deprivation"
       ],
-      "window": "day 39-41"
+      "window": "day 41"
     },
     {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 42,
-      "date": "2026-02-11",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
-      ],
-      "window": "day 40-42"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 43,
-      "date": "2026-02-12",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
-      ],
-      "window": "day 41-43"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
+      "level": 1,
+      "level_label": "关注",
       "day_index": 44,
       "date": "2026-02-13",
       "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
+        "mealens"
       ],
-      "num_domains": 3,
+      "num_domains": 1,
       "signals": [
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
+        "missed_meals"
       ],
-      "window": "day 42-44"
+      "window": "day 44"
     },
     {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 45,
-      "date": "2026-02-14",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
-      ],
-      "window": "day 43-45"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 46,
-      "date": "2026-02-15",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
-      ],
-      "window": "day 44-46"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 47,
-      "date": "2026-02-16",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
-      ],
-      "window": "day 43-47"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
+      "level": 1,
+      "level_label": "关注",
       "day_index": 48,
       "date": "2026-02-17",
       "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
+        "mealens"
       ],
-      "num_domains": 3,
+      "num_domains": 1,
       "signals": [
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
+        "missed_meals"
       ],
-      "window": "day 44-48"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 49,
-      "date": "2026-02-18",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
-      ],
-      "window": "day 45-49"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 50,
-      "date": "2026-02-19",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
-      ],
-      "window": "day 46-50"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 51,
-      "date": "2026-02-20",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation"
-      ],
-      "window": "day 47-51"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 52,
-      "date": "2026-02-21",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "missed_meals",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "low_mood",
-        "high_stress"
-      ],
-      "window": "day 48-52"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 53,
-      "date": "2026-02-22",
-      "domains": [
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "low_calories",
-        "low_mood",
-        "high_stress",
-        "sleep_deprivation",
-        "low_mood",
-        "high_stress",
-        "low_mood"
-      ],
-      "window": "day 51-53"
+      "window": "day 48"
     },
     {
       "level": 1,
       "level_label": "关注",
-      "day_index": 54,
-      "date": "2026-02-23",
-      "domains": [
-        "ururu"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "low_mood"
-      ],
-      "window": "day 54"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 55,
-      "date": "2026-02-24",
-      "domains": [
-        "ururu"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "low_mood"
-      ],
-      "window": "day 55"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 56,
-      "date": "2026-02-25",
-      "domains": [
-        "ururu"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "low_mood"
-      ],
-      "window": "day 56"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 57,
-      "date": "2026-02-26",
-      "domains": [
-        "dailyn",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "low_mood",
-        "low_mood",
-        "spending_drop",
-        "low_mood"
-      ],
-      "window": "day 55-57"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 58,
-      "date": "2026-02-27",
-      "domains": [
-        "dailyn",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "low_mood",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood"
-      ],
-      "window": "day 56-58"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
       "day_index": 59,
       "date": "2026-02-28",
       "domains": [
-        "dailyn",
         "ururu"
       ],
-      "num_domains": 2,
+      "num_domains": 1,
       "signals": [
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
         "high_stress"
       ],
-      "window": "day 57-59"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 60,
-      "date": "2026-03-01",
-      "domains": [
-        "dailyn",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_mood",
-        "high_stress"
-      ],
-      "window": "day 58-60"
+      "window": "day 59"
     },
     {
       "level": 2,
@@ -1745,221 +249,38 @@
       ],
       "num_domains": 2,
       "signals": [
-        "spending_drop",
-        "low_mood",
         "high_stress",
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_mood",
-        "high_stress"
+        "spending_drop"
       ],
       "window": "day 59-61"
     },
     {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 62,
-      "date": "2026-03-03",
-      "domains": [
-        "dailyn",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_mood",
-        "high_stress"
-      ],
-      "window": "day 60-62"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 63,
-      "date": "2026-03-04",
-      "domains": [
-        "dailyn",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "low_mood"
-      ],
-      "window": "day 61-63"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
+      "level": 1,
+      "level_label": "关注",
       "day_index": 64,
       "date": "2026-03-05",
       "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
+        "mealens"
       ],
-      "num_domains": 3,
+      "num_domains": 1,
       "signals": [
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "low_mood",
-        "spending_drop",
-        "low_calories",
-        "low_mood"
+        "low_calories"
       ],
-      "window": "day 60-64"
+      "window": "day 64"
     },
     {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 65,
-      "date": "2026-03-06",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "low_mood",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "spending_drop",
-        "low_mood"
-      ],
-      "window": "day 61-65"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 66,
-      "date": "2026-03-07",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "low_mood",
-        "spending_drop",
-        "low_calories",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
-        "low_mood"
-      ],
-      "window": "day 62-66"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 67,
-      "date": "2026-03-08",
-      "domains": [
-        "dailyn",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "low_mood",
-        "spending_drop",
-        "low_mood"
-      ],
-      "window": "day 65-67"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 68,
-      "date": "2026-03-09",
-      "domains": [
-        "dailyn",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "low_mood",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood"
-      ],
-      "window": "day 66-68"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
+      "level": 1,
+      "level_label": "关注",
       "day_index": 69,
       "date": "2026-03-10",
       "domains": [
-        "dailyn",
         "ururu"
       ],
-      "num_domains": 2,
+      "num_domains": 1,
       "signals": [
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
         "high_stress"
       ],
-      "window": "day 67-69"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 70,
-      "date": "2026-03-11",
-      "domains": [
-        "dailyn",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
-        "high_stress",
-        "spending_drop",
-        "low_mood"
-      ],
-      "window": "day 68-70"
+      "window": "day 69"
     },
     {
       "level": 2,
@@ -1972,34 +293,10 @@
       ],
       "num_domains": 2,
       "signals": [
-        "spending_drop",
-        "low_mood",
         "high_stress",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood"
-      ],
-      "window": "day 69-71"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 72,
-      "date": "2026-03-13",
-      "domains": [
-        "dailyn",
-        "ururu"
-      ],
-      "num_domains": 2,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
         "spending_drop"
       ],
-      "window": "day 70-72"
+      "window": "day 69-71"
     },
     {
       "level": 3,
@@ -2013,45 +310,13 @@
       ],
       "num_domains": 3,
       "signals": [
-        "spending_drop",
-        "low_mood",
         "high_stress",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
         "spending_drop",
         "missed_meals",
         "low_calories",
         "high_stress"
       ],
       "window": "day 69-73"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 74,
-      "date": "2026-03-15",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "high_stress",
-        "spending_drop"
-      ],
-      "window": "day 70-74"
     },
     {
       "level": 3,
@@ -2066,189 +331,42 @@
       "num_domains": 3,
       "signals": [
         "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "spending_drop",
         "missed_meals",
         "low_calories",
         "high_stress",
-        "spending_drop",
-        "spending_drop",
         "low_mood"
       ],
       "window": "day 71-75"
     },
     {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 76,
-      "date": "2026-03-17",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "high_stress",
-        "spending_drop",
-        "spending_drop",
-        "low_mood",
-        "spending_drop"
-      ],
-      "window": "day 72-76"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
+      "level": 2,
+      "level_label": "预警",
       "day_index": 77,
       "date": "2026-03-18",
       "domains": [
-        "dailyn",
         "mealens",
         "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "high_stress",
-        "spending_drop",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "spending_drop",
-        "low_calories"
-      ],
-      "window": "day 73-77"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 78,
-      "date": "2026-03-19",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "spending_drop",
-        "low_calories",
-        "spending_drop",
-        "missed_meals",
-        "low_calories"
-      ],
-      "window": "day 74-78"
-    },
-    {
-      "level": 3,
-      "level_label": "危机",
-      "day_index": 79,
-      "date": "2026-03-20",
-      "domains": [
-        "dailyn",
-        "mealens",
-        "ururu"
-      ],
-      "num_domains": 3,
-      "signals": [
-        "spending_drop",
-        "low_mood",
-        "spending_drop",
-        "spending_drop",
-        "low_calories",
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "spending_drop"
-      ],
-      "window": "day 75-79"
-    },
-    {
-      "level": 2,
-      "level_label": "预警",
-      "day_index": 80,
-      "date": "2026-03-21",
-      "domains": [
-        "dailyn",
-        "mealens"
       ],
       "num_domains": 2,
       "signals": [
-        "spending_drop",
-        "missed_meals",
-        "low_calories",
-        "spending_drop",
-        "spending_drop"
+        "low_mood",
+        "low_calories"
       ],
-      "window": "day 78-80"
+      "window": "day 75-77"
     },
     {
       "level": 1,
       "level_label": "关注",
-      "day_index": 82,
-      "date": "2026-03-23",
+      "day_index": 78,
+      "date": "2026-03-19",
       "domains": [
-        "dailyn"
+        "mealens"
       ],
       "num_domains": 1,
       "signals": [
-        "spending_drop"
+        "missed_meals"
       ],
-      "window": "day 82"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 83,
-      "date": "2026-03-24",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 83"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 84,
-      "date": "2026-03-25",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 84"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 85,
-      "date": "2026-03-26",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 85"
+      "window": "day 78"
     },
     {
       "level": 1,
@@ -2263,68 +381,12 @@
         "spending_drop"
       ],
       "window": "day 86"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 87,
-      "date": "2026-03-28",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 87"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 88,
-      "date": "2026-03-29",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 88"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 89,
-      "date": "2026-03-30",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 89"
-    },
-    {
-      "level": 1,
-      "level_label": "关注",
-      "day_index": 90,
-      "date": "2026-03-31",
-      "domains": [
-        "dailyn"
-      ],
-      "num_domains": 1,
-      "signals": [
-        "spending_drop"
-      ],
-      "window": "day 90"
     }
   ],
-  "signal_count": 132,
+  "signal_count": 18,
   "crisis_count_by_level": {
-    "1": 16,
-    "2": 24,
-    "3": 16
+    "1": 8,
+    "2": 5,
+    "3": 2
   }
 }

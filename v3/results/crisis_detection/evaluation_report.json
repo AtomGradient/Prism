@@ -1,127 +1,176 @@
 {
   "overall": {
-    "precision": 0.2673,
-    "recall": 0.9608,
-    "f1": 0.4182,
-    "tp": 147,
-    "fp": 403,
-    "fn": 6
+    "precision": 0.2698,
+    "recall": 0.8947,
+    "f1": 0.4146,
+    "tp": 17,
+    "fp": 46,
+    "fn": 2
   },
   "by_level": {
     "L1": {
-      "precision": 0.0,
-      "recall": 0.0,
-      "f1": 0.0
+      "precision": 0.0952,
+      "recall": 0.8,
+      "f1": 0.1702,
+      "tp": 4,
+      "fp": 38,
+      "fn": 1
     },
     "L2": {
-      "precision": 0.166,
+      "precision": 0.5714,
       "recall": 1.0,
-      "f1": 0.2847
+      "f1": 0.7273,
+      "tp": 8,
+      "fp": 6,
+      "fn": 0
     },
     "L3": {
-      "precision": 0.4038,
+      "precision": 0.7143,
+      "recall": 0.8333,
+      "f1": 0.7692,
+      "tp": 5,
+      "fp": 2,
+      "fn": 1
+    }
+  },
+  "by_drift_class": {
+    "normal": {
+      "precision": 0.1111,
+      "recall": 0.6667,
+      "f1": 0.1905,
+      "tp": 2,
+      "fp": 16,
+      "fn": 1
+    },
+    "unexpected": {
+      "precision": 0.2857,
       "recall": 1.0,
-      "f1": 0.5753
+      "f1": 0.4444,
+      "tp": 8,
+      "fp": 20,
+      "fn": 0
+    },
+    "severe": {
+      "precision": 0.4118,
+      "recall": 0.875,
+      "f1": 0.56,
+      "tp": 7,
+      "fp": 10,
+      "fn": 1
     }
   },
   "user_reports": {
     "user_01": {
+      "drift_class": "unexpected",
       "gt_windows": 1,
-      "detected_events": 66,
-      "tp": 15,
-      "fp": 51,
-      "fn": 0
-    },
-    "user_02": {
-      "gt_windows": 2,
-      "detected_events": 34,
-      "tp": 26,
+      "detected_events": 11,
+      "tp": 1,
       "fp": 8,
       "fn": 0
     },
+    "user_02": {
+      "drift_class": "severe",
+      "gt_windows": 2,
+      "detected_events": 7,
+      "tp": 2,
+      "fp": 1,
+      "fn": 0
+    },
     "user_03": {
+      "drift_class": "normal",
       "gt_windows": 0,
-      "detected_events": 44,
+      "detected_events": 1,
       "tp": 0,
-      "fp": 44,
+      "fp": 1,
       "fn": 0
     },
     "user_04": {
+      "drift_class": "normal",
       "gt_windows": 1,
-      "detected_events": 50,
-      "tp": 11,
-      "fp": 39,
+      "detected_events": 7,
+      "tp": 1,
+      "fp": 3,
       "fn": 0
     },
     "user_05": {
+      "drift_class": "normal",
       "gt_windows": 0,
-      "detected_events": 57,
+      "detected_events": 4,
       "tp": 0,
-      "fp": 57,
+      "fp": 4,
       "fn": 0
     },
     "user_06": {
+      "drift_class": "normal",
       "gt_windows": 0,
-      "detected_events": 53,
+      "detected_events": 5,
       "tp": 0,
-      "fp": 53,
+      "fp": 5,
       "fn": 0
     },
     "user_07": {
+      "drift_class": "unexpected",
       "gt_windows": 2,
-      "detected_events": 59,
-      "tp": 22,
-      "fp": 37,
+      "detected_events": 9,
+      "tp": 2,
+      "fp": 2,
       "fn": 0
     },
     "user_08": {
+      "drift_class": "severe",
       "gt_windows": 3,
-      "detected_events": 71,
-      "tp": 33,
-      "fp": 38,
-      "fn": 0
+      "detected_events": 7,
+      "tp": 2,
+      "fp": 3,
+      "fn": 1
     },
     "user_09": {
+      "drift_class": "severe",
       "gt_windows": 3,
-      "detected_events": 56,
-      "tp": 33,
-      "fp": 23,
+      "detected_events": 15,
+      "tp": 3,
+      "fp": 6,
       "fn": 0
     },
     "user_10": {
+      "drift_class": "normal",
       "gt_windows": 1,
-      "detected_events": 60,
-      "tp": 7,
-      "fp": 53,
+      "detected_events": 5,
+      "tp": 1,
+      "fp": 2,
       "fn": 0
     },
     "lixiang": {
+      "drift_class": "normal",
       "gt_windows": 1,
-      "detected_events": 0,
+      "detected_events": 1,
       "tp": 0,
-      "fp": 0,
+      "fp": 1,
       "fn": 1
     },
     "wangguilan": {
+      "drift_class": "unexpected",
       "gt_windows": 2,
-      "detected_events": 0,
-      "tp": 0,
-      "fp": 0,
-      "fn": 2
+      "detected_events": 7,
+      "tp": 2,
+      "fp": 1,
+      "fn": 0
     },
     "zhangxiuying": {
+      "drift_class": "unexpected",
       "gt_windows": 2,
-      "detected_events": 0,
-      "tp": 0,
-      "fp": 0,
-      "fn": 2
+      "detected_events": 12,
+      "tp": 2,
+      "fp": 5,
+      "fn": 0
     },
     "chenmo": {
+      "drift_class": "unexpected",
       "gt_windows": 1,
-      "detected_events": 0,
-      "tp": 0,
-      "fp": 0,
-      "fn": 1
+      "detected_events": 5,
+      "tp": 1,
+      "fp": 4,
+      "fn": 0
     }
   }
 }
